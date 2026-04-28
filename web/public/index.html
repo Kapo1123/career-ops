@@ -1,0 +1,720 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Career-Ops — Kapo Kwok</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" rel="stylesheet">
+<style>
+  :root {
+    --co-cyan: #0dcaf0;
+    --co-purple: #6f42c1;
+    --co-green: #198754;
+  }
+  body { font-size: 0.875rem; }
+  .navbar-brand { font-weight: 700; letter-spacing: 0.05em; background: linear-gradient(90deg, var(--co-cyan), var(--co-purple)); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+  .stat-card { border-left: 3px solid var(--co-cyan); }
+  .job-card { transition: border-color 0.15s; }
+  .job-card:hover { border-color: var(--co-cyan) !important; }
+  .score-badge { font-weight: 700; font-size: 1rem; }
+  .badge-new { background: #198754; }
+  .badge-recent { background: #ffc107; color:#000; }
+  .badge-old { background: #dc3545; }
+  .report-content { font-family: monospace; font-size: 0.8rem; white-space: pre-wrap; max-height: 70vh; overflow-y: auto; }
+  .story-field-label { color: var(--co-cyan); font-weight: 600; }
+  .tag-theme { background: rgba(13,202,240,0.15); color: var(--co-cyan); border: 1px solid rgba(13,202,240,0.3); border-radius: 4px; padding: 1px 6px; font-size: 0.75rem; }
+  #toast-container { position: fixed; bottom: 1rem; right: 1rem; z-index: 9999; }
+  .nav-pills .nav-link.active { background: var(--co-purple); }
+  .pagination { --bs-pagination-active-bg: var(--co-purple); --bs-pagination-active-border-color: var(--co-purple); }
+  .score-5 { color: #198754; } .score-4 { color: #0dcaf0; } .score-3 { color: #ffc107; } .score-2 { color: #fd7e14; } .score-1 { color: #dc3545; }
+  #scan-log { font-family: monospace; font-size: 0.78rem; white-space: pre-wrap; background: #111; border-radius: 6px; padding: 1rem; min-height: 80px; max-height: 300px; overflow-y: auto; color: #ccc; }
+  /* Status select — inline in table */
+  .status-select {
+    background: transparent;
+    border: 1px solid transparent;
+    color: inherit;
+    font-size: 0.78rem;
+    padding: 2px 6px;
+    border-radius: 4px;
+    cursor: pointer;
+    min-width: 110px;
+  }
+  .status-select:hover { border-color: var(--bs-border-color); background: var(--bs-dark); }
+  .status-select:focus { outline: none; box-shadow: none; border-color: var(--co-cyan); }
+  .status-select option { background: #212529; }
+  /* Status colour helpers */
+  .st-Evaluated  { color: #0dcaf0; }
+  .st-Applied    { color: #6f42c1; }
+  .st-Responded  { color: #0d6efd; }
+  .st-Interview  { color: #ffc107; }
+  .st-Offer      { color: #198754; }
+  .st-Rejected   { color: #dc3545; }
+  .st-SKIP       { color: #6c757d; }
+  .st-Discarded  { color: #6c757d; }
+  /* Applied button flash animation */
+  @keyframes applied-flash { 0%,100%{ opacity:1 } 50%{ opacity:.5 } }
+  .applied-flash { animation: applied-flash .4s ease; }
+  /* App filter tabs */
+  .app-tab { cursor: pointer; font-size: 0.78rem; padding: 3px 10px; border-radius: 12px; border: 1px solid var(--bs-border-color); color: var(--bs-secondary); background: transparent; }
+  .app-tab.active { background: var(--co-purple); border-color: var(--co-purple); color: #fff; }
+  /* Done pipeline card */
+  .job-card.is-done { opacity: .45; }
+</style>
+</head>
+<body>
+
+<!-- Navbar -->
+<nav class="navbar navbar-dark bg-dark border-bottom px-3">
+  <span class="navbar-brand">⚡ CAREER-OPS</span>
+  <div class="d-flex gap-2 align-items-center">
+    <span id="stat-scanned" class="text-secondary small"></span>
+    <button class="btn btn-sm btn-outline-info" onclick="triggerScan(false)"><i class="bi bi-search"></i> Scan</button>
+    <button class="btn btn-sm btn-outline-secondary" onclick="triggerScan(true)">Dry Run</button>
+  </div>
+</nav>
+
+<!-- Stats bar -->
+<div class="container-fluid py-2 border-bottom bg-dark">
+  <div class="row g-2" id="stats-row">
+    <div class="col-auto"><div class="card stat-card bg-dark border-secondary px-3 py-1"><small class="text-secondary">Scanned</small><div id="st-scanned" class="fw-bold">—</div></div></div>
+    <div class="col-auto"><div class="card stat-card bg-dark border-secondary px-3 py-1"><small class="text-secondary">Applications</small><div id="st-apps" class="fw-bold">—</div></div></div>
+    <div class="col-auto"><div class="card stat-card bg-dark border-secondary px-3 py-1"><small class="text-secondary">Reports</small><div id="st-reports" class="fw-bold">—</div></div></div>
+    <div class="col-auto"><div class="card stat-card bg-dark border-secondary px-3 py-1"><small class="text-secondary">Last Scan</small><div id="st-lastscan" class="fw-bold">—</div></div></div>
+    <div class="col-auto ms-auto d-flex gap-1 flex-wrap" id="status-pills"></div>
+  </div>
+</div>
+
+<!-- Main tabs -->
+<div class="container-fluid mt-2">
+  <ul class="nav nav-pills mb-3 gap-1" id="main-tabs">
+    <li class="nav-item"><a class="nav-link active" href="#" onclick="showTab('pipeline')"><i class="bi bi-inbox"></i> Pipeline</a></li>
+    <li class="nav-item"><a class="nav-link" href="#" onclick="showTab('scanner')"><i class="bi bi-radar"></i> Scan History</a></li>
+    <li class="nav-item"><a class="nav-link" href="#" onclick="showTab('applications')"><i class="bi bi-kanban"></i> Applications</a></li>
+    <li class="nav-item"><a class="nav-link" href="#" onclick="showTab('reports')"><i class="bi bi-file-earmark-text"></i> Reports</a></li>
+    <li class="nav-item"><a class="nav-link" href="#" onclick="showTab('stories')"><i class="bi bi-journal-bookmark"></i> Story Bank</a></li>
+  </ul>
+
+  <!-- ── Pipeline tab ─────────────────────────────────────────────── -->
+  <div id="tab-pipeline">
+    <div class="row g-2 mb-3 align-items-center">
+      <div class="col-md-4">
+        <input class="form-control form-control-sm" id="pipe-q" placeholder="Search company or title…" oninput="renderPipeline()">
+      </div>
+      <div class="col-md-2">
+        <select class="form-select form-select-sm" id="pipe-score" onchange="renderPipeline()">
+          <option value="">All scores</option>
+          <option value="4">≥ 4.0</option>
+          <option value="3.5">≥ 3.5</option>
+          <option value="3">≥ 3.0</option>
+        </select>
+      </div>
+      <div class="col-md-2">
+        <select class="form-select form-select-sm" id="pipe-sort" onchange="renderPipeline()">
+          <option value="posted">Newest posted</option>
+          <option value="score">Highest score</option>
+          <option value="company">Company A–Z</option>
+        </select>
+      </div>
+      <div class="col-auto ms-auto d-flex align-items-center gap-3">
+        <div class="form-check form-switch mb-0 d-flex align-items-center gap-2">
+          <input class="form-check-input" type="checkbox" id="hide-done" onchange="renderPipeline()">
+          <label class="form-check-label small text-secondary" for="hide-done">Hide done</label>
+        </div>
+        <small class="text-secondary" id="pipeline-count"></small>
+      </div>
+    </div>
+    <div id="pipeline-list" class="row g-2"></div>
+  </div>
+
+  <!-- ── Scanner tab ──────────────────────────────────────────────── -->
+  <div id="tab-scanner" style="display:none">
+    <div class="row g-2 mb-3">
+      <div class="col-md-5"><input class="form-control form-control-sm" id="scan-q" placeholder="Search title or company…" oninput="debounce(loadScanner,300)()"></div>
+      <div class="col-md-3"><input class="form-control form-control-sm" id="scan-company" placeholder="Company…" oninput="debounce(loadScanner,300)()"></div>
+      <div class="col-md-2"><select class="form-select form-select-sm" id="scan-source" onchange="loadScanner()"><option value="">All sources</option></select></div>
+      <div class="col-md-2"><select class="form-select form-select-sm" id="scan-days" onchange="loadScanner()">
+        <option value="">All time</option><option value="1">Last 24h</option><option value="3">Last 3 days</option><option value="7">Last 7 days</option><option value="30">Last 30 days</option>
+      </select></div>
+    </div>
+    <div id="scanner-results" class="row g-2"></div>
+    <div id="scanner-pagination" class="d-flex justify-content-center mt-3"></div>
+  </div>
+
+  <!-- ── Applications tab ─────────────────────────────────────────── -->
+  <div id="tab-applications" style="display:none">
+    <div class="d-flex gap-2 align-items-center mb-2 flex-wrap">
+      <input class="form-control form-control-sm" style="max-width:260px" id="app-q" placeholder="Filter by company or role…" oninput="renderApplications()">
+      <div class="d-flex gap-1 flex-wrap" id="app-status-tabs">
+        <button class="app-tab active" data-status="" onclick="setAppTab(this)">All</button>
+        <button class="app-tab" data-status="Evaluated" onclick="setAppTab(this)">Evaluated</button>
+        <button class="app-tab" data-status="Applied" onclick="setAppTab(this)">Applied</button>
+        <button class="app-tab" data-status="Responded" onclick="setAppTab(this)">Responded</button>
+        <button class="app-tab" data-status="Interview" onclick="setAppTab(this)">Interview</button>
+        <button class="app-tab" data-status="Offer" onclick="setAppTab(this)">Offer</button>
+        <button class="app-tab" data-status="Rejected" onclick="setAppTab(this)">Rejected</button>
+        <button class="app-tab" data-status="SKIP" onclick="setAppTab(this)">Skip</button>
+      </div>
+      <small class="text-secondary ms-auto" id="app-count"></small>
+    </div>
+    <div class="table-responsive">
+      <table class="table table-dark table-hover table-sm align-middle" id="app-table">
+        <thead class="table-dark sticky-top"><tr>
+          <th>#</th><th>Date</th><th>Company</th><th>Role</th><th>Score</th>
+          <th>Status</th><th>PDF</th><th>Report</th><th>Notes</th>
+        </tr></thead>
+        <tbody id="app-tbody"></tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- ── Reports tab ──────────────────────────────────────────────── -->
+  <div id="tab-reports" style="display:none">
+    <div class="row g-3">
+      <div class="col-md-3">
+        <div class="list-group list-group-flush bg-dark" id="report-list" style="max-height:80vh;overflow-y:auto"></div>
+      </div>
+      <div class="col-md-9">
+        <div id="report-viewer" class="report-content text-secondary">← Select a report</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── Stories tab ──────────────────────────────────────────────── -->
+  <div id="tab-stories" style="display:none">
+    <div class="row g-3">
+      <div class="col-md-4">
+        <div id="story-list" class="list-group list-group-flush" style="max-height:80vh;overflow-y:auto"></div>
+      </div>
+      <div class="col-md-8" id="story-detail">
+        <p class="text-secondary">← Select a story</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Scan log modal -->
+<div class="modal fade" id="scan-modal" tabindex="-1">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content bg-dark">
+      <div class="modal-header border-secondary">
+        <h6 class="modal-title"><i class="bi bi-terminal"></i> Scan Output</h6>
+        <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal"></button>
+      </div>
+      <div class="modal-body"><div id="scan-log">Running…</div></div>
+      <div class="modal-footer border-secondary"><button class="btn btn-sm btn-secondary" data-bs-dismiss="modal">Close</button></div>
+    </div>
+  </div>
+</div>
+
+<!-- AI edit modal -->
+<div class="modal fade" id="ai-modal" tabindex="-1">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content bg-dark">
+      <div class="modal-header border-secondary">
+        <h6 class="modal-title text-success"><i class="bi bi-stars"></i> AI Story Editor</h6>
+        <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal"></button>
+      </div>
+      <div class="modal-body">
+        <p class="text-secondary small mb-2">Instruction for Claude:</p>
+        <div class="input-group mb-3">
+          <input class="form-control bg-dark text-white border-secondary" id="ai-instruction" placeholder="e.g. make the result more quantified, shorten the action section…">
+          <button class="btn btn-info" onclick="runAIEdit()"><i class="bi bi-send"></i></button>
+        </div>
+        <div id="ai-result" style="display:none">
+          <p class="text-success small mb-1"><i class="bi bi-check-circle"></i> AI Suggestion:</p>
+          <pre id="ai-result-text" class="report-content bg-black p-2 rounded"></pre>
+          <button class="btn btn-sm btn-success mt-2" onclick="acceptAIEdit()"><i class="bi bi-check-lg"></i> Accept & Save</button>
+          <button class="btn btn-sm btn-secondary mt-2" onclick="document.getElementById('ai-result').style.display='none'">Discard</button>
+        </div>
+        <div id="ai-loading" style="display:none" class="text-center py-3">
+          <div class="spinner-border text-info spinner-border-sm"></div> <span class="text-secondary">Asking Claude…</span>
+        </div>
+        <div id="ai-error" class="text-danger small mt-2"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Toast container -->
+<div id="toast-container"></div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+<script>
+// ── State ────────────────────────────────────────────────────────────
+let scannerPage = 1;
+let allApps = [];
+let currentStory = null;
+let currentStoryRaw = '';
+let appStatusFilter = '';
+
+const STATUS_OPTIONS = ['Evaluated', 'Applied', 'Responded', 'Interview', 'Offer', 'Rejected', 'Discarded', 'SKIP'];
+
+// ── Utils ────────────────────────────────────────────────────────────
+function debounce(fn, ms) {
+  let t;
+  return (...args) => { clearTimeout(t); t = setTimeout(() => fn(...args), ms); };
+}
+
+function toast(msg, type = 'success') {
+  const el = document.createElement('div');
+  el.className = `toast align-items-center text-bg-${type} border-0 show`;
+  el.innerHTML = `<div class="d-flex"><div class="toast-body">${msg}</div><button class="btn-close btn-close-white me-2 m-auto" onclick="this.closest('.toast').remove()"></button></div>`;
+  document.getElementById('toast-container').appendChild(el);
+  setTimeout(() => el.remove(), 4000);
+}
+
+function scoreClass(s) {
+  const n = parseFloat(s);
+  if (n >= 4.5) return 'score-5'; if (n >= 4) return 'score-4'; if (n >= 3) return 'score-3'; if (n >= 2) return 'score-2'; return 'score-1';
+}
+
+function timeAgo(dateStr) {
+  if (!dateStr) return null;
+  const ms = Date.now() - new Date(dateStr).getTime();
+  const mins = Math.floor(ms / 60000);
+  const hours = Math.floor(ms / 3600000);
+  const days = Math.floor(ms / 86400000);
+  if (mins < 2) return 'just now';
+  if (mins < 60) return `${mins}m ago`;
+  if (hours < 24) return `${hours}h ago`;
+  if (days < 7) return `${days}d ago`;
+  return new Date(dateStr).toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+}
+
+function ageBadge(dateStr) {
+  if (!dateStr) return '';
+  const ms = Date.now() - new Date(dateStr).getTime();
+  const days = ms / 86400000;
+  const label = timeAgo(dateStr);
+  const full = new Date(dateStr).toLocaleString('en-US', { month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit' });
+  const cls = days <= 3 ? 'badge-new' : days <= 14 ? 'badge-recent' : 'badge-old';
+  return `<span class="badge ${cls} ms-1" title="${full}">${label}</span>`;
+}
+
+function copyToClipboard(text) {
+  navigator.clipboard.writeText(text).then(() => toast('Copied!', 'info'));
+}
+
+function escAttr(s) {
+  return String(s).replace(/'/g, "\\'").replace(/"/g, '&quot;');
+}
+
+// ── Tab switching ────────────────────────────────────────────────────
+function showTab(name) {
+  ['pipeline','scanner','applications','reports','stories'].forEach(t => {
+    document.getElementById('tab-'+t).style.display = t === name ? '' : 'none';
+  });
+  document.querySelectorAll('#main-tabs .nav-link').forEach(a => {
+    a.classList.toggle('active', a.getAttribute('onclick').includes(`'${name}'`));
+  });
+  if (name === 'scanner' && !document.querySelector('#scan-source option[value="greenhouse-api"]')) loadScannerSources();
+  if (name === 'reports') loadReports();
+  if (name === 'stories') loadStories();
+  if (name === 'applications') loadApplications();
+}
+
+// ── Stats ────────────────────────────────────────────────────────────
+async function loadStats() {
+  const s = await fetch('/api/stats').then(r => r.json());
+  document.getElementById('st-scanned').textContent = s.total_scanned.toLocaleString();
+  document.getElementById('st-apps').textContent = s.total_applications;
+  document.getElementById('st-reports').textContent = s.total_reports;
+  document.getElementById('st-lastscan').textContent = s.last_scan ? timeAgo(s.last_scan) : '—';
+  document.getElementById('stat-scanned').textContent = `${s.total_scanned.toLocaleString()} jobs tracked`;
+
+  const statusColors = { Evaluated:'info', Applied:'purple', Responded:'primary', Interview:'warning', Offer:'success', Rejected:'danger', SKIP:'secondary', Discarded:'secondary' };
+  const pills = document.getElementById('status-pills');
+  pills.innerHTML = Object.entries(s.by_status).map(([st, n]) =>
+    `<span class="badge bg-${statusColors[st] || 'secondary'}">${st}: ${n}</span>`
+  ).join('');
+}
+
+// ── Pipeline ─────────────────────────────────────────────────────────
+async function loadPipeline() {
+  const jobs = await fetch('/api/pipeline').then(r => r.json());
+  window._pipelineJobs = jobs;
+  renderPipeline();
+}
+
+function renderPipeline() {
+  let jobs = window._pipelineJobs || [];
+  const hideDone = document.getElementById('hide-done').checked;
+  const q = document.getElementById('pipe-q').value.toLowerCase();
+  const minScore = parseFloat(document.getElementById('pipe-score').value) || 0;
+  const sort = document.getElementById('pipe-sort').value;
+
+  if (hideDone) jobs = jobs.filter(j => !j.done);
+  if (q) jobs = jobs.filter(j => (j.company + ' ' + j.title).toLowerCase().includes(q));
+  if (minScore) jobs = jobs.filter(j => parseFloat(j.score) >= minScore);
+
+  jobs = [...jobs].sort((a, b) => {
+    if (sort === 'score') return (parseFloat(b.score) || 0) - (parseFloat(a.score) || 0);
+    if (sort === 'company') return (a.company || '').localeCompare(b.company || '');
+    const da = a.posted ? new Date(a.posted) : new Date(0);
+    const db = b.posted ? new Date(b.posted) : new Date(0);
+    return db - da;
+  });
+
+  document.getElementById('pipeline-count').textContent = `${jobs.length} of ${(window._pipelineJobs||[]).length} jobs`;
+
+  document.getElementById('pipeline-list').innerHTML = jobs.map(j => `
+    <div class="col-md-6 col-lg-4" id="pipe-card-${CSS.escape(j.url)}">
+      <div class="card bg-dark border-secondary job-card h-100 ${j.done ? 'is-done' : ''}">
+        <div class="card-body py-2 px-3">
+          <div class="d-flex justify-content-between align-items-start mb-1">
+            <span class="badge ${j.done ? 'bg-secondary' : 'bg-info text-dark'}">${j.done ? 'Done' : 'Pending'}</span>
+            ${j.score ? `<span class="fw-bold ${scoreClass(j.score)}">${j.score}/5</span>` : ''}
+          </div>
+          <div class="fw-semibold text-truncate">${j.company || 'Unknown'}</div>
+          <div class="text-secondary text-truncate small">${j.title || j.url}</div>
+          ${j.posted ? `<div class="text-secondary d-flex align-items-center gap-1 mt-1" style="font-size:0.72rem"
+            title="${new Date(j.posted).toLocaleString('en-US',{month:'short',day:'numeric',year:'numeric',hour:'numeric',minute:'2-digit'})}">
+            🕐 ${timeAgo(j.posted)}</div>` : ''}
+          <div class="mt-2 d-flex gap-1 flex-wrap">
+            <a href="${j.url}" target="_blank" class="btn btn-xs btn-outline-secondary py-0 px-1" style="font-size:0.7rem">
+              <i class="bi bi-box-arrow-up-right"></i> Open
+            </a>
+            <button class="btn btn-xs btn-outline-info py-0 px-1" style="font-size:0.7rem"
+              onclick="copyToClipboard('${escAttr(j.url)}')">
+              <i class="bi bi-clipboard"></i> Copy URL
+            </button>
+            <button class="btn btn-xs btn-outline-success py-0 px-1" style="font-size:0.7rem"
+              onclick="copyToClipboard('/career-ops oferta ${escAttr(j.url)}')">
+              <i class="bi bi-chat-dots"></i> Evaluate cmd
+            </button>
+            <button class="btn btn-xs btn-success py-0 px-2" style="font-size:0.7rem"
+              id="apply-btn-${CSS.escape(j.url)}"
+              onclick="markApplied('${escAttr(j.url)}', '${escAttr(j.company)}', this)"
+              ${j.done ? 'disabled' : ''}>
+              <i class="bi bi-check-lg"></i> Applied
+            </button>
+            <button class="btn btn-xs btn-outline-danger py-0 px-1" style="font-size:0.7rem"
+              onclick="skipPipeline('${escAttr(j.url)}', this)"
+              ${j.done ? 'disabled' : ''}>
+              <i class="bi bi-x"></i>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  `).join('');
+}
+
+// Mark a pipeline job as Applied
+async function markApplied(url, company, btn) {
+  btn.disabled = true;
+  btn.innerHTML = '<span class="spinner-border spinner-border-sm"></span>';
+
+  try {
+    // 1. Check off the pipeline item
+    await fetch('/api/pipeline/check', {
+      method: 'PATCH',
+      headers: { 'content-type': 'application/json' },
+      body: JSON.stringify({ url, done: true }),
+    });
+
+    // 2. Update application status if it exists in the tracker
+    const statusRes = await fetch('/api/applications/status', {
+      method: 'PATCH',
+      headers: { 'content-type': 'application/json' },
+      body: JSON.stringify({ company, status: 'Applied' }),
+    });
+
+    if (statusRes.ok) {
+      toast(`✅ ${company} marked as Applied`, 'success');
+    } else {
+      // Not in tracker yet — still mark pipeline done, just note it
+      toast(`✅ Pipeline checked off (${company} not in tracker yet)`, 'info');
+    }
+
+    // Refresh both views
+    await loadPipeline();
+    if (allApps.length) await loadApplications();
+    loadStats();
+  } catch(e) {
+    btn.disabled = false;
+    btn.innerHTML = '<i class="bi bi-check-lg"></i> Applied';
+    toast('Error: ' + e.message, 'danger');
+  }
+}
+
+// Check off a pipeline item without marking applied
+async function skipPipeline(url, btn) {
+  btn.disabled = true;
+  try {
+    await fetch('/api/pipeline/check', {
+      method: 'PATCH',
+      headers: { 'content-type': 'application/json' },
+      body: JSON.stringify({ url, done: true }),
+    });
+    toast('Skipped', 'secondary');
+    await loadPipeline();
+  } catch(e) {
+    btn.disabled = false;
+    toast('Error: ' + e.message, 'danger');
+  }
+}
+
+// ── Scanner ──────────────────────────────────────────────────────────
+async function loadScannerSources() {
+  const sources = await fetch('/api/jobs/sources').then(r => r.json());
+  const sel = document.getElementById('scan-source');
+  sources.forEach(s => { const o = document.createElement('option'); o.value = s; o.textContent = s; sel.appendChild(o); });
+}
+
+async function loadScanner() {
+  const q = document.getElementById('scan-q').value;
+  const company = document.getElementById('scan-company').value;
+  const source = document.getElementById('scan-source').value;
+  const days = document.getElementById('scan-days').value;
+  const params = new URLSearchParams({ q, company, source, ...(days && {days}), page: scannerPage });
+  const data = await fetch('/api/jobs?' + params).then(r => r.json());
+
+  document.getElementById('scanner-results').innerHTML = data.jobs.map(j => `
+    <div class="col-md-6 col-lg-4">
+      <div class="card bg-dark border-secondary job-card h-100">
+        <div class="card-body py-2 px-3">
+          <div class="d-flex justify-content-between mb-1">
+            <span class="badge bg-secondary" style="font-size:0.65rem">${j.source}</span>
+            <span>${ageBadge(j.date)}</span>
+          </div>
+          <div class="fw-semibold text-truncate">${j.company || '—'}</div>
+          <div class="text-secondary small text-truncate">${j.title || '—'}</div>
+          <div class="mt-2 d-flex gap-1 flex-wrap">
+            <a href="${j.url}" target="_blank" class="btn btn-xs btn-outline-secondary py-0 px-1" style="font-size:0.7rem"><i class="bi bi-box-arrow-up-right"></i> Open</a>
+            <button class="btn btn-xs btn-outline-info py-0 px-1" style="font-size:0.7rem" onclick="copyToClipboard('${escAttr(j.url)}')"><i class="bi bi-clipboard"></i> Copy</button>
+            <button class="btn btn-xs btn-outline-success py-0 px-1" style="font-size:0.7rem" onclick="copyToClipboard('/career-ops oferta ${escAttr(j.url)}')"><i class="bi bi-chat-dots"></i> Evaluate</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  `).join('') || '<div class="col text-secondary">No results</div>';
+
+  const pg = document.getElementById('scanner-pagination');
+  if (data.pages <= 1) { pg.innerHTML = ''; return; }
+  let html = '<ul class="pagination pagination-sm">';
+  for (let i = 1; i <= Math.min(data.pages, 20); i++) {
+    html += `<li class="page-item ${i === data.page ? 'active' : ''}"><a class="page-link" href="#" onclick="scannerPage=${i};loadScanner()">${i}</a></li>`;
+  }
+  pg.innerHTML = html + '</ul>';
+}
+
+// ── Applications ─────────────────────────────────────────────────────
+async function loadApplications() {
+  allApps = await fetch('/api/applications').then(r => r.json());
+  renderApplications();
+}
+
+function setAppTab(btn) {
+  document.querySelectorAll('.app-tab').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  appStatusFilter = btn.dataset.status;
+  renderApplications();
+}
+
+function renderApplications() {
+  const q = document.getElementById('app-q').value.toLowerCase();
+  let apps = allApps;
+
+  if (appStatusFilter) apps = apps.filter(a => a.status === appStatusFilter);
+  if (q) apps = apps.filter(a => (a.company + a.role).toLowerCase().includes(q));
+
+  document.getElementById('app-count').textContent = `${apps.length} application${apps.length !== 1 ? 's' : ''}`;
+
+  const optionsHtml = STATUS_OPTIONS.map(s => `<option value="${s}">${s}</option>`).join('');
+
+  document.getElementById('app-tbody').innerHTML = apps.map(a => `
+    <tr id="app-row-${a.num}">
+      <td class="text-secondary">${a.num}</td>
+      <td class="text-secondary" style="white-space:nowrap">${a.date}</td>
+      <td class="fw-semibold">${a.company}</td>
+      <td class="text-secondary">${a.role}</td>
+      <td class="${scoreClass(a.score)} fw-bold">${a.score || '—'}</td>
+      <td>
+        <select class="status-select st-${(a.status||'').replace(/\s+/g,'')}"
+                data-num="${a.num}" data-company="${escAttr(a.company)}"
+                onchange="updateAppStatus(this)">
+          ${STATUS_OPTIONS.map(s => `<option value="${s}" ${s === a.status ? 'selected' : ''}>${s}</option>`).join('')}
+        </select>
+      </td>
+      <td>${a.pdf === '✅' ? '✅' : '❌'}</td>
+      <td>${a.report
+        ? `<button class="btn btn-xs btn-outline-info py-0 px-1" style="font-size:0.7rem" onclick="openReportByLink('${escAttr(a.report)}')"><i class="bi bi-file-text"></i></button>`
+        : '—'}</td>
+      <td class="text-secondary" style="max-width:200px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap" title="${escAttr(a.notes)}">${a.notes}</td>
+    </tr>
+  `).join('') || '<tr><td colspan="9" class="text-secondary text-center">No applications yet</td></tr>';
+}
+
+async function updateAppStatus(selectEl) {
+  const num = selectEl.dataset.num;
+  const company = selectEl.dataset.company;
+  const status = selectEl.value;
+
+  // Optimistically update the class for colour
+  selectEl.className = `status-select st-${status.replace(/\s+/g, '')}`;
+
+  try {
+    const res = await fetch('/api/applications/status', {
+      method: 'PATCH',
+      headers: { 'content-type': 'application/json' },
+      body: JSON.stringify({ num, status }),
+    });
+    if (!res.ok) {
+      const err = await res.json();
+      throw new Error(err.error || 'update failed');
+    }
+    // Update local cache so filter tabs stay consistent
+    const app = allApps.find(a => a.num === num);
+    if (app) app.status = status;
+    toast(`${company} → ${status}`, 'success');
+    loadStats();
+  } catch(e) {
+    toast('Error: ' + e.message, 'danger');
+    // Reload to revert the optimistic UI update
+    await loadApplications();
+  }
+}
+
+function openReportByLink(link) {
+  const m = link.match(/\(([^)]+)\)/);
+  if (!m) return;
+  const file = m[1].replace('reports/', '');
+  showTab('reports');
+  setTimeout(() => loadReportContent(file), 100);
+}
+
+// ── Reports ──────────────────────────────────────────────────────────
+async function loadReports() {
+  const reports = await fetch('/api/reports').then(r => r.json());
+  document.getElementById('report-list').innerHTML = reports.map(r => `
+    <a href="#" class="list-group-item list-group-item-action bg-dark border-secondary text-white py-2"
+       onclick="loadReportContent('${r.file}')">
+      <div class="fw-semibold small">#${r.num} ${r.slug?.replace(/-/g,' ')}</div>
+      <div class="text-secondary" style="font-size:0.7rem">${r.date}</div>
+    </a>
+  `).join('') || '<div class="p-3 text-secondary">No reports yet</div>';
+}
+
+async function loadReportContent(file) {
+  const data = await fetch(`/api/reports/${file}`).then(r => r.json());
+  document.getElementById('report-viewer').textContent = data.content || 'Error loading report';
+}
+
+// ── Story Bank ───────────────────────────────────────────────────────
+async function loadStories() {
+  const stories = await fetch('/api/stories').then(r => r.json());
+  window._stories = stories;
+  document.getElementById('story-list').innerHTML = stories.map((s, i) => `
+    <a href="#" class="list-group-item list-group-item-action bg-dark border-secondary text-white py-2"
+       onclick="showStory(${i})">
+      <div><span class="tag-theme me-1">${s.theme}</span></div>
+      <div class="fw-semibold small mt-1">${s.title}</div>
+      <div class="text-secondary" style="font-size:0.7rem">${(s.fields['Best for questions about'] || '').slice(0, 60)}…</div>
+    </a>
+  `).join('') || '<div class="p-3 text-secondary">No stories yet</div>';
+}
+
+function showStory(i) {
+  const s = window._stories[i];
+  if (!s) return;
+  currentStory = s;
+  currentStoryRaw = s.raw;
+
+  const fields = ['S (Situation)', 'T (Task)', 'A (Action)', 'R (Result)', 'Reflection', 'Best for questions about'];
+  document.getElementById('story-detail').innerHTML = `
+    <div class="d-flex justify-content-between align-items-start mb-3">
+      <div>
+        <span class="tag-theme">${s.theme}</span>
+        <h6 class="mt-2 mb-0">${s.title}</h6>
+      </div>
+      <button class="btn btn-sm btn-outline-success" data-bs-toggle="modal" data-bs-target="#ai-modal">
+        <i class="bi bi-stars"></i> AI Edit
+      </button>
+    </div>
+    ${fields.filter(f => s.fields[f]).map(f => `
+      <div class="mb-3">
+        <div class="story-field-label small">${f}</div>
+        <div class="text-white">${s.fields[f]}</div>
+      </div>
+    `).join('')}
+  `;
+
+  document.querySelectorAll('#story-list .list-group-item').forEach((el, j) => {
+    el.classList.toggle('active', j === i);
+  });
+}
+
+// ── AI Edit ──────────────────────────────────────────────────────────
+async function runAIEdit() {
+  if (!currentStory) return;
+  const instruction = document.getElementById('ai-instruction').value.trim();
+  if (!instruction) return;
+
+  document.getElementById('ai-loading').style.display = '';
+  document.getElementById('ai-result').style.display = 'none';
+  document.getElementById('ai-error').textContent = '';
+
+  try {
+    const r = await fetch('/api/ai-edit', {
+      method: 'POST',
+      headers: { 'content-type': 'application/json' },
+      body: JSON.stringify({ story: currentStoryRaw, instruction }),
+    });
+    const data = await r.json();
+    if (data.error) throw new Error(data.error);
+    document.getElementById('ai-result-text').textContent = data.result;
+    document.getElementById('ai-result').style.display = '';
+    window._aiResult = data.result;
+  } catch(e) {
+    document.getElementById('ai-error').textContent = e.message;
+  } finally {
+    document.getElementById('ai-loading').style.display = 'none';
+  }
+}
+
+async function acceptAIEdit() {
+  if (!window._aiResult || !currentStoryRaw) return;
+  const r = await fetch('/api/stories/0', {
+    method: 'PUT',
+    headers: { 'content-type': 'application/json' },
+    body: JSON.stringify({ original: currentStoryRaw, updated: window._aiResult }),
+  });
+  const data = await r.json();
+  if (data.ok) {
+    toast('Story saved!', 'success');
+    bootstrap.Modal.getInstance(document.getElementById('ai-modal')).hide();
+    loadStories();
+  } else {
+    toast(data.error || 'Save failed', 'danger');
+  }
+}
+
+// ── Scan ─────────────────────────────────────────────────────────────
+async function triggerScan(dryRun) {
+  const modal = new bootstrap.Modal(document.getElementById('scan-modal'));
+  document.getElementById('scan-log').textContent = dryRun ? 'Running dry scan…\n' : 'Scanning portals…\n';
+  modal.show();
+  try {
+    const r = await fetch('/api/scan', {
+      method: 'POST',
+      headers: { 'content-type': 'application/json' },
+      body: JSON.stringify({ dry_run: dryRun }),
+    });
+    const data = await r.json();
+    document.getElementById('scan-log').textContent = (data.stdout || '') + (data.stderr ? '\n[stderr]\n' + data.stderr : '');
+    loadStats();
+    loadPipeline();
+  } catch(e) {
+    document.getElementById('scan-log').textContent = 'Error: ' + e.message;
+  }
+}
+
+// ── Init ─────────────────────────────────────────────────────────────
+loadStats();
+loadPipeline();
+loadScanner();
+</script>
+</body>
+</html>
