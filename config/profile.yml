@@ -1,0 +1,85 @@
+# Career-Ops Profile Configuration
+# This is the single source of truth for your personal data across all modes.
+
+candidate:
+  full_name: "Kapo Kwok"
+  email: "kapoikwok@gmail.com"
+  phone: "385-216-1975"
+  location: "Provo, UT"
+  linkedin: "linkedin.com/in/kapo-kwok"
+  github: "github.com/Kapo1123"
+  # portfolio_url: ""
+  # canva_resume_design_id: ""
+
+target_roles:
+  primary:
+    - "Software Engineer (New Grad)"
+    - "SWE I"
+    - "Junior Software Engineer"
+    - "Associate Software Engineer"
+    - "Backend Engineer (New Grad)"
+  archetypes:
+    - name: "Backend SWE"
+      level: "New Grad / Entry"
+      fit: "primary"
+    - name: "Full Stack SWE"
+      level: "New Grad / Entry"
+      fit: "secondary"
+    - name: "Data / Platform Engineer"
+      level: "New Grad / Entry"
+      fit: "secondary"
+    - name: "ML Infra / AI Tooling"
+      level: "New Grad / Entry"
+      fit: "adjacent"
+
+narrative:
+  headline: "New grad CS engineer who has shipped production distributed systems at scale — data pipelines, voice AI, and full-stack apps — with real-world impact from Day 1."
+  exit_story: "Graduated BYU CS (Dec 2025) after shipping production systems at 3 companies. I've scaled data pipelines 500%, built voice agents saving 60% in processing costs, and containerized infrastructure — all before graduation. Looking for a full-time SWE role where I can go deep on backend and distributed systems."
+  superpowers:
+    - "Distributed systems at production scale (Kafka, Pulsar, Spark, Cassandra)"
+    - "Cloud infrastructure on AWS and GCP (EC2, ECS, Lambda, GKE, Datastore)"
+    - "Full-stack delivery: Django + Next.js + TypeScript, shipped fast"
+    - "AI/multi-agent integration (voice agents, OpenAI API, prompt engineering)"
+    - "Spec-Driven and AI-Driven Development — fast iteration with strong output quality"
+  proof_points:
+    - name: "500% pipeline scale"
+      hero_metric: "Scaled data pipeline capacity 500% with Datastore at SWE internship"
+    - name: "6x latency reduction"
+      hero_metric: "Eliminated ORM bottlenecks to cut latency 6x"
+    - name: "Voice agent cost savings"
+      hero_metric: "Built voice agent system reducing processing costs 60%, 1.2s avg response time"
+    - name: "47% storage reduction"
+      hero_metric: "Threshold-based snapshot algorithm cut storage overhead 47%"
+    - name: "Spotibot AI"
+      url: "github.com/Kapo1123"
+      hero_metric: "Full-stack OpenAI + Spotify integration with OAuth"
+
+compensation:
+  target_range: "$95,000 - $145,000"
+  currency: "USD"
+  minimum: "$80,000"
+  equity: "important"
+  location_flexibility: "Prefer Provo UT until April 2027. Open to remote. Will relocate for right offer."
+
+location:
+  country: "United States"
+  city: "Provo"
+  state: "UT"
+  timezone: "MT"
+  visa_status: "OPT — requires H1B sponsorship"
+  preferred_until: "2027-04"
+  open_to_remote: true
+  open_to_relocation: true
+
+notify:
+  discord_webhook: "https://discord.com/api/webhooks/1497093808502997154/trv9fu9vZZB9iKwDS6ccA0ocILo-Hiw0y3PWJI1SwTU7l_38G_TlMYKaX7pNQp232IZH"
+  # slack_webhook: ""  # add if you want Slack too
+
+job_search:
+  priority_companies:
+    tier1: ["Google", "Meta", "Apple", "Amazon", "Microsoft", "Netflix"]
+    tier2: ["Stripe", "Figma", "Notion", "Databricks", "Snowflake", "Airbnb", "Coinbase", "Robinhood", "Lyft", "DoorDash"]
+    interview_practice: ["startups Series A-C"]
+  sponsorship_required: true  # Hard filter — companies that say "no sponsorship" → reject
+  target_level: "new-grad"
+  avoid_roles_requiring_years: 3  # Reject if JD explicitly requires 3+ years experience

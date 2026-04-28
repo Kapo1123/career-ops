@@ -229,6 +229,69 @@ function appendToScanHistory(offers, date) {
   appendFileSync(SCAN_HISTORY_PATH, lines, 'utf-8');
 }
 
+// ── Discord / Slack notifications ──────────────────────────────────
+
+async function sendDiscordNotification(offers, webhookUrl) {
+  if (!webhookUrl || offers.length === 0) return;
+
+  const CHUNK = 10; // Discord max embeds per message
+  for (let i = 0; i < offers.length; i += CHUNK) {
+    const chunk = offers.slice(i, i + CHUNK);
+    const embeds = chunk.map(o => ({
+      title: `${o.company} — ${o.title}`,
+      url: o.url,
+      color: 0x5865F2,
+      fields: [
+        { name: 'Location', value: o.location || 'Not specified', inline: true },
+        { name: 'Source', value: o.source || 'portal', inline: true },
+      ],
+    }));
+
+    const isFirst = i === 0;
+    const body = {
+      username: 'Career-Ops Scanner',
+      avatar_url: 'https://em-content.zobj.net/source/twitter/376/briefcase_1f4bc.png',
+      ...(isFirst && {
+        content: `⚡ **${offers.length} new SWE job${offers.length === 1 ? '' : 's'} found** — run \`/career-ops pipeline\` to evaluate`,
+      }),
+      embeds,
+    };
+
+    try {
+      const res = await fetch(webhookUrl, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(body),
+      });
+      if (!res.ok) console.warn(`Discord webhook returned ${res.status}`);
+    } catch (err) {
+      console.warn('Discord notification failed:', err.message);
+    }
+
+    if (i + CHUNK < offers.length) {
+      await new Promise(r => setTimeout(r, 500)); // rate limit buffer
+    }
+  }
+}
+
+async function sendSlackNotification(offers, webhookUrl) {
+  if (!webhookUrl || offers.length === 0) return;
+  const lines = offers.map(o => `• <${o.url}|${o.company} — ${o.title}> (${o.location || 'N/A'})`).join('\n');
+  const body = {
+    text: `⚡ *${offers.length} new SWE job${offers.length === 1 ? '' : 's'} found*\n${lines}\n\nRun \`/career-ops pipeline\` to evaluate.`,
+  };
+  try {
+    const res = await fetch(webhookUrl, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(body),
+    });
+    if (!res.ok) console.warn(`Slack webhook returned ${res.status}`);
+  } catch (err) {
+    console.warn('Slack notification failed:', err.message);
+  }
+}
+
 // ── Parallel fetch with concurrency limit ───────────────────────────
 
 async function parallelFetch(tasks, limit) {
@@ -322,10 +385,24 @@ async function main() {
 
   await parallelFetch(tasks, CONCURRENCY);
 
-  // 5. Write results
+  // 5. Write results + notify
   if (!dryRun && newOffers.length > 0) {
     appendToPipeline(newOffers);
     appendToScanHistory(newOffers, date);
+
+    // Discord/Slack notification
+    const profilePath = 'config/profile.yml';
+    if (existsSync(profilePath)) {
+      try {
+        const profile = parseYaml(readFileSync(profilePath, 'utf-8'));
+        const discordWebhook = profile?.notify?.discord_webhook;
+        const slackWebhook = profile?.notify?.slack_webhook;
+        if (discordWebhook) await sendDiscordNotification(newOffers, discordWebhook);
+        if (slackWebhook) await sendSlackNotification(newOffers, slackWebhook);
+      } catch (err) {
+        console.warn('Notification error:', err.message);
+      }
+    }
   }
 
   // 6. Print summary
