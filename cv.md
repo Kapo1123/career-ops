@@ -1,63 +1,71 @@
 # Kapo Kwok
 
-385-216-1975 | kapoikwok@gmail.com | linkedin.com/in/kapo-kwok | github.com/Kapo1123 | Provo, UT
+385-216-1979 | kapokwokus@gmail.com | linkedin.com/in/kapo-kwok | github.com/Kapo1123 | Seattle, WA
 
 ---
 
 ## Experience
 
-**Founding Engineer** — Grange YSC *(AI company)* | Lynwood, WA | Sep 2025 – Present
-- Engineered AI tooling across a team of 5 engineers, achieving 33% faster iteration speed across dev cycles with GitHub tools and spec-driven development
-- Architected a voice agent system; reduced voice processing costs 60% and achieved average 1.2-second response times
-- Built a fault-tolerant distributed backend supporting growth to 100k+ users and expansion into 2 new countries
+**Founding Engineer** — Gmango Inc. _(AI Health Startup)_ | Lynnwood, WA | Sep 2025 – Present
 
-**Software Engineer Intern** | South Jordan, UT | May 2025 – Aug 2025
-- Scaled data pipeline system capacity by 500% with Datastore; optimized for distributed compute and cloud scalability
-- Mitigated legacy Scylla/Cassandra database disaster through emergency migration management strategy
-- Achieved 6x reduction in latency by eliminating ORM bottlenecks
-- Reduced storage overhead by 47% via threshold-based snapshot selection algorithm
-- Integrated an ML model with UI cleanup workflow; projected to reduce user document volume 30–40%
+- Led a team of 7 engineers, improving development speed by 50% using GenAI tools
+- Built a voice agent system; reduced processing cost by 85% and achieved ~1.2s response time
+- Designed distributed backend system supporting 100k+ users and international expansion
 
-**Full Stack Engineer** *(Contract)* | Jan 2025 – Apr 2025
-- Built a mobile-responsive housing marketplace demo that helped secure $50K in funding
+**Software Engineer Intern** — Lucid Software | South Jordan, UT | May 2025 – Aug 2025
+
+- Increased data pipeline capacity by 500% using Databricks
+- Reduced Spark Spot failures by 50% with memory optimization
+- Cut latency by 4× by removing memory bottlenecks
+- Reduced storage + compute costs by 67%
+- Integrated ML model into UI workflow; projected 30–40% reduction in document volume
+
+**Full Stack Engineer** — Nebula | Provo, UT | Jan 2025 – Apr 2025
+
+- Built a housing marketplace demo that helped secure $50K in funding
 
 **Student Software Engineer** — Harold B. Lee Library, BYU | Provo, UT | Jan 2024 – Dec 2024
-- Containerized Django projects, cutting infrastructure costs by 30%
-- Replaced a daily data processing script to run 75% faster with zero downtime
-- Implemented a monthly subscription service; saved 80% of cost and maintenance overhead
+
+- Containerized Django apps, reducing infrastructure costs by 50%
+- Improved data processing speed by 75% with zero downtime
+- Replaced subscription system with API calls, saving 95% in cost
 
 **Student Software Developer** — BYU Nursing | Provo, UT | Jul 2023 – Dec 2023
-- Audited and removed 100+ stale subpages, reducing overall cloud service costs by 13%
+
+- Identified 100+ outdated pages, reducing cloud costs by 15%
 
 ---
 
 ## Education
 
 **Brigham Young University** — B.S. Computer Science | Provo, UT | December 2025
-- Dean's List ×4
+
+- GPA: 3.97 | Dean's List ×4
 - Hong Kong Student Club President
 
 ---
 
 ## Projects
 
-**Spotibot AI** | Python, Django, OpenAI API, MySQL, JavaScript | Jun 2024
-- Built a full-stack web app integrating Spotify and OpenAI APIs to generate custom playlists from natural language prompts, with Spotify OAuth for secure authentication
+**Spotify Playlist AI** | Python, Django, Spotify API, OpenAI API | Jun 2024
+
+- Built full-stack app using Spotify and OpenAI APIs to generate playlists from natural language prompts
+- Implemented secure OAuth authentication
 
 ---
 
 ## Technical Skills
 
-**Languages:** Python, Java, Kotlin, TypeScript, JavaScript, C++, SQL, Scala, Dart
+**Languages:** Python, Java, SQL, TypeScript, C++, HTML/CSS, Flutter, Scala
 
-**Frameworks:** Django, Spring, Next.js, Express, Node.js, Flutter
+**Frameworks:** Django, Spring Boot, React, Angular, Next.js, Node.js
 
-**Cloud & Infrastructure:** AWS (EC2, ECS, S3, Lambda, DynamoDB, API Gateway), GKE, Load Balancer, Datastore, BigTable
+**Databases:** DynamoDB, Supabase, Firebase, MySQL
 
-**Data & Streaming:** Spark, Kafka, Pulsar, Cassandra, Scylla
+**Cloud & Tools:** AWS (ECS, EC2, S3, Lambda, EKS, API Gateway), Databricks, Snowflake, Spark, Pandas, Docker, Kubernetes, Kafka, Datadog, Grafana, Git
 
-**Observability:** Datadog, Grafana
+**Practices:** CI/CD, Agile, SDLC, Code Reviews
 
-**Tools:** Docker, Kubernetes, Git, CI/CD
+**Specialties:** AI-driven development, Multi-agent systems, Distributed systems, Data pipelines, Prompt engineering, Server-driven UI
 
-**Specialties:** Distributed Systems, Data Pipelines, Multi-Agent Systems, Server-Driven UI (SDUI), Prompt Engineering, Spec-Driven Development, AI-Driven Development
+**Open Source:** Spotipy, Stac

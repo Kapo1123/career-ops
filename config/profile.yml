@@ -3,9 +3,9 @@
 
 candidate:
   full_name: "Kapo Kwok"
-  email: "kapoikwok@gmail.com"
-  phone: "385-216-1975"
-  location: "Provo, UT"
+  email: "kapokwokus@gmail.com"
+  phone: "385-216-1979"
+  location: "Seattle, WA"
   linkedin: "linkedin.com/in/kapo-kwok"
   github: "github.com/Kapo1123"
   # portfolio_url: ""
@@ -34,23 +34,23 @@ target_roles:
 
 narrative:
   headline: "New grad CS engineer who has shipped production distributed systems at scale — data pipelines, voice AI, and full-stack apps — with real-world impact from Day 1."
-  exit_story: "Graduated BYU CS (Dec 2025) after shipping production systems at 3 companies. I've scaled data pipelines 500%, built voice agents saving 60% in processing costs, and containerized infrastructure — all before graduation. Looking for a full-time SWE role where I can go deep on backend and distributed systems."
+  exit_story: "Graduated BYU CS (Dec 2025) after shipping production systems at 3 companies. I've scaled data pipelines 500% with Databricks, built voice agents saving 85% in processing costs, and led a 7-engineer team — all before graduation. Looking for a full-time SWE role where I can go deep on backend and distributed systems."
   superpowers:
-    - "Distributed systems at production scale (Kafka, Pulsar, Spark, Cassandra)"
-    - "Cloud infrastructure on AWS and GCP (EC2, ECS, Lambda, GKE, Datastore)"
-    - "Full-stack delivery: Django + Next.js + TypeScript, shipped fast"
+    - "Distributed systems at production scale (Kafka, Spark, Databricks, Snowflake)"
+    - "Cloud infrastructure on AWS (EC2, ECS, EKS, Lambda, DynamoDB, API Gateway)"
+    - "Full-stack delivery: Django + Next.js + React + TypeScript, shipped fast"
     - "AI/multi-agent integration (voice agents, OpenAI API, prompt engineering)"
-    - "Spec-Driven and AI-Driven Development — fast iteration with strong output quality"
+    - "AI-Driven Development — led 7-engineer team to 50% faster iteration with GenAI tools"
   proof_points:
     - name: "500% pipeline scale"
-      hero_metric: "Scaled data pipeline capacity 500% with Datastore at SWE internship"
-    - name: "6x latency reduction"
-      hero_metric: "Eliminated ORM bottlenecks to cut latency 6x"
+      hero_metric: "Scaled data pipeline capacity 500% with Databricks at Lucid Software"
+    - name: "4x latency reduction"
+      hero_metric: "Removed memory bottlenecks to cut latency 4x at Lucid Software"
     - name: "Voice agent cost savings"
-      hero_metric: "Built voice agent system reducing processing costs 60%, 1.2s avg response time"
-    - name: "47% storage reduction"
-      hero_metric: "Threshold-based snapshot algorithm cut storage overhead 47%"
-    - name: "Spotibot AI"
+      hero_metric: "Built voice agent system reducing processing costs 85%, ~1.2s response time"
+    - name: "67% storage+compute reduction"
+      hero_metric: "Reduced storage and compute costs 67% at Lucid Software"
+    - name: "Spotify Playlist AI"
       url: "github.com/Kapo1123"
       hero_metric: "Full-stack OpenAI + Spotify integration with OAuth"
 
