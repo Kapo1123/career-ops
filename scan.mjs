@@ -72,6 +72,26 @@ function detectApi(company) {
   return null;
 }
 
+// ── Time helpers ─────────────────────────────────────────────────────
+
+const MAX_AGE_DAYS = 3;
+
+function timeAgo(date) {
+  if (!date) return null;
+  const ms = Date.now() - new Date(date).getTime();
+  const mins = Math.floor(ms / 60_000);
+  const hours = Math.floor(ms / 3_600_000);
+  const days = Math.floor(ms / 86_400_000);
+  if (mins < 60) return `${mins}m ago`;
+  if (hours < 24) return `${hours}h ago`;
+  return `${days}d ago`;
+}
+
+function isTooOld(date) {
+  if (!date) return false; // no date info → keep
+  return Date.now() - new Date(date).getTime() > MAX_AGE_DAYS * 86_400_000;
+}
+
 // ── API parsers ─────────────────────────────────────────────────────
 
 function parseGreenhouse(json, companyName) {
@@ -81,6 +101,7 @@ function parseGreenhouse(json, companyName) {
     url: j.absolute_url || '',
     company: companyName,
     location: j.location?.name || '',
+    postedAt: j.updated_at || null,
   }));
 }
 
@@ -91,6 +112,7 @@ function parseAshby(json, companyName) {
     url: j.jobUrl || '',
     company: companyName,
     location: j.location || '',
+    postedAt: j.publishedAt || null,
   }));
 }
 
@@ -101,6 +123,7 @@ function parseLever(json, companyName) {
     url: j.hostedUrl || '',
     company: companyName,
     location: j.categories?.location || '',
+    postedAt: j.createdAt ? new Date(j.createdAt).toISOString() : null,
   }));
 }
 
@@ -198,7 +221,7 @@ function appendToPipeline(offers) {
     const procIdx = text.indexOf('## Procesadas');
     const insertAt = procIdx === -1 ? text.length : procIdx;
     const block = `\n${marker}\n\n` + offers.map(o =>
-      `- [ ] ${o.url} | ${o.company} | ${o.title}`
+      `- [ ] ${o.url} | ${o.company} | ${o.title}${o.score ? ` | score:${o.score}` : ''}${o.postedAt ? ` | posted:${o.postedAt.slice(0, 10)}` : ''}`
     ).join('\n') + '\n\n';
     text = text.slice(0, insertAt) + block + text.slice(insertAt);
   } else {
@@ -208,7 +231,7 @@ function appendToPipeline(offers) {
     const insertAt = nextSection === -1 ? text.length : nextSection;
 
     const block = '\n' + offers.map(o =>
-      `- [ ] ${o.url} | ${o.company} | ${o.title}`
+      `- [ ] ${o.url} | ${o.company} | ${o.title}${o.score ? ` | score:${o.score}` : ''}${o.postedAt ? ` | posted:${o.postedAt.slice(0, 10)}` : ''}`
     ).join('\n') + '\n';
     text = text.slice(0, insertAt) + block + text.slice(insertAt);
   }
@@ -229,30 +252,92 @@ function appendToScanHistory(offers, date) {
   appendFileSync(SCAN_HISTORY_PATH, lines, 'utf-8');
 }
 
+// ── Heuristic fit scorer ────────────────────────────────────────────
+
+function scoreOffer(offer, profile) {
+  let score = 3.0; // baseline
+  const title = offer.title.toLowerCase();
+  const company = offer.company.toLowerCase();
+  const location = (offer.location || '').toLowerCase();
+
+  // Company tier bonus
+  const tier1 = (profile?.job_search?.priority_companies?.tier1 || []).map(c => c.toLowerCase());
+  const tier2 = (profile?.job_search?.priority_companies?.tier2 || []).map(c => c.toLowerCase());
+  if (tier1.some(c => company.includes(c) || c.includes(company))) score += 1.5;
+  else if (tier2.some(c => company.includes(c) || c.includes(company))) score += 0.8;
+
+  // New grad / entry level boost
+  const newGradTerms = ['new grad', 'entry level', 'early career', 'university', 'junior', 'associate', 'swe i', 'engineer i', '0-2'];
+  if (newGradTerms.some(t => title.includes(t))) score += 0.8;
+
+  // Seniority penalty
+  const seniorTerms = ['senior', 'staff', 'principal', 'lead', 'manager', 'director', 'head of'];
+  if (seniorTerms.some(t => title.includes(t))) score -= 1.5;
+
+  // Tech stack match bonus (Kapo's core stack)
+  const stackTerms = ['backend', 'distributed', 'platform', 'infrastructure', 'data', 'full stack', 'fullstack', 'python', 'java', 'typescript'];
+  if (stackTerms.some(t => title.includes(t))) score += 0.4;
+
+  // Location bonus
+  const preferredLocations = ['remote', 'seattle', 'provo', 'utah', 'san francisco', 'new york'];
+  if (preferredLocations.some(l => location.includes(l))) score += 0.3;
+
+  return Math.min(5.0, Math.max(1.0, Math.round(score * 10) / 10));
+}
+
+function scoreColor(score) {
+  if (score >= 4.5) return 0x57F287; // green — strong match
+  if (score >= 3.5) return 0xFEE75C; // yellow — good match
+  if (score >= 3.0) return 0xEB459E; // pink — possible
+  return 0x95A5A6;                   // grey — weak
+}
+
+function scoreLabel(score) {
+  if (score >= 4.5) return '🟢 Strong match';
+  if (score >= 3.5) return '🟡 Good match';
+  if (score >= 3.0) return '🟠 Possible';
+  return '⚪ Weak';
+}
+
 // ── Discord / Slack notifications ──────────────────────────────────
+
+const DISCORD_MIN_SCORE = 3.0; // only notify for jobs scoring ≥ this
 
 async function sendDiscordNotification(offers, webhookUrl) {
   if (!webhookUrl || offers.length === 0) return;
 
+  // Only send offers that have a score (pre-scored) and meet the threshold
+  const notable = offers.filter(o => (o.score || 0) >= DISCORD_MIN_SCORE)
+    .sort((a, b) => b.score - a.score); // best first
+
+  if (notable.length === 0) {
+    console.log('Discord: no offers above score threshold, skipping notification');
+    return;
+  }
+
   const CHUNK = 10; // Discord max embeds per message
-  for (let i = 0; i < offers.length; i += CHUNK) {
-    const chunk = offers.slice(i, i + CHUNK);
-    const embeds = chunk.map(o => ({
-      title: `${o.company} — ${o.title}`,
-      url: o.url,
-      color: 0x5865F2,
-      fields: [
-        { name: 'Location', value: o.location || 'Not specified', inline: true },
-        { name: 'Source', value: o.source || 'portal', inline: true },
-      ],
-    }));
+  for (let i = 0; i < notable.length; i += CHUNK) {
+    const chunk = notable.slice(i, i + CHUNK);
+    const embeds = chunk.map(o => {
+      const ago = timeAgo(o.postedAt);
+      return {
+        title: `${o.company} — ${o.title}`,
+        url: o.url,
+        color: scoreColor(o.score),
+        fields: [
+          { name: 'Fit Score', value: `${o.score}/5  ${scoreLabel(o.score)}`, inline: false },
+          { name: 'Posted', value: ago || 'Unknown', inline: true },
+          { name: 'Location', value: o.location || 'Not specified', inline: true },
+        ],
+      };
+    });
 
     const isFirst = i === 0;
     const body = {
       username: 'Career-Ops Scanner',
       avatar_url: 'https://em-content.zobj.net/source/twitter/376/briefcase_1f4bc.png',
       ...(isFirst && {
-        content: `⚡ **${offers.length} new SWE job${offers.length === 1 ? '' : 's'} found** — run \`/career-ops pipeline\` to evaluate`,
+        content: `⚡ **${notable.length} matching SWE job${notable.length === 1 ? '' : 's'}** (${offers.length} total found) — sorted by fit score`,
       }),
       embeds,
     };
@@ -268,10 +353,12 @@ async function sendDiscordNotification(offers, webhookUrl) {
       console.warn('Discord notification failed:', err.message);
     }
 
-    if (i + CHUNK < offers.length) {
-      await new Promise(r => setTimeout(r, 500)); // rate limit buffer
+    if (i + CHUNK < notable.length) {
+      await new Promise(r => setTimeout(r, 1500)); // respect rate limit
     }
   }
+
+  console.log(`Discord: sent ${notable.length} scored offers (${offers.length - notable.length} below threshold)`);
 }
 
 async function sendSlackNotification(offers, webhookUrl) {
@@ -364,6 +451,10 @@ async function main() {
           totalFiltered++;
           continue;
         }
+        if (isTooOld(job.postedAt)) {
+          totalFiltered++;
+          continue;
+        }
         if (seenUrls.has(job.url)) {
           totalDupes++;
           continue;
@@ -387,18 +478,26 @@ async function main() {
 
   // 5. Write results + notify
   if (!dryRun && newOffers.length > 0) {
-    appendToPipeline(newOffers);
-    appendToScanHistory(newOffers, date);
-
-    // Discord/Slack notification
+    // Load profile for scoring
+    let profile = null;
     const profilePath = 'config/profile.yml';
     if (existsSync(profilePath)) {
+      try { profile = parseYaml(readFileSync(profilePath, 'utf-8')); } catch {}
+    }
+
+    // Score every offer against candidate profile
+    const scoredOffers = newOffers.map(o => ({ ...o, score: scoreOffer(o, profile) }));
+
+    appendToPipeline(scoredOffers);
+    appendToScanHistory(scoredOffers, date);
+
+    // Discord/Slack notification
+    if (profile) {
       try {
-        const profile = parseYaml(readFileSync(profilePath, 'utf-8'));
         const discordWebhook = profile?.notify?.discord_webhook;
         const slackWebhook = profile?.notify?.slack_webhook;
-        if (discordWebhook) await sendDiscordNotification(newOffers, discordWebhook);
-        if (slackWebhook) await sendSlackNotification(newOffers, slackWebhook);
+        if (discordWebhook) await sendDiscordNotification(scoredOffers, discordWebhook);
+        if (slackWebhook) await sendSlackNotification(scoredOffers, slackWebhook);
       } catch (err) {
         console.warn('Notification error:', err.message);
       }
