@@ -131,6 +131,30 @@ title_filter:
     - "New Grad"
     - "Entry Level"
 
+# -- LinkedIn Guest API search --
+# Uses LinkedIn's unauthenticated guest endpoint — no login, no Playwright, CI-compatible.
+# ⚠ ToS note: LinkedIn prohibits automated access. No account is at risk (no auth used),
+#   but GitHub Actions IPs may be rate-limited. The scanner fails gracefully if blocked.
+# Set enabled: true to activate. Runs as part of `node scan.mjs`.
+
+linkedin_search:
+  enabled: true
+  experience_levels: "1,2,3"     # 1=Internship 2=Entry 3=Associate
+  posted_within_hours: 24        # r86400 = last 24 hrs; use 168 for 7-day net
+  work_type: ""                  # "" = all  "2" = remote only  "3" = hybrid
+  delay_between_requests_ms: 2500
+  queries:
+    - keywords: "Software Engineer New Grad"
+      location: "United States"
+    - keywords: "Entry Level Software Engineer"
+      location: "United States"
+    - keywords: "Associate Software Engineer"
+      location: "United States"
+    - keywords: "Software Engineer I"
+      location: "United States"
+    - keywords: "Junior Software Engineer"
+      location: "United States"
+
 # -- Search queries --
 # Each query triggers a WebSearch. Use site: to filter by portal.
 # The scanner extracts title, URL, and company from results.

@@ -221,7 +221,7 @@ function appendToPipeline(offers) {
     const procIdx = text.indexOf('## Procesadas');
     const insertAt = procIdx === -1 ? text.length : procIdx;
     const block = `\n${marker}\n\n` + offers.map(o =>
-      `- [ ] ${o.url} | ${o.company} | ${o.title}${o.score ? ` | score:${o.score}` : ''}${o.postedAt ? ` | posted:${o.postedAt}` : ''}`
+      `- [ ] ${o.url} | ${o.company} | ${o.title}${o.score ? ` | score:${o.score}` : ''}${o.postedAt ? ` | posted:${o.postedAt}` : ''}${o.source ? ` | source:${o.source}` : ''}`
     ).join('\n') + '\n\n';
     text = text.slice(0, insertAt) + block + text.slice(insertAt);
   } else {
@@ -231,7 +231,7 @@ function appendToPipeline(offers) {
     const insertAt = nextSection === -1 ? text.length : nextSection;
 
     const block = '\n' + offers.map(o =>
-      `- [ ] ${o.url} | ${o.company} | ${o.title}${o.score ? ` | score:${o.score}` : ''}${o.postedAt ? ` | posted:${o.postedAt}` : ''}`
+      `- [ ] ${o.url} | ${o.company} | ${o.title}${o.score ? ` | score:${o.score}` : ''}${o.postedAt ? ` | posted:${o.postedAt}` : ''}${o.source ? ` | source:${o.source}` : ''}`
     ).join('\n') + '\n';
     text = text.slice(0, insertAt) + block + text.slice(insertAt);
   }
@@ -399,6 +399,117 @@ async function parallelFetch(tasks, limit) {
   return results;
 }
 
+// ── LinkedIn Guest API scanner ──────────────────────────────────────
+// Uses the unauthenticated guest endpoint — no login, no Playwright, CI-compatible.
+// LinkedIn ToS prohibits automation but no account is at risk here (no credentials).
+// GitHub Actions shared IPs can get 429s; all errors are non-fatal.
+
+function parseLinkedInHtml(html) {
+  // Extract per-card fields by splitting on the entity-urn attribute
+  const jobIds = [...html.matchAll(/data-entity-urn="urn:li:jobPosting:(\d+)"/g)].map(m => m[1]);
+  const titles = [...html.matchAll(/<h3[^>]*class="[^"]*base-search-card__title[^"]*"[^>]*>\s*([\s\S]*?)\s*<\/h3>/g)].map(m => m[1].replace(/<[^>]+>/g, '').trim());
+  const companies = [...html.matchAll(/<h4[^>]*class="[^"]*base-search-card__subtitle[^"]*"[^>]*>[\s\S]*?<a[^>]*>\s*([\s\S]*?)\s*<\/a>/g)].map(m => m[1].replace(/<[^>]+>/g, '').trim());
+  const locations = [...html.matchAll(/<span[^>]*class="[^"]*job-search-card__location[^"]*"[^>]*>\s*([\s\S]*?)\s*<\/span>/g)].map(m => m[1].replace(/<[^>]+>/g, '').trim());
+  const dates = [...html.matchAll(/<time[^>]*datetime="([^"]+)"/g)].map(m => m[1]);
+
+  const jobs = [];
+  for (let i = 0; i < jobIds.length; i++) {
+    if (!jobIds[i] || !titles[i]) continue;
+    jobs.push({
+      title: titles[i],
+      url: `https://www.linkedin.com/jobs/view/${jobIds[i]}`,
+      company: companies[i] || 'Unknown',
+      location: locations[i] || '',
+      postedAt: dates[i] ? new Date(dates[i]).toISOString() : null,
+    });
+  }
+  return jobs;
+}
+
+async function fetchLinkedInPage(keywords, location, start, liConfig) {
+  const params = new URLSearchParams({
+    keywords,
+    location,
+    start: String(start),
+    count: '25',
+    f_E: liConfig.experience_levels || '1,2,3',
+    f_TPR: `r${(liConfig.posted_within_hours || 24) * 3600}`,
+  });
+  if (liConfig.work_type) params.set('f_WT', liConfig.work_type);
+
+  const url = `https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?${params}`;
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), FETCH_TIMEOUT_MS);
+  try {
+    const res = await fetch(url, {
+      signal: controller.signal,
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml',
+        'Accept-Language': 'en-US,en;q=0.9',
+      },
+    });
+    if (res.status === 429) throw new Error('rate-limited (429)');
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    return await res.text();
+  } finally {
+    clearTimeout(timer);
+  }
+}
+
+async function scanLinkedIn(config, titleFilter, seenUrls, seenCompanyRoles) {
+  const liConfig = config.linkedin_search;
+  if (!liConfig || liConfig.enabled === false) return [];
+
+  const queries = liConfig.queries || [];
+  if (queries.length === 0) return [];
+
+  const delay = liConfig.delay_between_requests_ms || 2500;
+  const newOffers = [];
+
+  console.log(`\nLinkedIn: scanning ${queries.length} queries (guest API)...`);
+
+  for (const query of queries) {
+    const { keywords, location = 'United States' } = query;
+    let start = 0;
+
+    while (start < 75) { // max 3 pages (75 results) per query
+      try {
+        const html = await fetchLinkedInPage(keywords, location, start, liConfig);
+        const jobs = parseLinkedInHtml(html);
+        if (jobs.length === 0) break;
+
+        for (const job of jobs) {
+          if (!titleFilter(job.title)) continue;
+          if (isTooOld(job.postedAt)) continue;
+          if (seenUrls.has(job.url)) continue;
+          const key = `${job.company.toLowerCase()}::${job.title.toLowerCase()}`;
+          if (seenCompanyRoles.has(key)) continue;
+          seenUrls.add(job.url);
+          seenCompanyRoles.add(key);
+          newOffers.push({ ...job, source: 'linkedin-guest' });
+        }
+
+        start += 25;
+        if (jobs.length < 25) break; // last page
+
+        if (start < 75) await new Promise(r => setTimeout(r, delay));
+      } catch (err) {
+        console.warn(`  LinkedIn "${keywords}" (start=${start}): ${err.message} — skipping`);
+        break;
+      }
+    }
+
+    // Pause between queries to avoid triggering rate limits
+    if (queries.indexOf(query) < queries.length - 1) {
+      await new Promise(r => setTimeout(r, delay));
+    }
+  }
+
+  console.log(`LinkedIn: ${newOffers.length} new offer${newOffers.length === 1 ? '' : 's'} found`);
+  return newOffers;
+}
+
 // ── Main ────────────────────────────────────────────────────────────
 
 async function main() {
@@ -477,6 +588,12 @@ async function main() {
   });
 
   await parallelFetch(tasks, CONCURRENCY);
+
+  // 4b. LinkedIn guest API scan (opt-in)
+  if (!filterCompany) { // skip LinkedIn when scanning a single company
+    const linkedInOffers = await scanLinkedIn(config, titleFilter, seenUrls, seenCompanyRoles);
+    newOffers.push(...linkedInOffers);
+  }
 
   // 5. Write results + notify
   if (!dryRun && newOffers.length > 0) {
