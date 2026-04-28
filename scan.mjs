@@ -221,7 +221,7 @@ function appendToPipeline(offers) {
     const procIdx = text.indexOf('## Procesadas');
     const insertAt = procIdx === -1 ? text.length : procIdx;
     const block = `\n${marker}\n\n` + offers.map(o =>
-      `- [ ] ${o.url} | ${o.company} | ${o.title}${o.score ? ` | score:${o.score}` : ''}${o.postedAt ? ` | posted:${o.postedAt.slice(0, 10)}` : ''}`
+      `- [ ] ${o.url} | ${o.company} | ${o.title}${o.score ? ` | score:${o.score}` : ''}${o.postedAt ? ` | posted:${o.postedAt}` : ''}`
     ).join('\n') + '\n\n';
     text = text.slice(0, insertAt) + block + text.slice(insertAt);
   } else {
@@ -231,7 +231,7 @@ function appendToPipeline(offers) {
     const insertAt = nextSection === -1 ? text.length : nextSection;
 
     const block = '\n' + offers.map(o =>
-      `- [ ] ${o.url} | ${o.company} | ${o.title}${o.score ? ` | score:${o.score}` : ''}${o.postedAt ? ` | posted:${o.postedAt.slice(0, 10)}` : ''}`
+      `- [ ] ${o.url} | ${o.company} | ${o.title}${o.score ? ` | score:${o.score}` : ''}${o.postedAt ? ` | posted:${o.postedAt}` : ''}`
     ).join('\n') + '\n';
     text = text.slice(0, insertAt) + block + text.slice(insertAt);
   }
@@ -324,10 +324,12 @@ async function sendDiscordNotification(offers, webhookUrl) {
         title: `${o.company} — ${o.title}`,
         url: o.url,
         color: scoreColor(o.score),
+        description: `\`\`\`\n${o.url}\n\`\`\``,
         fields: [
           { name: 'Fit Score', value: `${o.score}/5  ${scoreLabel(o.score)}`, inline: false },
           { name: 'Posted', value: ago || 'Unknown', inline: true },
           { name: 'Location', value: o.location || 'Not specified', inline: true },
+          { name: 'Evaluate', value: `\`/career-ops apply ${o.url}\``, inline: false },
         ],
       };
     });
@@ -432,7 +434,7 @@ async function main() {
   const seenCompanyRoles = loadSeenCompanyRoles();
 
   // 4. Fetch all APIs
-  const date = new Date().toISOString().slice(0, 10);
+  const date = new Date().toISOString(); // full ISO datetime for precision
   let totalFound = 0;
   let totalFiltered = 0;
   let totalDupes = 0;

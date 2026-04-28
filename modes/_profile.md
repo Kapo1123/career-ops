@@ -20,11 +20,11 @@
 
 | If the role is... | Emphasize about Kapo... | Proof point sources |
 |-------------------|------------------------|---------------------|
-| Backend / Distributed Systems | 500% pipeline scale, 6x latency reduction, Cassandra migration, Kafka/Pulsar/Spark | cv.md internship bullets |
-| Full Stack | Housing marketplace (secured $50K), Spotibot AI, Django + Next.js + TypeScript | cv.md projects + contract role |
-| Data / Platform | DataStore scale, BigTable, Spark, storage 47% reduction, subscription pipeline | cv.md internship bullets |
-| ML Infra / AI | Voice agent (60% cost reduction, 1.2s response), multi-agent systems, OpenAI API | cv.md Grange YSC bullets |
-| DevOps / Cloud | AWS (EC2, ECS, S3, Lambda, DynamoDB, API Gateway), GKE, Docker, Kubernetes | cv.md skills section |
+| Backend / Distributed Systems | 500% pipeline scale (Databricks), 4x latency reduction, Spark Spot -50%, AWS | cv.md Lucid Software bullets |
+| Full Stack | Housing marketplace ($50K funding), Spotify Playlist AI, Django + Next.js + React + TypeScript | cv.md projects + Nebula |
+| Data / Platform | Databricks, Spark, Snowflake, Kafka, 67% storage+compute reduction, 500% pipeline scale | cv.md Lucid Software bullets |
+| ML Infra / AI | Voice agent (85% cost reduction, ~1.2s response), led 7-engineer team, OpenAI API | cv.md Gmango bullets |
+| DevOps / Cloud | AWS (ECS, EC2, EKS, S3, Lambda, API Gateway), Docker, Kubernetes, Datadog, Grafana | cv.md skills section |
 
 ## Your Exit Narrative
 
@@ -32,11 +32,11 @@ Use this framing across all content:
 
 **Headline:** New grad CS engineer who has shipped production distributed systems at scale — data pipelines, voice AI, and full-stack apps — with real-world impact from Day 1.
 
-**Story:** Graduated BYU Computer Science (Dec 2025) after shipping production systems at 3 companies before graduation. I've scaled data pipelines 500%, built voice agents saving 60% in processing costs, and containerized infrastructure — all as a student and new grad. I work best in fast-moving engineering teams where ownership is high and the tech is hard.
+**Story:** Graduated BYU Computer Science (Dec 2025) after shipping production systems at 3 companies before graduation. I've scaled data pipelines 500% with Databricks, built voice agents saving 85% in processing costs, led a 7-engineer team to 50% faster delivery — all as a student and new grad. I work best in fast-moving engineering teams where ownership is high and the tech is hard.
 
-**In PDF summaries:** Bridge from proven track record (internship + founding engineer) to full-time impact at [company].
+**In PDF summaries:** Bridge from proven track record (Lucid Software internship + Gmango Founding Engineer) to full-time impact at [company].
 
-**In STAR stories:** Lead with concrete metrics (500%, 6x, 60%, 47%) drawn from cv.md.
+**In STAR stories:** Lead with concrete metrics (500%, 4x, 85%, 67%, 50%) drawn from cv.md.
 
 **In draft answers:** Start with the "shipped real systems" angle before graduation → ties into new grad positioning without underselling experience.
 
@@ -46,14 +46,26 @@ Use this framing across all content:
 
 Secondary angle: breadth across backend, data, cloud, and AI tooling. Not a specialist yet, but competent across the full stack.
 
-## Sponsorship — HARD FILTER
+## Authorization & Location — HARD FILTERS
 
-**Kapo is on OPT and requires H1B sponsorship.**
+**Kapo is on OPT, requires H1B sponsorship, and is only looking for US-based roles.**
 
+### Sponsorship
 - If a JD says "no sponsorship" or "must be authorized to work without sponsorship" → **hard reject, cap score at 2.0**
 - If a JD is silent on sponsorship → note as "sponsorship policy unknown, verify before applying"
 - If a company is known to sponsor (FAANG, large tech) → note as "likely sponsors, confirm with recruiter"
 - Always include a sponsorship note in Block A of every evaluation report
+
+### Clearance / Citizenship / Green Card — IMMEDIATE DISQUALIFY
+- If a JD requires **any security clearance** (TS/SCI, Secret, Top Secret, DoD, Public Trust, NATO) → **hard reject, score 1.0 — do not evaluate further**
+- If a JD requires **US citizenship** or states "must be a US citizen" → **hard reject, score 1.0**
+- If a JD requires a **green card / permanent residency** as a condition → **hard reject, score 1.0**
+- Note the exact disqualifying phrase in Block A and recommend SKIP status
+
+### US Only
+- Only evaluate roles that are **US-based or US-remote**
+- If a role is explicitly EU-only, EMEA-only, or requires relocation outside the US → **hard reject, cap score at 1.5**
+- Remote roles must confirm US eligibility before applying
 
 ## Scoring Adjustments for New Grad
 
@@ -92,7 +104,7 @@ Research: levels.fyi for new grad SWE comp by company before finalizing any nego
 > "Based on levels.fyi data for new grad SWE at this company size, I'm targeting $[RANGE]. I'm flexible on structure — what matters is the total package and the role."
 
 **When asked about years of experience:**
-> "I graduated in December 2025, but I've been shipping production code for 2+ years across internships and a founding engineer role. I've scaled pipelines to 100k+ users, cut latency 6x, and built voice agents — I hit the ground running."
+> "I graduated in December 2025, but I've been shipping production code for 2+ years across internships and a founding engineer role. I've scaled pipelines 500% with Databricks, cut latency 4x, and built voice agents saving 85% in costs — I hit the ground running."
 
 **When offered below target:**
 > "I'm comparing with offers in the $[higher range]. I'm excited about [company] because of [specific reason]. Can we get closer to $[target]?"

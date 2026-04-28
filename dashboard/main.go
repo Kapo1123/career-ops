@@ -21,12 +21,14 @@ const (
 	viewPipeline viewState = iota
 	viewReport
 	viewProgress
+	viewStoryBank
 )
 
 type appModel struct {
 	pipeline        screens.PipelineModel
 	viewer          screens.ViewerModel
 	progress        screens.ProgressModel
+	storyBank       screens.StoryBankModel
 	state           viewState
 	careerOpsPath   string
 	theme           theme.Theme
@@ -105,6 +107,15 @@ func (m appModel) Update(msg tea.Msg) (tea.Model, tea.Cmd) {
 		m.state = viewPipeline
 		return m, nil
 
+	case screens.StoryBankClosedMsg:
+		m.state = viewPipeline
+		return m, nil
+
+	case screens.StoryAIResultMsg:
+		sb, cmd := m.storyBank.Update(msg)
+		m.storyBank = sb
+		return m, cmd
+
 	case screens.PipelineOpenURLMsg:
 		url := msg.URL
 		return m, func() tea.Msg {
@@ -134,6 +145,27 @@ func (m appModel) Update(msg tea.Msg) (tea.Model, tea.Cmd) {
 			m.progress = pg
 			return m, cmd
 		}
+		if m.state == viewStoryBank {
+			// Handle editor-done msg: reload stories
+			if edMsg, ok := msg.(screens.StoryEditorDoneMsg); ok {
+				_ = edMsg
+				m.storyBank.Reload()
+				return m, nil
+			}
+			sb, cmd := m.storyBank.Update(msg)
+			m.storyBank = sb
+			return m, cmd
+		}
+		// Check for story bank shortcut from pipeline
+		if keyMsg, ok := msg.(tea.KeyMsg); ok && keyMsg.String() == "b" {
+			m.storyBank = screens.NewStoryBankModel(
+				m.theme,
+				m.careerOpsPath,
+				m.pipeline.Width(), m.pipeline.Height(),
+			)
+			m.state = viewStoryBank
+			return m, nil
+		}
 		pm, cmd := m.pipeline.Update(msg)
 		m.pipeline = pm
 		return m, cmd
@@ -146,6 +178,8 @@ func (m appModel) View() string {
 		return m.viewer.View()
 	case viewProgress:
 		return m.progress.View()
+	case viewStoryBank:
+		return m.storyBank.View()
 	default:
 		return m.pipeline.View()
 	}
