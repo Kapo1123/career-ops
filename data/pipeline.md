@@ -828,3 +828,12 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4407349939 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-04-30T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4408748046 | U.S. Venture, Inc. | Software Engineer I - IGEN | score:3.8 | location:Appleton, WI | posted:2026-04-30T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4407397192 | targetjobs UK | Graduate Software Engineer | score:3 | location:Carlisle, PA | posted:2026-04-30T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/mongodb/jobs/7381061 | MongoDB | Software Engineer 2 | score:3 | location:Sydney | posted:2026-04-30T13:04:02-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/mongodb/jobs/7597723 | MongoDB | Software Engineer 3 | score:3 | location:Gurugram | posted:2026-04-30T13:04:02-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/mongodb/jobs/7523920 | MongoDB | Software Engineer 3, Atlas Search Systems | score:3.3 | location:San Francisco | posted:2026-04-30T13:04:02-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/mongodb/jobs/7745890 | MongoDB | Software Engineer 3, DevTools | score:3 | location:Dublin | posted:2026-04-30T13:04:02-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/mongodb/jobs/7311708 | MongoDB | Software Engineer, Code Generation | score:3 | location:British Columbia; Calgary | posted:2026-04-30T13:04:02-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4407053017 | Emonics LLC | Software Engineer | score:3 | location:Detroit, MI | posted:2026-04-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4406404999 | OpenAI | Software Engineer, Post-Training Research | score:3.3 | location:San Francisco, CA | posted:2026-04-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4398600507 | Mastech Digital | Junior Software Engineer | score:3.8 | location:Corning, NY | posted:2026-04-29T00:00:00.000Z | source:linkedin-guest
