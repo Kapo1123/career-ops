@@ -785,3 +785,46 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4384413217 | WHOOP | Software Engineer I (Frontend, Growth) | score:3.8 | location:Boston, MA | posted:2026-04-29T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4385678571 | Aurora | Software Engineer I | score:3.8 | location:Mountain View, CA | posted:2026-04-29T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4408090019 | GE HealthCare | Software Engineer I | score:3.8 | location:Beachwood, OH | posted:2026-04-29T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://app.careerpuck.com/job-board/lyft/job/8527740002?gh_jid=8527740002 | Lyft | Software Engineer, Ad Infra   | score:3.8 | location:Toronto, Canada | posted:2026-04-30T10:35:40-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/mongodb/jobs/7613695 | MongoDB | Software Engineer 2 | score:3 | location:Dublin | posted:2026-04-30T13:04:02-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/mongodb/jobs/7719763 | MongoDB | Software Engineer 3 | score:3 | location:Alberta; British Columbia; Calgary; Edmonton; Nova Scotia; Ontario; Ottawa; Quebec; Toronto; Vancouver | posted:2026-04-30T13:04:02-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/mongodb/jobs/7579042 | MongoDB | Software Engineer 3, Atlas Clusters | score:3 | location:Dublin | posted:2026-04-30T13:04:02-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/mongodb/jobs/7551186 | MongoDB |  Software Engineer 3, Atlas Data Federation Customer Experience | score:3.7 | location:New York City | posted:2026-04-30T13:04:02-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/mongodb/jobs/7662950 | MongoDB | Software Engineer 3, Atlas Search Systems | score:3 | location:Toronto | posted:2026-04-30T13:04:02-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/mongodb/jobs/7523911 | MongoDB | Software Engineer 3, Atlas Vector Search | score:3.3 | location:San Francisco | posted:2026-04-30T13:04:02-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/mongodb/jobs/7736144 | MongoDB | Software Engineer 3, Cloud Alerts Platform | score:3.4 | location:Dublin | posted:2026-04-30T13:04:02-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/mongodb/jobs/7717350 | MongoDB | Software Engineer 3, Customer Observability | score:3 | location:Dublin | posted:2026-04-30T13:04:02-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/mongodb/jobs/7766302 | MongoDB | Software Engineer 3, DevTools | score:3 | location:Ireland | posted:2026-04-30T13:04:02-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/mongodb/jobs/7581867 | MongoDB | Software Engineer 3, Private Cloud Backup | score:3 | location:Dublin; Ireland | posted:2026-04-30T13:04:02-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/mongodb/jobs/7699932 | MongoDB | software engineer 3, query execution | score:3 | location:Dublin | posted:2026-04-30T13:04:02-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/mongodb/jobs/7816135 | MongoDB | Software Engineer 3 - Query Optimization | score:3.3 | location:Atlanta; Boston; New York City | posted:2026-04-30T13:04:02-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/mongodb/jobs/7235322 | MongoDB | Software Engineer 3, Search Systems Replication & Routing | score:3.3 | location:San Francisco | posted:2026-04-30T13:04:02-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/mongodb/jobs/7411027 | MongoDB | Software Engineer, Atlas Growth | score:3 | location:Dublin; Ireland | posted:2026-04-30T13:04:02-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/mongodb/jobs/7311666 | MongoDB | Software Engineer, Code Generation | score:3.3 | location:California; Colorado; Montana; Nevada; New Mexico; Oregon; Utah; Washington | posted:2026-04-30T13:04:02-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/mongodb/jobs/7672662 | MongoDB | Software Engineer, Networking & Observability | score:3 | location:Alberta; British Columbia; Manitoba; Nova Scotia; Ontario; Quebec | posted:2026-04-30T13:04:02-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/n8n/b36e40e4-19d8-4d7e-a9b2-bddc9a59a63e | n8n | Sr Cloud Engineer | Europe remote | score:3 | location:Berlin Office | posted:2026-04-30T15:10:55.709+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/openai/f381868f-7b0a-4b22-b215-71c7f5c1b498 | OpenAI | Software Engineer, Post-Training Research | score:3.3 | location:San Francisco | posted:2026-04-29T22:34:31.350+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/openai/6d403ec9-d5d3-4754-9092-8fd5e659562a | OpenAI | Software Engineer, Productivity - Model Performance | score:3.3 | location:San Francisco | posted:2026-04-29T20:36:15.860+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4374834620 | Giga | Software Engineer (New Grads) | score:4.1 | location:New York, NY | posted:2026-04-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4395472709 | NVIDIA | Deep Learning Software Engineer, TensorRT Performance - New College Grad 2026 | score:3 | location:Santa Clara, CA | posted:2026-04-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4395489150 | NVIDIA | Software Engineer, Hardware Tools and Methodology - New College Grad 2026 | score:3 | location:Santa Clara, CA | posted:2026-04-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4409011928 | Symbotic | New Grad- System Engineer | score:3.8 | location:New Braunfels, TX | posted:2026-04-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4406426014 | BeaconFire Inc. | Entry Level- Software Engineer | score:3.8 | location:New Jersey, United States | posted:2026-04-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4409005892 | NetApp | NetApp Emerging Talent - Entry Level Software Engineer (Systems) | score:3.8 | location:San Jose, CA | posted:2026-04-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4406493987 | BAE Systems, Inc. | Entry Level Software Engineer | score:3.8 | location:Totowa, NJ | posted:2026-04-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4409018569 | NetApp | NetApp Emerging Talent - Entry Level Software Engineer (Cloud Storage) | score:3.8 | location:San Jose, CA | posted:2026-04-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4407031976 | Emonics LLC | Software Engineer | score:3 | location:San Diego, CA | posted:2026-04-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4407092022 | Brooksource | Software Engineer | score:3 | location:Dearborn, MI | posted:2026-04-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4374838577 | Giga | Software Engineer I / II | score:4.1 | location:New York, NY | posted:2026-04-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4408580232 | Mayo Clinic | Associate Software Engineer | score:3.8 | location:Rochester, MN | posted:2026-04-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4406421234 | FixMedia | Junior Software Developer | score:3.8 | location:United States | posted:2026-04-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4407058079 | Cisco | Software Engineer | score:3 | location:North Carolina, United States | posted:2026-04-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4398647092 | Robinhood | Software Engineer, Backend | score:4.2 | location:Menlo Park, CA | posted:2026-04-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4408780312 | Cox Automotive Inc. | Software Engineer I | score:3.8 | location:Irvine, CA | posted:2026-04-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4407610776 | Jack Henry | Software Engineer Apprentice | score:3 | location:Lenexa, KS | posted:2026-04-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4368472331 | Cadence | Software Engineer I | score:3.8 | location:San Jose, CA | posted:2026-04-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4398602122 | TGW Logistics | Software Engineer I (M/F/D)* | score:3.8 | location:Grand Rapids, MI | posted:2026-04-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4407349939 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-04-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4408748046 | U.S. Venture, Inc. | Software Engineer I - IGEN | score:3.8 | location:Appleton, WI | posted:2026-04-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4407397192 | targetjobs UK | Graduate Software Engineer | score:3 | location:Carlisle, PA | posted:2026-04-30T00:00:00.000Z | source:linkedin-guest
