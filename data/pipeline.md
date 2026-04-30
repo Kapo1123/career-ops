@@ -837,3 +837,10 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4407053017 | Emonics LLC | Software Engineer | score:3 | location:Detroit, MI | posted:2026-04-29T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4406404999 | OpenAI | Software Engineer, Post-Training Research | score:3.3 | location:San Francisco, CA | posted:2026-04-29T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4398600507 | Mastech Digital | Junior Software Engineer | score:3.8 | location:Corning, NY | posted:2026-04-29T00:00:00.000Z | source:linkedin-guest
+
+- [ ] http://block.xyz/careers/jobs/5196181008?gh_jid=5196181008 | Block (Square) | Software Engineer, Cash App Banking | score:3 | location:Bay Area, CA, United States of America | posted:2026-04-30T18:15:47-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4406752131 | Mastercard | Software Engineer II | score:3.8 | location:O'Fallon, MO | posted:2026-04-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4249515331 | Rilla | Software Engineer | score:3.3 | location:New York, NY | posted:2026-04-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4407635578 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-04-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4409001844 | Esri | Software Engineer I – AI Assistant Framework, ArcGIS Enterprise | score:3.8 | location:Redlands, CA | posted:2026-04-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4409032967 | Arthrex | Software Engineer I- Realtime Engine | score:3.8 | location:Naples, FL | posted:2026-04-30T00:00:00.000Z | source:linkedin-guest
