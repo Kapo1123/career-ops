@@ -221,7 +221,7 @@ function appendToPipeline(offers) {
     const procIdx = text.indexOf('## Procesadas');
     const insertAt = procIdx === -1 ? text.length : procIdx;
     const block = `\n${marker}\n\n` + offers.map(o =>
-      `- [ ] ${o.url} | ${o.company} | ${o.title}${o.score ? ` | score:${o.score}` : ''}${o.postedAt ? ` | posted:${o.postedAt}` : ''}${o.source ? ` | source:${o.source}` : ''}`
+      `- [ ] ${o.url} | ${o.company} | ${o.title}${o.score ? ` | score:${o.score}` : ''}${o.location ? ` | location:${o.location}` : ''}${o.postedAt ? ` | posted:${o.postedAt}` : ''}${o.source ? ` | source:${o.source}` : ''}`
     ).join('\n') + '\n\n';
     text = text.slice(0, insertAt) + block + text.slice(insertAt);
   } else {
@@ -231,7 +231,7 @@ function appendToPipeline(offers) {
     const insertAt = nextSection === -1 ? text.length : nextSection;
 
     const block = '\n' + offers.map(o =>
-      `- [ ] ${o.url} | ${o.company} | ${o.title}${o.score ? ` | score:${o.score}` : ''}${o.postedAt ? ` | posted:${o.postedAt}` : ''}${o.source ? ` | source:${o.source}` : ''}`
+      `- [ ] ${o.url} | ${o.company} | ${o.title}${o.score ? ` | score:${o.score}` : ''}${o.location ? ` | location:${o.location}` : ''}${o.postedAt ? ` | posted:${o.postedAt}` : ''}${o.source ? ` | source:${o.source}` : ''}`
     ).join('\n') + '\n';
     text = text.slice(0, insertAt) + block + text.slice(insertAt);
   }
@@ -242,11 +242,11 @@ function appendToPipeline(offers) {
 function appendToScanHistory(offers, date) {
   // Ensure file + header exist
   if (!existsSync(SCAN_HISTORY_PATH)) {
-    writeFileSync(SCAN_HISTORY_PATH, 'url\tfirst_seen\tportal\ttitle\tcompany\tstatus\n', 'utf-8');
+    writeFileSync(SCAN_HISTORY_PATH, 'url\tfirst_seen\tportal\ttitle\tcompany\tstatus\tlocation\n', 'utf-8');
   }
 
   const lines = offers.map(o =>
-    `${o.url}\t${date}\t${o.source}\t${o.title}\t${o.company}\tadded`
+    `${o.url}\t${date}\t${o.source}\t${o.title}\t${o.company}\tadded\t${o.location || ''}`
   ).join('\n') + '\n';
 
   appendFileSync(SCAN_HISTORY_PATH, lines, 'utf-8');

@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh run *)",
+      "Bash(git -C /Users/kwokkapo/Desktop/Resume/career-ops status)",
+      "Bash(git -C /Users/kwokkapo/Desktop/Resume/career-ops diff)",
+      "Bash(git -C /Users/kwokkapo/Desktop/Resume/career-ops restore --staged config/profile.yml modes/_profile.md portals.yml)",
+      "Bash(git -C /Users/kwokkapo/Desktop/Resume/career-ops add .github/workflows/test.yml .github/workflows/codeql.yml .github/workflows/labeler.yml .github/workflows/dependency-review.yml .github/workflows/sbom.yml config/profile.yml modes/_profile.md portals.yml dashboard/main.go dashboard/internal/data/story.go dashboard/internal/model/story.go dashboard/internal/ui/screens/storybank.go interview-prep/story-bank.md package.json scan.mjs)",
+      "Bash(git -C /Users/kwokkapo/Desktop/Resume/career-ops commit -m ' *)",
+      "Bash(git -C /Users/kwokkapo/Desktop/Resume/career-ops push)",
+      "Bash(git -C /Users/kwokkapo/Desktop/Resume/career-ops add dashboard/internal/ui/screens/pipeline.go)",
+      "Bash(node merge-tracker.mjs)",
+      "WebFetch(domain:job-boards.greenhouse.io)"
+    ]
+  }
+}

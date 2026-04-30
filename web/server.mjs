@@ -73,7 +73,7 @@ app.get('/api/jobs', (req, res) => {
 
   const rows = parseTsv(readFile('data/scan-history.tsv'));
   let jobs = rows.map(r => ({
-    url: r[0], date: r[1], source: r[2], title: r[3], company: r[4], status: r[5],
+    url: r[0], date: r[1], source: r[2], title: r[3], company: r[4], status: r[5], location: r[6] || '',
   }));
 
   if (q) {
@@ -129,6 +129,7 @@ app.get('/api/pipeline', (req, res) => {
       company: parts[0] || '',
       title: parts[1] || '',
       score: parts.find(p => p.startsWith('score:'))?.replace('score:', '') || null,
+      location: parts.find(p => p.startsWith('location:'))?.replace('location:', '') || null,
       posted,
     });
   }

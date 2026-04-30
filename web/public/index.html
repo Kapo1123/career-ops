@@ -368,6 +368,7 @@ function renderPipeline() {
           </div>
           <div class="fw-semibold text-truncate">${j.company || 'Unknown'}</div>
           <div class="text-secondary text-truncate small">${j.title || j.url}</div>
+          ${j.location ? `<div class="text-secondary text-truncate" style="font-size:0.72rem"><i class="bi bi-geo-alt"></i> ${j.location}</div>` : ''}
           ${j.posted ? `<div class="text-secondary d-flex align-items-center gap-1 mt-1" style="font-size:0.72rem"
             title="${new Date(j.posted).toLocaleString('en-US',{month:'short',day:'numeric',year:'numeric',hour:'numeric',minute:'2-digit'})}">
             🕐 ${timeAgo(j.posted)}</div>` : ''}
@@ -481,6 +482,7 @@ async function loadScanner() {
           </div>
           <div class="fw-semibold text-truncate">${j.company || '—'}</div>
           <div class="text-secondary small text-truncate">${j.title || '—'}</div>
+          ${j.location ? `<div class="text-secondary text-truncate" style="font-size:0.72rem"><i class="bi bi-geo-alt"></i> ${j.location}</div>` : ''}
           <div class="mt-2 d-flex gap-1 flex-wrap">
             <a href="${j.url}" target="_blank" class="btn btn-xs btn-outline-secondary py-0 px-1" style="font-size:0.7rem"><i class="bi bi-box-arrow-up-right"></i> Open</a>
             <button class="btn btn-xs btn-outline-info py-0 px-1" style="font-size:0.7rem" onclick="copyToClipboard('${escAttr(j.url)}')"><i class="bi bi-clipboard"></i> Copy</button>

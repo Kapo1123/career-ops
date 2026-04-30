@@ -13,23 +13,34 @@ candidate:
 
 target_roles:
   primary:
+    # New grad track (graduated Dec 2025, within 12-month window)
     - "Software Engineer (New Grad)"
     - "SWE I"
     - "Junior Software Engineer"
     - "Associate Software Engineer"
     - "Backend Engineer (New Grad)"
+    # Junior / early-career track (Gmango founding eng experience qualifies)
+    - "Software Engineer II"
+    - "SWE II"
+    - "Software Engineer (0-2 years)"
+    - "Backend Engineer"
+    - "Software Engineer L4"
+  experience_filter:
+    max_years_required: 2        # Skip roles requiring 3+ years
+    accept_new_grad: true        # Still apply to new grad postings
+    accept_junior: true          # Also apply to 0-2 year junior roles
   archetypes:
     - name: "Backend SWE"
-      level: "New Grad / Entry"
+      level: "New Grad / Junior (L3–L4)"
       fit: "primary"
     - name: "Full Stack SWE"
-      level: "New Grad / Entry"
+      level: "New Grad / Junior (L3–L4)"
       fit: "secondary"
     - name: "Data / Platform Engineer"
-      level: "New Grad / Entry"
+      level: "New Grad / Junior (L3–L4)"
       fit: "secondary"
     - name: "ML Infra / AI Tooling"
-      level: "New Grad / Entry"
+      level: "New Grad / Junior (L3–L4)"
       fit: "adjacent"
 
 narrative:
@@ -81,8 +92,8 @@ job_search:
     tier2: ["Stripe", "Figma", "Notion", "Databricks", "Snowflake", "Airbnb", "Coinbase", "Robinhood", "Lyft", "DoorDash"]
     interview_practice: ["startups Series A-C"]
   sponsorship_required: true    # Hard filter — companies that say "no sponsorship" → reject
-  target_level: "new-grad"      # Only new grad / entry level roles
-  avoid_roles_requiring_years: 3  # Reject if JD explicitly requires 3+ years experience
+  target_level: "new-grad-or-junior"  # New grad (L3/SWE I) AND junior (L4/SWE II, 0-2 yrs)
+  avoid_roles_requiring_years: 3      # Reject if JD explicitly requires 3+ years experience
   us_only: true                 # Only US-based or US-remote roles
   hard_filters:
     - "no_clearance"            # Reject any role requiring security clearance (TS/SCI, Secret, etc.)
