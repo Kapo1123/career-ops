@@ -1,7 +1,6 @@
 name: Release Please
 on:
-  push:
-    branches: [main]
+  workflow_dispatch: # disabled for personal forks — trigger manually if needed
 
 permissions:
   contents: write
