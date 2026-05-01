@@ -864,3 +864,10 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4368445060 | SpaceX | Backend Software Engineer, GNC (Starlink) | score:3.4 | location:Redmond, WA | posted:2026-04-30T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4409120881 | Fuser | Jr. Full Stack Engineer | score:3.4 | location:Los Angeles, CA | posted:2026-05-01T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4409076956 | Levi, Ray &amp; Shoup, Inc. (LRS) | Junior Software Developer - Java/Python (46105) | score:4.2 | location:St Louis, MO | posted:2026-04-30T00:00:00.000Z | source:linkedin-guest
+
+- [ ] http://block.xyz/careers/jobs/5196183008?gh_jid=5196183008 | Block (Square) | Software Engineer, Cash App Banking | score:3 | location:Toronto, Ontario, Canada | posted:2026-05-01T12:54:34-04:00 | source:greenhouse-api
+- [ ] https://jobs.lever.co/palantir/ce20af4c-4de3-4079-bbdf-bc30a2e25404 | Palantir | Edge Infrastructure Engineer | score:3.4 | location:Paris, France | posted:2026-05-01T09:04:34.932Z | source:lever-api
+- [ ] https://www.linkedin.com/jobs/view/4359950598 | Light &amp; Wonder | Software Engineer | score:3 | location:Nevada, United States | posted:2026-05-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4409134058 | enGen | Associate Software Engineer | score:3.8 | location:Erie-Meadville Area | posted:2026-05-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4368890524 | SpaceX | Application Software Engineer | score:3 | location:Redmond, WA | posted:2026-05-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4409104789 | Quevera | Software Engineer 1 (DM) | score:3 | location:Hanover, MD | posted:2026-05-01T00:00:00.000Z | source:linkedin-guest
