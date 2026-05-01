@@ -874,3 +874,9 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 
 - [ ] https://jobs.lever.co/spotify/0f8f7921-bcb4-444c-8ceb-4d3fa6459493 | Spotify | Backend Engineer - Music | score:3.7 | location:New York, NY | posted:2026-05-01T18:25:53.765Z | source:lever-api
 - [ ] https://www.linkedin.com/jobs/view/4409442711 | Axon | Software Engineer I | score:4.1 | location:Seattle, WA | posted:2026-05-01T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://boards.greenhouse.io/robinhood/jobs/7263578?t=gh_src=&gh_jid=7263578 | Robinhood | Software Engineer, Backend | score:4.2 | location:Menlo Park, CA | posted:2026-05-01T16:04:32-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4409533037 | Uber | Software Engineer I | score:3.8 | location:Sunnyvale, CA | posted:2026-05-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4409149752 | ComboCurve | Software Engineer, Python Backend (HK backfill) | score:3.4 | location:Texas, United States | posted:2026-05-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4407950918 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4407666494 | Southeastern Freight Lines | Junior Software Developer | score:3.8 | location:Lexington, SC | posted:2026-05-01T00:00:00.000Z | source:linkedin-guest
