@@ -844,3 +844,23 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4407635578 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-04-30T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4409001844 | Esri | Software Engineer I – AI Assistant Framework, ArcGIS Enterprise | score:3.8 | location:Redlands, CA | posted:2026-04-30T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4409032967 | Arthrex | Software Engineer I- Realtime Engine | score:3.8 | location:Naples, FL | posted:2026-04-30T00:00:00.000Z | source:linkedin-guest
+
+- [ ] http://block.xyz/careers/jobs/5207106008?gh_jid=5207106008 | Block (Square) | Software Engineer, Cash App Banking | score:3.3 | location:New York, NY, United States of America | posted:2026-04-30T18:16:26-04:00 | source:greenhouse-api
+- [ ] https://jobs.lever.co/palantir/3d06b4bc-6a7b-4f73-b5c5-4544354e3d0f | Palantir | Edge Infrastructure Engineer | score:3.4 | location:Warsaw, Poland | posted:2026-05-01T09:11:21.817Z | source:lever-api
+- [ ] https://www.linkedin.com/jobs/view/4374849763 | WHOOP | Software Engineer I (Backend) | score:4.2 | location:Boston, MA | posted:2026-05-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4399493417 | Zettabyte | Software Engineer (New Grad) | score:3.8 | location:Palo Alto, CA | posted:2026-05-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4360920990 | Qlaud | Software Engineer | score:3.3 | location:San Francisco Bay Area | posted:2026-05-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4407676021 | SynergisticIT | junior software developer/machine learning engineer | score:3.8 | location:Chicago, IL | posted:2026-05-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4286968047 | GlossGenius | Software Engineer - All Levels | score:3.3 | location:San Francisco, CA | posted:2026-05-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4407646942 | Essen Health Care | Junior Software Engineer | score:3.8 | location:Bronx, NY | posted:2026-04-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4407917445 | Haystack | Junior Software Developer | score:3.8 | location:United States | posted:2026-05-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4409012599 | Cisco | Software Engineer | score:3 | location:Milpitas, CA | posted:2026-04-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4407919926 | Haystack | Software Engineer - Entry Level | score:3.8 | location:Greater Orlando | posted:2026-05-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4374522851 | Warp | Software Engineer | score:3.3 | location:New York, United States | posted:2026-04-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4373155686 | IBM | Software Developer Co-Op Fall 2026 | score:3 | location:Austin, TX | posted:2026-04-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4407683893 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4409111485 | Quevera | Software Engineer 1 (API) | score:3 | location:Hanover, MD | posted:2026-05-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4409048480 | Arthrex | Software Engineer I- Realtime Engine | score:3.8 | location:Naples, FL | posted:2026-04-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4368445060 | SpaceX | Backend Software Engineer, GNC (Starlink) | score:3.4 | location:Redmond, WA | posted:2026-04-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4409120881 | Fuser | Jr. Full Stack Engineer | score:3.4 | location:Los Angeles, CA | posted:2026-05-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4409076956 | Levi, Ray &amp; Shoup, Inc. (LRS) | Junior Software Developer - Java/Python (46105) | score:4.2 | location:St Louis, MO | posted:2026-04-30T00:00:00.000Z | source:linkedin-guest
