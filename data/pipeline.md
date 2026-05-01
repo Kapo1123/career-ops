@@ -871,3 +871,6 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4409134058 | enGen | Associate Software Engineer | score:3.8 | location:Erie-Meadville Area | posted:2026-05-01T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4368890524 | SpaceX | Application Software Engineer | score:3 | location:Redmond, WA | posted:2026-05-01T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4409104789 | Quevera | Software Engineer 1 (DM) | score:3 | location:Hanover, MD | posted:2026-05-01T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.lever.co/spotify/0f8f7921-bcb4-444c-8ceb-4d3fa6459493 | Spotify | Backend Engineer - Music | score:3.7 | location:New York, NY | posted:2026-05-01T18:25:53.765Z | source:lever-api
+- [ ] https://www.linkedin.com/jobs/view/4409442711 | Axon | Software Engineer I | score:4.1 | location:Seattle, WA | posted:2026-05-01T00:00:00.000Z | source:linkedin-guest
