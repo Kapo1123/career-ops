@@ -880,3 +880,17 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4409149752 | ComboCurve | Software Engineer, Python Backend (HK backfill) | score:3.4 | location:Texas, United States | posted:2026-05-01T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4407950918 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-01T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4407666494 | Southeastern Freight Lines | Junior Software Developer | score:3.8 | location:Lexington, SC | posted:2026-05-01T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4297642437 | Scale AI | Software Engineer - New Grad | score:4.1 | location:San Francisco Bay Area | posted:2026-05-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4366171540 | Wolverine Trading | Entry-Level C++ Software Engineer | score:3 | location:Chicago, IL | posted:2026-05-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4408311162 | Morgan Stanley | Associate, Software Engineer | score:4.1 | location:New York, NY | posted:2026-05-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4409587275 | Atmosphere TV | Associate Software Engineer | score:3.8 | location:Austin, TX | posted:2026-05-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4407982164 | RG&amp;T Solutions | Software Engineer I | score:3.8 | location:Los Angeles, CA | posted:2026-05-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4388114223 | Ramp | University Grad | Software Engineer | Frontend | score:4.1 | location:New York, NY | posted:2026-05-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4408317179 | Haystack | Junior Software Engineer | score:3.8 | location:United States | posted:2026-05-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4369608031 | Handshake | Software Engineer, Fellow Experience | score:3.3 | location:San Francisco, CA | posted:2026-05-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4409802661 | NOX METALS | Software Engineer | score:4.5 | location:United States | posted:2026-05-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4409463236 | Garmin | Software Engineer 1 | score:3 | location:Boulder, CO | posted:2026-05-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4409534414 | Stewart Title | Software Engineer I | score:3.8 | location:Ann Arbor, MI | posted:2026-05-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4408322170 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4409550730 | Cisco | Software Engineer Backend/Platform Systems I (Full Time) – United States | score:3.4 | location:Austin, TX | posted:2026-05-02T00:00:00.000Z | source:linkedin-guest
