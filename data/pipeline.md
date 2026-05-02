@@ -898,3 +898,7 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4407976834 | Tracecat | Software Engineer (Fullstack) | score:3.7 | location:New York, NY | posted:2026-05-02T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4400604757 | SpaceX | Software Engineer (Starshield) | score:3 | location:Redmond, WA | posted:2026-05-02T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4409551687 | Cisco | Software Engineer Backend/Platform Systems I (Full Time) – United States | score:3.4 | location:Dallas, TX | posted:2026-05-02T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4378357766 | Nuvo | Software Engineer | score:3.3 | location:New York, NY | posted:2026-05-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4400324371 | Axon | Software Engineer I | score:3.8 | location:Washington, United States | posted:2026-05-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4409542720 | Cisco | Software Engineer Backend/Platform Systems I (Full Time) – United States | score:3.4 | location:Boston, MA | posted:2026-05-02T00:00:00.000Z | source:linkedin-guest
