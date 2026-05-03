@@ -906,3 +906,18 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4408344034 | Haystack | Junior Backend Developer | score:4.2 | location:Florida, United States | posted:2026-05-02T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4407298053 | OneStream Software | Software Engineer I | score:3.8 | location:United States | posted:2026-05-02T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4408332782 | Haystack | Junior Software Engineer | score:3.8 | location:Florida, United States | posted:2026-05-02T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4362452406 | Yaskawa America, Inc. -  Drives &amp; Motion Division | Software Engineer C | score:3 | location:Franklin, WI | posted:2026-05-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4204412244 | Plaid | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-05-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4359057485 | Modern Technology Solutions, Inc. (MTSI) | Junior Software Engineer | score:3.8 | location:El Segundo, CA | posted:2026-05-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4318551773 | Two Dots | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-05-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4409851680 | Sundayy | Software Developer, Jr. (Python, API) | score:3.4 | location:United States | posted:2026-05-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4408385183 | Haystack | Junior Software Engineer | score:3.8 | location:United States | posted:2026-05-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4388709047 | First Financial Bank Texas | Software Developer I | score:3 | location:Abilene, TX | posted:2026-05-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4309690775 | DataAnnotation | Software Engineer | score:3.3 | location:New York, United States | posted:2026-05-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4409831521 | Ema | Software Engineer, Backend | score:3.4 | location:Mountain View, CA | posted:2026-05-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4408372375 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4388586015 | Lila Sciences | Software Engineer I, Instrument Software | score:3.8 | location:Cambridge, MA | posted:2026-05-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4369672105 | SpaceX | Full Stack Software Engineer, Constellation Tools (Starlink) | score:3.4 | location:Redmond, WA | posted:2026-05-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4409839882 | Sundayy | Software Engineer I (Cloud, API) | score:3.8 | location:United States | posted:2026-05-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4408384321 | targetjobs UK | Graduate Software Engineer | score:3 | location:Carlisle, PA | posted:2026-05-03T00:00:00.000Z | source:linkedin-guest
