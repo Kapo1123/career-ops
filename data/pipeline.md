@@ -921,3 +921,9 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4369672105 | SpaceX | Full Stack Software Engineer, Constellation Tools (Starlink) | score:3.4 | location:Redmond, WA | posted:2026-05-02T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4409839882 | Sundayy | Software Engineer I (Cloud, API) | score:3.8 | location:United States | posted:2026-05-03T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4408384321 | targetjobs UK | Graduate Software Engineer | score:3 | location:Carlisle, PA | posted:2026-05-03T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8432827002 | Databricks | Sr. Big Data Engineer | score:4.5 | location:Remote - India | posted:2026-05-03T12:06:15-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4309694731 | DataAnnotation | Backend Software Engineer | score:3.7 | location:New York, United States | posted:2026-05-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4341553966 | SpaceX | Software Engineer, Satellite Systems (Starshield) | score:3 | location:Hawthorne, CA | posted:2026-05-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4378692275 | SpaceX | Software Engineer, Product Development (Starshield) | score:3 | location:Hawthorne, CA | posted:2026-05-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4326557735 | Hub Group | Associate Full Stack Developer | score:4.2 | location:Oak Brook, IL | posted:2026-05-03T00:00:00.000Z | source:linkedin-guest
