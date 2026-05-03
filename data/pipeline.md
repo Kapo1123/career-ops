@@ -932,3 +932,5 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4309803111 | DataAnnotation | Backend Software Engineer | score:3.4 | location:California, United States | posted:2026-05-03T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4369668370 | SpaceX | Security Software Engineer (Starlink) | score:3 | location:Redmond, WA | posted:2026-05-03T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4409866734 | Avior | Entry-Level Software Developer | score:3 | location:Irving, TX | posted:2026-05-03T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4379260862 | SpaceX | Security Software Engineer, Applied Computing (Starshield) | score:3 | location:Washington, DC | posted:2026-05-03T00:00:00.000Z | source:linkedin-guest
