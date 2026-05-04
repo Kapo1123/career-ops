@@ -957,3 +957,11 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://jobs.ashbyhq.com/snowflake/5e571ebe-6cae-4384-a6e2-c151f72ccd41 | Snowflake | Software Engineer, Observe by Snowflake | score:3.8 | location:CH-Zurich-Observe | posted:2026-05-04T15:54:44.816+00:00 | source:ashby-api
 - [ ] https://www.linkedin.com/jobs/view/4399191551 | Crossing Hurdles | Software Developer | Remote | score:3 | location:United States | posted:2026-05-04T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4408669917 | World Fuel Services | IT Software Engineer I | score:3.8 | location:Miami, FL | posted:2026-05-04T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://boards.greenhouse.io/robinhood/jobs/7754143?t=gh_src=&gh_jid=7754143 | Robinhood | Backend Software Engineer, Credit Cards & Banking | score:4.5 | location:Bellevue, WA; Menlo Park, CA; New York, NY | posted:2026-05-04T14:25:06-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/lindy/04718014-2104-4725-9c80-079b732b7db4 | Lindy | Full Stack Software Engineer | score:3.7 | location:San Francisco | posted:2026-05-04T18:19:03.687+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4410092940 | Leidos | Software Engineer | score:3 | location:Webster, TX | posted:2026-05-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4410069705 | Jamie AI | Software Engineer, Backend | score:3.4 | location:Santa Monica, CA | posted:2026-05-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4410203543 | Oceaneering | Software Engineer I | score:3.8 | location:Hanover, MD | posted:2026-05-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4410091665 | Reflexive Concepts | Software Engineer I | score:3.8 | location:Annapolis Junction, MD | posted:2026-05-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4410096461 | Baselayer | Full Stack Engineer | score:3.7 | location:San Francisco, CA | posted:2026-05-04T00:00:00.000Z | source:linkedin-guest
