@@ -953,3 +953,7 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4410031725 | Sundayy | Full Stack Developer, Jr. | score:3.4 | location:United States | posted:2026-05-04T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4410030760 | Sundayy | Software Engineer, Jr. (Python, Java) | score:3.4 | location:United States | posted:2026-05-04T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4395474307 | Concorde, Inc | Full Stack Developer | score:3.4 | location:United States | posted:2026-05-04T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/snowflake/5e571ebe-6cae-4384-a6e2-c151f72ccd41 | Snowflake | Software Engineer, Observe by Snowflake | score:3.8 | location:CH-Zurich-Observe | posted:2026-05-04T15:54:44.816+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4399191551 | Crossing Hurdles | Software Developer | Remote | score:3 | location:United States | posted:2026-05-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4408669917 | World Fuel Services | IT Software Engineer I | score:3.8 | location:Miami, FL | posted:2026-05-04T00:00:00.000Z | source:linkedin-guest
