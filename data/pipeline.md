@@ -934,3 +934,22 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4409866734 | Avior | Entry-Level Software Developer | score:3 | location:Irving, TX | posted:2026-05-03T00:00:00.000Z | source:linkedin-guest
 
 - [ ] https://www.linkedin.com/jobs/view/4379260862 | SpaceX | Security Software Engineer, Applied Computing (Starshield) | score:3 | location:Washington, DC | posted:2026-05-03T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/snowflake/3a3238f1-3010-4ef9-855e-bd116d6f4cc1 | Snowflake | Software Engineer - Platform Infrastructure Engineering  | score:4.2 | location:PL-Warsaw | posted:2026-05-04T09:55:57.684+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/snowflake/fb3529d5-d3da-41ec-b488-bca4c3587fc9 | Snowflake | Software Engineer - Production Engineering   | score:3.8 | location:PL-Warsaw | posted:2026-05-04T09:56:26.918+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4317707969 | Nuro | Software Engineer, AI Platform - New Grad | score:4.2 | location:Mountain View, CA | posted:2026-05-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4353496254 | WHOOP | Software Engineer II (Backend, Growth) | score:4.2 | location:Boston, MA | posted:2026-05-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4408662967 | TalentBridge | Jr Software Engineer | score:3 | location:Atlanta, GA | posted:2026-05-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4408651967 | Haystack | Junior Software Engineer | score:3.8 | location:Atlanta Metropolitan Area | posted:2026-05-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4318533669 | Comulate | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-05-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4276814807 | Ramp | Software Engineer, Frontend | score:3.3 | location:San Francisco, CA | posted:2026-05-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4408789813 | Tally | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-05-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4379238473 | SpaceX | New Graduate Engineer, Software (Starlink) | score:3.8 | location:Bastrop, TX | posted:2026-05-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4298207135 | Dayton Freight Lines, Inc. | Entry Level Software Developer | score:3.8 | location:Dayton, OH | posted:2026-05-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4376317177 | PermitFlow | Software Engineer | score:3.3 | location:New York, NY | posted:2026-05-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4408648337 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4408654794 | RemoteHunter | Software Engineer I, Full-Stack (Home and Search Experience) | score:3.8 | location:United States | posted:2026-05-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4388733572 | Remitly | AI Native Software Engineer | score:3.3 | location:Seattle, WA | posted:2026-05-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4410031725 | Sundayy | Full Stack Developer, Jr. | score:3.4 | location:United States | posted:2026-05-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4410030760 | Sundayy | Software Engineer, Jr. (Python, Java) | score:3.4 | location:United States | posted:2026-05-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4395474307 | Concorde, Inc | Full Stack Developer | score:3.4 | location:United States | posted:2026-05-04T00:00:00.000Z | source:linkedin-guest
