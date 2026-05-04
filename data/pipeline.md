@@ -965,3 +965,11 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4410203543 | Oceaneering | Software Engineer I | score:3.8 | location:Hanover, MD | posted:2026-05-04T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4410091665 | Reflexive Concepts | Software Engineer I | score:3.8 | location:Annapolis Junction, MD | posted:2026-05-04T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4410096461 | Baselayer | Full Stack Engineer | score:3.7 | location:San Francisco, CA | posted:2026-05-04T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/plaid/5c5d4414-347c-4caa-be88-384dec2d074b | Plaid | Software Engineer, Backend | score:3.7 | location:San Francisco HQ | posted:2026-05-04T19:53:46.265+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/plaid/ecc50d24-e303-480d-85d7-3041c1508cfe | Plaid | Software Engineer, Full Stack  | score:3.7 | location:San Francisco HQ | posted:2026-05-04T19:49:32.837+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/plaid/a9dc0810-546b-4773-9545-2862409e24b4 | Plaid | Software Engineer, Full Stack | score:3.7 | location:New York City Office | posted:2026-05-04T19:49:21.105+00:00 | source:ashby-api
+- [ ] https://jobs.lever.co/palantir/0fccbe95-2520-4df3-8600-7897656c06a2 | Palantir | Forward Deployed Infrastructure Engineer - US Government | score:3.4 | location:Honolulu, HI | posted:2026-05-04T21:46:12.356Z | source:lever-api
+- [ ] https://www.linkedin.com/jobs/view/4410252848 | SEACORP | Software Engineer I | score:3.8 | location:Newport, RI | posted:2026-05-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4408924230 | Henneman Engineering Inc. | Entry-Level Electrical Engineer | score:3 | location:Champaign, IL | posted:2026-05-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4408920780 | Morgan Stanley | Associate, Software Engineer | score:3.8 | location:Alpharetta, GA | posted:2026-05-04T00:00:00.000Z | source:linkedin-guest
