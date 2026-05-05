@@ -996,3 +996,9 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4409355656 | Sigma Defense Systems LLC | 1686 - Software Engineer I | score:3.8 | location:Fairmont, WV | posted:2026-05-05T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4408913604 | Empower Fresh Company | Junior Full Stack Developer | score:4.2 | location:United States | posted:2026-05-05T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4410521006 | Tential Solutions | Junior Full Stack Developer | score:4.2 | location:Rockville, MD | posted:2026-05-05T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7871398 | Reddit | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-05-05T11:52:27-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/plaid/7e10c0b5-a09a-4e07-aaa8-899a7f82a0c9 | Plaid | Software Engineer, Backend | score:3.7 | location:New York City Office | posted:2026-05-04T19:53:49.576+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4409374499 | Infinite Convergence Solutions | Software Engineer | score:3 | location:Chicago, IL | posted:2026-05-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4410567249 | Uber | Software Engineer I | score:4.1 | location:San Francisco, CA | posted:2026-05-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4401741037 | Intuit | Software Engineer 1 | score:3 | location:Mountain View, CA | posted:2026-05-05T00:00:00.000Z | source:linkedin-guest
