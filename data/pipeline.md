@@ -1002,3 +1002,10 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4409374499 | Infinite Convergence Solutions | Software Engineer | score:3 | location:Chicago, IL | posted:2026-05-05T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4410567249 | Uber | Software Engineer I | score:4.1 | location:San Francisco, CA | posted:2026-05-05T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4401741037 | Intuit | Software Engineer 1 | score:3 | location:Mountain View, CA | posted:2026-05-05T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://stripe.com/jobs/search?gh_jid=7895344 | Stripe | Software Engineer IC-02 | score:4.9 | location:San Francisco, California  | posted:2026-05-05T15:02:16-04:00 | source:greenhouse-api
+- [ ] https://www.brex.com/careers/8536424002?gh_jid=8536424002 | Brex | Software Engineer II, Backend | score:4.5 | location:New York, New York, United States | posted:2026-05-05T14:59:59-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7875509 | Contentful | Software Engineer III, Ecosystem | score:3.8 | location:Denver, Colorado, United States | posted:2026-05-05T15:29:24-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4401737123 | Intuit | Software Engineer 1 | score:3 | location:San Diego, CA | posted:2026-05-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4410753471 | InterScripts, Inc. | Software Engineer I (Full Stack) – Immediate Joiners | score:4.2 | location:Daly City, CA | posted:2026-05-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4400780706 | CDW | Software Engineer I - Frontend | score:3.8 | location:Illinois, United States | posted:2026-05-05T00:00:00.000Z | source:linkedin-guest
