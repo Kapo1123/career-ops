@@ -1009,3 +1009,16 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4401737123 | Intuit | Software Engineer 1 | score:3 | location:San Diego, CA | posted:2026-05-05T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4410753471 | InterScripts, Inc. | Software Engineer I (Full Stack) – Immediate Joiners | score:4.2 | location:Daly City, CA | posted:2026-05-05T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4400780706 | CDW | Software Engineer I - Frontend | score:3.8 | location:Illinois, United States | posted:2026-05-05T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://careers.roblox.com/jobs/7888723?gh_jid=7888723 | Roblox | Software Engineer, Communication Safety | score:3 | location:San Mateo, CA, United States | posted:2026-05-05T16:55:07-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/gusto/jobs/6923172 | Gusto | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-05-05T16:21:17-04:00 | source:greenhouse-api
+- [ ] https://www.brex.com/careers/8459783002?gh_jid=8459783002 | Brex | Software Engineer II, Backend | score:4.5 | location:San Francisco, California, United States | posted:2026-05-05T14:59:58-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4410723714 | SkillStorm | Entry Level Software Developer | score:3.8 | location:Charlotte, NC | posted:2026-05-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4389426879 | Jacobs | Entry Level Software Engineer | score:3.8 | location:Nashua, NH | posted:2026-05-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4410733488 | SkillStorm | Junior Level Software Developer | score:3.8 | location:Raleigh, NC | posted:2026-05-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4410742162 | ReliaQuest | Associate Software Engineer | score:3.8 | location:Salt Lake City, UT | posted:2026-05-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4409723093 | Alvarez &amp; Marsal | Software Engineer, Innovation Team | score:3 | location:Chicago, IL | posted:2026-05-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4401773681 | SMBC Group | Software Engineer - Analyst | score:3 | location:Charlotte, NC | posted:2026-05-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4410755961 | Carriage Services | Junior Software Developer | score:3.8 | location:Houston, TX | posted:2026-05-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4401726620 | Intuit | Software Engineer 1 | score:3 | location:Atlanta, GA | posted:2026-05-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4410762727 | Imprint | Software Engineer | score:3.3 | location:New York, NY | posted:2026-05-05T00:00:00.000Z | source:linkedin-guest
