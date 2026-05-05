@@ -973,3 +973,26 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4410252848 | SEACORP | Software Engineer I | score:3.8 | location:Newport, RI | posted:2026-05-04T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4408924230 | Henneman Engineering Inc. | Entry-Level Electrical Engineer | score:3 | location:Champaign, IL | posted:2026-05-04T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4408920780 | Morgan Stanley | Associate, Software Engineer | score:3.8 | location:Alpharetta, GA | posted:2026-05-04T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://stripe.com/jobs/search?gh_jid=7775622 | Stripe | Backend Engineer, Expansion | score:4.2 | location:N/A | posted:2026-05-04T22:13:01-04:00 | source:greenhouse-api
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8530796002 | Databricks | Software Engineer (SDE 2) - Full Stack, Lakeflow | score:4.2 | location:Bengaluru, India | posted:2026-05-05T10:14:09-04:00 | source:greenhouse-api
+- [ ] https://www.okta.com/company/careers/opportunity/7861222?gh_jid=7861222 | Okta | Software Engineer - Customer Experience | score:3 | location:Poland | posted:2026-05-05T08:30:15-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/plaid/664df3be-6be0-432f-8a35-ec7af986fd0d | Plaid | Software Engineer, Backend | score:3.7 | location:Seattle Office | posted:2026-05-04T19:53:53.091+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/legora/e4ce19dc-e800-42cd-835f-dcc43b96d004 | Legora | Software Engineer - AI Enablement & Workplace Technology | score:3 | location:Stockholm HQ | posted:2026-05-05T12:36:46.853+00:00 | source:ashby-api
+- [ ] https://jobs.lever.co/spotify/69524356-88f8-4a8e-b543-0198670e4ceb | Spotify | Full Stack Engineer - Podcast | score:3.7 | location:New York, NY | posted:2026-05-05T10:35:39.379Z | source:lever-api
+- [ ] https://www.linkedin.com/jobs/view/4370317193 | Giga | Software Engineer (New Grads) | score:4.1 | location:San Francisco, CA | posted:2026-05-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4410507422 | Compa | Software Engineer, New Grad | score:3.8 | location:Denver, CO | posted:2026-05-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4333169684 | Reevo | Builder - Software Engineer (New Grad) | score:3.8 | location:Santa Clara, CA | posted:2026-05-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4332086664 | Assort Health | Agent Engineer (New Grad, Summer 2026) | score:4.1 | location:San Francisco, CA | posted:2026-05-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4408421185 | BeaconFire Inc. | Entry Level- Software Engineer | score:3.8 | location:New Jersey, United States | posted:2026-05-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4408432318 | Leidos | Software Engineer | score:3 | location:Webster, TX | posted:2026-05-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4410713541 | Activ8 Recruitment &amp; Solutions | Entry Level Field Service Engineer - Industrial Machinery (33968) | score:3.8 | location:Elk Grove Village, IL | posted:2026-05-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4410568230 | Uber | Software Engineer I | score:4.1 | location:San Francisco, CA | posted:2026-05-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4401727507 | Intuit | Software Engineer 1 | score:3.3 | location:New York, NY | posted:2026-05-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4360057478 | SpaceX | New Graduate Engineer, Software (Starlink) | score:3.8 | location:Redmond, WA | posted:2026-05-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4380179133 | Plaid | Software Engineer | score:3.3 | location:Seattle, WA | posted:2026-05-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4408991556 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4410505381 | Melaleuca: The Wellness Company | Software Engineer I - Business Intelligence | score:3.8 | location:Idaho Falls, ID | posted:2026-05-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4409355656 | Sigma Defense Systems LLC | 1686 - Software Engineer I | score:3.8 | location:Fairmont, WV | posted:2026-05-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4408913604 | Empower Fresh Company | Junior Full Stack Developer | score:4.2 | location:United States | posted:2026-05-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4410521006 | Tential Solutions | Junior Full Stack Developer | score:4.2 | location:Rockville, MD | posted:2026-05-05T00:00:00.000Z | source:linkedin-guest
