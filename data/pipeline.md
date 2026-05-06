@@ -1057,3 +1057,10 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4408866758 | Performant Capital | Junior Software Engineer | score:3.8 | location:Chicago, IL | posted:2026-05-06T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4410980375 | Sequoia Capital Global Equities | Software Engineer (Starlink Mobile) | score:3 | location:Sunnyvale, CA | posted:2026-05-06T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4409787942 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-06T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4411237376 | Replit | Software Engineer - New Grad (Summer 2026) | score:3.8 | location:Foster City, CA | posted:2026-05-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4411219442 | Axon | Software Engineer I | score:4.1 | location:Seattle, WA | posted:2026-05-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4400775698 | CDW | Software Engineer I - Backend | score:4.2 | location:Illinois, United States | posted:2026-05-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4409935930 | Sigma Defense Systems LLC | 1686 - Software Engineer I | score:3.8 | location:Fairmont, WV | posted:2026-05-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4408865936 | Best Version Media | Software Engineer I | score:3.8 | location:Brookfield, WI | posted:2026-05-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4410766617 | SpaceX | Software Engineer (Starlink Mobile) | score:3 | location:Redmond, WA | posted:2026-05-05T00:00:00.000Z | source:linkedin-guest
