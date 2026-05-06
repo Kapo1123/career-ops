@@ -1022,3 +1022,24 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4410755961 | Carriage Services | Junior Software Developer | score:3.8 | location:Houston, TX | posted:2026-05-05T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4401726620 | Intuit | Software Engineer 1 | score:3 | location:Atlanta, GA | posted:2026-05-05T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4410762727 | Imprint | Software Engineer | score:3.3 | location:New York, NY | posted:2026-05-05T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.dropbox.com/listing/7862086?gh_jid=7862086 | Dropbox | Frontend Product Software Engineer, Design Systems | score:3.3 | location:Remote - Mexico | posted:2026-05-06T09:40:13-04:00 | source:greenhouse-api
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7887609?gh_jid=7887609 | Cloudflare | Software Engineer, Realtime | score:3 | location:Hybrid | posted:2026-05-06T11:40:37-04:00 | source:greenhouse-api
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7523878 | MongoDB | Software Engineer 3, App Analysis & Modelling | score:3 | location:Sydney | posted:2026-05-06T09:11:47-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5209776008 | Anthropic | Security Software Engineer, Platform Integration | score:3.7 | location:New York City, NY; San Francisco, CA; Seattle, WA | posted:2026-05-05T20:10:48-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/decagon/28366d07-ae89-428c-8593-1840591bfc18 | Decagon | Software Engineer, Agents | score:3 | location:London | posted:2026-05-06T10:41:32.045+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4362234435 | WHOOP | Software Engineer II (Backend, Business Systems) | score:4.2 | location:Boston, MA | posted:2026-05-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4402235506 | Eli Lilly and Company | Software Engineer - Fixed Duration | score:3 | location:Indianapolis, IN | posted:2026-05-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4408825577 | Uber | Software Engineer | score:3.3 | location:New York, NY | posted:2026-05-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4409739864 | AMEWAS | Software Developer (BEAVER)-Junior | score:3.8 | location:Patuxent River, MD | posted:2026-05-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4410956223 | Prelude | Software Engineer | score:3 | location:United States | posted:2026-05-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4410774177 | Imprint | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-05-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4409373481 | Infinite Convergence Solutions | Jr. Software Engineer | score:3 | location:Chicago, IL | posted:2026-05-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4390317384 | Stark Tech | Junior Software Developer | score:3.8 | location:Buffalo, NY | posted:2026-05-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4409777085 | Cox Automotive Inc. | Software Engineer I | score:3.8 | location:Austin, TX | posted:2026-05-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4399912781 | WHOOP | Software Engineer I (Quality) | score:3.8 | location:Boston, MA | posted:2026-05-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4402045039 | Office Practicum | Software Engineer, I - Java | score:3.4 | location:Fort Washington, PA | posted:2026-05-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4409790161 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4410729484 | Motion | Software Engineer I | score:3.8 | location:Birmingham, AL | posted:2026-05-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4409742764 | targetjobs UK | Graduate Software Engineer | score:3 | location:Carlisle, PA | posted:2026-05-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4410772657 | ASSYST | Software Developer (Entry Level) | score:3.8 | location:Sterling, VA | posted:2026-05-05T00:00:00.000Z | source:linkedin-guest
