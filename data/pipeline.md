@@ -1064,3 +1064,13 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4409935930 | Sigma Defense Systems LLC | 1686 - Software Engineer I | score:3.8 | location:Fairmont, WV | posted:2026-05-06T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4408865936 | Best Version Media | Software Engineer I | score:3.8 | location:Brookfield, WI | posted:2026-05-06T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4410766617 | SpaceX | Software Engineer (Starlink Mobile) | score:3 | location:Redmond, WA | posted:2026-05-05T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.dropbox.com/listing/7605209?gh_jid=7605209 | Dropbox | Infrastructure Software Engineer, Identity & Auth Platform | score:3.7 | location:Remote - Canada: Select locations | posted:2026-05-06T18:46:31-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4409992312 | Quantcast | Software Engineer (Full Stack) | score:3.7 | location:San Francisco, CA | posted:2026-05-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4409206387 | Quadric | Deep Learning Compiler Engineer (New Grad) | score:3.8 | location:Burlingame, CA | posted:2026-05-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4409984193 | Emonics LLC | Software Engineer | score:3 | location:Chicago, IL | posted:2026-05-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4411245855 | City of Philadelphia | Associate Software Engineer-Data and Integrations | score:4.2 | location:Philadelphia, PA | posted:2026-05-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4411263095 | City of Philadelphia | Associate Software Engineer-Applications &amp; Automation | score:3.8 | location:Philadelphia, PA | posted:2026-05-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4411282280 | Uber | Software Engineer | score:3 | location:Sunnyvale, CA | posted:2026-05-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4409994046 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4409988184 | MarketForce Corp | Junior Software Engineer | score:3.8 | location:United States | posted:2026-05-06T00:00:00.000Z | source:linkedin-guest
