@@ -1043,3 +1043,17 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4410729484 | Motion | Software Engineer I | score:3.8 | location:Birmingham, AL | posted:2026-05-05T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4409742764 | targetjobs UK | Graduate Software Engineer | score:3 | location:Carlisle, PA | posted:2026-05-06T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4410772657 | ASSYST | Software Developer (Entry Level) | score:3.8 | location:Sterling, VA | posted:2026-05-05T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4409955386 | Atoms | Software Engineer - New Grad - New York, NY | score:4.1 | location:New York, NY | posted:2026-05-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4409947975 | Atoms | Software Engineer - New Grad - Seattle, WA | score:4.1 | location:Seattle, WA | posted:2026-05-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4409954383 | Atoms | Software Engineer - New Grad - Los Angeles, CA | score:3.8 | location:Los Angeles, CA | posted:2026-05-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4409953400 | Atoms | Software Engineer - New Grad - Mountain View, CA | score:3.8 | location:Mountain View, CA | posted:2026-05-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4409954107 | National Center for Defense Manufacturing &amp; Machining (NCDMM) | Software Developer (008-26) - 69 | score:3 | location:Johnstown, PA | posted:2026-05-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4408878846 | RxBenefits, Inc. | Associate Software Engineer | score:3.8 | location:United States | posted:2026-05-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4410994726 | Guidehouse | Junior AI/ML Software Engineer | score:3.8 | location:United States | posted:2026-05-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4409951321 | Morgan Stanley | Associate, Software Engineer | score:4.1 | location:New York, NY | posted:2026-05-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4389733958 | Remodel Health | Junior Software Engineer | score:3.8 | location:Indianapolis, IN | posted:2026-05-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4408817630 | Uber | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-05-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4408866758 | Performant Capital | Junior Software Engineer | score:3.8 | location:Chicago, IL | posted:2026-05-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4410980375 | Sequoia Capital Global Equities | Software Engineer (Starlink Mobile) | score:3 | location:Sunnyvale, CA | posted:2026-05-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4409787942 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-06T00:00:00.000Z | source:linkedin-guest
