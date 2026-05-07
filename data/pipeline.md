@@ -1088,3 +1088,9 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4411631353 | Harmonia Holdings Group, LLC | Junior Full Stack Developer | score:4.2 | location:McLean, VA | posted:2026-05-07T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4411421594 | Costmine Intelligence | FULL-STACK DEVELOPER (EARLY CAREER) | score:3.8 | location:May, MO | posted:2026-05-07T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4402689647 | Magna International | Jr. Full Stack Developer, Smart Factory Solutions | score:3.4 | location:Troy, MI | posted:2026-05-07T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.dropbox.com/listing/6330390?gh_jid=6330390 | Dropbox | Infrastructure Software Engineer | score:3.7 | location:Remote - US: Select locations | posted:2026-05-07T12:53:56-04:00 | source:greenhouse-api
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7955594002 | Databricks | Software Engineer (Backend - SDE 2) | score:4.2 | location:Bengaluru, India | posted:2026-05-07T12:49:55-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4410490105 | Jobgether | Associate Software Engineer | score:3.8 | location:United States | posted:2026-05-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4411634997 | Iridium | Software Engineer I | score:3.8 | location:Chandler, AZ | posted:2026-05-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4410473536 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-07T00:00:00.000Z | source:linkedin-guest
