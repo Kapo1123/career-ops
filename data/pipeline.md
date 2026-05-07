@@ -1094,3 +1094,14 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4410490105 | Jobgether | Associate Software Engineer | score:3.8 | location:United States | posted:2026-05-07T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4411634997 | Iridium | Software Engineer I | score:3.8 | location:Chandler, AZ | posted:2026-05-07T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4410473536 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-07T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.dropbox.com/listing/6330388?gh_jid=6330388 | Dropbox | Infrastructure Software Engineer | score:3.7 | location:Remote - Canada: Select locations | posted:2026-05-07T12:53:55-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/resend/a95832a8-a2ab-4a63-8303-9989f1fc47d6 | Resend | Backend Engineer, Core Sending | score:3.7 | location:Americas / Remote / Full-time | posted:2026-05-07T18:00:56.729+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/openai/b398e1c6-0c32-4464-bb34-6ccda901b688 | OpenAI | Backend Software Engineer, Applied Foundations | score:3.7 | location:San Francisco | posted:2026-05-07T18:51:08.865+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/openai/21229750-8bd1-4134-a20e-2a8922b88806 | OpenAI | System Software Engineer, First-Party Hardware | score:3.3 | location:San Francisco | posted:2026-05-07T19:34:12.438+00:00 | source:ashby-api
+- [ ] https://jobs.lever.co/spotify/805d36ed-624c-41d4-9eaa-6f4bff7f53e3 | Spotify | Backend Engineer - Ads Measurement | score:3.7 | location:New York, NY | posted:2026-05-05T21:53:51.324Z | source:lever-api
+- [ ] https://jobs.lever.co/palantir/be4ab5cb-9caa-4c2a-97b9-c73805fca4fc | Palantir | Forward Deployed Software Engineer - US Government - Federal Health and Civilian | score:3.3 | location:New York, NY | posted:2026-05-07T17:41:25.599Z | source:lever-api
+- [ ] https://www.linkedin.com/jobs/view/4390543387 | Q2 | Software Engineer | score:3 | location:Austin, TX | posted:2026-05-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4410853175 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4390662549 | SpaceX | Software Engineer, C++ (Starlink) | score:3 | location:Redmond, WA | posted:2026-05-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4390664427 | SpaceX | Software Engineer, Starlink Network | score:3 | location:Redmond, WA | posted:2026-05-07T00:00:00.000Z | source:linkedin-guest
