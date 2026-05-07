@@ -1105,3 +1105,13 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4410853175 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-07T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4390662549 | SpaceX | Software Engineer, C++ (Starlink) | score:3 | location:Redmond, WA | posted:2026-05-07T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4390664427 | SpaceX | Software Engineer, Starlink Network | score:3 | location:Redmond, WA | posted:2026-05-07T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/lakera.ai/25b1cf59-fee8-4009-a36f-2b0b83b3cc56 | Lakera | Software Engineer, Agentic team | score:3 | location:Zürich | posted:2026-05-07T19:52:49.812+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/openai/f873dd71-46c9-4be1-8580-bc67c56b4cad | OpenAI | Full-Stack Software Engineer, Applied Foundations | score:3.3 | location:San Francisco | posted:2026-05-07T19:45:42.110+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/openai/1fec5ecd-5b7b-45bc-bc8c-ac7184565551 | OpenAI | Software Engineer, Core Network Engineering | score:3.3 | location:San Francisco | posted:2026-05-06T23:09:35.505+00:00 | source:ashby-api
+- [ ] https://jobs.lever.co/palantir/e7100322-be11-40c8-9dba-7a21b7302c08 | Palantir | Forward Deployed Software Engineer - US Government - Federal Health and Civilian | score:3 | location:Washington, D.C. | posted:2026-05-07T17:42:12.869Z | source:lever-api
+- [ ] https://www.linkedin.com/jobs/view/4410859105 | McCalla Raymer Leibert Pierce, LLP | Junior Software Developer | score:3.8 | location:Roswell, GA | posted:2026-05-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4410840775 | Haystack | Junior Software Engineer | score:3.8 | location:United States | posted:2026-05-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4410858296 | hackajob | Software Engineer - Early Career | score:3.8 | location:United States | posted:2026-05-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4411825395 | MeridianLink | Software Engineer I | score:3.8 | location:United States | posted:2026-05-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4410877249 | Fullbay | Software Engineer I | score:3.8 | location:Phoenix, AZ | posted:2026-05-07T00:00:00.000Z | source:linkedin-guest
