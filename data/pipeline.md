@@ -1074,3 +1074,17 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4411282280 | Uber | Software Engineer | score:3 | location:Sunnyvale, CA | posted:2026-05-06T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4409994046 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-06T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4409988184 | MarketForce Corp | Junior Software Engineer | score:3.8 | location:United States | posted:2026-05-06T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.dropbox.com/listing/7605206?gh_jid=7605206 | Dropbox | Infrastructure Software Engineer, Identity & Auth Platform | score:3.7 | location:Remote - US: Select locations | posted:2026-05-06T18:46:29-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/notion/66236b7e-2905-4a93-84a5-ed036a1a6581 | Notion | Software Engineer, Trust | score:4.1 | location:San Francisco, California | posted:2026-05-07T13:30:54.586+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4409278766 | BeaconFire Inc. | Entry Level- Java Software Engineer | score:4.2 | location:New Jersey, United States | posted:2026-05-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4410418160 | SynergisticIT | junior software developer/AI engineer | score:3.8 | location:Princeton, NJ | posted:2026-05-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4285833475 | Hadrian | Frontend Software Engineer | score:3 | location:Los Angeles, CA | posted:2026-05-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4411624839 | XKL | Software Engineer I | score:3.8 | location:Redmond, WA | posted:2026-05-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4411425198 | Rothe Development Inc | Software Engineer 1 | score:3 | location:Houston, TX | posted:2026-05-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4411266457 | Renaissance Learning | Software Engineer I | score:3.8 | location:United States | posted:2026-05-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4410471398 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4411420560 | Quartus Engineering | Software Engineer I - 070QE | score:3.8 | location:San Diego, CA | posted:2026-05-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4411631353 | Harmonia Holdings Group, LLC | Junior Full Stack Developer | score:4.2 | location:McLean, VA | posted:2026-05-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4411421594 | Costmine Intelligence | FULL-STACK DEVELOPER (EARLY CAREER) | score:3.8 | location:May, MO | posted:2026-05-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4402689647 | Magna International | Jr. Full Stack Developer, Smart Factory Solutions | score:3.4 | location:Troy, MI | posted:2026-05-07T00:00:00.000Z | source:linkedin-guest
