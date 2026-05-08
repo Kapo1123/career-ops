@@ -1145,3 +1145,11 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4411737770 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-08T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4412160700 | Cambridge Mobile Telematics | Software Engineer, Data Engineering | score:3.4 | location:Cambridge, MA | posted:2026-05-08T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4410882802 | Jobs via Dice | Software Engineer I | score:3.8 | location:Chandler, AZ | posted:2026-05-08T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/plaid/597ed0af-461e-452e-ade4-26efa02a8b52 | Plaid | Software Engineer | score:3.3 | location:New York City Office | posted:2026-05-08T21:16:34.323+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4412196542 | Mastercard | Software Engineer II | score:3.8 | location:O'Fallon, MO | posted:2026-05-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4411795155 | Morgan Stanley | Associate, Software Engineer | score:4.1 | location:New York, NY | posted:2026-05-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4411793265 | QuidelOrtho | Software Engineer | score:3 | location:Rochester, NY | posted:2026-05-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4411736995 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4411356257 | Sundayy | Full Stack Developer, Jr. | score:3.4 | location:United States | posted:2026-05-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4412127249 | IBM | Software Engineer Apprentice | score:3 | location:Annapolis Junction, MD | posted:2026-05-08T00:00:00.000Z | source:linkedin-guest
