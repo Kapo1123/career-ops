@@ -1115,3 +1115,16 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4410858296 | hackajob | Software Engineer - Early Career | score:3.8 | location:United States | posted:2026-05-07T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4411825395 | MeridianLink | Software Engineer I | score:3.8 | location:United States | posted:2026-05-07T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4410877249 | Fullbay | Software Engineer I | score:3.8 | location:Phoenix, AZ | posted:2026-05-07T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/pagerduty/jobs/5987780004 | PagerDuty | Software Engineer - Core Product  | score:3 | location:Atlanta | posted:2026-05-08T11:18:23-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7905720 | Contentful | Full Stack Engineer - Analytics (f/m/d) | score:3.4 | location:Berlin, Berlin, Germany | posted:2026-05-08T10:08:19-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4411852812 | Collins Aerospace | Software Engineer I (Onsite) | score:3.8 | location:Cedar Rapids, IA | posted:2026-05-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4411382180 | Nationwide | Engineer, Software Engineer - Entry Level - Java, Angular, or Python | score:4.2 | location:Columbus, OH | posted:2026-05-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4403451508 | Flexjet | Software Engineer I | score:3.8 | location:Daytona Beach, FL | posted:2026-05-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4402165922 | Rokt | Junior Software Engineer | score:4.1 | location:New York, NY | posted:2026-05-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4411869074 | OpenSesame | Associate Software Engineer | score:3.8 | location:United States | posted:2026-05-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4390705403 | Koddi | Junior Platform Engineering Cohort | score:4.2 | location:Dallas-Fort Worth Metroplex | posted:2026-05-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4411812917 | Emerson | Software Engineer 1 | score:3 | location:Austin, TX | posted:2026-05-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4411339716 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4411829451 | Honeywell Aerospace Technologies | Software Engineer I | score:3.8 | location:Clearwater, FL | posted:2026-05-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4411846935 | SpaceX | Full Stack Software Engineer, Data (Starlink) | score:3.4 | location:Hawthorne, CA | posted:2026-05-08T00:00:00.000Z | source:linkedin-guest
