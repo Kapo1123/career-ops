@@ -1137,3 +1137,11 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4411375115 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-08T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4342604825 | SpaceX | Software Engineer, Flight Software (Starshield) | score:3 | location:Hawthorne, CA | posted:2026-05-08T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4380989383 | SpaceX | Software Engineer, CDN (Starlink) | score:3 | location:Redmond, WA | posted:2026-05-08T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://stripe.com/jobs/search?gh_jid=7908923 | Stripe | Software Engineer, Balance Abstraction | score:4.1 | location:Seattle, WA | posted:2026-05-08T15:24:07-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4412156592 | DocMe360 | Junior Software Engineer | score:3.8 | location:Arlington, VA | posted:2026-05-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4412121695 | IBM | Software Engineer Apprentice | score:3 | location:Yorktown Heights, NY | posted:2026-05-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4403168533 | CGI | Junior Software Engineer | score:3.8 | location:Greenville, SC | posted:2026-05-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4411737770 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4412160700 | Cambridge Mobile Telematics | Software Engineer, Data Engineering | score:3.4 | location:Cambridge, MA | posted:2026-05-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4410882802 | Jobs via Dice | Software Engineer I | score:3.8 | location:Chandler, AZ | posted:2026-05-08T00:00:00.000Z | source:linkedin-guest
