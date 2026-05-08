@@ -1128,3 +1128,12 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4411339716 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-08T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4411829451 | Honeywell Aerospace Technologies | Software Engineer I | score:3.8 | location:Clearwater, FL | posted:2026-05-08T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4411846935 | SpaceX | Full Stack Software Engineer, Data (Starlink) | score:3.4 | location:Hawthorne, CA | posted:2026-05-08T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://boards.greenhouse.io/robinhood/jobs/7489275?t=gh_src=&gh_jid=7489275 | Robinhood | Software Engineer | score:3.8 | location:Menlo Park, CA | posted:2026-05-08T11:55:04-04:00 | source:greenhouse-api
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7851388 | MongoDB | Software Engineer, Developer Productivity | score:3.3 | location:New York City | posted:2026-05-08T12:41:47-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4956672008 | Anthropic | Analytics Data Engineer | score:3.7 | location:San Francisco, CA | New York City, NY | Seattle, WA | posted:2026-05-08T12:10:31-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4402053770 | Symbotic | New Grad- Software Engineer, ML Ops | score:3.8 | location:Wilmington, MA | posted:2026-05-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4412125414 | IBM | Software Engineer Apprentice | score:3 | location:Research Park, CA | posted:2026-05-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4411375115 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4342604825 | SpaceX | Software Engineer, Flight Software (Starshield) | score:3 | location:Hawthorne, CA | posted:2026-05-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4380989383 | SpaceX | Software Engineer, CDN (Starlink) | score:3 | location:Redmond, WA | posted:2026-05-08T00:00:00.000Z | source:linkedin-guest
