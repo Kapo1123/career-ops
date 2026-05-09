@@ -1153,3 +1153,15 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4411736995 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-08T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4411356257 | Sundayy | Full Stack Developer, Jr. | score:3.4 | location:United States | posted:2026-05-08T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4412127249 | IBM | Software Engineer Apprentice | score:3 | location:Annapolis Junction, MD | posted:2026-05-08T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/openai/15d23d99-6b15-41d8-99b1-33975447e257 | OpenAI | Audio Software Engineer, Consumer Devices | score:3.3 | location:San Francisco | posted:2026-05-09T07:19:23.640+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4380965886 | StubHub | Software Engineer I (New Grad) - Consumer Experience | score:4.1 | location:New York, NY | posted:2026-05-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4412311060 | Rotaract Club of NMIMS | Software Engineer (Entry-Level / Associate) | score:4.1 | location:New York, United States | posted:2026-05-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4412401927 | Otis Elevator Co. | Entry Level Software Engineer | score:3.8 | location:Farmington, CT | posted:2026-05-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4386890681 | Morgan Stanley | Associate Software Engineer | score:4.1 | location:New York, NY | posted:2026-05-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4411780516 | Morgan Stanley | Associate, Software Engineer | score:3.8 | location:Alpharetta, GA | posted:2026-05-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4411919732 | Medtronic | Software Engineer I | score:3.8 | location:Lafayette, CO | posted:2026-05-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4405051625 | Flexport | Software Engineer I, Autonomous Freight Systems | score:4.1 | location:San Francisco, CA | posted:2026-05-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4411985493 | Global Credit Union | Software Engineer I, II, III | score:3.8 | location:Glendale, AZ | posted:2026-05-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4411986293 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4412131177 | IBM | Software Engineer Apprentice | score:3 | location:Chantilly, VA | posted:2026-05-08T00:00:00.000Z | source:linkedin-guest
