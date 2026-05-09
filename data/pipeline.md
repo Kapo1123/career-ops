@@ -1174,3 +1174,5 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4372650042 | EMW Staffing Solutions LLC | Full Stack Engineer | score:3.7 | location:San Francisco, CA | posted:2026-05-08T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4412487412 | CodeCrafters.io (YC S22) | AI-pilled Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-05-09T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4390494569 | EvenUp | Backend Engineer, Cases Product | score:3.7 | location:San Francisco, CA | posted:2026-05-09T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4392039640 | StubHub | Software Engineer I (New Grad) - Consumer Experience | score:3.8 | location:Los Angeles, CA | posted:2026-05-09T00:00:00.000Z | source:linkedin-guest
