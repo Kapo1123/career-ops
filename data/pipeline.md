@@ -1165,3 +1165,12 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4411985493 | Global Credit Union | Software Engineer I, II, III | score:3.8 | location:Glendale, AZ | posted:2026-05-09T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4411986293 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-09T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4412131177 | IBM | Software Engineer Apprentice | score:3 | location:Chantilly, VA | posted:2026-05-08T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4392033766 | StubHub | Software Engineer I (New Grad) - Consumer Experience | score:4.1 | location:New York, NY | posted:2026-05-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4382331501 | SpaceX | New Graduate Engineer, Software (Starlink) | score:3.8 | location:Sunnyvale, CA | posted:2026-05-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4334228091 | Notion | Software Engineer, Datastore | score:4.5 | location:New York, NY | posted:2026-05-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4348590450 | GC AI | Software Engineer, Integrations | score:3 | location:San Mateo, CA | posted:2026-05-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4412412728 | Centralize | Software Engineer (Product) | score:3.3 | location:San Francisco, CA | posted:2026-05-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4372650042 | EMW Staffing Solutions LLC | Full Stack Engineer | score:3.7 | location:San Francisco, CA | posted:2026-05-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4412487412 | CodeCrafters.io (YC S22) | AI-pilled Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-05-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4390494569 | EvenUp | Backend Engineer, Cases Product | score:3.7 | location:San Francisco, CA | posted:2026-05-09T00:00:00.000Z | source:linkedin-guest
