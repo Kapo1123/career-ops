@@ -1179,3 +1179,16 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 
 - [ ] https://www.linkedin.com/jobs/view/4380965887 | StubHub | Software Engineer I (New Grad) - Consumer Experience | score:3.8 | location:Los Angeles, CA | posted:2026-05-09T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4412307773 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-09T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4412552023 | Color | New Grad Software Engineer | score:4.1 | location:South San Francisco, CA | posted:2026-05-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4412392180 | DML AI Hub Community | Entry-Level Quality Assurance Engineer r | score:3 | location:California, United States | posted:2026-05-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4391759827 | Attentive | Software Engineer I, AI Product | score:4.1 | location:San Francisco, CA | posted:2026-05-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4412396093 | The Whisky Highball Company | Junior Software Engineer | score:3.8 | location:California, United States | posted:2026-05-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4391795228 | Eli Lilly and Company | Software Engineer - Fixed Duration | score:3 | location:Louisville, CO | posted:2026-05-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/3986116442 | Epic | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-05-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4412315574 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4365257357 | SpaceX | Software Engineer, Satellite Operations (Starshield) | score:3 | location:Hawthorne, CA | posted:2026-05-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4359237883 | Aurora | Software Engineer I - Data Platform | score:4.2 | location:Pittsburgh, PA | posted:2026-05-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4387718236 | Smartsheet | Software Engineer I - Secure Platform Operations (Remote Eligible) | score:4.2 | location:United States | posted:2026-05-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4391943045 | True Anomaly | Flight Software Engineer I | score:3.8 | location:Long Beach, CA | posted:2026-05-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4409279890 | Charles Schwab | Junior Java Full Stack Developer | score:4.2 | location:Austin, TX | posted:2026-05-09T00:00:00.000Z | source:linkedin-guest
