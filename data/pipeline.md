@@ -1192,3 +1192,11 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4387718236 | Smartsheet | Software Engineer I - Secure Platform Operations (Remote Eligible) | score:4.2 | location:United States | posted:2026-05-09T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4391943045 | True Anomaly | Flight Software Engineer I | score:3.8 | location:Long Beach, CA | posted:2026-05-09T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4409279890 | Charles Schwab | Junior Java Full Stack Developer | score:4.2 | location:Austin, TX | posted:2026-05-09T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4412600149 | National Center for Defense Manufacturing &amp; Machining (NCDMM) | Software Developer (008-26) - 69 | score:3 | location:Johnstown, PA | posted:2026-05-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4321363978 | Epic | Software Developer (Entry Level) | score:3.8 | location:Aurora, IL | posted:2026-05-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4380818036 | Q2 | Software Engineer | score:3 | location:Austin, TX | posted:2026-05-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4392008483 | True Anomaly | Software Engineer I, Full Stack | score:4.2 | location:Long Beach, CA | posted:2026-05-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4409759925 | Jobs via Dice | Software Engineer I | score:3.8 | location:Sterling Heights, MI | posted:2026-05-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4392001496 | SpaceX | Security Software Engineer (Starshield) | score:3 | location:Palo Alto, CA | posted:2026-05-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4409277989 | Charles Schwab | Junior Java Full Stack Developer | score:4.2 | location:Southlake, TX | posted:2026-05-09T00:00:00.000Z | source:linkedin-guest
