@@ -1200,3 +1200,7 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4409759925 | Jobs via Dice | Software Engineer I | score:3.8 | location:Sterling Heights, MI | posted:2026-05-09T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4392001496 | SpaceX | Security Software Engineer (Starshield) | score:3 | location:Palo Alto, CA | posted:2026-05-10T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4409277989 | Charles Schwab | Junior Java Full Stack Developer | score:4.2 | location:Southlake, TX | posted:2026-05-09T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/openai/9d48e2e6-41a9-4a90-8b3b-6cc960e95c2f | OpenAI | Software Engineer, Productivity - Inference Runtime | score:3.3 | location:San Francisco | posted:2026-05-10T17:33:59.627+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4363417554 | Epic | Software Developer (Entry Level) | score:3.8 | location:Ann Arbor, MI | posted:2026-05-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4409757990 | Jobs via Dice | Software Engineer I | score:3.8 | location:Sterling Heights, MI | posted:2026-05-09T00:00:00.000Z | source:linkedin-guest
