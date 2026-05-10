@@ -1204,3 +1204,10 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://jobs.ashbyhq.com/openai/9d48e2e6-41a9-4a90-8b3b-6cc960e95c2f | OpenAI | Software Engineer, Productivity - Inference Runtime | score:3.3 | location:San Francisco | posted:2026-05-10T17:33:59.627+00:00 | source:ashby-api
 - [ ] https://www.linkedin.com/jobs/view/4363417554 | Epic | Software Developer (Entry Level) | score:3.8 | location:Ann Arbor, MI | posted:2026-05-10T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4409757990 | Jobs via Dice | Software Engineer I | score:3.8 | location:Sterling Heights, MI | posted:2026-05-09T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4173823940 | AppLovin | Backend Engineer, New Grad | score:4.2 | location:Palo Alto, CA | posted:2026-05-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4321375718 | Epic | Software Developer (Entry Level) | score:3.8 | location:Warren, MI | posted:2026-05-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4391765641 | Benchling | Software Engineer, Developer Platform | score:3.7 | location:San Francisco, CA | posted:2026-05-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4412378317 | Haystack | Software Engineer | score:3 | location:Greater St. Louis | posted:2026-05-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4412578683 | Rotaract Club of Meraki | Entry-Level Quality Assurance Engineer | score:3 | location:United States | posted:2026-05-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4382154507 | SpaceX | Security Software Engineer, Applied Computing (Starshield) | score:3 | location:Hawthorne, CA | posted:2026-05-10T00:00:00.000Z | source:linkedin-guest
