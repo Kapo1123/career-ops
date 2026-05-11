@@ -1237,3 +1237,11 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4378347944 | Gem | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-05-11T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4372062698 | Crossing Hurdles | Full Stack Software Engineer | San Francisco | score:3.7 | location:San Francisco, CA | posted:2026-05-11T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4372062697 | Crossing Hurdles | Full Stack Software Engineer | score:3.7 | location:San Francisco, CA | posted:2026-05-11T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4413148637 | Emonics LLC | Entry Level Software Engineer | score:3.8 | location:Dallas, TX | posted:2026-05-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4413140984 | Emonics LLC | Junior Data Engineer | score:4.2 | location:San Diego, CA | posted:2026-05-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4412970806 | Leidos | Entry-Level Software Engineer | score:3 | location:Huntsville, AL | posted:2026-05-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4334327529 | Notion | Software Engineer, Datastore | score:4.5 | location:San Francisco, CA | posted:2026-05-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4363407597 | Epic | Software Developer (Entry Level) | score:3.8 | location:Chicago, IL | posted:2026-05-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4334178595 | Notion | Software Engineer, Data Platform | score:4.5 | location:San Francisco, CA | posted:2026-05-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4413132433 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-11T00:00:00.000Z | source:linkedin-guest
