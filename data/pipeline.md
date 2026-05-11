@@ -1223,3 +1223,17 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4321306206 | Epic | Software Developer (Entry Level) | score:3.8 | location:Bloomington, IN | posted:2026-05-10T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4412671533 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-11T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4312504256 | SpaceX | Data Engineer, Ground Network Engineering (Gateway) | score:3.4 | location:Redmond, WA | posted:2026-05-11T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4412944908 | Replit | Software Engineer - New Grad (Summer 2026) | score:3.8 | location:Foster City, CA | posted:2026-05-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4321306205 | Epic | Software Developer (Entry Level) | score:3.8 | location:Sterling Heights, MI | posted:2026-05-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4412913457 | CALRegional | Software Engineer | score:3 | location:Indianapolis, IN | posted:2026-05-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4412919560 | Progress Software | Software Engineer I - eCommerce | score:3.8 | location:Raleigh, NC | posted:2026-05-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4412941590 | MountainSeed | Junior Software Engineer | score:3.8 | location:Atlanta, GA | posted:2026-05-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4407647018 | MetLife | Junior Software Engineer | score:3.8 | location:Cary, NC | posted:2026-05-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4412694450 | Stealth Startup | Backend Developer [33003] | score:3.4 | location:San Diego, CA | posted:2026-05-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4412788876 | Helic &amp; Co. | Junior Software Engineer | score:3.8 | location:United States | posted:2026-05-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4413118972 | SHI International Corp. | Associate Software Engineer | score:3.8 | location:United States | posted:2026-05-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4412923816 | TalentAlly | Software Engineer | score:3 | location:San Diego Metropolitan Area | posted:2026-05-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4378347944 | Gem | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-05-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4372062698 | Crossing Hurdles | Full Stack Software Engineer | San Francisco | score:3.7 | location:San Francisco, CA | posted:2026-05-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4372062697 | Crossing Hurdles | Full Stack Software Engineer | score:3.7 | location:San Francisco, CA | posted:2026-05-11T00:00:00.000Z | source:linkedin-guest
