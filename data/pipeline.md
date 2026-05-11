@@ -1217,3 +1217,9 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4413071165 | Cisco | Software Engineer I (Full Time) – Devices Technology Group – United States | score:3.8 | location:Durham, NC | posted:2026-05-11T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4398436197 | Spectra Logic | C++ Robotics Engineer/ Software Engineer I | score:3.8 | location:Boulder, CO | posted:2026-05-11T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4412590504 | Jobs via Dice | Full Stack Software Engineer, Data (Starlink) | score:3.4 | location:Hawthorne, CA | posted:2026-05-11T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://careers.roblox.com/jobs/7463634?gh_jid=7463634 | Roblox | [2026] Data Scientist, Social - PhD Early Career | score:4.2 | location:San Mateo, CA, United States | posted:2026-05-11T13:29:42-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/snowflake/19ff5740-e678-4f43-a6c6-29bab94fbc21 | Snowflake | Software Engineer - Snowflake Postgres | score:3.8 | location:US-CA-Menlo Park | posted:2026-05-11T17:01:59.653+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4321306206 | Epic | Software Developer (Entry Level) | score:3.8 | location:Bloomington, IN | posted:2026-05-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4412671533 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4312504256 | SpaceX | Data Engineer, Ground Network Engineering (Gateway) | score:3.4 | location:Redmond, WA | posted:2026-05-11T00:00:00.000Z | source:linkedin-guest
