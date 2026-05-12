@@ -1270,3 +1270,5 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4413470987 | Supernova Technology™ | Junior Software Engineer | score:3.8 | location:Chicago, IL | posted:2026-05-12T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4363417558 | Epic | Software Developer (Entry Level) | score:3.8 | location:Detroit, MI | posted:2026-05-11T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4413558252 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-12T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://stripe.com/jobs/search?gh_jid=7591894 | Stripe | Full Stack Engineer, Risk & Support | score:4.2 | location:N/A | posted:2026-05-12T14:34:47-04:00 | source:greenhouse-api
