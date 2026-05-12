@@ -1264,3 +1264,9 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4404509105 | Honeywell Aerospace Technologies | Software Engineer I - US Person | score:3.8 | location:Phoenix, AZ | posted:2026-05-12T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4413183162 | The Citco Group Limited | Junior Full Stack Developer | score:4.2 | location:Charlotte, NC | posted:2026-05-11T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4413568388 | BAM Weather | Junior Full Stack Developer | score:4.2 | location:Greenwood, IN | posted:2026-05-12T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7871453 | Reddit | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-05-12T12:09:22-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4404530780 | Symbotic | New Grad- Software Engineer | score:3.8 | location:Wilmington, MA | posted:2026-05-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4413470987 | Supernova Technology™ | Junior Software Engineer | score:3.8 | location:Chicago, IL | posted:2026-05-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4363417558 | Epic | Software Developer (Entry Level) | score:3.8 | location:Detroit, MI | posted:2026-05-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4413558252 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-12T00:00:00.000Z | source:linkedin-guest
