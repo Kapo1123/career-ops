@@ -1245,3 +1245,22 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4363407597 | Epic | Software Developer (Entry Level) | score:3.8 | location:Chicago, IL | posted:2026-05-11T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4334178595 | Notion | Software Engineer, Data Platform | score:4.5 | location:San Francisco, CA | posted:2026-05-11T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4413132433 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-11T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.brex.com/careers/8545586002?gh_jid=8545586002 | Brex | Software Engineer II, Credit Limit Engineering | score:3.8 | location:São Paulo, São Paulo, Brazil | posted:2026-05-12T11:03:17-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/snowflake/5b423b9b-24d5-4e82-ac67-1a63292f472e | Snowflake | Cloud Infrastructure Engineer - Jira | score:4.2 | location:IN-Pune | posted:2026-05-12T04:45:28.765+00:00 | source:ashby-api
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5993753004 | Vercel | Software Engineer, Next.js | score:3.3 | location:Hybrid - San Francisco | posted:2026-05-11T20:15:20-04:00 | source:greenhouse-api
+- [ ] https://app.careerpuck.com/job-board/lyft/job/8544636002?gh_jid=8544636002 | Lyft | Backend Software Engineer, Airports | score:4.2 | location:Mexico City, Mexico | posted:2026-05-12T10:07:09-04:00 | source:greenhouse-api
+- [ ] https://app.careerpuck.com/job-board/lyft/job/8544638002?gh_jid=8544638002 | Lyft | Software Engineer, Scheduled Rides | score:3.8 | location:Toronto, Canada | posted:2026-05-12T11:26:06-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4413282127 | AlphaLife Sciences | Software Engineer - New Grad or Early Career | score:3.8 | location:New Jersey, United States | posted:2026-05-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4413278477 | Uber | Software Engineer I | score:4.1 | location:San Francisco, CA | posted:2026-05-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4373925074 | Handshake | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-05-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4403643287 | Varsity Brands | Software Engineer - Early Career | score:3.8 | location:Farmers Branch, TX | posted:2026-05-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4363417556 | Epic | Software Developer (Entry Level) | score:3.8 | location:Indianapolis, IN | posted:2026-05-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4413436050 | Cox Automotive Inc. | Software Engineer I | score:3.8 | location:Austin, TX | posted:2026-05-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4412987860 | Axon | Software Engineer I | score:3.8 | location:Washington, United States | posted:2026-05-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4413438235 | Robert Half | Software Engineer I | score:3.8 | location:San Diego, CA | posted:2026-05-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4413527862 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4401684085 | Electrify America | Contract Software Engineer I - Backend | score:4.2 | location:Reston, VA | posted:2026-05-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4404509105 | Honeywell Aerospace Technologies | Software Engineer I - US Person | score:3.8 | location:Phoenix, AZ | posted:2026-05-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4413183162 | The Citco Group Limited | Junior Full Stack Developer | score:4.2 | location:Charlotte, NC | posted:2026-05-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4413568388 | BAM Weather | Junior Full Stack Developer | score:4.2 | location:Greenwood, IN | posted:2026-05-12T00:00:00.000Z | source:linkedin-guest
