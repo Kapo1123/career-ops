@@ -1272,3 +1272,13 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4413558252 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-12T00:00:00.000Z | source:linkedin-guest
 
 - [ ] https://stripe.com/jobs/search?gh_jid=7591894 | Stripe | Full Stack Engineer, Risk & Support | score:4.2 | location:N/A | posted:2026-05-12T14:34:47-04:00 | source:greenhouse-api
+
+- [ ] https://stripe.com/jobs/search?gh_jid=7913700 | Stripe | Backend Engineer, Data | score:4.2 | location:Canada | posted:2026-05-12T18:34:52-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4413840310 | Ciena | Software Engineer (Security) - New Grad | score:3.8 | location:Atlanta, GA | posted:2026-05-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4391631798 | hackajob | Junior Software Engineer | score:3.8 | location:United States | posted:2026-05-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4413810880 | Haystack | Junior Software Engineer | score:3.8 | location:Atlanta Metropolitan Area | posted:2026-05-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4413745880 | Crate &amp; Barrel | Software Engineer | score:3 | location:Northbrook, IL | posted:2026-05-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4410198462 | SICK Sensor Intelligence | Software Engineer I | score:3.8 | location:Canton, NY | posted:2026-05-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4413819727 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4413816593 | Astemo Ltd. | Software Engineer I | score:3.8 | location:Harrodsburg, KY | posted:2026-05-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4413825137 | Santcore Technologies | Jr Full Stack Developer | score:3.4 | location:Rockville, MD | posted:2026-05-12T00:00:00.000Z | source:linkedin-guest
