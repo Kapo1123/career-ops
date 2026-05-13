@@ -1300,3 +1300,8 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4413835208 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-12T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4413747842 | Honeywell Aerospace Technologies | Software Engineer I | score:3.8 | location:Phoenix, AZ | posted:2026-05-13T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4413895632 | targetjobs UK | Graduate Software Engineer | score:3 | location:Preston, CT | posted:2026-05-13T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/twitch/jobs/8367555002 | Twitch | Software Engineer I | score:4.1 | location:San Francisco, CA | posted:2026-05-13T12:41:17-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5218395008 | Anthropic | Software Engineer, Systems - Claude Code | score:3.3 | location:San Francisco, CA | New York City, NY | posted:2026-05-13T12:14:51-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/openai/579595e5-0b16-485e-b7c5-102fc7467def | OpenAI | Data Engineer, People Innovation Labs | score:3.7 | location:San Francisco | posted:2026-05-13T16:46:54.052+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4413872185 | Crossing Hurdles | Software Engineer – Python | Remote | score:3.4 | location:United States | posted:2026-05-13T00:00:00.000Z | source:linkedin-guest
