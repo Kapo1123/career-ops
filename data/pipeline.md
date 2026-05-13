@@ -1310,3 +1310,19 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4414172033 | Austin AI Lab | Entry-Level Quality Assurance Engineer | score:3 | location:California, United States | posted:2026-05-13T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4414146726 | Jack Henry | Software Engineer Entry Level : Core Deposits Software | score:3.8 | location:Monett, MO | posted:2026-05-13T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4413759052 | Allied World Reinsurance Company | Junior Full Stack Developer | score:4.2 | location:Iselin, NJ | posted:2026-05-12T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/twitch/jobs/8548960002 | Twitch | Software Engineer I | score:4.1 | location:Seattle, WA | posted:2026-05-13T19:22:52-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4547218005 | Glean | Cloud Infrastructure Engineer | score:3.4 | location:Mountain View, CA | posted:2026-05-13T18:19:10-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/langchain/d3f8de08-2e2b-4c3f-be1f-e63ca51f1d93 | LangChain | Principle Software Engineer, AI Observability & Evals Platform | score:3.4 | location:Boston, MA | posted:2026-05-13T22:53:01.826+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4414172182 | Jobs via Dice | Graduate Software Engineer | Remote | score:3 | location:United States | posted:2026-05-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414287687 | Jacobs | Entry Level Linux Software Engineer | score:3.8 | location:Chantilly, VA | posted:2026-05-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414184493 | General Dynamics Mission Systems | Entry Level Infrastructure Software Engineer | score:4.2 | location:Pittsfield, MA | posted:2026-05-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414284815 | Activ8 Recruitment &amp; Solutions | Entry Level Field Service Engineer - Industrial Machinery (33968) | score:3.8 | location:Elk Grove Village, IL | posted:2026-05-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4410324474 | Alex AI | Full-Stack Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-05-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4413887273 | hackajob | Software Engineer- Early Career | score:3.8 | location:Orlando, FL | posted:2026-05-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4351183157 | OpenAI | Software Engineer, Research - Human Data | score:3.7 | location:San Francisco, CA | posted:2026-05-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414507256 | IHA | Software Engineer I | score:3.8 | location:Ann Arbor, MI | posted:2026-05-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414158986 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414192164 | Andersen Corporation | Software Engineer I | score:3.8 | location:Oak Park Heights, MN | posted:2026-05-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414198024 | Cadence | Software Engineer I | score:3.8 | location:San Jose, CA | posted:2026-05-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414242186 | PTC | Junior Software Engineer | score:3.8 | location:San Mateo County, CA | posted:2026-05-13T00:00:00.000Z | source:linkedin-guest
