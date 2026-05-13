@@ -1282,3 +1282,21 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4413819727 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-12T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4413816593 | Astemo Ltd. | Software Engineer I | score:3.8 | location:Harrodsburg, KY | posted:2026-05-12T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4413825137 | Santcore Technologies | Jr Full Stack Developer | score:3.4 | location:Rockville, MD | posted:2026-05-12T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7908785 | MongoDB | Software Engineer 3 | score:3 | location:Gurugram | posted:2026-05-13T10:18:11-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/notion/c565d3b0-0dcf-4bcd-b29b-4168479ac78e | Notion | Software Engineer, AI Dev Velocity | score:4.1 | location:San Francisco, California | posted:2026-05-13T15:27:58.577+00:00 | source:ashby-api
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4694839005 | Glean | Software Engineer, Platform Security | score:3.7 | location:Remote - US | posted:2026-05-12T19:28:35-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/supabase/b7206c22-979f-444a-809b-e70d9ee23c7f | Supabase | Software Engineer: IaC Platform Experience | score:3.7 | location:Remote | posted:2026-05-13T12:37:38.287+00:00 | source:ashby-api
+- [ ] https://jobs.lever.co/spotify/eef2e6da-d277-469c-8ba5-3592339506d9 | Spotify | Full Stack Engineer - Audiobooks | score:3.4 | location:London | posted:2026-05-13T09:35:05.452Z | source:lever-api
+- [ ] https://www.linkedin.com/jobs/view/4413862631 | Xcelerium | New Grad Software Engineer | score:3.8 | location:Irvine, CA | posted:2026-05-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4413838687 | NVIDIA | Systems Software Engineer - New College Grad 2026 | score:3 | location:Hillsboro, OR | posted:2026-05-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4404214958 | Westinghouse Electric Company | System Test Engineer - New Grad | score:3.8 | location:Warrendale, PA | posted:2026-05-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4413851918 | Qcells North America | Junior Software Engineer | score:3.8 | location:Santa Clara, CA | posted:2026-05-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4410609434 | NorthCountry Federal Credit Union | Software Developer | score:3 | location:South Burlington, VT | posted:2026-05-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4321335492 | Epic | Software Developer (Entry Level) | score:3.8 | location:Elgin, IL | posted:2026-05-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4392962788 | Two Six Technologies | Junior Software Developer | score:3.8 | location:Herndon, VA | posted:2026-05-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4413999781 | TSC | Software Engineer I | score:3.8 | location:Silver Spring, MD | posted:2026-05-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4413845935 | American Express | Sr Software Engineer I | score:4.1 | location:New York, NY | posted:2026-05-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4413835208 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4413747842 | Honeywell Aerospace Technologies | Software Engineer I | score:3.8 | location:Phoenix, AZ | posted:2026-05-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4413895632 | targetjobs UK | Graduate Software Engineer | score:3 | location:Preston, CT | posted:2026-05-13T00:00:00.000Z | source:linkedin-guest
