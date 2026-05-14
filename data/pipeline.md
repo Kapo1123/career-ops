@@ -1368,3 +1368,18 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4382812923 | EvenUp | Backend Engineer, New Products | score:3.7 | location:San Francisco, CA | posted:2026-05-14T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4394678938 | Epic Placements | Software Engineer ($75+M Series B Raise) | score:3.3 | location:San Francisco, CA | posted:2026-05-13T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4414705615 | Haystack | Software Engineer | score:3 | location:San Diego Metropolitan Area | posted:2026-05-14T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5219486008 | Anthropic | [Pipeline] Software Engineer, Safeguards Labs | score:3.3 | location:New York City, NY | posted:2026-05-14T15:21:56-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/cohere/6aa3cb2b-ee8b-4c92-b505-3a7509f80d7f | Cohere | Software Engineer, Data Infrastructure | score:3.7 | location:New York | posted:2026-05-14T19:24:12.210+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4414686591 | StubHub | Software Engineer I - Active Support (New Grad) | score:4.1 | location:New York, NY | posted:2026-05-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4327864123 | BAE Systems, Inc. | Entry Level Software Engineer | score:3.8 | location:Greenlawn, NY | posted:2026-05-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414671318 | KBR Careers | Jr Software Engineer | score:3 | location:Chantilly, VA | posted:2026-05-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414729971 | Otis Elevator Co. | Entry Level Software Engineer | score:3.8 | location:Farmington, CT | posted:2026-05-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4383826074 | SWIVEL | Junior Software Engineer | score:3.8 | location:San Antonio, TX | posted:2026-05-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4411504631 | Blue Origin | Software Development Engineer I - Early Career (2026 Starts) | score:4.1 | location:Greater Seattle Area | posted:2026-05-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414406272 | KRYPTAURI | Software Engineer Level 1 – JAVA / MICROSERVICES | score:3.4 | location:Columbia, MD | posted:2026-05-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414708053 | Cadence | Software Engineer I | score:3.8 | location:San Jose, CA | posted:2026-05-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414733191 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414497704 | Fortune | Full Stack Software Engineer Next.js | score:3.7 | location:New York, NY | posted:2026-05-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414687284 | Integrity | Software Engineer I | score:3.8 | location:Urbandale, IA | posted:2026-05-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4402812851 | Alarm.com | Software Engineer | score:3 | location:Lawrence, KS | posted:2026-05-14T00:00:00.000Z | source:linkedin-guest
