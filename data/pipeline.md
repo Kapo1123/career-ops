@@ -1383,3 +1383,9 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4414497704 | Fortune | Full Stack Software Engineer Next.js | score:3.7 | location:New York, NY | posted:2026-05-14T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4414687284 | Integrity | Software Engineer I | score:3.8 | location:Urbandale, IA | posted:2026-05-14T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4402812851 | Alarm.com | Software Engineer | score:3 | location:Lawrence, KS | posted:2026-05-14T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4353992366 | Netic | Software Engineer, New Grad | score:4.1 | location:San Francisco, CA | posted:2026-05-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414493740 | 1Phi Inc | New Grad Data Engineer (for Health Tech Startup)🤓 | score:4.2 | location:United States | posted:2026-05-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414930642 | Baker Hughes | Manufacturing Software Engineer | score:3 | location:Minden, NV | posted:2026-05-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414901910 | SWIVEL | Junior Software Engineer | score:3.8 | location:San Antonio, TX | posted:2026-05-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414931958 | TSC | Software Engineer I | score:3.8 | location:Silver Spring, MD | posted:2026-05-14T00:00:00.000Z | source:linkedin-guest
