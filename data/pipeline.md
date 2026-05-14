@@ -1351,3 +1351,20 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4366213068 | SpaceX | Software Engineer (Starshield) | score:3 | location:Hawthorne, CA | posted:2026-05-14T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4411500057 | targetjobs UK | Graduate Software Engineer | score:3 | location:Carlisle, PA | posted:2026-05-14T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4411503048 | BeaconFire Inc. | Junior Java Software Engineer | score:4.2 | location:California, United States | posted:2026-05-14T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7711713 | MongoDB | Software Engineer 3 | score:3 | location:Dublin | posted:2026-05-14T10:29:28-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4414631789 | Symbotic | New Grad- Software Engineer | score:3.8 | location:Wilmington, MA | posted:2026-05-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414634625 | Symbotic | New Grad- Software Engineer, ML Ops | score:3.8 | location:Wilmington, MA | posted:2026-05-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414704848 | Ciena | Software Engineer (Security) - New Grad | score:3.8 | location:Atlanta, GA | posted:2026-05-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414642171 | Symbotic | New Grad- 3D Graphics Software Engineer | score:3.8 | location:Milpitas, CA | posted:2026-05-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4411194775 | Applied Materials | 2026 Data Engineer New College Grad- Bachelor's/Master's (Austin, TX) | score:3.4 | location:Austin, TX | posted:2026-05-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414629842 | Symbotic | New Grad- System Engineer | score:3.8 | location:New Braunfels, TX | posted:2026-05-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4411197060 | NetApp | NetApp Emerging Talent - Entry Level Software Engineer (Systems) | score:3.8 | location:San Jose, CA | posted:2026-05-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4411188209 | NetApp | NetApp Emerging Talent - Entry Level Software Engineer (Cloud Storage) | score:3.8 | location:Morrisville, NC | posted:2026-05-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4293208199 | Honeywell | Software Engineer &amp; Computer Science - Recent Grad/Full Time (US Person Required) | score:3 | location:United States | posted:2026-05-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4292809173 | Ramp | Software Engineer, Frontend | score:3 | location:United States | posted:2026-05-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4410645080 | Jobot | Software Engineer | score:3 | location:San Diego, CA | posted:2026-05-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414276331 | Notion | Software Engineer, Agent Dev Velocity | score:4.1 | location:San Francisco, CA | posted:2026-05-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4382812923 | EvenUp | Backend Engineer, New Products | score:3.7 | location:San Francisco, CA | posted:2026-05-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4394678938 | Epic Placements | Software Engineer ($75+M Series B Raise) | score:3.3 | location:San Francisco, CA | posted:2026-05-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414705615 | Haystack | Software Engineer | score:3 | location:San Diego Metropolitan Area | posted:2026-05-14T00:00:00.000Z | source:linkedin-guest
