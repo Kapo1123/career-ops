@@ -1326,3 +1326,28 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4414192164 | Andersen Corporation | Software Engineer I | score:3.8 | location:Oak Park Heights, MN | posted:2026-05-13T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4414198024 | Cadence | Software Engineer I | score:3.8 | location:San Jose, CA | posted:2026-05-13T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4414242186 | PTC | Junior Software Engineer | score:3.8 | location:San Mateo County, CA | posted:2026-05-13T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8341810002 | Databricks | Software Engineer- Fullstack- Singapore | score:4.2 | location:Singapore | posted:2026-05-14T00:06:54-04:00 | source:greenhouse-api
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8345074002 | Databricks | Software Engineer- Fullstack- Tokyo | score:4.2 | location:Tokyo, Japan | posted:2026-05-14T00:06:52-04:00 | source:greenhouse-api
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7711717 | MongoDB | Software Engineer 3 | score:3 | location:Dublin | posted:2026-05-14T10:28:48-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4618065005 | Scale AI | Software Engineer, Robotics & Autonomous Systems | score:3.3 | location:San Francisco, CA | posted:2026-05-13T23:31:48-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/snowflake/281df6e0-ff68-4752-a9bc-26fa7b75b5ad | Snowflake | SOFTWARE ENGINEER | score:3.8 | location:IE-Dublin-WW | posted:2026-05-14T13:01:18.834+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/snowflake/10495197-9600-4590-9863-83f31f93a200 | Snowflake | Software Engineer - Ecosystem team | score:3.8 | location:PL-Warsaw | posted:2026-05-14T08:26:12.548+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/langchain/068b2e23-af01-42c7-9bce-d86976ea4d6e | LangChain | Software Engineer, SmithDB | score:3.3 | location:San Francisco, CA | posted:2026-05-13T17:16:28.472+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4414528618 | Instabase | Full-stack Software Engineer (New Grad) | score:4.1 | location:San Francisco, CA | posted:2026-05-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4405440340 | Anduril Industries | Early Career Software Engineer | score:3.8 | location:Costa Mesa, CA | posted:2026-05-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414453836 | Jack &amp; Jill | New Grad Software Engineer at fast-growing consumer social platform | score:4.5 | location:New York, United States | posted:2026-05-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4390372943 | K2 Space Corporation | Application Software Engineer | score:3 | location:Los Angeles, CA | posted:2026-05-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414175266 | Twitch | Software Engineer I | score:4.1 | location:San Francisco, CA | posted:2026-05-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4404523390 | Apex Fintech Solutions | Software Engineer I | score:3.8 | location:Austin, TX | posted:2026-05-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4321335494 | Epic | Software Developer (Entry Level) | score:3.8 | location:Traverse City, MI | posted:2026-05-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4411185569 | NetApp | NetApp Emerging Talent - Entry Level Software Engineer (Systems) | score:3.8 | location:Morrisville, NC | posted:2026-05-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414410281 | SynergisticIT | junior software developer/data engineer | score:4.5 | location:Seattle, WA | posted:2026-05-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4411185575 | NetApp | NetApp Emerging Talent - Entry Level Software Engineer (Cloud Storage) | score:3.8 | location:San Jose, CA | posted:2026-05-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4292999956 | Honeywell | Software Engineer &amp; Computer Science - Recent Grad/Full Time | score:3 | location:United States | posted:2026-05-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4401980422 | IBM | Software Engineer Apprentice | score:3 | location:Armonk, NY | posted:2026-05-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414591578 | Dash Bio | Associate Software Engineer / Software Engineer (Full Stack) (On Site) | score:4.2 | location:Waltham, MA | posted:2026-05-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414478064 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4366213068 | SpaceX | Software Engineer (Starshield) | score:3 | location:Hawthorne, CA | posted:2026-05-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4411500057 | targetjobs UK | Graduate Software Engineer | score:3 | location:Carlisle, PA | posted:2026-05-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4411503048 | BeaconFire Inc. | Junior Java Software Engineer | score:4.2 | location:California, United States | posted:2026-05-14T00:00:00.000Z | source:linkedin-guest
