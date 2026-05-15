@@ -1407,3 +1407,7 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4404796320 | Vituity | Software Engineer I - Remote - Nationwide | score:3.8 | location:United States | posted:2026-05-15T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4415324488 | Reflexive Concepts | Software Engineer I | score:3.8 | location:Annapolis Junction, MD | posted:2026-05-15T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4415009324 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-15T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://stripe.com/jobs/search?gh_jid=7913464 | Stripe | Full Stack Engineer, Paid Support Experience | score:4.2 | location:Dublin | posted:2026-05-15T11:48:02-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4695206005 | Glean | Software Engineer, AI Infrastructure | score:3.7 | location:San Francisco, California, United States | posted:2026-05-15T13:16:50-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4411597142 | SoTalent | Junior Software Engineer (Remote) | score:3.8 | location:United States | posted:2026-05-15T00:00:00.000Z | source:linkedin-guest
