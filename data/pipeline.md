@@ -1411,3 +1411,8 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://stripe.com/jobs/search?gh_jid=7913464 | Stripe | Full Stack Engineer, Paid Support Experience | score:4.2 | location:Dublin | posted:2026-05-15T11:48:02-04:00 | source:greenhouse-api
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4695206005 | Glean | Software Engineer, AI Infrastructure | score:3.7 | location:San Francisco, California, United States | posted:2026-05-15T13:16:50-04:00 | source:greenhouse-api
 - [ ] https://www.linkedin.com/jobs/view/4411597142 | SoTalent | Junior Software Engineer (Remote) | score:3.8 | location:United States | posted:2026-05-15T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4415530837 | Enpro Inc. | Software Developer | score:3 | location:Santa Rosa, CA | posted:2026-05-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4371794360 | Crossing Hurdles | Backend Engineer | score:3.7 | location:San Francisco, CA | posted:2026-05-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4411553712 | Aspire | Software Engineer US | score:3.3 | location:San Francisco, CA | posted:2026-05-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414772793 | Wonderist Agency - Dental Marketing | Software Developer | score:3 | location:San Diego Metropolitan Area | posted:2026-05-15T00:00:00.000Z | source:linkedin-guest
