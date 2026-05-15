@@ -1389,3 +1389,21 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4414930642 | Baker Hughes | Manufacturing Software Engineer | score:3 | location:Minden, NV | posted:2026-05-14T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4414901910 | SWIVEL | Junior Software Engineer | score:3.8 | location:San Antonio, TX | posted:2026-05-14T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4414931958 | TSC | Software Engineer I | score:3.8 | location:Silver Spring, MD | posted:2026-05-14T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://careers.hellofresh.com/global/en/job/7839750?gh_jid=7839750 | HelloFresh | Data Engineer | score:3.4 | location:Sydney, New South Wales, Australia | posted:2026-05-14T20:15:42-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4406118990 | Notion | Software Engineer, New Grad | score:4.9 | location:San Francisco, CA | posted:2026-05-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4415004518 | QED Investors | Software Enginneer, New Grad | score:4.1 | location:San Francisco, CA | posted:2026-05-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414985647 | Collective | Software Enginneer, New Grad | score:4.1 | location:San Francisco, CA | posted:2026-05-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4406107703 | Navan | New College Grad Software Engineer (Backend) | score:3.4 | location:Palo Alto, CA | posted:2026-05-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4415318658 | Cox Automotive Inc. | Entry Level Software Engineer (Draper, UT) | score:3.8 | location:Draper, UT | posted:2026-05-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4395388709 | Elbit Systems of America | Software Engineer I | score:3.8 | location:Roanoke, VA | posted:2026-05-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414792104 | VetJobs | Entry Level Infrastructure Software Engineer - Pittsfield, MA | score:4.2 | location:Pittsfield, MA | posted:2026-05-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4395322588 | Burgess &amp; Niple | Traffic Engineer, Entry Level | score:3.8 | location:Tempe, AZ | posted:2026-05-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4406112904 | Handshake | Associate Software Engineer, RLE | score:4.1 | location:San Francisco, CA | posted:2026-05-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4415334255 | PDW | Junior Software Engineer | score:3.8 | location:Denver, CO | posted:2026-05-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414775942 | Pure Storage | Software Engineer Grad | score:3 | location:Santa Clara, CA | posted:2026-05-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4411528239 | SHI International Corp. | Associate Software Engineer | score:3.8 | location:United States | posted:2026-05-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4405041565 | Ibotta | Software Engineer | score:3 | location:Denver, CO | posted:2026-05-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4404796320 | Vituity | Software Engineer I - Remote - Nationwide | score:3.8 | location:United States | posted:2026-05-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4415324488 | Reflexive Concepts | Software Engineer I | score:3.8 | location:Annapolis Junction, MD | posted:2026-05-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4415009324 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-15T00:00:00.000Z | source:linkedin-guest
