@@ -1416,3 +1416,10 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4371794360 | Crossing Hurdles | Backend Engineer | score:3.7 | location:San Francisco, CA | posted:2026-05-15T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4411553712 | Aspire | Software Engineer US | score:3.3 | location:San Francisco, CA | posted:2026-05-15T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4414772793 | Wonderist Agency - Dental Marketing | Software Developer | score:3 | location:San Diego Metropolitan Area | posted:2026-05-15T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://careers.roblox.com/jobs/7557910?gh_jid=7557910 | Roblox | [2026] Software Engineer, Game Developer | score:3 | location:San Mateo, CA, United States | posted:2026-05-15T19:02:17-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4415556081 | Chewy | Software Engineer I | score:3.8 | location:Boston, MA | posted:2026-05-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4415506926 | Honeywell | Software Engineer I | score:3.8 | location:Hamilton Township, NJ | posted:2026-05-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4412031567 | Carrier | Web Application Full Stack Developer | score:3.4 | location:Atlanta, GA | posted:2026-05-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4415107661 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4375015457 | SpaceX | Software Engineer, Tracking (Starshield) | score:3 | location:Hawthorne, CA | posted:2026-05-15T00:00:00.000Z | source:linkedin-guest
