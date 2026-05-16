@@ -1440,3 +1440,13 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4415402135 | Carrier | Web Application Full Stack Developer | score:3.4 | location:Georgia, United States | posted:2026-05-16T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4397356269 | SpaceX | New Graduate Engineer, Software | score:3.8 | location:Hawthorne, CA | posted:2026-05-16T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4366529432 | Scientific Research Corporation | Software Developer (Entry) | score:3 | location:North Charleston, SC | posted:2026-05-16T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4321143177 | Mission Technologies, a division of HII | Software Engineer (Engineer Software 1) - JLVC Mod-JECS Modernization - 26049 | score:3 | location:Suffolk, VA | posted:2026-05-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4415888825 | Armstrong Steel | Estimator - Entry Level | score:3.8 | location:Englewood, CO | posted:2026-05-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4304438841 | DataAnnotation | Software Developer | score:3 | location:Connecticut, United States | posted:2026-05-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4415866942 | Cox Automotive Inc. | Software Engineer I | score:3.8 | location:Carmel, IN | posted:2026-05-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4415533912 | Intelliforce-IT Solutions Group, LLC. | Junior Software Developer | score:3.8 | location:Annapolis Junction, MD | posted:2026-05-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4415107613 | Brooksource | Associate Software Engineer | score:3.8 | location:Indianapolis, IN | posted:2026-05-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4415151331 | General Legal (YC26) | Full Stack Software Engineer | score:3.7 | location:San Francisco, CA | posted:2026-05-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4415124575 | Barrios Technology | Lunar Terrain Vehicle - Junior Software Engineer | score:3.8 | location:Houston, TX | posted:2026-05-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4412043753 | Intact Insurance Specialty Solutions | Software Developer I (Hybrid) | score:3 | location:Canton, MA | posted:2026-05-15T00:00:00.000Z | source:linkedin-guest
