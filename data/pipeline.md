@@ -1423,3 +1423,14 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4412031567 | Carrier | Web Application Full Stack Developer | score:3.4 | location:Atlanta, GA | posted:2026-05-15T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4415107661 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-15T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4375015457 | SpaceX | Software Engineer, Tracking (Starshield) | score:3 | location:Hawthorne, CA | posted:2026-05-15T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4406691082 | Northwood | Software Engineer – General (new grad / early career) | score:3.8 | location:Torrance, CA | posted:2026-05-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4404111287 | Mach Industries | Flight Software Engineer | score:3 | location:Huntington Beach, CA | posted:2026-05-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4415854038 | Squadra Ventures | Junior Software Engineer | score:3.8 | location:Denver, CO | posted:2026-05-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4375604958 | AMETEK | Associate Software Engineer | score:3.8 | location:Mount Prospect, IL | posted:2026-05-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4406806952 | Ford Motor Company | Software Engineer | score:3 | location:Dearborn, MI | posted:2026-05-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4415139916 | General Legal (YC26) | Full Stack Software Engineer | score:3.7 | location:New York, NY | posted:2026-05-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4366955819 | Handshake | Software Engineer, Consumer Experience | score:3.3 | location:San Francisco, CA | posted:2026-05-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4415808342 | SpaceX | Full Stack Software Engineer, Data | score:3.4 | location:Hawthorne, CA | posted:2026-05-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4415187549 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4415570556 | RADAR | Software Engineer I/II | score:3.8 | location:San Diego Metropolitan Area | posted:2026-05-15T00:00:00.000Z | source:linkedin-guest
