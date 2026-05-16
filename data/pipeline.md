@@ -1434,3 +1434,9 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4415808342 | SpaceX | Full Stack Software Engineer, Data | score:3.4 | location:Hawthorne, CA | posted:2026-05-16T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4415187549 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-16T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4415570556 | RADAR | Software Engineer I/II | score:3.8 | location:San Diego Metropolitan Area | posted:2026-05-15T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4304437844 | DataAnnotation | Software Developer | score:3 | location:California, United States | posted:2026-05-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4415138049 | Yahoo | Software Engineer , SRE Tooling &amp; Reliability Platforms | score:3.4 | location:United States | posted:2026-05-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4415402135 | Carrier | Web Application Full Stack Developer | score:3.4 | location:Georgia, United States | posted:2026-05-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4397356269 | SpaceX | New Graduate Engineer, Software | score:3.8 | location:Hawthorne, CA | posted:2026-05-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4366529432 | Scientific Research Corporation | Software Developer (Entry) | score:3 | location:North Charleston, SC | posted:2026-05-16T00:00:00.000Z | source:linkedin-guest
