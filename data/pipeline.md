@@ -1460,3 +1460,7 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4384256671 | Crossing Hurdles | Software Engineer - Python | Remote | score:3.4 | location:United States | posted:2026-05-17T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4415463206 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-17T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4367339013 | SpaceX | Satellite Systems Software Engineer (Starlink) | score:3 | location:Redmond, WA | posted:2026-05-16T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4401874274 | hackajob | Junior Software Engineer | score:3.8 | location:Annapolis Junction, MD | posted:2026-05-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4304441843 | DataAnnotation | Software Developer | score:3 | location:Idaho, United States | posted:2026-05-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4315338553 | SpaceX | Full Stack Software Engineer (Starlink Ground Network) | score:3.4 | location:Redmond, WA | posted:2026-05-17T00:00:00.000Z | source:linkedin-guest
