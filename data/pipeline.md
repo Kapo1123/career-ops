@@ -1454,3 +1454,9 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4304454025 | DataAnnotation | Software Developer | score:3 | location:Washington, DC | posted:2026-05-16T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4415879914 | Sequoia Capital Global Equities | Full Stack Software Engineer, Data | score:3.4 | location:Hawthorne, CA | posted:2026-05-16T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4415196770 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-16T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4415417679 | InterScripts, Inc. | Software Engineer I (Full Stack) – Immediate Joiners | score:4.2 | location:Daly City, CA | posted:2026-05-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4304445723 | DataAnnotation | Software Developer | score:3 | location:Illinois, United States | posted:2026-05-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4384256671 | Crossing Hurdles | Software Engineer - Python | Remote | score:3.4 | location:United States | posted:2026-05-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4415463206 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4367339013 | SpaceX | Satellite Systems Software Engineer (Starlink) | score:3 | location:Redmond, WA | posted:2026-05-16T00:00:00.000Z | source:linkedin-guest
