@@ -1467,3 +1467,5 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 
 - [ ] https://www.linkedin.com/jobs/view/4304448690 | DataAnnotation | Software Developer | score:3 | location:Pennsylvania, United States | posted:2026-05-17T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4385598696 | SpaceX | Software Engineer, Low Latency Computing (Starlink) | score:3 | location:Redmond, WA | posted:2026-05-17T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4304436939 | DataAnnotation | Software Developer | score:3 | location:Maine, United States | posted:2026-05-17T00:00:00.000Z | source:linkedin-guest
