@@ -1481,3 +1481,15 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4416236914 | TalentAlly | Software Engineer | score:3 | location:Sacramento, CA | posted:2026-05-18T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4416081412 | Nexla | Software Engineer, Connectors Framework | score:3 | location:California City, CA | posted:2026-05-18T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4258378544 | Applied Intuition | Software Engineer - Developer Infrastructure | score:3.4 | location:Sunnyvale, CA | posted:2026-05-18T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4415691078 | Emonics LLC | Entry Level Software Engineer | score:3.8 | location:Austin, TX | posted:2026-05-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4404802841 | SkillStorm | Entry Level Software Developer | score:3.8 | location:Austin, TX | posted:2026-05-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4415682640 | Emonics LLC | Software Engineer | score:3.3 | location:Seattle, WA | posted:2026-05-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4415689370 | Jobright.ai | Software Engineer | score:3 | location:United States | posted:2026-05-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4331580484 | Medpace | Junior Software Engineer | score:3.8 | location:Denver, CO | posted:2026-05-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4397592379 | Pinnacle Fertility | Jr Software Developer | score:3 | location:Scottsdale, AZ | posted:2026-05-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4384292136 | Texas Instruments | Career Accelerator Program - Software Engineer | score:3 | location:Dallas, TX | posted:2026-05-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4415089203 | Cascade | Software Engineer – Generalist / Systems | score:3 | location:Denver, CO | posted:2026-05-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4416277151 | Careerscape | Junior Software Engineer | score:3.8 | location:United States | posted:2026-05-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4412808969 | Rotaract Club of Islamabad, RID 3282, Bangladesh | Software Engineer (Entry-Level / Associate) | score:4.1 | location:New York, United States | posted:2026-05-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4415614747 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-18T00:00:00.000Z | source:linkedin-guest
