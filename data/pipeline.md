@@ -1493,3 +1493,9 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4416277151 | Careerscape | Junior Software Engineer | score:3.8 | location:United States | posted:2026-05-18T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4412808969 | Rotaract Club of Islamabad, RID 3282, Bangladesh | Software Engineer (Entry-Level / Associate) | score:4.1 | location:New York, United States | posted:2026-05-18T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4415614747 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-18T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/6469397 | Reddit | Software Engineer, Ads | score:3.3 | location:Remote - United States | posted:2026-05-18T14:51:17-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/plaid/675be915-3aed-4fe2-8f8b-f56dde88cf8a | Plaid | Software Engineer - Security | score:3.3 | location:New York City Office | posted:2026-05-18T19:16:08.259+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4416404536 | CVector | Full Stack Software Engineer I or II | score:4.5 | location:New York, NY | posted:2026-05-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4404802876 | SkillStorm | Entry Level Software Developer | score:3.8 | location:Washington, DC | posted:2026-05-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4415699680 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-18T00:00:00.000Z | source:linkedin-guest
