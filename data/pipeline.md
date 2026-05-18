@@ -1469,3 +1469,15 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4385598696 | SpaceX | Software Engineer, Low Latency Computing (Starlink) | score:3 | location:Redmond, WA | posted:2026-05-17T00:00:00.000Z | source:linkedin-guest
 
 - [ ] https://www.linkedin.com/jobs/view/4304436939 | DataAnnotation | Software Developer | score:3 | location:Maine, United States | posted:2026-05-17T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4405966622 | Crossing Hurdles | Entry-Level Software Engineer | Remote | score:3 | location:United States | posted:2026-05-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4416257539 | Inclusively | Associate Software Engineer / Software Engineer | score:3.8 | location:United States | posted:2026-05-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4412817312 | Covista | Software Engineer | score:3 | location:Columbia, MD | posted:2026-05-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4304441841 | DataAnnotation | Software Developer | score:3 | location:Massachusetts, United States | posted:2026-05-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4374313687 | Nuro | Software Engineer, Offboard Infrastructure | score:3.4 | location:Mountain View, CA | posted:2026-05-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4385381877 | Etched | Core Software Engineer | score:3 | location:San Jose, CA | posted:2026-05-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4416247800 | Faro | Full Stack Software Developer | score:3.4 | location:San Diego, CA | posted:2026-05-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4412291366 | Stealth Startup | Backend Developer [33003] | score:3.4 | location:San Diego, CA | posted:2026-05-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4416236914 | TalentAlly | Software Engineer | score:3 | location:Sacramento, CA | posted:2026-05-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4416081412 | Nexla | Software Engineer, Connectors Framework | score:3 | location:California City, CA | posted:2026-05-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4258378544 | Applied Intuition | Software Engineer - Developer Infrastructure | score:3.4 | location:Sunnyvale, CA | posted:2026-05-18T00:00:00.000Z | source:linkedin-guest
