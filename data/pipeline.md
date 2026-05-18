@@ -1499,3 +1499,11 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4416404536 | CVector | Full Stack Software Engineer I or II | score:4.5 | location:New York, NY | posted:2026-05-18T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4404802876 | SkillStorm | Entry Level Software Developer | score:3.8 | location:Washington, DC | posted:2026-05-18T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4415699680 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-18T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/6512458 | Reddit | Software Engineer, Ads | score:3.3 | location:Remote - Ontario, Canada | posted:2026-05-18T14:51:18-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4412831640 | HRCap, Inc. | Junior Software Engineer | score:3.8 | location:United States | posted:2026-05-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4416408629 | Amentum | Entry Level Software Engineer | score:3.8 | location:Fredericksburg, VA | posted:2026-05-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4416420337 | Amentum | Junior Software Engineer for Naval Research Technology | score:3.8 | location:Fredericksburg, VA | posted:2026-05-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4415695902 | Reddit, Inc. | Software Engineer, Ads | score:3 | location:United States | posted:2026-05-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4416201819 | Sundayy | Software Engineer (Java, TypeScript) | score:3.4 | location:United States | posted:2026-05-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414533303 | Medtronic | Software Engineer I - CRM | score:3.8 | location:Minneapolis, MN | posted:2026-05-18T00:00:00.000Z | source:linkedin-guest
