@@ -1518,3 +1518,11 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4415775382 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-19T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4398058718 | SpaceX | Application Software Engineer | score:3 | location:Hawthorne, CA | posted:2026-05-19T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4410739302 | SkillStorm | Junior Level Software Developer | score:3.8 | location:San Antonio, Texas Metropolitan Area | posted:2026-05-19T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7939397 | MongoDB | Software Engineer 3 | score:3 | location:Dublin | posted:2026-05-19T12:31:23-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4696752005 | Glean | Software Engineer, APIs & Context Platform | score:3.4 | location:Mountain View, CA | posted:2026-05-19T13:11:22-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4413339503 | NVIDIA AI | Software Engineer, AI and DL Kernel Libraries - New College Grad 2026 | score:3 | location:Santa Clara, CA | posted:2026-05-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4413340515 | NVIDIA AI | AI Software Engineer, Kernel Libraries - New College Grad 2026 | score:3 | location:Santa Clara, CA | posted:2026-05-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4415726228 | General Dynamics Mission Systems | Entry Level Software Engineer | score:3.8 | location:Lakewood, OH | posted:2026-05-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4405182061 | Major League Baseball (MLB) | Associate Software Engineer | score:4.1 | location:San Francisco, CA | posted:2026-05-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4359447584 | SpaceX | Full Stack Software Engineer (Starshield) | score:3.4 | location:Hawthorne, CA | posted:2026-05-19T00:00:00.000Z | source:linkedin-guest
