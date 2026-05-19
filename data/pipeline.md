@@ -1507,3 +1507,14 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4415695902 | Reddit, Inc. | Software Engineer, Ads | score:3 | location:United States | posted:2026-05-18T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4416201819 | Sundayy | Software Engineer (Java, TypeScript) | score:3.4 | location:United States | posted:2026-05-18T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4414533303 | Medtronic | Software Engineer I - CRM | score:3.8 | location:Minneapolis, MN | posted:2026-05-18T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4407498584 | Notion | Software Engineer, New Grad (AI) | score:4.9 | location:San Francisco, CA | posted:2026-05-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4405162929 | SeatGeek | Software Engineer - New Grad | score:4.1 | location:New York, NY | posted:2026-05-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4416663199 | TEKsystems | Entry Level Software Engineer | score:3.8 | location:Pittsburgh, PA | posted:2026-05-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4415913320 | Jobs via Dice | Entry Level Software Engineer | score:3.8 | location:Pittsburgh, PA | posted:2026-05-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4416601085 | Blossom | Software Engineer (All Levels) | score:3.3 | location:New York, NY | posted:2026-05-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4407495876 | Handshake | Software Engineer I , Coding Pod | score:4.1 | location:San Francisco, CA | posted:2026-05-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4416660346 | Cox Automotive Inc. | Software Engineer I | score:3.8 | location:Draper, UT | posted:2026-05-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4415775382 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4398058718 | SpaceX | Application Software Engineer | score:3 | location:Hawthorne, CA | posted:2026-05-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4410739302 | SkillStorm | Junior Level Software Developer | score:3.8 | location:San Antonio, Texas Metropolitan Area | posted:2026-05-19T00:00:00.000Z | source:linkedin-guest
