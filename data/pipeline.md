@@ -1535,3 +1535,16 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4416422089 | Blackhawk Network | Software Engineer | score:3 | location:Pleasanton, CA | posted:2026-05-18T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4415797852 | Jobs via Dice | Junior Software Engineer (Integration) | score:3.8 | location:Springfield, VA | posted:2026-05-19T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4416942527 | Softheon | Software Engineer I | score:3.8 | location:Stony Brook, NY | posted:2026-05-19T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/openai/a6363571-e090-43a7-b758-ee3386a096c1 | OpenAI | Software Engineer, Enterprise AI Platform  | score:3.7 | location:San Francisco | posted:2026-05-19T21:24:40.484+00:00 | source:ashby-api
+- [ ] https://job-boards.greenhouse.io/planetscale/jobs/4251150009 | PlanetScale | Software Engineer - PlanetScale Postgres | score:3.3 | location:San Francisco Bay Area or Remote | posted:2026-05-19T19:12:57-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4416974115 | Symbotic | New Grad- Robotics Reliability Engineer | score:3.8 | location:Wilmington, MA | posted:2026-05-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4416947691 | Captivation | Software Engineer 0 - Java | score:3.4 | location:Annapolis Junction, MD | posted:2026-05-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4416965217 | Transcend Staffing Solutions LLC. a 100% Women Owned Minority Staffing Firm! | Entry Level Developer | score:3.8 | location:United States | posted:2026-05-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4416942701 | V2X Inc | Software Engineer I WSI | score:3.8 | location:Indianapolis, IN | posted:2026-05-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4416929815 | Transcend Staffing Solutions LLC. a 100% Women Owned Minority Staffing Firm! | Software Engineer | score:3 | location:United States | posted:2026-05-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4380377253 | SkillStorm | Entry Level Software Developer | score:4.1 | location:New York, NY | posted:2026-05-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4407483288 | Emergence AI | Software Engineer - Full Stack | score:3.4 | location:Irvine, CA | posted:2026-05-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4416979081 | Radiance Technologies | Junior Software Engineer | score:3.8 | location:Beavercreek, OH | posted:2026-05-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4415946779 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4407811187 | Leidos | Junior Software Engineer | score:3.8 | location:Orlando, FL | posted:2026-05-19T00:00:00.000Z | source:linkedin-guest
