@@ -1526,3 +1526,12 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4415726228 | General Dynamics Mission Systems | Entry Level Software Engineer | score:3.8 | location:Lakewood, OH | posted:2026-05-18T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4405182061 | Major League Baseball (MLB) | Associate Software Engineer | score:4.1 | location:San Francisco, CA | posted:2026-05-19T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4359447584 | SpaceX | Full Stack Software Engineer (Starshield) | score:3.4 | location:Hawthorne, CA | posted:2026-05-19T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4415940288 | Steelhead Technologies | Software Engineer | score:3 | location:Calumet, MI | posted:2026-05-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4378394278 | SkillStorm | Entry Level Software Developer | score:3.8 | location:Chicago, IL | posted:2026-05-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4416486724 | ECS | Junior Software Engineer (Integration) | score:3.8 | location:Fairfax, VA | posted:2026-05-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4416290880 | GeoControl Systems | Junior Software Developer - IRES000012 | score:3.8 | location:Colorado Springs, CO | posted:2026-05-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4413350053 | ASSA ABLOY Group | Junior Software Engineer | score:3.8 | location:Phoenix, AZ | posted:2026-05-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4416422089 | Blackhawk Network | Software Engineer | score:3 | location:Pleasanton, CA | posted:2026-05-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4415797852 | Jobs via Dice | Junior Software Engineer (Integration) | score:3.8 | location:Springfield, VA | posted:2026-05-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4416942527 | Softheon | Software Engineer I | score:3.8 | location:Stony Brook, NY | posted:2026-05-19T00:00:00.000Z | source:linkedin-guest
