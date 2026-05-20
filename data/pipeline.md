@@ -1572,3 +1572,12 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4416101000 | Paces | Software Engineer (Junior) | score:3.8 | location:Brooklyn, NY | posted:2026-05-20T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4417028488 | Remodel Health | Junior Software Engineer | score:3.8 | location:Indianapolis, IN | posted:2026-05-20T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4416976111 | Radiance Technologies | Junior Software Engineer | score:3.8 | location:Beavercreek, OH | posted:2026-05-19T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://app.careerpuck.com/job-board/lyft/job/8558174002?gh_jid=8558174002 | Lyft | Software Engineer, Android | score:3.8 | location:Mexico City, Mexico | posted:2026-05-20T13:08:16-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/planetscale/jobs/4009746009 | PlanetScale | Software Engineer - PlanetScale Vitess | score:3.3 | location:San Francisco Bay Area or Remote | posted:2026-05-20T13:38:40-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4416306023 | QGenda | QGenda Technical Engineer - New Grad 2026 | score:3.8 | location:Atlanta, GA | posted:2026-05-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417329888 | Activ8 Recruitment &amp; Solutions | Entry Level Field Service Engineer - Industrial Machinery (33968) | score:3.8 | location:Elk Grove Village, IL | posted:2026-05-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4416302564 | American Express | Software Engineer I | score:3.8 | location:Sunrise, FL | posted:2026-05-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417317717 | Mphasis | Associate Software Engineer | score:3.8 | location:Florida, United States | posted:2026-05-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4416971381 | Radiance Technologies | Junior Software Engineer | score:3.8 | location:Beavercreek, OH | posted:2026-05-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4416154532 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-20T00:00:00.000Z | source:linkedin-guest
