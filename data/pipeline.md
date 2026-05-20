@@ -1548,3 +1548,27 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4416979081 | Radiance Technologies | Junior Software Engineer | score:3.8 | location:Beavercreek, OH | posted:2026-05-19T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4415946779 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-19T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4407811187 | Leidos | Junior Software Engineer | score:3.8 | location:Orlando, FL | posted:2026-05-19T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.brex.com/careers/8558051002?gh_jid=8558051002 | Brex | Software Engineer II, Cloud Infrastructure | score:4.2 | location:São Paulo, São Paulo, Brazil | posted:2026-05-20T10:38:39-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/snowflake/66fa23b2-0dcf-4c47-8127-9bdbcfc2ac62 | Snowflake | Software Engineer - Customer Experience Engineering | score:3.8 | location:PL-Warsaw | posted:2026-05-20T14:59:15.783+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/elevenlabs/e53c5be6-5c1a-4870-ad85-8397a1f201de | ElevenLabs | Data Engineer | score:3.4 | location:United Kingdom | posted:2026-05-20T14:09:56.244+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4415985560 | SynergisticIT | entry level software developer/machine learning engineer | score:3.8 | location:Houston, TX | posted:2026-05-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4415969943 | NVIDIA | Software Engineer, AI and DL Kernel Libraries - New College Grad 2026 | score:3 | location:Santa Clara, CA | posted:2026-05-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4415973808 | NVIDIA | AI Software Engineer, Kernel Libraries - New College Grad 2026 | score:3 | location:Santa Clara, CA | posted:2026-05-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4415985537 | SynergisticIT | junior data engineer/Data Scientist | score:4.2 | location:Los Angeles Metropolitan Area | posted:2026-05-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417015072 | V2X Inc | Software Engineer I WSI | score:3.8 | location:Indianapolis, IN | posted:2026-05-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4416986659 | Deutsche Bank | Java Engineer Associate | score:4.2 | location:Cary, NC | posted:2026-05-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4415979189 | GALLO | Associate Back End Software Engineer | score:3.8 | location:Modesto, CA | posted:2026-05-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4415925769 | FinThrive | Associate Software Engineer | score:3.8 | location:United States | posted:2026-05-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4408577160 | WebMD | Associate Engineer | score:3.8 | location:Newark, NJ | posted:2026-05-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4416131920 | Wells Fargo | Software Engineer | score:3 | location:Irving, TX | posted:2026-05-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417334022 | Helic &amp; Co. | Junior Software Engineer | score:3.8 | location:United States | posted:2026-05-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417013111 | Skydio | Software Engineer, Full Stack | score:3.4 | location:San Mateo, CA | posted:2026-05-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417324237 | Innovative Defense Technologies (IDT) | Associate Software Engineer | score:3.8 | location:Mount Laurel, NJ | posted:2026-05-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4416994168 | BlueCross BlueShield of Tennessee | Associate Software Engineer I | score:3.8 | location:United States | posted:2026-05-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417040544 | Honeywell Aerospace Technologies | Software Engineer I | score:3.8 | location:Clearwater, FL | posted:2026-05-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4416132572 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4416189293 | Sigma Defense Systems LLC | 1686 - Software Engineer I | score:3.8 | location:Fairmont, WV | posted:2026-05-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4416101000 | Paces | Software Engineer (Junior) | score:3.8 | location:Brooklyn, NY | posted:2026-05-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417028488 | Remodel Health | Junior Software Engineer | score:3.8 | location:Indianapolis, IN | posted:2026-05-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4416976111 | Radiance Technologies | Junior Software Engineer | score:3.8 | location:Beavercreek, OH | posted:2026-05-19T00:00:00.000Z | source:linkedin-guest
