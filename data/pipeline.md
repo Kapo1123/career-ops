@@ -1581,3 +1581,8 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4417317717 | Mphasis | Associate Software Engineer | score:3.8 | location:Florida, United States | posted:2026-05-20T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4416971381 | Radiance Technologies | Junior Software Engineer | score:3.8 | location:Beavercreek, OH | posted:2026-05-19T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4416154532 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-20T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/openai/af431679-3d98-47a4-9a70-52edbb4c491d | OpenAI | Software Engineer, Infrastructure, Consumer Devices | score:3.4 | location:Singapore | posted:2026-05-20T19:20:08.023+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4416187961 | American Express | Software Engineer I | score:3.8 | location:Phoenix, AZ | posted:2026-05-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4416971379 | Radiance Technologies | Junior Software Engineer | score:3.8 | location:Beavercreek, OH | posted:2026-05-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417353580 | VSolvit | JUNIOR FULL STACK DEVELOPER | score:4.2 | location:Norco, CA | posted:2026-05-20T00:00:00.000Z | source:linkedin-guest
