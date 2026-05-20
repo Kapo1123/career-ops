@@ -1586,3 +1586,9 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4416187961 | American Express | Software Engineer I | score:3.8 | location:Phoenix, AZ | posted:2026-05-20T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4416971379 | Radiance Technologies | Junior Software Engineer | score:3.8 | location:Beavercreek, OH | posted:2026-05-19T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4417353580 | VSolvit | JUNIOR FULL STACK DEVELOPER | score:4.2 | location:Norco, CA | posted:2026-05-20T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://careers.roblox.com/jobs/7943533?gh_jid=7943533 | Roblox | Software Engineer, Core Services | score:3 | location:San Mateo, CA, United States | posted:2026-05-20T18:59:14-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/planetscale/jobs/4107018009 | PlanetScale | Software Engineer - Insights | score:3.3 | location:San Francisco Bay Area or Remote | posted:2026-05-20T16:34:43-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/planetscale/jobs/4009936009 | PlanetScale | Software Engineer - Sharded Postgres (Neki) | score:3.3 | location:San Francisco Bay Area or Remote | posted:2026-05-20T16:10:39-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4417410179 | Transcend Staffing Solutions LLC. a 100% Women Owned Minority Staffing Firm! | Entry Level Developer (AWS/PySpark) | score:3.8 | location:United States | posted:2026-05-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4416326747 | AMEWAS | Software Developer (BEAVER)-Junior | score:3.8 | location:Patuxent River, MD | posted:2026-05-20T00:00:00.000Z | source:linkedin-guest
