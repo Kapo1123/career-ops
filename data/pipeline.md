@@ -1604,3 +1604,21 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4416575574 | Tesla | Software Engineer, Full Stack | score:3.4 | location:Fremont, CA | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4417483150 | Sequoia Capital Global Equities | Software Engineer (Platform Team) | score:3.4 | location:Sunnyvale, CA | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4416510211 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4417447425 | CBRE | Software Engineer Analyst | score:3 | location:Richardson, TX | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417396368 | PayPal | Software Engineer | score:3 | location:San Jose, CA | posted:2026-05-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4416356318 | SpaceX | Software Engineer (Platform Team) | score:3.4 | location:Sunnyvale, CA | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417484079 | Sequoia Capital Global Equities | Software Engineer (Platform Team) | score:3.4 | location:Redmond, WA | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417753249 | Helic &amp; Co. | Junior Software Engineer | score:3.8 | location:United States | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4416308415 | Optomi | Junior Software Engineer | score:3.8 | location:Detroit Metropolitan Area | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417371739 | Pratt Industries | Software Developer | score:3 | location:Atlanta, GA | posted:2026-05-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4407051649 | PAR Technology | Software Engineer | score:3 | location:Illinois, United States | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4408596655 | Stark Tech | Software Developer | score:3 | location:Buffalo, NY | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4416332389 | M7 Health | Software Engineer | score:3.3 | location:New York, NY | posted:2026-05-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4416341318 | Roblox | Software Engineer, Core Services | score:3 | location:San Mateo, CA | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4408023092 | ServiceNow | Associate Software Engineer, Search Infrastructure - Moveworks | score:4.2 | location:Mountain View, CA | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4405107767 | Mentor Talent Acquisition | Junior Full Stack Engineer | score:4.5 | location:New York, United States | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4386972657 | Flatiron Health | Software Engineer (Contractor) | score:3.3 | location:New York City Metropolitan Area | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417447750 | Clicr | Software Engineer | score:3.3 | location:New York City Metropolitan Area | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4408720025 | Williams-Sonoma, Inc. | Software Engineer | score:3 | location:San Jose, CA | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4413657632 | Stealth Startup | Backend Developer [33171] | score:3.7 | location:New York, United States | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
