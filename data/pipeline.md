@@ -1634,3 +1634,16 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4414024087 | HX5, LLC | Software Engineer I | score:3.8 | location:Brook Park, OH | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4417407332 | AAON, Inc. | Software Engineer I | score:3.8 | location:Parkville, MO | posted:2026-05-20T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4418000265 | Synergy ECP | Junior Full Stack Developer | score:4.2 | location:Washington, DC | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://stripe.com/jobs/search?gh_jid=7926587 | Stripe | Software Engineer | score:4.1 | location:New York, NY | posted:2026-05-21T19:09:33-04:00 | source:greenhouse-api
+- [ ] https://stripe.com/jobs/search?gh_jid=7926966 | Stripe | Software Engineer IC-02  | score:4.9 | location:New York, NY | posted:2026-05-21T19:07:58-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7895468 | Reddit | Fullstack Software Engineer, Notifications Lifecycle | score:3.7 | location:Remote - United States | posted:2026-05-21T19:12:16-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/snowflake/2db865d9-1b32-4f20-8091-de76c5d2b7f4 | Snowflake | Software Engineer, Cortex AI Infrastructure | score:4.2 | location:US-CA-Menlo Park | posted:2026-05-21T23:18:14.964+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4417780377 | Relativity | Software Engineer | score:3 | location:Illinois, United States | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4386889377 | Veeva Systems | Associate Software Engineer - Seeking 2025 &amp; 2026 Grads | score:3.8 | location:Kansas City, MO | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4416734082 | Jobright.ai | Software Engineer | score:3 | location:United States | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4408715008 | General Atomics Aeronautical Systems | Software Developer | score:3 | location:Poway, CA | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4408579016 | PayPal | Software Engineer | score:3 | location:San Jose, CA | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4416350819 | SpaceX | Software Engineer (Platform Team) | score:3.4 | location:Palo Alto, CA | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4384759214 | Twitch | Software Engineer I, Monetization ML | score:4.1 | location:San Francisco, CA | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414005723 | BeaconFire Inc. | Junior Java Software Engineer | score:4.2 | location:California, United States | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
