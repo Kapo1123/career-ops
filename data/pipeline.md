@@ -1622,3 +1622,15 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4417447750 | Clicr | Software Engineer | score:3.3 | location:New York City Metropolitan Area | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4408720025 | Williams-Sonoma, Inc. | Software Engineer | score:3 | location:San Jose, CA | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4413657632 | Stealth Startup | Backend Developer [33171] | score:3.7 | location:New York, United States | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://stripe.com/jobs/search?gh_jid=7767706 | Stripe | Full Stack Engineer, Enterprise & Ecosystem | score:4.2 | location:SF, SEA, NYC | posted:2026-05-21T15:07:42-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/planetscale/jobs/4091110009 | PlanetScale | Software Engineer - Surfaces | score:3.3 | location:San Francisco Bay Area or Remote | posted:2026-05-21T14:24:18-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4417769459 | TalentAlly | full stack developer | score:3.4 | location:Syracuse, NY | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4398835225 | Major League Baseball (MLB) | Software Engineer | score:3.3 | location:New York, NY | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417743155 | TickPick | Software Engineer | score:3.3 | location:New York, NY | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417790262 | STERIS | Software Engineer I | score:3.8 | location:Mentor, OH | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4416396886 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417380532 | SpaceX | Software Engineer (Starshield) | score:3 | location:Washington, DC | posted:2026-05-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414024087 | HX5, LLC | Software Engineer I | score:3.8 | location:Brook Park, OH | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417407332 | AAON, Inc. | Software Engineer I | score:3.8 | location:Parkville, MO | posted:2026-05-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418000265 | Synergy ECP | Junior Full Stack Developer | score:4.2 | location:Washington, DC | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
