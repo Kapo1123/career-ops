@@ -1592,3 +1592,15 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://job-boards.greenhouse.io/planetscale/jobs/4009936009 | PlanetScale | Software Engineer - Sharded Postgres (Neki) | score:3.3 | location:San Francisco Bay Area or Remote | posted:2026-05-20T16:10:39-04:00 | source:greenhouse-api
 - [ ] https://www.linkedin.com/jobs/view/4417410179 | Transcend Staffing Solutions LLC. a 100% Women Owned Minority Staffing Firm! | Entry Level Developer (AWS/PySpark) | score:3.8 | location:United States | posted:2026-05-20T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4416326747 | AMEWAS | Software Developer (BEAVER)-Junior | score:3.8 | location:Patuxent River, MD | posted:2026-05-20T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://stripe.com/jobs/search?gh_jid=4952353 | Stripe | Software Engineer, Payments & Risk | score:3.8 | location:IN-Bengaluru | posted:2026-05-21T02:23:22-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4417447144 | Julius AI | Software Engineer - Product (New Grad) | score:4.1 | location:San Francisco, CA | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417419734 | ZEDEDA | Software Engineer (New Grad) - Core team | score:3.8 | location:San Jose, CA | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414022476 | Rotaract Club of Mumbai Medico Marvels | Software Engineer (Entry-Level / Associate) | score:4.1 | location:New York, United States | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414007843 | BeaconFire Inc. | Entry Level- Software Engineer | score:3.8 | location:New Jersey, United States | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417459010 | GE Vernova | Entry Level Grid Software Project Engineer | score:3.8 | location:Melbourne, FL | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4408291912 | Paramount | Software Engineer | score:3.3 | location:New York, NY | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417483169 | Anakim Consulting Incorporated | Software Engineer - Junior | score:3.8 | location:Garretson, SD | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4416575574 | Tesla | Software Engineer, Full Stack | score:3.4 | location:Fremont, CA | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417483150 | Sequoia Capital Global Equities | Software Engineer (Platform Team) | score:3.4 | location:Sunnyvale, CA | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4416510211 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
