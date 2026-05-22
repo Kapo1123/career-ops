@@ -1689,3 +1689,12 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4397617125 | Affirm | Software Engineer I, Full-Stack (Home and Search Experience) | score:3.8 | location:San Jose, CA | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4418046911 | Deloitte | Cyber Full-Stack Software Engineer | score:3.3 | location:New York, NY | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4418171615 | TalentAlly | Software Engineer | score:3 | location:Los Angeles Metropolitan Area | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6004706004 | Hightouch | Software Engineer, Native Delivery | score:3.3 | location:New York, New York, United States, San Francisco, California, United States | posted:2026-05-22T15:30:58-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4418101079 | Uber | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4416758032 | Repool | Software Engineer (Full-Stack) | score:3.3 | location:San Francisco, CA | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414378023 | Spectra Logic | Software Engineer I | score:3.8 | location:Boulder, CO | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418046878 | Engineering Innovation | Software and Data Engineer I | score:4.2 | location:Lafayette, IN | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418123026 | Cox Automotive Inc. | Software Engineer II | score:3.8 | location:Atlanta, GA | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4369425088 | SpaceX | Software Engineer, Starlink Growth | score:3 | location:Sunnyvale, CA | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418190974 | Altamira Technologies Corporation | Junior Software Developer | score:3.8 | location:McLean, VA | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
