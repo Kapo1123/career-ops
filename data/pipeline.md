@@ -1698,3 +1698,23 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4418123026 | Cox Automotive Inc. | Software Engineer II | score:3.8 | location:Atlanta, GA | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4369425088 | SpaceX | Software Engineer, Starlink Growth | score:3 | location:Sunnyvale, CA | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4418190974 | Altamira Technologies Corporation | Junior Software Developer | score:3.8 | location:McLean, VA | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/pagerduty/jobs/6004772004 | PagerDuty | Software Engineer I - Core Product - Notification Platform Team | score:4.2 | location:Toronto | posted:2026-05-22T16:25:52-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4418434633 | Astronomer | Software Engineer, Astro Core Services | score:3.3 | location:New York, NY | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418437679 | Visa | Software Engineer, New College Grad - 2026, Austin | score:3 | location:Austin, TX | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418429884 | Visa | Software Engineer, New College Grad - 2026, Foster City | score:3 | location:Foster City, CA | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418417211 | Klarity | AI Backend Engineer | score:3.7 | location:San Francisco, CA | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418402647 | Blackhawk Network | Software Engineer | score:3 | location:Coppell, TX | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417128121 | Twitch | Software Engineer, Creator Sponsorships | score:3.3 | location:San Francisco, CA | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414366528 | Sony Interactive Entertainment | Software Engineer I | score:3.8 | location:San Diego, CA | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414380590 | ShrinQ Consulting Group Inc | Junior Software Developer | score:3.8 | location:Atlanta, GA | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417505235 | Brooksource | Associate Software Engineer | score:3.8 | location:Dallas, TX | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417170295 | Goldman Sachs | Engineering – New York - Associate, Software Engineering - 033198 | score:4.1 | location:New York, NY | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4377260805 | Goldman Sachs | Asset &amp; Wealth Management-Software Engineering-Associate-Dallas | score:3.8 | location:Dallas, TX | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417504168 | Clearwater Analytics | Associate, Software Engineer - OEMS | score:3.8 | location:Chicago, IL | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414310040 | Boeing | Software Engineer–Secure Networks &amp; Protocols (Associate or Experienced) | score:3.8 | location:Oklahoma City, OK | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418031992 | American Tower | AI Assisted Software Developer | score:3 | location:Woburn, MA | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418184741 | BlackRock | Associate, Financial Platform Engineer (Java) / Wilmington, DE | score:4.2 | location:Wilmington, DE | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417505017 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414370159 | IBM | Software Developer Entry-Level(Lowell, MA) | score:3 | location:Lowell, MA | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418427673 | LVT (LiveView Technologies) | Junior Software Engineer | score:3.8 | location:American Fork, UT | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
