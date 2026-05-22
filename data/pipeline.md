@@ -1673,3 +1673,19 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4417136383 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4417154621 | Jobright.ai | Software Engineer | score:3 | location:United States | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4418052028 | FANTOM CORPORATION | Jr Software Engineer | score:3 | location:Hanover, MD | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/openai/11c51b12-3ba0-4a7a-a0d2-ed0661324dc3 | OpenAI | Capacity Systems Software Engineer | score:3.3 | location:San Francisco | posted:2026-05-22T17:13:50.417+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/openai/77fbf383-bb97-4006-9b2d-e5de2d6f79d3 | OpenAI | Software Engineer, API SDK | score:3.3 | location:San Francisco | posted:2026-05-22T17:19:45.625+00:00 | source:ashby-api
+- [ ] https://job-boards.greenhouse.io/twitch/jobs/8561592002 | Twitch | Software Engineer, Creator Sponsorships | score:3.3 | location:Seattle, WA | posted:2026-05-21T21:52:46-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4417137954 | 1Phi Health | New Grad Data Engineer (for Health Tech Startup)🤓 | score:4.2 | location:United States | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4409115524 | Garmin | IT Software Engineer 1 | score:3 | location:Olathe, KS | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414342620 | NOV | Software Engineer (10022020) | score:3 | location:Tulsa, OK | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414034867 | Q2 | Software Engineer | score:3 | location:Cary, NC | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4400306186 | Trimble Inc. | Software Engineer | score:3 | location:Westminster, CO | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4407659256 | IXL Learning | Software Engineer, New Grad | score:3.8 | location:Raleigh, NC | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418102015 | Uber | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4409057692 | SpaceX | Software Engineer, Low Latency Computing (Starlink) | score:3 | location:Sunnyvale, CA | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414628694 | Guidewire Software | Software Engineer - Cloud | score:3 | location:San Mateo, CA | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4397617125 | Affirm | Software Engineer I, Full-Stack (Home and Search Experience) | score:3.8 | location:San Jose, CA | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418046911 | Deloitte | Cyber Full-Stack Software Engineer | score:3.3 | location:New York, NY | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418171615 | TalentAlly | Software Engineer | score:3 | location:Los Angeles Metropolitan Area | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
