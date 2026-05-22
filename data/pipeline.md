@@ -1647,3 +1647,29 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4416350819 | SpaceX | Software Engineer (Platform Team) | score:3.4 | location:Palo Alto, CA | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4384759214 | Twitch | Software Engineer I, Monetization ML | score:4.1 | location:San Francisco, CA | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4414005723 | BeaconFire Inc. | Junior Java Software Engineer | score:4.2 | location:California, United States | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/twitch/jobs/8559215002 | Twitch | Software Engineer, Creator Sponsorships | score:3.3 | location:San Francisco, CA | posted:2026-05-21T21:52:46-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/decagon/d3fca82a-d8e9-43fd-9917-719b051d6aea | Decagon | Software Engineer, Agent Orchestration | score:3.3 | location:San Francisco | posted:2026-05-21T23:47:49.896+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/n8n/dd8e10d7-81ce-4b03-8ce3-f32c3423f33e | n8n | Community Software Engineer | Remote | Europe | score:3 | location:Berlin Office | posted:2026-05-22T10:41:44.170+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/legora/3ecb346f-1903-4d06-99ca-e28ef3806bbb | Legora | Software Engineer | score:3 | location:Stockholm HQ | posted:2026-05-22T08:03:27.856+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4414088935 | Meta | Production Engineer (University Grad) | score:5 | location:New York, NY | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4387198857 | Applied Intuition | Software Engineer - Python | score:3.4 | location:Sunnyvale, CA | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4411459497 | Astronomer | Software Engineer - Data Plane Management | score:3.7 | location:New York, NY | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4407647776 | IXL Learning | Software Engineer, New Grad | score:3.8 | location:San Mateo, CA | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4401128372 | Ivo | Software Engineer, Backend | score:3.7 | location:San Francisco, CA | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418064125 | Relativity | Software Engineer | score:3 | location:California, United States | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414029942 | OrderPort | Full Stack Engineer | score:3.4 | location:Bellevue, WA | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414632557 | Guidewire Software | Software Engineer - Cloud | score:3 | location:San Mateo, CA | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418086883 | Uber | Software Engineer | score:3 | location:Sunnyvale, CA | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4416710295 | DigiCert | Associate Software Engineer | score:3.8 | location:Lehi, UT | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418116434 | Javelin Global Commodities | Junior Software Engineer | score:4.1 | location:New York, NY | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418080313 | OKSI | Software Engineer I | score:3.8 | location:Torrance, CA | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4416576550 | Tesla | Software Engineer, Backend | score:3.4 | location:Fremont, CA | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4397612124 | Affirm | Software Engineer I, Full-Stack (Home and Search Experience) | score:3.8 | location:Palo Alto, CA | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4397209164 | Lam Research | Software Engineer Sys 2 | score:3 | location:Fremont, CA | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414054009 | Walmart | Software Engineer II | score:3.8 | location:Sunnyvale, CA | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418170011 | Helic &amp; Co. | Junior Software Engineer | score:3.8 | location:United States | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418055257 | Deloitte | Cyber Full-Stack Software Engineer | score:3 | location:Los Angeles, CA | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417136383 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417154621 | Jobright.ai | Software Engineer | score:3 | location:United States | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418052028 | FANTOM CORPORATION | Jr Software Engineer | score:3 | location:Hanover, MD | posted:2026-05-21T00:00:00.000Z | source:linkedin-guest
