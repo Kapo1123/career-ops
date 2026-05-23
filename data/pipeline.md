@@ -1733,3 +1733,5 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4417551868 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-23T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4368615520 | SpaceX | Software Engineer, Collision Avoidance (Starshield) | score:3 | location:Hawthorne, CA | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4418485960 | Sundayy | Full Stack Developer, Jr. | score:3.4 | location:United States | posted:2026-05-23T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4414018640 | BeaconFire Inc. | Entry Level- Java Developer | score:4.2 | location:New Jersey, United States | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
