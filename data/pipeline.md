@@ -1718,3 +1718,18 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4417505017 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4414370159 | IBM | Software Developer Entry-Level(Lowell, MA) | score:3 | location:Lowell, MA | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4418427673 | LVT (LiveView Technologies) | Junior Software Engineer | score:3.8 | location:American Fork, UT | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
+
+- [ ] http://stability.ai/careers?gh_jid=4874202101 | Stability AI | Junior Software Engineer | score:3.8 | location:United States or Canada  | posted:2026-05-22T20:52:32-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/openai/13995549-e8cc-498f-9eaa-1869067ac35b | OpenAI | Software Engineer, RL Training Infra | score:3.3 | location:San Francisco | posted:2026-05-23T02:00:50.464+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/openai/1c3951f1-07e3-442f-a4fb-b984e8205bf5 | OpenAI | Software Engineer, Core Science | score:3.3 | location:San Francisco | posted:2026-05-22T23:32:39.249+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4378040567 | Justworks | Software Engineer | score:3.3 | location:New York, NY | posted:2026-05-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414802326 | Meta | Production Engineer (University Grad) | score:5 | location:New York, NY | posted:2026-05-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4332205894 | Anything | Backend Engineer - AI | score:3.7 | location:San Francisco, CA | posted:2026-05-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4307825708 | ByteDance | Software Engineer Graduate (Cloud Native Infrastructure) - 2026 Start (BS/MS) | score:3.7 | location:Seattle, WA | posted:2026-05-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417553585 | Crossing Hurdles | Entry-Level Software Engineer | Remote | score:3 | location:United States | posted:2026-05-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414360294 | Tech Consulting | Software Engineer | score:3 | location:California, United States | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417193458 | Enhance IT | Software Engineer | score:3.3 | location:New York City Metropolitan Area | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418154556 | SkillStorm | Entry Level Software Developer | score:4.1 | location:New York, NY | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417551868 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4368615520 | SpaceX | Software Engineer, Collision Avoidance (Starshield) | score:3 | location:Hawthorne, CA | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418485960 | Sundayy | Full Stack Developer, Jr. | score:3.4 | location:United States | posted:2026-05-23T00:00:00.000Z | source:linkedin-guest
