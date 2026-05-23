@@ -1735,3 +1735,12 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4418485960 | Sundayy | Full Stack Developer, Jr. | score:3.4 | location:United States | posted:2026-05-23T00:00:00.000Z | source:linkedin-guest
 
 - [ ] https://www.linkedin.com/jobs/view/4414018640 | BeaconFire Inc. | Entry Level- Java Developer | score:4.2 | location:New Jersey, United States | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4418617821 | Helic &amp; Co. | Junior Software Engineer | score:3.8 | location:United States | posted:2026-05-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414383750 | Redfin | Software Developer I | score:3.3 | location:Seattle, WA | posted:2026-05-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414399938 | Boeing | Software Developer (Associate or Mid-Level) | score:4.1 | location:Seattle, WA | posted:2026-05-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4407264426 | Boeing | Associate Real-Time Software Engineer | score:3.8 | location:Richardson, TX | posted:2026-05-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414360574 | Sony Interactive Entertainment | Software Engineer I | score:3.8 | location:San Mateo, CA | posted:2026-05-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414364879 | eBay | Software Engineer 2 | score:3 | location:Austin, TX | posted:2026-05-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418483908 | Wells Fargo | Software Engineer | score:3 | location:Irving, TX | posted:2026-05-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417557912 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-23T00:00:00.000Z | source:linkedin-guest
