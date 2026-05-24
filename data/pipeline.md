@@ -1769,3 +1769,10 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4309800238 | DataAnnotation | Backend Software Engineer | score:3.4 | location:Texas, United States | posted:2026-05-24T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4418635533 | Sequoia Capital Global Equities | Software Engineer, Flight Software (Starship) | score:3 | location:Hawthorne, CA | posted:2026-05-23T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4414853091 | Optiver | Software Engineer – Hardware Research | score:3 | location:Austin, TX | posted:2026-05-24T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4417593103 | Jobs via Dice | Software Engineer, Flight Software (Starlink) | score:3 | location:Redmond, WA | posted:2026-05-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417587160 | Jobs via Dice | Software Engineer (Platform Team) | score:3.4 | location:Palo Alto, CA | posted:2026-05-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417812101 | Jobright.ai | Software Engineer | score:3 | location:United States | posted:2026-05-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4398164985 | Pariveda | Software Engineer II | score:3.8 | location:Dallas, TX | posted:2026-05-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4408325482 | Qualcomm | #Software Engineer – Engineer | score:3 | location:San Diego, CA | posted:2026-05-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417802873 | RemoteHunter | Software Engineer II | score:3.8 | location:United States | posted:2026-05-24T00:00:00.000Z | source:linkedin-guest
