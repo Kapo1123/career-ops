@@ -1760,3 +1760,12 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4417569479 | ByteDance | Fullstack Software Engineer, Authorization | score:3.4 | location:San Jose, CA | posted:2026-05-23T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4368815192 | Addepar | Backend Software Engineer - Investor Solutions | score:3.7 | location:New York City Metropolitan Area | posted:2026-05-24T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4417582397 | Jobs via Dice | AI Software Engineer (Vehicle Engineering) | score:3 | location:Hawthorne, CA | posted:2026-05-24T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4398173648 | The Trade Desk | Software Engineer I | score:3.8 | location:Irvine, CA | posted:2026-05-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418659182 | Tesla | Software Engineer, Maps &amp; Navigation, Robotaxi | score:3 | location:Palo Alto, CA | posted:2026-05-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4377965112 | Skild AI | Full Stack Developer | score:3.4 | location:San Mateo, CA | posted:2026-05-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/3736674638 | Palantir Technologies | Forward Deployed Software Engineer | score:3.3 | location:New York, NY | posted:2026-05-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4309801199 | DataAnnotation | Software Engineer | score:3 | location:California, United States | posted:2026-05-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4309800238 | DataAnnotation | Backend Software Engineer | score:3.4 | location:Texas, United States | posted:2026-05-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418635533 | Sequoia Capital Global Equities | Software Engineer, Flight Software (Starship) | score:3 | location:Hawthorne, CA | posted:2026-05-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414853091 | Optiver | Software Engineer – Hardware Research | score:3 | location:Austin, TX | posted:2026-05-24T00:00:00.000Z | source:linkedin-guest
