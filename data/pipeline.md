@@ -1776,3 +1776,6 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4398164985 | Pariveda | Software Engineer II | score:3.8 | location:Dallas, TX | posted:2026-05-24T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4408325482 | Qualcomm | #Software Engineer – Engineer | score:3 | location:San Diego, CA | posted:2026-05-24T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4417802873 | RemoteHunter | Software Engineer II | score:3.8 | location:United States | posted:2026-05-24T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4417828241 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417848224 | RemoteHunter | IT Software Developer | score:3 | location:United States | posted:2026-05-24T00:00:00.000Z | source:linkedin-guest
