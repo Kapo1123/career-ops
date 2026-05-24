@@ -1752,3 +1752,11 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4409572347 | SpaceX | Software Engineer, Continuous Integration (Starship) | score:3 | location:Hawthorne, CA | posted:2026-05-23T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4397299973 | Affirm | Software Engineer I, Full-Stack (Home and Search Experience) | score:4.1 | location:San Francisco, CA | posted:2026-05-23T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4418478442 | Clera | Full Stack Engineer | score:3.7 | location:New York, NY | posted:2026-05-23T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4414814944 | Haystack | Associate Software Engineer | score:3.8 | location:Phoenix, AZ | posted:2026-05-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417594900 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4377939207 | Lam Research | Software Engineer Sys 2 | score:3 | location:Fremont, CA | posted:2026-05-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4385054752 | Alarm.com | Software Engineer II | score:3.8 | location:Boston, MA | posted:2026-05-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417569479 | ByteDance | Fullstack Software Engineer, Authorization | score:3.4 | location:San Jose, CA | posted:2026-05-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4368815192 | Addepar | Backend Software Engineer - Investor Solutions | score:3.7 | location:New York City Metropolitan Area | posted:2026-05-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417582397 | Jobs via Dice | AI Software Engineer (Vehicle Engineering) | score:3 | location:Hawthorne, CA | posted:2026-05-24T00:00:00.000Z | source:linkedin-guest
