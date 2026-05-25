@@ -1792,3 +1792,10 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4417892390 | JD Resume.ai | Software Engineer | score:3 | location:United States | posted:2026-05-25T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4417833240 | RemoteHunter | Software Engineer II | score:3.8 | location:United States | posted:2026-05-24T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4417885395 | Tundra Technical Solutions | Software Engineer | score:3 | location:North Reading, MA | posted:2026-05-25T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4417883830 | BetterBasket | Software Engineer | score:3.3 | location:San Francisco Bay Area | posted:2026-05-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4322660811 | Qualcomm | Software Engineer - Camera (Multiple Levels Available) | score:3 | location:San Diego, CA | posted:2026-05-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4406174449 | Raytheon | Software Engineer II | score:3.8 | location:McKinney, TX | posted:2026-05-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417441980 | Hewlett Packard Enterprise | System Software Developer | score:3 | location:San Jose, CA | posted:2026-05-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4388265054 | Supermicro | Software Engineer | score:3 | location:San Jose, CA | posted:2026-05-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418951020 | Sundayy | Full Stack Developer, Jr. | score:3.4 | location:United States | posted:2026-05-25T00:00:00.000Z | source:linkedin-guest
