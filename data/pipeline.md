@@ -1801,3 +1801,11 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4418951020 | Sundayy | Full Stack Developer, Jr. | score:3.4 | location:United States | posted:2026-05-25T00:00:00.000Z | source:linkedin-guest
 
 - [ ] https://www.linkedin.com/jobs/view/4309807098 | DataAnnotation | Backend Software Engineer | score:3.4 | location:Washington, United States | posted:2026-05-25T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/openai/202eb061-23d7-4a58-80c8-bc3b41e56d39 | OpenAI | Software Engineer, Build Systems / CI | score:3.3 | location:San Francisco | posted:2026-05-25T19:44:52.128+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4418219083 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/3986115530 | Epic | Software Engineer | score:3 | location:Dubuque, IA | posted:2026-05-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4335758975 | SS&amp;C Technologies | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-05-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418220180 | RemoteHunter | IT Software Developer | score:3 | location:United States | posted:2026-05-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418202671 | Humanoid | Software Engineer - Platform Infrastructure | score:3.4 | location:San Diego, CA | posted:2026-05-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418202607 | Jobright.ai | Software Engineer | score:3 | location:United States | posted:2026-05-25T00:00:00.000Z | source:linkedin-guest
