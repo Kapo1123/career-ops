@@ -1779,3 +1779,16 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 
 - [ ] https://www.linkedin.com/jobs/view/4417828241 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-05-24T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4417848224 | RemoteHunter | IT Software Developer | score:3 | location:United States | posted:2026-05-24T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/notion/42f18ccd-c4c8-4a85-8c1f-de12c575fe87 | Notion | Software Engineer, Infrastructure  | score:4.2 | location:Hyderabad, India | posted:2026-05-25T05:44:08.796+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4418904660 | Tesla | Software Engineer, Backend, Factory Software | score:3.4 | location:Fremont, CA | posted:2026-05-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418930839 | Monarch Technology Group | Junior Software Engineer | score:3.8 | location:United States | posted:2026-05-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418200447 | Eccalon, LLC | Junior Software Engineer | score:3.8 | location:Detroit, MI | posted:2026-05-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418918706 | Gowan Company | Software Engineer I | score:3.8 | location:Yuma, AZ | posted:2026-05-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4369998863 | SpaceX | Software Engineer, Starlink Growth | score:3 | location:Redmond, WA | posted:2026-05-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418960933 | Helic &amp; Co. | Junior Software Engineer | score:3.8 | location:United States | posted:2026-05-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417893374 | Jobright.ai | Software Engineer | score:3 | location:United States | posted:2026-05-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414882052 | Haystack | Associate Software Engineer | score:3.8 | location:Phoenix, AZ | posted:2026-05-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417892390 | JD Resume.ai | Software Engineer | score:3 | location:United States | posted:2026-05-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417833240 | RemoteHunter | Software Engineer II | score:3.8 | location:United States | posted:2026-05-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417885395 | Tundra Technical Solutions | Software Engineer | score:3 | location:North Reading, MA | posted:2026-05-25T00:00:00.000Z | source:linkedin-guest
