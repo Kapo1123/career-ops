@@ -1799,3 +1799,5 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4417441980 | Hewlett Packard Enterprise | System Software Developer | score:3 | location:San Jose, CA | posted:2026-05-25T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4388265054 | Supermicro | Software Engineer | score:3 | location:San Jose, CA | posted:2026-05-25T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4418951020 | Sundayy | Full Stack Developer, Jr. | score:3.4 | location:United States | posted:2026-05-25T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4309807098 | DataAnnotation | Backend Software Engineer | score:3.4 | location:Washington, United States | posted:2026-05-25T00:00:00.000Z | source:linkedin-guest
