@@ -1835,3 +1835,12 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4410261275 | Plaid | Software Engineer, Backend | score:3.7 | location:New York City Metropolitan Area | posted:2026-05-26T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4419457133 | BlueCross BlueShield of Tennessee | Associate Software Engineer I | score:3.8 | location:United States | posted:2026-05-26T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4410555171 | Raytheon | 2026  Raytheon Full Time- Software Engineer I -(Onsite) | score:3.8 | location:Huntsville, AL | posted:2026-05-26T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://stripe.com/jobs/search?gh_jid=7895287 | Stripe | Backend Engineer, Payments Experiences | score:4.2 | location:N/A | posted:2026-05-26T14:53:32-04:00 | source:greenhouse-api
+- [ ] https://stripe.com/jobs/search?gh_jid=7895284 | Stripe | Full Stack Engineer, Payments Experiences | score:4.2 | location:N/A | posted:2026-05-26T14:51:39-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4418293758 | HR Divyanshiii | Software Engineer (Entry-Level / Associate) | score:4.1 | location:New York, United States | posted:2026-05-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4419497333 | Radiance Technologies | Junior Software Engineer | score:3.8 | location:Beavercreek, OH | posted:2026-05-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4419484468 | DocMe360 | Junior Software Engineer | score:3.8 | location:Arlington, VA | posted:2026-05-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4419492072 | USAN, Inc. | Software Engineer - DevOps - Recent Graduate - Hybrid - Norcross, GA | score:3 | location:Norcross, GA | posted:2026-05-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418297608 | Torc Robotics | Software Engineer, I - Data Engineering | score:3.4 | location:Ann Arbor, MI | posted:2026-05-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418501107 | Torc Robotics | Software Engineer I - Metrics for Release Implementation | score:3.8 | location:United States | posted:2026-05-26T00:00:00.000Z | source:linkedin-guest
