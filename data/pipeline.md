@@ -1809,3 +1809,19 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4418220180 | RemoteHunter | IT Software Developer | score:3 | location:United States | posted:2026-05-25T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4418202671 | Humanoid | Software Engineer - Platform Infrastructure | score:3.4 | location:San Diego, CA | posted:2026-05-25T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4418202607 | Jobright.ai | Software Engineer | score:3 | location:United States | posted:2026-05-25T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/plaid/5fc0bf62-9e80-4bbe-82f4-7fdf5461deb9 | Plaid | Software Engineer IC4 | score:3.8 | location:London Office | posted:2026-05-26T12:43:33.110+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/legora/94ba8580-636d-4fe7-becd-fbfe44bb367d | Legora | Software Engineer | score:3 | location:London | posted:2026-05-26T08:25:57.444+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4418241301 | ThoughtSpot | Software Engineer | score:3 | location:Mountain View, CA | posted:2026-05-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4410265188 | Plaid | Software Engineer, Backend | score:3.7 | location:San Francisco Bay Area | posted:2026-05-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4369287479 | ServiceNow | Associate Software Engineer, Core Infrastructure - Moveworks | score:4.2 | location:Mountain View, CA | posted:2026-05-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4274317782 | TikTok | Software Engineer Graduate (Ads Measurement Signal and Privacy Infra Technology) - 2026 Start (BS/MS) | score:3 | location:San Jose, CA | posted:2026-05-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4315979563 | TENEX.AI | Software Engineer | score:3 | location:San Jose, CA | posted:2026-05-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4415286077 | Stealth Startup | Backend Developer [32922] | score:3.7 | location:New York, United States | posted:2026-05-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4419443354 | Helic &amp; Co. | Junior Software Engineer | score:3.8 | location:United States | posted:2026-05-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414184316 | MetLife | Junior Software Engineer | score:3.8 | location:Whippany, NJ | posted:2026-05-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4416805756 | Revature | Entry Level Software Developer | score:3.8 | location:Durham, NC | posted:2026-05-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4410271989 | Ford Motor Company | Full-stack Software Engineer | score:3 | location:Dearborn, MI | posted:2026-05-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4285896406 | Two Sigma | Software Engineer, Trading Engineering | score:3.3 | location:New York, United States | posted:2026-05-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418264178 | targetjobs UK | Graduate Software Engineer | score:3 | location:Carlisle, PA | posted:2026-05-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4419426658 | Winaxis LLC | Full Stack Developer | score:3.4 | location:Boston, MA | posted:2026-05-26T00:00:00.000Z | source:linkedin-guest
