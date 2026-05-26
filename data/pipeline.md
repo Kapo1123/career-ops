@@ -1844,3 +1844,17 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4419492072 | USAN, Inc. | Software Engineer - DevOps - Recent Graduate - Hybrid - Norcross, GA | score:3 | location:Norcross, GA | posted:2026-05-26T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4418297608 | Torc Robotics | Software Engineer, I - Data Engineering | score:3.4 | location:Ann Arbor, MI | posted:2026-05-26T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4418501107 | Torc Robotics | Software Engineer I - Metrics for Release Implementation | score:3.8 | location:United States | posted:2026-05-26T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://boards.greenhouse.io/robinhood/jobs/7871249?t=gh_src=&gh_jid=7871249 | Robinhood | Software Developer, Kubernetes Compute | score:3.8 | location:Toronto, Canada | posted:2026-05-26T16:26:47-04:00 | source:greenhouse-api
+- [ ] https://boards.greenhouse.io/robinhood/jobs/7770004?t=gh_src=&gh_jid=7770004 | Robinhood | Software Developer, Provisioning | score:3.8 | location:Toronto, Canada | posted:2026-05-26T18:12:33-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4419549588 | Visa | Software Engineer- Operations and Infrastructure | score:3.4 | location:Austin, TX | posted:2026-05-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4419548658 | Visa | Software Engineer | score:3 | location:Austin, TX | posted:2026-05-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418280612 | Trilobio | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-05-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4416836777 | IBM | Software Developer 2026 | score:3 | location:San Jose, CA | posted:2026-05-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4419522739 | Panasas | Software Engineer – Entry Level | score:3.8 | location:Niwot, CO | posted:2026-05-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4416868028 | BeaconFire Inc. | Entry Level- Java Software Engineer | score:4.2 | location:New Jersey, United States | posted:2026-05-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418506188 | Jefferies | Associate, Credit eTrading Software Developer (Java) | score:4.5 | location:New York, NY | posted:2026-05-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4410707362 | SAIC | Junior/Mid-Level Software Engineer | score:3.8 | location:Chantilly, VA | posted:2026-05-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4419479908 | Webologix Ltd/ INC | Software Engineer | score:3 | location:United States | posted:2026-05-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418507577 | Jobright.ai | Software Engineer | score:3 | location:United States | posted:2026-05-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4419487337 | Javelin Global Commodities | Junior Software Engineer | score:4.1 | location:New York, NY | posted:2026-05-26T00:00:00.000Z | source:linkedin-guest
