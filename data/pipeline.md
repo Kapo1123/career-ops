@@ -1825,3 +1825,13 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4285896406 | Two Sigma | Software Engineer, Trading Engineering | score:3.3 | location:New York, United States | posted:2026-05-26T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4418264178 | targetjobs UK | Graduate Software Engineer | score:3 | location:Carlisle, PA | posted:2026-05-26T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4419426658 | Winaxis LLC | Full Stack Developer | score:3.4 | location:Boston, MA | posted:2026-05-26T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://careers.roblox.com/jobs/7947219?gh_jid=7947219 | Roblox | Software Engineer, Monetization Products | score:3 | location:San Mateo, CA, United States | posted:2026-05-26T12:49:42-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/openai/1312f55e-ff56-4dab-9bf7-a91e2c157572 | OpenAI | Full-Stack Software Engineer, Compute Foundations | score:3.3 | location:San Francisco | posted:2026-05-26T16:47:45.468+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/openai/0b212a4a-6709-4da8-b59d-283a9bbf812e | OpenAI | Software Engineer, Ad Formats | score:3.3 | location:San Francisco | posted:2026-05-26T17:18:15.004+00:00 | source:ashby-api
+- [ ] https://jobs.lever.co/spotify/654ff1e6-c91e-4205-a359-42d01c0ac153 | Spotify | Data Engineer -  Wrapped - Fixed Term | score:3.7 | location:New York, NY | posted:2026-05-26T16:23:11.881Z | source:lever-api
+- [ ] https://www.linkedin.com/jobs/view/4418273959 | Emonics LLC | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-05-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418287293 | Emonics LLC | Entry Level Software Engineer | score:3.8 | location:Chicago, IL | posted:2026-05-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4410261275 | Plaid | Software Engineer, Backend | score:3.7 | location:New York City Metropolitan Area | posted:2026-05-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4419457133 | BlueCross BlueShield of Tennessee | Associate Software Engineer I | score:3.8 | location:United States | posted:2026-05-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4410555171 | Raytheon | 2026  Raytheon Full Time- Software Engineer I -(Onsite) | score:3.8 | location:Huntsville, AL | posted:2026-05-26T00:00:00.000Z | source:linkedin-guest
