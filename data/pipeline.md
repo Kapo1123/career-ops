@@ -1882,3 +1882,8 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4417210015 | myGwork - LGBTQ+ Business Community | Software Engineer I | score:4.1 | location:San Francisco, CA | posted:2026-05-27T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4408427166 | Horizontal Talent | Software Engineer I | score:3.8 | location:Sterling Heights, MI | posted:2026-05-27T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4419560363 | Atrium | Junior Full Stack Engineer - 396578 | score:4.5 | location:New York, NY | posted:2026-05-27T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4418809225 | Optomi | Junior Backend Developer | score:4.2 | location:Dallas, TX | posted:2026-05-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4411962322 | CyberCoders | Jr. Software Engineer - ONSITE Hybrid | score:3 | location:Atlanta, GA | posted:2026-05-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4410766601 | SpaceX | Software Engineer (Starlink Mobile) | score:3 | location:Sunnyvale, CA | posted:2026-05-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4419944457 | Kaseware | Associate Software Engineer | score:3.8 | location:Denver, CO | posted:2026-05-27T00:00:00.000Z | source:linkedin-guest
