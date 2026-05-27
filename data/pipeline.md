@@ -1872,3 +1872,13 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4418528517 | Athena | Junior Software Engineer / Software Engineering | score:3.8 | location:Palo Alto, CA | posted:2026-05-27T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4409705480 | Lam Research | Software Engineer Sys 1 | score:3 | location:Fremont, CA | posted:2026-05-27T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4417216765 | Charles Schwab | Software Developer | score:3 | location:Southlake, TX | posted:2026-05-27T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4419492804 | Assort Health | Agent Engineer (New Grad, Summer 2026) | score:4.1 | location:New York, NY | posted:2026-05-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418528811 | Actalent | Software Engineer | score:3 | location:Dublin, OH | posted:2026-05-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4419913270 | McKinsey &amp; Company | Software Engineer - FinLab | score:3.3 | location:New York, NY | posted:2026-05-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418807794 | Neighborly Software | Software Engineer I | score:3.8 | location:Atlanta, GA | posted:2026-05-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418511183 | Becklar | Software Engineer I - AI Solutions Team | score:4.1 | location:Utah, United States | posted:2026-05-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418550999 | Honeywell | Software Engineer I | score:3.8 | location:Hamilton Township, NJ | posted:2026-05-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417210015 | myGwork - LGBTQ+ Business Community | Software Engineer I | score:4.1 | location:San Francisco, CA | posted:2026-05-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4408427166 | Horizontal Talent | Software Engineer I | score:3.8 | location:Sterling Heights, MI | posted:2026-05-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4419560363 | Atrium | Junior Full Stack Engineer - 396578 | score:4.5 | location:New York, NY | posted:2026-05-27T00:00:00.000Z | source:linkedin-guest
