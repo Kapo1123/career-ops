@@ -1858,3 +1858,17 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4419479908 | Webologix Ltd/ INC | Software Engineer | score:3 | location:United States | posted:2026-05-26T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4418507577 | Jobright.ai | Software Engineer | score:3 | location:United States | posted:2026-05-26T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4419487337 | Javelin Global Commodities | Junior Software Engineer | score:4.1 | location:New York, NY | posted:2026-05-26T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://boards.greenhouse.io/figma/jobs/6002655004?gh_jid=6002655004 | Figma | Software Engineer (Dublin, Ireland) | score:3.8 | location:Dublin, Ireland | posted:2026-05-27T11:00:58-04:00 | source:greenhouse-api
+- [ ] https://app.careerpuck.com/job-board/lyft/job/8565400002?gh_jid=8565400002 | Lyft | Data Engineer, Marketplace | score:4.2 | location:Toronto, Canada | posted:2026-05-27T06:44:46-04:00 | source:greenhouse-api
+- [ ] https://careers.hellofresh.com/global/en/job/7950249?gh_jid=7950249 | HelloFresh | Backend Engineer, Consumer Alliance  | score:3.4 | location:Warszawa, Masovian Voivodeship, Poland | posted:2026-05-27T08:16:53-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4418535360 | HiringCafe | Software Engineer - Backend | score:3.4 | location:Cupertino, CA | posted:2026-05-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4409717732 | Roblox | Software Engineer, Communication Safety | score:3 | location:San Mateo, CA | posted:2026-05-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4410772864 | PayPal | Software Engineer - Fullstack | score:3.4 | location:San Jose, CA | posted:2026-05-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418578677 | Enigma | Graduate Software Engineer | Python | AWS | Postgres | Computer Science | Hybrid, New York | score:3.7 | location:New York, NY | posted:2026-05-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4273518055 | TikTok | Software Engineer Graduate (Capital Platform) - 2026 Start (BS/MS) | score:3.4 | location:San Jose, CA | posted:2026-05-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418542537 | Actalent | Software Engineer | score:3 | location:Dublin, OH | posted:2026-05-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4419579038 | The New York Times | Software Engineer | score:3.3 | location:New York, NY | posted:2026-05-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418528517 | Athena | Junior Software Engineer / Software Engineering | score:3.8 | location:Palo Alto, CA | posted:2026-05-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4409705480 | Lam Research | Software Engineer Sys 1 | score:3 | location:Fremont, CA | posted:2026-05-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417216765 | Charles Schwab | Software Developer | score:3 | location:Southlake, TX | posted:2026-05-27T00:00:00.000Z | source:linkedin-guest
