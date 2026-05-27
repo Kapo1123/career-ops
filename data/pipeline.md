@@ -1887,3 +1887,14 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4411962322 | CyberCoders | Jr. Software Engineer - ONSITE Hybrid | score:3 | location:Atlanta, GA | posted:2026-05-27T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4410766601 | SpaceX | Software Engineer (Starlink Mobile) | score:3 | location:Sunnyvale, CA | posted:2026-05-27T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4419944457 | Kaseware | Associate Software Engineer | score:3.8 | location:Denver, CO | posted:2026-05-27T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7523834 | MongoDB | Software Engineer, Data Migration | score:3.4 | location:California; Oregon; Washington | posted:2026-05-27T17:12:55-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/elevenlabs/36bdb528-004b-482c-8924-33b27b76121f | ElevenLabs | Forward Deployed Engineer - Software Engineer - Singapore | score:3 | location:Singapore | posted:2026-05-27T20:54:02.664+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/openai/b7f46b2e-dfc7-4b06-8e5e-8468555c102b | OpenAI | Software Engineer, Cyber Frontier | score:3.3 | location:San Francisco | posted:2026-05-27T21:26:59.220+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4419946614 | Uber | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-05-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4419975065 | Shade Inc. | Junior Software Engineer | score:3.8 | location:Manhattan, NY | posted:2026-05-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418827095 | Enigma | Graduate Software Engineer | Python | AWS | Postgres | Computer Science | Hybrid, New York | score:3.7 | location:New York, NY | posted:2026-05-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418848223 | TekSynap | Junior Software Developer | score:3.8 | location:Virginia, United States | posted:2026-05-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4399572233 | Major League Baseball (MLB) | Software Engineer | score:3 | location:Los Angeles, CA | posted:2026-05-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418854543 | OceanFirst Bank | Software Engineer | score:3 | location:Red Bank, NJ | posted:2026-05-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417245972 | BeaconFire Inc. | Junior Software Engineer | score:3.8 | location:California, United States | posted:2026-05-27T00:00:00.000Z | source:linkedin-guest
