@@ -1898,3 +1898,30 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4399572233 | Major League Baseball (MLB) | Software Engineer | score:3 | location:Los Angeles, CA | posted:2026-05-27T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4418854543 | OceanFirst Bank | Software Engineer | score:3 | location:Red Bank, NJ | posted:2026-05-27T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4417245972 | BeaconFire Inc. | Junior Software Engineer | score:3.8 | location:California, United States | posted:2026-05-27T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7859378 | MongoDB | Software Engineer 3 | score:3 | location:Dublin | posted:2026-05-28T04:13:09-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5229345008 | Anthropic | Software Engineer, Claude Design | score:3.3 | location:San Francisco, CA | New York City, NY | Seattle, WA | posted:2026-05-27T20:22:50-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4419057860 | Jack &amp; Jill | New Grad Software Engineer at fast-growing consumer social platform | score:4.5 | location:New York, United States | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418878296 | Jobs via Dice | Software Engineer - New Grad | score:4.1 | location:New York, NY | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4419950380 | Assort Health | Agent Engineer (New Grad, Summer 2026) | score:4.1 | location:New York, NY | posted:2026-05-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4420249685 | TEKsystems | Entry Level Software Engineer | score:3.8 | location:Pittsburgh, PA | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4419076001 | Jobs via Dice | Entry Level Software Engineer | score:3.8 | location:Pittsburgh, PA | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4419090016 | Colliers Engineering &amp; Design | Entry-Level Traffic Engineer | score:3 | location:Lansing, MI | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4409955214 | Morgan Stanley | Associate, Software Engineer | score:3.8 | location:Alpharetta, GA | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417627487 | Boeing | Associate Software Engineer | score:3.8 | location:Kent, WA | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4411617151 | Microsoft | Software Engineer II | score:5 | location:Mountain View, CA | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4419060723 | Emerald Resource Group | Associate Software Engineer | score:3.8 | location:Columbus, Ohio Metropolitan Area | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417619728 | Boeing | Full-Stack Software Engineer (Associate / Experienced) | score:3.8 | location:Chantilly, VA | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/3986112652 | Epic | Software Engineer | score:3 | location:Butte, MT | posted:2026-05-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4379147019 | Daybreak Game Company LLC | Associate Software Engineer - EverQuest | score:3.8 | location:San Diego, CA | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4420210731 | Tesla | Fullstack Software Engineer | score:3.4 | location:Palo Alto, CA | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4390703326 | Twitch | Software Engineer I, Commerce Engineering | score:4.1 | location:San Francisco, CA | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4401817670 | Twitch | Software Engineer, Safety | score:3.3 | location:San Francisco, CA | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4402509090 | PayPal | Software Engineer, Backend Java | score:3.4 | location:San Jose, CA | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4420404141 | Hewlett Packard Enterprise | Software Engineer | score:3 | location:Westford, MA | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4420440177 | Uber | Software Engineer | score:3 | location:Sunnyvale, CA | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4411459601 | Starbucks | software engineer- ST, Nashville TN | score:3 | location:Nashville, TN | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4419032493 | Tech Consulting | Junior Software Engineer | score:3.8 | location:Massachusetts, United States | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4419079325 | Jobright.ai | Software Engineer | score:3 | location:United States | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417612754 | Stealth Startup | Backend Developer [33160] | score:3.7 | location:New York, United States | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417622893 | Stealth Startup | Backend Developer [33168] | score:3.7 | location:New York, United States | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
