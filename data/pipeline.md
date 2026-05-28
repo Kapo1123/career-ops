@@ -1942,3 +1942,13 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4420467365 | Cerberus Capital Management | Associate Software Engineer | score:4.1 | location:New York, NY | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4389933168 | SpaceX | Software Engineer, Data (Starlink) | score:3.4 | location:Hawthorne, CA | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4419957171 | SpaceX | Software Engineer, Hardware Test &amp; Automation (Starlink) | score:3 | location:Redmond, WA | posted:2026-05-27T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://stripe.com/jobs/search?gh_jid=7325118 | Stripe | Full Stack Engineer, Money as a Service | score:4.2 | location:N/A | posted:2026-05-28T17:28:58-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4411218209 | Visa | Software Engineer | score:3 | location:Foster City, CA | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417680870 | Giga | Software Engineer I / II | score:4.1 | location:San Francisco, CA | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4420614182 | Ardenus | Software Engineer | score:3 | location:Raleigh, NC | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4420605087 | SynergisticIT | entry level Software developer/Data engineer | score:4.2 | location:Durham, NC | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4420488929 | SynergisticIT | Junior Software Engineer (Remote) | score:3.8 | location:Houston, TX | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4420606068 | SynergisticIT | Entry Level Software Developer | score:3.8 | location:San Jose, CA | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4420495799 | SpaceX | Software Engineer (Starlink Mobile) | score:3 | location:Sunnyvale, CA | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4420221720 | Medtronic | Cloud Software Engineer I - Neuro - Rice Creek/Fridley, MN | score:3.8 | location:Fridley, MN | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
