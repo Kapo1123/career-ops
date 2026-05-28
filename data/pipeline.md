@@ -1932,3 +1932,13 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4419072850 | Altamira Technologies Corporation | junior software engineer analyst | score:3.8 | location:State College, PA | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4418865783 | Escola de Direito da Universidade do Minho | Junior Software Engineer | score:3.8 | location:United States | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4419068152 | targetjobs UK | Graduate Software Engineer | score:3 | location:Carlisle, PA | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/snowflake/40fce2ee-cb91-44c0-936b-1efb60d6ec18 | Snowflake | Frontend Software Engineer - Native Apps | score:3.8 | location:CA-Ontario-Toronto | posted:2026-05-27T14:32:13.031+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4420455021 | Q2 | Software Engineer | score:3 | location:Austin, TX | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4419075277 | Enigma | Graduate Software Engineer | Python | AWS | Postgres | Computer Science | Hybrid, New York | score:3.7 | location:New York, NY | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4420492566 | SynergisticIT | Entry level software developer/Data engineer | score:4.5 | location:Seattle, WA | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4420492614 | SynergisticIT | Remote Software Developer (Entry Level)/Data Analyst wit AI - Junior Level (Remote) | score:4.2 | location:Colorado Springs, CO | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4420491680 | SynergisticIT | Junior Data Scientist/Java full stack developer | score:4.2 | location:Lubbock, TX | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4420467365 | Cerberus Capital Management | Associate Software Engineer | score:4.1 | location:New York, NY | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4389933168 | SpaceX | Software Engineer, Data (Starlink) | score:3.4 | location:Hawthorne, CA | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4419957171 | SpaceX | Software Engineer, Hardware Test &amp; Automation (Starlink) | score:3 | location:Redmond, WA | posted:2026-05-27T00:00:00.000Z | source:linkedin-guest
