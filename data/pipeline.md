@@ -1925,3 +1925,10 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4419079325 | Jobright.ai | Software Engineer | score:3 | location:United States | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4417612754 | Stealth Startup | Backend Developer [33160] | score:3.7 | location:New York, United States | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4417622893 | Stealth Startup | Backend Developer [33168] | score:3.7 | location:New York, United States | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4420462786 | Visa | Software Engineer, New College Grad - 2026, Highlands Ranch | score:3 | location:Highlands Ranch, CO | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4295123743 | Glean | Software Engineer, University Grad | score:3.8 | location:Mountain View, CA | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4419091067 | Your Health | Jr. Software Developer - Onsite | score:3 | location:Columbia, SC | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4419072850 | Altamira Technologies Corporation | junior software engineer analyst | score:3.8 | location:State College, PA | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418865783 | Escola de Direito da Universidade do Minho | Junior Software Engineer | score:3.8 | location:United States | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4419068152 | targetjobs UK | Graduate Software Engineer | score:3 | location:Carlisle, PA | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
