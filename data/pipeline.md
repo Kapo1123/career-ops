@@ -1952,3 +1952,21 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4420606068 | SynergisticIT | Entry Level Software Developer | score:3.8 | location:San Jose, CA | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4420495799 | SpaceX | Software Engineer (Starlink Mobile) | score:3 | location:Sunnyvale, CA | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4420221720 | Medtronic | Cloud Software Engineer I - Neuro - Rice Creek/Fridley, MN | score:3.8 | location:Fridley, MN | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://stripe.com/jobs/search?gh_jid=7964956 | Stripe | Full Stack Engineer, Growth | score:4.2 | location:Singapore | posted:2026-05-29T05:02:34-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/notion/6895adad-5031-4dce-9e8e-b9361d3a2850 | Notion | Software Engineer, Web Infrastructure | score:4.5 | location:San Francisco, California | posted:2026-05-28T20:05:32.305+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4419370113 | Affirm | Software Engineer, Early Career | score:4.1 | location:San Francisco, CA | posted:2026-05-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422010039 | Jack &amp; Jill | New Grad Software Engineer at fast-growing consumer social platform | score:4.5 | location:New York, United States | posted:2026-05-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/2147624732 | Lindy | Full Stack Software Engineer (Early Career) | score:4.5 | location:San Francisco, CA | posted:2026-05-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4420499664 | Caterpillar Inc. | Software Engineer 1 | score:3 | location:Irving, TX | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4420492781 | SpaceX | Software Engineer (Starlink Mobile) | score:3 | location:Redmond, WA | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4420678062 | SynergisticIT | Entry Level Software Engineer | score:3.8 | location:Fremont, CA | posted:2026-05-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4420661786 | SynergisticIT | Entry Level Software Engineer(Remote) | score:3.8 | location:Warren, MI | posted:2026-05-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4420667544 | SynergisticIT | Junior/Entry Level Software Engineer | score:3.8 | location:Baton Rouge, LA | posted:2026-05-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4420668497 | SynergisticIT | Entry level software developer/Data engineer | score:4.2 | location:Chicago, IL | posted:2026-05-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4420680015 | SynergisticIT | entry level full stack developer/Java developer | score:4.2 | location:Richmond, VA | posted:2026-05-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4420670245 | SynergisticIT | Entry Level Software Developer | score:3.8 | location:Boston, MA | posted:2026-05-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4420491681 | SynergisticIT | Junior Software Engineer - Remote | score:3.8 | location:Columbus, GA | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4420633163 | Lawrence Livermore National Laboratory | Software Developer | score:3 | location:Livermore, CA | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4390488405 | Twitch | Software Engineer I, Commerce Engineering | score:4.1 | location:Seattle, WA | posted:2026-05-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4420663613 | SynergisticIT | Junior Full Stack Developer (React.js, Angular, DevOps) | score:4.2 | location:San Jose, CA | posted:2026-05-29T00:00:00.000Z | source:linkedin-guest
