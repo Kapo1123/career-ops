@@ -1970,3 +1970,24 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4420633163 | Lawrence Livermore National Laboratory | Software Developer | score:3 | location:Livermore, CA | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4390488405 | Twitch | Software Engineer I, Commerce Engineering | score:4.1 | location:Seattle, WA | posted:2026-05-29T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4420663613 | SynergisticIT | Junior Full Stack Developer (React.js, Angular, DevOps) | score:4.2 | location:San Jose, CA | posted:2026-05-29T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/resend/053bde8f-294e-4cce-9d62-2301282120a2 | Resend | Backend Engineer (MTA), Core Sending | score:3.7 | location:Americas / Remote / Full-time | posted:2026-05-29T17:01:00.171+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/resend/d5bc5890-847d-4bc5-bbd7-d0d72021ff3c | Resend | Backend Engineer (Infra), Core Sending | score:3.7 | location:Europe / Remote / Full-time | posted:2026-05-29T16:50:07.309+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4417968433 | NVIDIA AI | Software Engineer, TensorRT Specialized Platforms - New College Grad 2025 | score:3.4 | location:Santa Clara, CA | posted:2026-05-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422028585 | Refocus LLC | Software Engineer | score:3 | location:New Jersey, United States | posted:2026-05-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4419341723 | elomix | AI Software Engineer (Founding Team, Entry-Level/New Grad) | score:3.8 | location:United States | posted:2026-05-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4420669251 | SynergisticIT | Remote Software Developer /Junior java developer/Data scientist | score:4.2 | location:Denver, CO | posted:2026-05-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4420667533 | SynergisticIT | Entry-Level Java Developer/Data Scientist/Engineer - Junior (Remote) | score:4.2 | location:Sacramento, CA | posted:2026-05-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4421206157 | Bain &amp; Company | Software Engineer I, Private Equity Innovation | score:3.8 | location:Dallas, TX | posted:2026-05-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4421079700 | Auto-Chlor System | Junior Software Engineer | score:3.8 | location:Mountain View, CA | posted:2026-05-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417943667 | Assistly | Senior Care Software | Full Stack Engineer – Assistly | score:3.4 | location:Atlanta, GA | posted:2026-05-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4391182248 | Garmin | Software Engineer 1 - Web Development | score:3 | location:Olathe, KS | posted:2026-05-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4420489887 | SynergisticIT | Remote Software Developer (Entry Level) | score:3.8 | location:Austin, TX | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4420602164 | SynergisticIT | Junior/Entry Software Developer - Remote | score:3.8 | location:Santa Fe, NM | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4420988356 | Switchboard | Junior Software Engineer | score:4.1 | location:New York, NY | posted:2026-05-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417697229 | Abbott | R&amp;D Software Engineer I | score:3.8 | location:St Paul, MN | posted:2026-05-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4419702450 | Experis | R&amp;D Software Engineer I | score:3.8 | location:Little Canada, MN | posted:2026-05-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422019208 | Ledgent Technology | Cloud Full Stack Developer (SW Engineer I) | score:4.2 | location:Newport Beach, CA | posted:2026-05-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4421789480 | Tech Consulting | Junior Software Engineer | score:3.8 | location:Illinois, United States | posted:2026-05-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417936004 | Stealth Startup | Backend Developer [33000] | score:3.4 | location:United States | posted:2026-05-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4420643009 | Hex, Inc. | Full Stack Software Engineer | score:3.4 | location:Miami, FL | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
