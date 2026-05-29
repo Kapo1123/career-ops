@@ -1997,3 +1997,13 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4421200650 | Opendoor | Software Engineer | score:3.3 | location:Seattle, WA | posted:2026-05-29T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4420679035 | SynergisticIT | entry level java backend developer/Jr Ai engineer | score:4.5 | location:Seattle, WA | posted:2026-05-29T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4421209141 | Applied Research Solutions | Software Engineer I - NovaStar | score:3.8 | location:Dayton, OH | posted:2026-05-29T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/openai/5bc79fde-2f1d-4bb2-8186-4a700ecff37c | OpenAI | IT Controls Data Engineer | score:3.7 | location:San Francisco | posted:2026-05-29T22:08:23.853+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4422022750 | Enigma | Graduate Software Engineer | Python | AWS | Postgres | Computer Science | Hybrid, New York | score:3.7 | location:New York, NY | posted:2026-05-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417968790 | IBM | Entry Level Software Developer 2026 | score:3.8 | location:San Jose, CA | posted:2026-05-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4273515903 | TikTok | Software Engineer Graduate (Global CRM) - 2026 Start (BS/MS) | score:3 | location:San Jose, CA | posted:2026-05-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4420671213 | SynergisticIT | Junior Machine Learning Engineer-remote/Software developer | score:3.8 | location:Dallas, TX | posted:2026-05-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4421231724 | 3Si | Software Developer I (Junior) | score:3.8 | location:Ashburn, VA | posted:2026-05-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4421252058 | TSC | Software Engineer I | score:3.8 | location:Huntsville, AL | posted:2026-05-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4421790499 | Tech Consulting | Junior Software Engineer | score:3.8 | location:Colorado, United States | posted:2026-05-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4421217602 | ADT | Junior Software Engineer | score:3.8 | location:Irving, TX | posted:2026-05-29T00:00:00.000Z | source:linkedin-guest
