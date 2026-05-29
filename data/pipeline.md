@@ -1991,3 +1991,9 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4421789480 | Tech Consulting | Junior Software Engineer | score:3.8 | location:Illinois, United States | posted:2026-05-29T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4417936004 | Stealth Startup | Backend Developer [33000] | score:3.4 | location:United States | posted:2026-05-29T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4420643009 | Hex, Inc. | Full Stack Software Engineer | score:3.4 | location:Miami, FL | posted:2026-05-28T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.lever.co/spotify/74253bb3-914d-453f-bb66-8b1eab89e6e6 | Spotify | Backend Engineer - Podcast | score:3.7 | location:New York, NY | posted:2026-05-29T14:15:48.538Z | source:lever-api
+- [ ] https://www.linkedin.com/jobs/view/4421204842 | Simulation Technologies Inc. (SimTech) | Software Engineer, Entry-Level | score:3 | location:Huntsville, AL | posted:2026-05-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4421200650 | Opendoor | Software Engineer | score:3.3 | location:Seattle, WA | posted:2026-05-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4420679035 | SynergisticIT | entry level java backend developer/Jr Ai engineer | score:4.5 | location:Seattle, WA | posted:2026-05-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4421209141 | Applied Research Solutions | Software Engineer I - NovaStar | score:3.8 | location:Dayton, OH | posted:2026-05-29T00:00:00.000Z | source:linkedin-guest
