@@ -2030,3 +2030,6 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4421350780 | Helic &amp; Co. | Junior Software Engineer | score:3.8 | location:United States | posted:2026-05-30T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4412129175 | IBM | Software Engineer Apprentice | score:3 | location:Poughkeepsie, AR | posted:2026-05-30T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4421302016 | Booz Allen Hamilton | Software Engineer, Junior | score:3.8 | location:Alexandria, VA | posted:2026-05-30T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4412136128 | IBM | Software Engineer Apprentice | score:3 | location:Armonk, NY | posted:2026-05-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4346613206 | SpaceX | Software Engineer (Starlink Ground Network) | score:3 | location:Redmond, WA | posted:2026-05-30T00:00:00.000Z | source:linkedin-guest
