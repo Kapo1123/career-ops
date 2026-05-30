@@ -2007,3 +2007,18 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4421252058 | TSC | Software Engineer I | score:3.8 | location:Huntsville, AL | posted:2026-05-29T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4421790499 | Tech Consulting | Junior Software Engineer | score:3.8 | location:Colorado, United States | posted:2026-05-29T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4421217602 | ADT | Junior Software Engineer | score:3.8 | location:Irving, TX | posted:2026-05-29T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://boards.greenhouse.io/robinhood/jobs/7684760?t=gh_src=&gh_jid=7684760 | Robinhood | Software Engineer, Trade PMR | score:4.1 | location:New York, NY | posted:2026-05-29T20:12:10-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4422525538 | Jack &amp; Jill | New Grad Software Engineer at fast-growing consumer social platform | score:4.5 | location:New York, United States | posted:2026-05-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422075220 | Robert Half | Software Engineer | score:3 | location:San Ramon, CA | posted:2026-05-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422061566 | NVIDIA | Software Engineer, TensorRT Specialized Platforms - New College Grad 2025 | score:3.4 | location:Santa Clara, CA | posted:2026-05-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417976533 | IBM | Entry Level Software Developer 2026 | score:3.8 | location:Austin, TX | posted:2026-05-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4402313715 | Docusign | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-05-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4421277088 | Honeywell Aerospace Technologies | Software Engineer I | score:3.8 | location:Phoenix, AZ | posted:2026-05-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418314444 | Pittsburgh Robotics Network | Software Engineer I - Data Platform | score:4.2 | location:Pittsburgh, PA | posted:2026-05-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418340053 | myGwork - LGBTQ+ Business Community | Software Engineer I | score:4.1 | location:San Francisco, CA | posted:2026-05-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422081682 | Tech Economy | Software Engineer I, Private Equity Innovation | score:3.8 | location:Dallas, TX | posted:2026-05-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418346041 | SOGEA REUNION INFRASTRUCTURE | Software Engineer | score:3.3 | location:New York, NY | posted:2026-05-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422036613 | Jobs via Dice | Junior Software Engineer | score:4.1 | location:New York, NY | posted:2026-05-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422071907 | hackajob | Software Engineer-Early Career | score:3.8 | location:Uniondale, NY | posted:2026-05-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417961303 | BrothersTech | Software Engineer | score:3 | location:United States | posted:2026-05-29T00:00:00.000Z | source:linkedin-guest
