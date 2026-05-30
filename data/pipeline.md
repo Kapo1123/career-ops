@@ -2026,3 +2026,7 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4205003719 | Middesk | Software Engineer | score:3.3 | location:New York, United States | posted:2026-05-30T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4422072971 | targetjobs UK | Graduate Software Engineer | score:3 | location:Sheffield, TX | posted:2026-05-30T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4421339003 | Sundayy | Software Engineer, Jr. (API, SQL) | score:3 | location:United States | posted:2026-05-30T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4421350780 | Helic &amp; Co. | Junior Software Engineer | score:3.8 | location:United States | posted:2026-05-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4412129175 | IBM | Software Engineer Apprentice | score:3 | location:Poughkeepsie, AR | posted:2026-05-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4421302016 | Booz Allen Hamilton | Software Engineer, Junior | score:3.8 | location:Alexandria, VA | posted:2026-05-30T00:00:00.000Z | source:linkedin-guest
