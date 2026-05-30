@@ -2022,3 +2022,7 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4422036613 | Jobs via Dice | Junior Software Engineer | score:4.1 | location:New York, NY | posted:2026-05-29T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4422071907 | hackajob | Software Engineer-Early Career | score:3.8 | location:Uniondale, NY | posted:2026-05-30T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4417961303 | BrothersTech | Software Engineer | score:3 | location:United States | posted:2026-05-29T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4205003719 | Middesk | Software Engineer | score:3.3 | location:New York, United States | posted:2026-05-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422072971 | targetjobs UK | Graduate Software Engineer | score:3 | location:Sheffield, TX | posted:2026-05-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4421339003 | Sundayy | Software Engineer, Jr. (API, SQL) | score:3 | location:United States | posted:2026-05-30T00:00:00.000Z | source:linkedin-guest
