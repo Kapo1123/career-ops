@@ -2069,3 +2069,9 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4422580701 | TikTok | Backend Software Engineer - TikTok - OGC | score:3.4 | location:San Jose, CA | posted:2026-05-31T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4422543018 | Jobs via Dice | Software Engineer (Starlink Mobile) | score:3 | location:Sunnyvale, CA | posted:2026-05-31T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4309804319 | DataAnnotation | Full Stack Developer | score:3.4 | location:Colorado, United States | posted:2026-05-31T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4382154744 | BlackRock | ETF Systems - Full Stack Engineer - Associate | score:4.5 | location:San Francisco, CA | posted:2026-05-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4363468035 | Epic | Entry-Level Software Developer | score:3 | location:Lawton, OK | posted:2026-05-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4324478525 | Wealthfront | Backend Engineer | score:3.7 | location:San Francisco, CA | posted:2026-05-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4392764830 | Hinge Health | Software Engineer II | score:4.1 | location:San Francisco, CA | posted:2026-05-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4309694915 | DataAnnotation | Full Stack Developer | score:3.4 | location:Kentucky, United States | posted:2026-05-31T00:00:00.000Z | source:linkedin-guest
