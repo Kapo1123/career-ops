@@ -2057,3 +2057,15 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4421623629 | Craft Digital | Junior Software Engineer | score:3.8 | location:United States | posted:2026-05-31T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4309699522 | DataAnnotation | Full Stack Developer | score:3.4 | location:California, United States | posted:2026-05-31T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4422562593 | Fabric Ventures | Software Engineer (Full Stack) | score:3.7 | location:New York, NY | posted:2026-05-31T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4363437668 | Epic | Entry-Level Software Developer | score:3 | location:Watertown, SD | posted:2026-05-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4346721330 | Govini | Software Engineer | score:3 | location:Pittsburgh, PA | posted:2026-05-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417993010 | BeaconFire Inc. | Java Software Engineer | score:3.4 | location:Georgia, United States | posted:2026-05-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417982268 | BeaconFire Inc. | Java Software Developer | score:3.4 | location:Georgia, United States | posted:2026-05-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/3986114518 | Epic | Software Engineer | score:3 | location:Bellevue, WA | posted:2026-05-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4355212273 | Societe Generale | Software Engineer- Repo Pre Trade | score:3.3 | location:New York, NY | posted:2026-05-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4309698364 | DataAnnotation | Software Engineer | score:3 | location:Washington, DC | posted:2026-05-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4391757105 | Jonas Software | Software Engineer | score:3 | location:United States | posted:2026-05-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422580701 | TikTok | Backend Software Engineer - TikTok - OGC | score:3.4 | location:San Jose, CA | posted:2026-05-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422543018 | Jobs via Dice | Software Engineer (Starlink Mobile) | score:3 | location:Sunnyvale, CA | posted:2026-05-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4309804319 | DataAnnotation | Full Stack Developer | score:3.4 | location:Colorado, United States | posted:2026-05-31T00:00:00.000Z | source:linkedin-guest
