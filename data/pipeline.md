@@ -2033,3 +2033,13 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 
 - [ ] https://www.linkedin.com/jobs/view/4412136128 | IBM | Software Engineer Apprentice | score:3 | location:Armonk, NY | posted:2026-05-30T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4346613206 | SpaceX | Software Engineer (Starlink Ground Network) | score:3 | location:Redmond, WA | posted:2026-05-30T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4422575353 | Jack &amp; Jill | New Grad Software Engineer at fast-growing consumer social platform | score:4.5 | location:New York, United States | posted:2026-05-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4421621382 | Blueridge Global Partners Inc. | New Grad Software Engineer - Physical AI Compute | score:3.8 | location:Irvine, CA | posted:2026-05-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4412116964 | IBM | Software Engineer Apprentice | score:3 | location:Durham, NC | posted:2026-05-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4391149193 | Nasdaq | Analyst - Software Developer | score:3 | location:Atlanta, GA | posted:2026-05-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4369288501 | ServiceNow | Associate Software Engineer, Core Infrastructure - Moveworks | score:4.2 | location:Mountain View, CA | posted:2026-05-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4411728704 | MongoDB | Software Engineer, Developer Productivity | score:3.3 | location:New York, NY | posted:2026-05-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418352623 | Haystack | Software Engineer | score:3 | location:Phoenix, AZ | posted:2026-05-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4421621108 | Sundayy | Full Stack Developer, Jr. | score:3.4 | location:United States | posted:2026-05-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422582393 | targetjobs UK | Graduate Software Engineer | score:3 | location:Carlisle, PA | posted:2026-05-31T00:00:00.000Z | source:linkedin-guest
