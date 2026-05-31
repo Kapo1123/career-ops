@@ -2043,3 +2043,17 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4418352623 | Haystack | Software Engineer | score:3 | location:Phoenix, AZ | posted:2026-05-30T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4421621108 | Sundayy | Full Stack Developer, Jr. | score:3.4 | location:United States | posted:2026-05-31T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4422582393 | targetjobs UK | Graduate Software Engineer | score:3 | location:Carlisle, PA | posted:2026-05-31T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4422561325 | Enigma | Graduate Software Engineer | Python | AWS | Postgres | Computer Science | Hybrid, New York | score:3.7 | location:New York, NY | posted:2026-05-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4412356997 | Optiver | Software Engineer – Hardware Development | score:3 | location:Austin, TX | posted:2026-05-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4321363979 | Epic | Entry-Level Software Developer | score:3 | location:Wichita, KS | posted:2026-05-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4421614165 | HistoSonics, Inc. | Software Engineer I | score:3.8 | location:Greater Minneapolis-St. Paul Area | posted:2026-05-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/3986117194 | Epic | Software Engineer | score:3 | location:Rock Springs, WY | posted:2026-05-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4309808025 | DataAnnotation | Software Engineer | score:3 | location:Oregon, United States | posted:2026-05-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4343013509 | Vercel | Software Engineer, Backend | score:3.4 | location:United States | posted:2026-05-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4421607338 | Netrolynx AI | Software Engineer | score:3 | location:United States | posted:2026-05-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4392001495 | SpaceX | Security Software Engineer (Starshield) | score:3 | location:Washington, DC | posted:2026-05-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422536100 | Jobs via Dice | Software Engineer (Starlink Mobile) | score:3 | location:Redmond, WA | posted:2026-05-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4421623629 | Craft Digital | Junior Software Engineer | score:3.8 | location:United States | posted:2026-05-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4309699522 | DataAnnotation | Full Stack Developer | score:3.4 | location:California, United States | posted:2026-05-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422562593 | Fabric Ventures | Software Engineer (Full Stack) | score:3.7 | location:New York, NY | posted:2026-05-31T00:00:00.000Z | source:linkedin-guest
