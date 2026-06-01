@@ -2075,3 +2075,24 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4324478525 | Wealthfront | Backend Engineer | score:3.7 | location:San Francisco, CA | posted:2026-05-31T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4392764830 | Hinge Health | Software Engineer II | score:4.1 | location:San Francisco, CA | posted:2026-05-31T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4309694915 | DataAnnotation | Full Stack Developer | score:3.4 | location:Kentucky, United States | posted:2026-05-31T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4422870685 | Jack &amp; Jill | New Grad Software Engineer at fast-growing consumer social platform | score:4.5 | location:New York, United States | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418771926 | Helic &amp; Co. | Junior Software Engineer | score:3.8 | location:United States | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4363397624 | Epic | Entry-Level Software Developer | score:3 | location:Sturgeon Bay, WI | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422883837 | Emonics LLC | Software Engineer | score:3 | location:Austin, TX | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4421806348 | General Motors | Entry Level Developer - Simulation Platform (Galileo) | score:4.2 | location:Sunnyvale, CA | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422870975 | Emonics LLC | Entry Level Software Engineer | score:4.1 | location:Seattle, WA | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418702887 | Haystack | Software Engineer | score:3 | location:Phoenix, AZ | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418783164 | Textron | Software Engineer I/II | score:3.8 | location:Hunt Valley, MD | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422587263 | PandoLogic | Software Engineer | score:3.3 | location:New York, NY | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4421698968 | Kollabio, Inc. | Junior Full-Stack Software Engineer | score:3.8 | location:Brambleton, VA | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4421865149 | Esri | Software Developer I - Web Components | score:3 | location:Redlands, CA | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422872964 | Third Eye Health | Junior Software Developer | score:3.8 | location:Brookline, MA | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417989141 | BeaconFire Inc. | Software Engineer Entry Level | score:3.8 | location:California, United States | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4326701472 | Glean | Software Engineer, Context Platform | score:3.4 | location:Mountain View, CA | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4153477552 | Zip | Software Engineer, Identity | score:3.3 | location:San Francisco, CA | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422892196 | Google | Software Engineer, Personalization Platform, Core | score:4.9 | location:San Jose, CA | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418772824 | Google | Software Engineer, Andromeda | score:4.5 | location:Sunnyvale, CA | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422868880 | targetjobs UK | Graduate Software Engineer | score:3 | location:Carlisle, PA | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4421693586 | Sundayy | Full Stack Developer, Jr. | score:3.4 | location:United States | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417975852 | BeaconFire Inc. | Jr Software Engineer | score:3 | location:California, United States | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
