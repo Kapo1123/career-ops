@@ -2112,3 +2112,17 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4418792890 | IBM | Software Engineer Apprentice | score:3 | location:Armonk, NY | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4423245566 | Pure Storage | Software Engineer, Datastore Hardware | score:3.4 | location:Santa Clara, CA | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4418784781 | Haystack | Junior Software Engineer | score:3.8 | location:Arlington County, VA | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://stripe.com/jobs/search?gh_jid=7922832 | Stripe | Software Engineer | score:4.1 | location:Seattle, WA | posted:2026-06-01T18:53:42-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/openai/348ac6bf-a5c3-43d1-a14a-5f1a3c8d90fa | OpenAI | Software Engineer, Monetization ML Infrastructure | score:3.7 | location:San Francisco | posted:2026-06-01T22:36:47.461+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4423252359 | Haystack | Software Engineer | score:3 | location:Greater St. Louis | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4419214415 | Laserfiche | Software Engineer | score:3 | location:Long Beach, CA | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418789776 | Haystack | Junior Software Developer | score:3.8 | location:Alexandria, VA | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422142451 | Massanutten Resort | Associate Software Developer | score:3.8 | location:McGaheysville, VA | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4423280122 | Intelligent Audit | Junior Software Developer - AI Enabled Prod E | score:3.8 | location:Rochelle Park, NJ | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422123289 | PublicInput | Software Engineer I | score:3.8 | location:Raleigh, NC | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422119048 | NBCUniversal | Software Engineer, Live and Interactive | score:3.3 | location:New York, NY | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4421873155 | Cisco | Software Engineer Data/AI/Intelligent Systems I (Full Time) – United States | score:3.4 | location:Boston, MA | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422884323 | Tech Consulting | Junior Software Engineer | score:3.8 | location:Kansas, United States | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4321375716 | Epic | Entry-Level Software Developer | score:3 | location:Grand Island, NE | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4423266986 | MetLife | Software/Platform Engineer | score:3.4 | location:Cary, NC | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
