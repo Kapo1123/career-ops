@@ -2101,3 +2101,14 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4421891089 | Tokyo Electron US | Entry-Level Software Engineer — AI Research | score:3 | location:San Jose, CA | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4420495810 | Inker | Junior Software Engineer | score:3.8 | location:United States | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4321394020 | Epic | Entry-Level Software Developer | score:3 | location:Rapid City, SD | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4423221455 | Enigma | Graduate Software Engineer | Python | AWS | Postgres | Computer Science | Hybrid, New York | score:3.7 | location:New York, NY | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4423207497 | Jack | Full Stack Engineer | score:3.7 | location:San Francisco Bay Area | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4372217051 | SpaceX | Full Stack Software Engineer (Components) | score:3.4 | location:Hawthorne, CA | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4321363976 | Epic | Entry-Level Software Developer | score:3 | location:Neenah, WI | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4423252362 | Haystack | Software Engineer | score:3 | location:Missouri, United States | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422871355 | Tech Consulting | Junior Software Engineer | score:4.1 | location:New York, United States | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418034625 | Nutanix | Software Engineer 2 - Cloud Networking | score:3 | location:San Jose, CA | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418792890 | IBM | Software Engineer Apprentice | score:3 | location:Armonk, NY | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4423245566 | Pure Storage | Software Engineer, Datastore Hardware | score:3.4 | location:Santa Clara, CA | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418784781 | Haystack | Junior Software Engineer | score:3.8 | location:Arlington County, VA | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
