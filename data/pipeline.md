@@ -2096,3 +2096,8 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4422868880 | targetjobs UK | Graduate Software Engineer | score:3 | location:Carlisle, PA | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4421693586 | Sundayy | Full Stack Developer, Jr. | score:3.4 | location:United States | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4417975852 | BeaconFire Inc. | Jr Software Engineer | score:3 | location:California, United States | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7527453?gh_jid=7527453 | Cloudflare | Software Engineer, Data | score:3.4 | location:Hybrid | posted:2026-06-01T14:05:09-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4421891089 | Tokyo Electron US | Entry-Level Software Engineer — AI Research | score:3 | location:San Jose, CA | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4420495810 | Inker | Junior Software Engineer | score:3.8 | location:United States | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4321394020 | Epic | Entry-Level Software Developer | score:3 | location:Rapid City, SD | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
