@@ -2126,3 +2126,18 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4422884323 | Tech Consulting | Junior Software Engineer | score:3.8 | location:Kansas, United States | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4321375716 | Epic | Entry-Level Software Developer | score:3 | location:Grand Island, NE | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4423266986 | MetLife | Software/Platform Engineer | score:3.4 | location:Cary, NC | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5238606008 | Anthropic | Software Engineer, RL Data | score:3.7 | location:London, UK; Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY | posted:2026-06-02T10:06:04-04:00 | source:greenhouse-api
+- [ ] https://boards.greenhouse.io/robinhood/jobs/7975531?t=gh_src=&gh_jid=7975531 | Robinhood | Software Engineer | score:3.8 | location:Menlo Park, CA | posted:2026-06-02T12:29:50-04:00 | source:greenhouse-api
+- [ ] https://boards.greenhouse.io/robinhood/jobs/7975477?t=gh_src=&gh_jid=7975477 | Robinhood | Software Engineer, Agentic AI | score:3.8 | location:Bellevue, WA | posted:2026-06-02T12:31:19-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4423938187 | Jack &amp; Jill | New Grad Software Engineer at fast-growing consumer social platform | score:4.5 | location:New York, United States | posted:2026-06-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418795788 | Haystack | Junior Software Developer | score:3.8 | location:Arlington County, VA | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418780845 | Haystack | Junior Software Engineer | score:3.8 | location:Washington, United States | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4423284847 | Qcells North America | Junior Software Engineer | score:3.8 | location:Santa Clara, CA | posted:2026-06-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4381761503 | BeaconFire Inc. | Entry-Level Java Developer | score:3.4 | location:New Jersey, United States | posted:2026-06-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4419621128 | ASTEC | Software Engineer - Python, SQL | score:3.4 | location:United States | posted:2026-06-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4421880093 | Cisco | Software Engineer Data/AI/Intelligent Systems I (Full Time) – United States | score:3.4 | location:Austin, TX | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4419604377 | Ministry of Interior | Junior Software Engineer | score:3.8 | location:California, United States | posted:2026-06-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422428376 | Helic &amp; Co. | Junior Software Engineer | score:3.8 | location:United States | posted:2026-06-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4423929251 | Optomi | Junior Full Stack Developer | score:4.2 | location:Dallas, TX | posted:2026-06-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4423907899 | Tech Consulting | Junior Software Engineer | score:3.8 | location:Pennsylvania, United States | posted:2026-06-02T00:00:00.000Z | source:linkedin-guest
