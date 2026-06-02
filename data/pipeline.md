@@ -2161,3 +2161,11 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4422389333 | Deloitte | Agentic Software Engineer I | score:3.8 | location:Austin, TX | posted:2026-06-02T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4393280478 | Salesforce | Software Engineering AMTS (College Grad) | score:3 | location:Palo Alto, CA | posted:2026-06-02T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4422368167 | Sundayy | Full Stack Engineer, Jr. | score:3.4 | location:United States | posted:2026-06-02T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://boards.greenhouse.io/robinhood/jobs/7975529?t=gh_src=&gh_jid=7975529 | Robinhood | Software Engineer | score:3.8 | location:Menlo Park, CA | posted:2026-06-02T14:59:59-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4610281005 | Glean | Software Engineer, Storage | score:3 | location:Mountain View, CA | posted:2026-06-02T18:39:06-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4423991359 | Odoo | Junior Software Engineer | score:4.1 | location:San Francisco Bay Area | posted:2026-06-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422625262 | Nutanix | Software Engineer - Prism | score:3 | location:San Jose, CA | posted:2026-06-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422628126 | Nutanix | Software Engineer 1 | score:3 | location:Durham, NC | posted:2026-06-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4423907894 | Tech Consulting | Junior Software Engineer | score:3.8 | location:Illinois, United States | posted:2026-06-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4321306201 | Epic | Entry-Level Software Developer | score:3 | location:Sioux Falls, SD | posted:2026-06-02T00:00:00.000Z | source:linkedin-guest
