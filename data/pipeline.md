@@ -2153,3 +2153,11 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4422346716 | PayPal | Software Engineer | score:3 | location:Austin, TX | posted:2026-06-02T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4422192161 | xAI | Software Engineer, Ads Product | score:3 | location:Palo Alto, CA | posted:2026-06-02T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4423400154 | targetjobs UK | Graduate Software Engineer | score:3 | location:Preston, CT | posted:2026-06-02T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://boards.greenhouse.io/robinhood/jobs/7975549?t=gh_src=&gh_jid=7975549 | Robinhood | Software Engineer | score:3.8 | location:Menlo Park, CA | posted:2026-06-02T15:02:13-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4419622884 | Axos Bank | Software Engineer | score:3 | location:San Diego, CA | posted:2026-06-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4413145177 | Etsy | Software Engineer II, Machine Learning | score:3.8 | location:Brooklyn, NY | posted:2026-06-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4423959813 | Applied Intuition | Software Engineer - Python | score:3.4 | location:Sunnyvale, CA | posted:2026-06-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422389333 | Deloitte | Agentic Software Engineer I | score:3.8 | location:Austin, TX | posted:2026-06-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4393280478 | Salesforce | Software Engineering AMTS (College Grad) | score:3 | location:Palo Alto, CA | posted:2026-06-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422368167 | Sundayy | Full Stack Engineer, Jr. | score:3.4 | location:United States | posted:2026-06-02T00:00:00.000Z | source:linkedin-guest
