@@ -2141,3 +2141,15 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4422428376 | Helic &amp; Co. | Junior Software Engineer | score:3.8 | location:United States | posted:2026-06-02T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4423929251 | Optomi | Junior Full Stack Developer | score:4.2 | location:Dallas, TX | posted:2026-06-02T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4423907899 | Tech Consulting | Junior Software Engineer | score:3.8 | location:Pennsylvania, United States | posted:2026-06-02T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://boards.greenhouse.io/robinhood/jobs/7975530?t=gh_src=&gh_jid=7975530 | Robinhood | Software Engineer | score:3.8 | location:Menlo Park, CA | posted:2026-06-02T12:29:25-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/sierra/8fe2757e-13e9-47e0-9d5a-90b2596a975c | Sierra | Software Engineer, Payments Infrastructure | score:3.7 | location:San Francisco, CA | posted:2026-06-02T17:38:25.749+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4393225713 | Salesforce | Software Engineering AMTS (College Grad) | score:3 | location:Dallas, TX | posted:2026-06-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422391325 | Deloitte | Agentic Software Engineer I | score:3.8 | location:Dallas, TX | posted:2026-06-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4423944848 | Summit Staffing Partners | Junior Software Engineer | score:4.1 | location:New York, NY | posted:2026-06-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422115684 | Lockheed Martin | Software Engineer | score:3 | location:Sunnyvale, CA | posted:2026-06-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4419232061 | Ketch | Backend Engineer | score:3.7 | location:San Francisco, CA | posted:2026-06-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422312342 | Swift | Software Engineer | score:3 | location:Manassas, VA | posted:2026-06-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422346716 | PayPal | Software Engineer | score:3 | location:Austin, TX | posted:2026-06-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422192161 | xAI | Software Engineer, Ads Product | score:3 | location:Palo Alto, CA | posted:2026-06-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4423400154 | targetjobs UK | Graduate Software Engineer | score:3 | location:Preston, CT | posted:2026-06-02T00:00:00.000Z | source:linkedin-guest
