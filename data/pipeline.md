@@ -2204,3 +2204,13 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4424219276 | ZOLL Medical Corporation | Software Engineer I | score:3.8 | location:Broomfield, CO | posted:2026-06-03T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4423041208 | Chewy | Software Engineer I - Frontend | score:3.8 | location:Boston, MA | posted:2026-06-03T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4422625651 | Waystar | Software Engineer I | score:3.8 | location:Louisville, KY | posted:2026-06-03T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://boards.greenhouse.io/robinhood/jobs/7975550?t=gh_src=&gh_jid=7975550 | Robinhood | Software Engineer | score:3.8 | location:Menlo Park, CA | posted:2026-06-02T23:16:42-04:00 | source:greenhouse-api
+- [ ] https://jobs.lever.co/palantir/7a9600be-cdcb-4311-bb5c-65b6939b5956 | Palantir | Software Engineer - Hosted Model Infrastructure | score:3.4 | location:Washington, D.C. | posted:2026-06-03T19:38:40.161Z | source:lever-api
+- [ ] https://www.linkedin.com/jobs/view/4424256141 | Jobs via Dice | Entry Level Software Engineer | score:3.8 | location:Cleveland, OH | posted:2026-06-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4424273263 | Clearstory | Junior Software Engineer | score:3.8 | location:Walnut Creek, CA | posted:2026-06-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4423064622 | Visionist, Inc. | Junior Software Engineer | score:3.8 | location:Laurel, MD | posted:2026-06-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4424250901 | AMEWAS | Software Developer (BEAVER)-Junior | score:3.8 | location:Patuxent River, MD | posted:2026-06-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4420153244 | HCLTech | Software Engineer - Entry Level | score:3.8 | location:Redmond, WA | posted:2026-06-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4420146778 | BAE Systems, Inc. | Full-stack Software Engineer I | score:3.8 | location:Nashua, NH | posted:2026-06-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4423048058 | SalesForce-ad | Software Engineer I, Service Network - Slack | score:4.1 | location:Seattle, WA | posted:2026-06-03T00:00:00.000Z | source:linkedin-guest
