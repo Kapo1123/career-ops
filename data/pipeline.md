@@ -2169,3 +2169,18 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4422628126 | Nutanix | Software Engineer 1 | score:3 | location:Durham, NC | posted:2026-06-02T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4423907894 | Tech Consulting | Junior Software Engineer | score:3.8 | location:Illinois, United States | posted:2026-06-02T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4321306201 | Epic | Entry-Level Software Developer | score:3 | location:Sioux Falls, SD | posted:2026-06-02T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://boards.greenhouse.io/robinhood/jobs/7960734?t=gh_src=&gh_jid=7960734 | Robinhood | Software Engineer | score:3.8 | location:Menlo Park, CA | posted:2026-06-02T22:54:11-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/plaid/f214bf6c-2008-4eab-8943-03f5d03088c2 | Plaid | Software Engineer - Security Engineering | score:3.3 | location:New York City Office | posted:2026-06-03T00:40:08.762+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/snowflake/e386e099-80b8-47af-bb7a-e3e8a1571d5f | Snowflake | Data Engineer | score:4.2 | location:IN-Pune | posted:2026-06-03T09:06:55.688+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/legora/8aa3a02e-6081-4237-9994-bcf61d1de050 | Legora | Platform Engineer | score:3.4 | location:Stockholm HQ | posted:2026-06-03T09:00:27.605+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4424053714 | Nuro | Software Engineer, Performance - New Grad | score:3.8 | location:Mountain View, CA | posted:2026-06-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4423996592 | IXL Learning | Software Engineer, New Grad | score:3.8 | location:San Mateo, CA | posted:2026-06-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4363387575 | Epic | Entry-Level Software Developer | score:3 | location:Brookings, SD | posted:2026-06-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4419633362 | HRCap, Inc. | Software Engineer I | score:3.8 | location:United States | posted:2026-06-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4424053124 | Rundoo | Software Engineer | score:3 | location:Redwood City, CA | posted:2026-06-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422659968 | Moffatt &amp; Nichol | Software Developer – Junior Level | score:3.8 | location:Costa Mesa, CA | posted:2026-06-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4424019056 | Intel | Development Tools Software Engineer | score:3 | location:Folsom, CA | posted:2026-06-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4423960964 | Intel | Software Engineer | score:3 | location:Santa Clara, CA | posted:2026-06-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422622093 | General Motors | Software Engineer - Early Career | score:3.8 | location:Austin, TX | posted:2026-06-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4419625807 | BeaconFire Inc. | Junior Software Engineer | score:3.8 | location:California, United States | posted:2026-06-03T00:00:00.000Z | source:linkedin-guest
