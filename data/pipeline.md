@@ -2184,3 +2184,9 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4423960964 | Intel | Software Engineer | score:3 | location:Santa Clara, CA | posted:2026-06-02T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4422622093 | General Motors | Software Engineer - Early Career | score:3.8 | location:Austin, TX | posted:2026-06-02T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4419625807 | BeaconFire Inc. | Junior Software Engineer | score:3.8 | location:California, United States | posted:2026-06-03T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://boards.greenhouse.io/robinhood/jobs/7975516?t=gh_src=&gh_jid=7975516 | Robinhood | Software Engineer | score:3.8 | location:Menlo Park, CA | posted:2026-06-02T23:01:49-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/openai/87e5f8c3-3337-480a-9db2-e4cef5db909b | OpenAI | Host Systems Software Engineer | score:3.3 | location:San Francisco | posted:2026-06-03T16:55:05.751+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4424241056 | Ciena | Telecommunications Quality Automation Test Engineer - New Grad | score:3.8 | location:Petaluma, CA | posted:2026-06-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422690096 | TEKsystems | Entry Level Software Engineer | score:3.8 | location:Cleveland, OH | posted:2026-06-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4423002169 | Pinterest | Software Engineer I, Backend | score:4.5 | location:Seattle, WA | posted:2026-06-03T00:00:00.000Z | source:linkedin-guest
