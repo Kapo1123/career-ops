@@ -2190,3 +2190,17 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4424241056 | Ciena | Telecommunications Quality Automation Test Engineer - New Grad | score:3.8 | location:Petaluma, CA | posted:2026-06-03T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4422690096 | TEKsystems | Entry Level Software Engineer | score:3.8 | location:Cleveland, OH | posted:2026-06-03T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4423002169 | Pinterest | Software Engineer I, Backend | score:4.5 | location:Seattle, WA | posted:2026-06-03T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://boards.greenhouse.io/robinhood/jobs/7975480?t=gh_src=&gh_jid=7975480 | Robinhood | Software Engineer | score:3.8 | location:Menlo Park, CA | posted:2026-06-02T22:56:59-04:00 | source:greenhouse-api
+- [ ] https://jobs.lever.co/palantir/4df4cca5-e361-498b-806d-05f21638c93a | Palantir | Software Engineer - Hosted Model Infrastructure | score:3.7 | location:New York, NY | posted:2026-06-03T19:38:18.769Z | source:lever-api
+- [ ] https://www.linkedin.com/jobs/view/4422691104 | TEKsystems | Entry Level Software Engineer | score:3.8 | location:Pittsburgh, PA | posted:2026-06-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4424259115 | Jobs via Dice | Entry Level Software Engineer | score:3.8 | location:Pittsburgh, PA | posted:2026-06-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4423017364 | Manheim Dallas-Fort Worth | Software Engineer I | score:3.8 | location:Atlanta, GA | posted:2026-06-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4413445271 | SquareTrade | Associate Software Engineer | score:3.8 | location:Dallas, TX | posted:2026-06-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4423010294 | Cox Automotive Inc. | Software Engineer I | score:3.8 | location:Atlanta, GA | posted:2026-06-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422649401 | GE HealthCare | Software Engineer I | score:3.8 | location:Beachwood, OH | posted:2026-06-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4423036342 | Chewy | Software Engineer I | score:3.8 | location:Boston, MA | posted:2026-06-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422647319 | Oceaneering | Software Engineer I | score:3.8 | location:Hanover, MD | posted:2026-06-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4424219276 | ZOLL Medical Corporation | Software Engineer I | score:3.8 | location:Broomfield, CO | posted:2026-06-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4423041208 | Chewy | Software Engineer I - Frontend | score:3.8 | location:Boston, MA | posted:2026-06-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422625651 | Waystar | Software Engineer I | score:3.8 | location:Louisville, KY | posted:2026-06-03T00:00:00.000Z | source:linkedin-guest
