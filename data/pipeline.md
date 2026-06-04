@@ -2239,3 +2239,18 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4420722011 | Siyata.AI | Junior Software Engineer | score:3.8 | location:Texas, United States | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4423501943 | HireMe | Junior Software Engineer (Remote) | score:3.8 | location:United States | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4420724922 | Crown Innovations, Inc. | Junior Full Stack Developer | score:4.2 | location:Arlington, VA | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://boards.greenhouse.io/robinhood/jobs/7975557?t=gh_src=&gh_jid=7975557 | Robinhood | Software Engineer | score:3.8 | location:Menlo Park, CA | posted:2026-06-04T12:37:53-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4392487592 | Roblox | Software Engineer, User Sharing | score:3 | location:San Mateo, CA | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4423520762 | Loombotic | Software Engineer | score:3 | location:Austin, TX | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4396464759 | Bitdeer (NASDAQ: BTDR) | AI &amp; Cloud Infra Software Engineer (Fresh Grad) | score:3 | location:Austin, TX | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4424445346 | Building Ventures | Junior Software Engineer | score:3.8 | location:Walnut Creek, CA | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4424442430 | Brellium | Software Engineer | score:3.3 | location:New York, NY | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4424430406 | Enigma | Graduate Software Engineer | Python | AWS | Postgres | Computer Science | Hybrid, New York | score:3.7 | location:New York, NY | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4424428885 | Emonics LLC | Entry Level Software Engineer | score:3.8 | location:Salt Lake City, UT | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4424429777 | Emonics LLC | Software Engineer | score:3 | location:Boston, MA | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4420742264 | Tech Consulting | Software Engineer | score:3 | location:Illinois, United States | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4423536207 | Smart IS | Junior Software Developer (Fresh Graduate) | score:3.8 | location:Oshkosh, WI | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414707082 | Cadence | Software Engineer I | score:3.8 | location:San Jose, CA | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4383449303 | SpaceX | Software Engineer, Telemetry (Starlink) | score:3 | location:Hawthorne, CA | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4394329015 | SpaceX | Software Engineer, Simulations (Application Software) | score:3 | location:Hawthorne, CA | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
