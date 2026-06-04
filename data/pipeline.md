@@ -2214,3 +2214,28 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4420153244 | HCLTech | Software Engineer - Entry Level | score:3.8 | location:Redmond, WA | posted:2026-06-03T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4420146778 | BAE Systems, Inc. | Full-stack Software Engineer I | score:3.8 | location:Nashua, NH | posted:2026-06-03T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4423048058 | SalesForce-ad | Software Engineer I, Service Network - Slack | score:4.1 | location:Seattle, WA | posted:2026-06-03T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://boards.greenhouse.io/robinhood/jobs/7975526?t=gh_src=&gh_jid=7975526 | Robinhood | Software Engineer | score:3.8 | location:Menlo Park, CA | posted:2026-06-02T23:03:59-04:00 | source:greenhouse-api
+- [ ] https://careers.datadoghq.com/detail/7980350/?gh_jid=7980350 | Datadog | Software Engineer II, Enterprise Engineering | score:4.1 | location:New York, New York, USA | posted:2026-06-04T11:39:19-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7982566 | Intercom | Forward Deployed Software Engineer | score:3 | location:Dublin, Ireland | posted:2026-06-04T11:05:16-04:00 | source:greenhouse-api
+- [ ] https://jobs.lever.co/palantir/e9aecd15-c7e9-4803-9928-fc0b67e70f5b | Palantir | Software Engineer - Hosted Model Infrastructure | score:3.4 | location:Palo Alto, CA | posted:2026-06-03T19:36:18.144Z | source:lever-api
+- [ ] https://www.linkedin.com/jobs/view/4423350635 | Authorium | Software Enginner, New Grad | score:4.1 | location:San Francisco, CA | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4423319748 | NVIDIA AI | Software Engineer, Hardware Tools and Methodology - New College Grad 2026 | score:3 | location:Santa Clara, CA | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4424322453 | NVIDIA | Software Engineer, Hardware Tools and Methodology - New College Grad 2026 | score:3 | location:Santa Clara, CA | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4423380103 | TEKsystems | Entry Level Software Engineer | score:3.8 | location:Phoenix, AZ | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4423092120 | ZEDEDA | Software Engineer - AI &amp; Edge Kubernetes Orchestration - San Jose, CA | score:3 | location:San Jose, CA | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4424241080 | Goldman Sachs | Engineering -New York-Associate, Software Engineering-039297 | score:4.1 | location:New York, NY | posted:2026-06-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4423377516 | KAYAK | Junior Java Software Engineer | score:4.2 | location:Concord, MA | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4423313382 | SMBC Group | Associate, Software Engineer | score:4.1 | location:New York, NY | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414294324 | Slack | Software Engineer I, Service Network - Slack | score:4.1 | location:San Francisco, CA | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4423362177 | Wells Fargo | Software Engineer | score:3 | location:Irving, TX | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414502893 | Salesforce | Software Engineer I, Service Network - Slack | score:4.1 | location:San Francisco, CA | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4424242346 | Park Place Technologies | Associate Software Engineer | score:3.8 | location:Highland Heights, OH | posted:2026-06-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4363377480 | Epic | Entry-Level Software Developer | score:3 | location:Minot, ND | posted:2026-06-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4423505889 | Helic &amp; Co. | Junior Software Engineer | score:3.8 | location:United States | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4423367914 | Staples | Software Engineer  I- Austin Texas (Onsite) | score:3 | location:Austin, TX | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4423306265 | Assured Information Security (AIS) | Software Engineer I | score:3.8 | location:Rome, NY | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4423387075 | ScriptPro | Software Engineer I (C++) | score:3.8 | location:Mission, KS | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4420722011 | Siyata.AI | Junior Software Engineer | score:3.8 | location:Texas, United States | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4423501943 | HireMe | Junior Software Engineer (Remote) | score:3.8 | location:United States | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4420724922 | Crown Innovations, Inc. | Junior Full Stack Developer | score:4.2 | location:Arlington, VA | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
