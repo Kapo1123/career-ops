@@ -2267,3 +2267,13 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4423332506 | Stealth Startup | Backend Developer [32922] | score:3.7 | location:New York, United States | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4423317963 | Stealth Startup | Backend Developer [33160] | score:3.7 | location:New York, United States | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4420757118 | Stealth Startup | Backend Developer [33165] | score:3.7 | location:New York, United States | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://boards.greenhouse.io/robinhood/jobs/7975507?t=gh_src=&gh_jid=7975507 | Robinhood | Software Engineer | score:3.8 | location:Menlo Park, CA | posted:2026-06-04T12:42:55-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/openai/88654e7f-4e23-4e75-8e54-18c10d09b093 | OpenAI | Software Engineer, Full Stack - Cybersecurity Products | score:3.7 | location:San Francisco | posted:2026-06-04T21:16:59.213+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4424449526 | Jobs via Dice | Entry Level Software Engineer | score:3.8 | location:Phoenix, AZ | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4423566325 | Handshake | Software Engineer I, Annotations | score:4.1 | location:San Francisco, CA | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4423575325 | StraCon Services Group, LLC. | Software Developer, Junior | score:3.8 | location:Orlando, FL | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4420751851 | BAE Systems, Inc. | Full-stack Software Engineer I | score:3.8 | location:Nashua, NH | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4423581802 | KARL STORZ North America | Software Engineer I | score:3.8 | location:Goleta, CA | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4424476044 | Mujin US | Robotics Software Engineer I - Integration | score:3.8 | location:Suwanee, GA | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4424458811 | MetLife | Junior Software Engineer | score:3.8 | location:Bridgewater, NJ | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
