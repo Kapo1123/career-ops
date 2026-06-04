@@ -2254,3 +2254,16 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4414707082 | Cadence | Software Engineer I | score:3.8 | location:San Jose, CA | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4383449303 | SpaceX | Software Engineer, Telemetry (Starlink) | score:3 | location:Hawthorne, CA | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4394329015 | SpaceX | Software Engineer, Simulations (Application Software) | score:3 | location:Hawthorne, CA | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://boards.greenhouse.io/robinhood/jobs/7975558?t=gh_src=&gh_jid=7975558 | Robinhood | Software Engineer | score:3.8 | location:Menlo Park, CA | posted:2026-06-04T12:38:36-04:00 | source:greenhouse-api
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8493168002 | Databricks | Sr. IT Site Reliability Software Engineer | score:3.8 | location:Costa Rica | posted:2026-06-04T15:33:48-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4363447647 | Epic | Entry-Level Software Developer | score:3 | location:Sioux City, IA | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418861172 | MetLife | Junior Software Engineer | score:3.8 | location:Cary, NC | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4402825691 | Mastercard | Software Engineer || | score:3 | location:Greater St. Louis | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4420750398 | Finit Solutions | Jr. Software Developer | score:3 | location:Cincinnati, OH | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4424451326 | Torc Robotics | Software Engineer, I - Mission Control | score:3 | location:Ann Arbor, MI | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4420746577 | Stealth Startup | Backend Developer [33000] | score:3.4 | location:United States | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4424363855 | Tech Consulting | Junior Software Engineer | score:3.8 | location:Washington, United States | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4423332506 | Stealth Startup | Backend Developer [32922] | score:3.7 | location:New York, United States | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4423317963 | Stealth Startup | Backend Developer [33160] | score:3.7 | location:New York, United States | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4420757118 | Stealth Startup | Backend Developer [33165] | score:3.7 | location:New York, United States | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
