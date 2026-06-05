@@ -2293,3 +2293,10 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4405865286 | Handshake | Software Engineer I, RLE | score:4.1 | location:San Francisco, CA | posted:2026-06-05T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4424117094 | Leidos | Jr. Software Engineer | score:3 | location:Oklahoma City, OK | posted:2026-06-05T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4424446986 | Insight Global | Junior Software Engineer | score:3.8 | location:Irving, TX | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/n8n/a4c599bf-0075-4d79-953c-34818935569a | n8n | Sr Cloud Engineer | Infrastructure & Application Development | Europe remote | score:3.4 | location:Berlin Office | posted:2026-06-05T16:42:57.264+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/decagon/3a68de82-c874-4cd2-b639-17948748e212 | Decagon | Platform Engineer, Security | score:3.7 | location:San Francisco | posted:2026-06-05T16:25:00.957+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4424590754 | 1Phi Health | New Grad Data Engineer (for Health Tech Startup)🤓 | score:4.2 | location:United States | posted:2026-06-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4424586655 | Motive | Software Engineer I, Core Product | score:4.1 | location:Seattle, WA | posted:2026-06-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414684566 | PTC | Junior Software Engineer | score:3.8 | location:San Mateo County, CA | posted:2026-06-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414923527 | True Anomaly | Software Engineer (I-II), Prototype | score:3 | location:Denver, CO | posted:2026-06-05T00:00:00.000Z | source:linkedin-guest
