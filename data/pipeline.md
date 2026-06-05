@@ -2300,3 +2300,12 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4424586655 | Motive | Software Engineer I, Core Product | score:4.1 | location:Seattle, WA | posted:2026-06-05T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4414684566 | PTC | Junior Software Engineer | score:3.8 | location:San Mateo County, CA | posted:2026-06-05T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4414923527 | True Anomaly | Software Engineer (I-II), Prototype | score:3 | location:Denver, CO | posted:2026-06-05T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/notion/83c8907b-e05e-401a-a5de-9ebe0b1a800f | Notion | Strategy & Operations, Early Career | score:4.9 | location:San Francisco, California | posted:2026-06-05T18:24:37.723+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/sierra/78c5dce4-3670-4c9b-a666-98f435c56324 | Sierra | Software Engineer, Agent Data Platform | score:3.7 | location:San Francisco, CA | posted:2026-06-05T18:26:10.009+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/sierra/802d17c5-fe47-4b44-90e5-65e5e731ff88 | Sierra | Software Engineer, Infrastructure | score:3.7 | location:San Francisco, CA | posted:2026-06-05T18:27:43.314+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/sierra/5ae78769-a3a1-491c-8b4b-95472f1fb36c | Sierra | Software Engineer, Product | score:3.3 | location:San Francisco, CA | posted:2026-06-05T18:28:21.257+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/sierra/9b70b937-9634-4bcd-a10e-2671145f3a07 | Sierra | Software Engineer, Agent Builder | score:3.3 | location:San Francisco, CA | posted:2026-06-05T18:28:46.684+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/sierra/8cca0a0d-7359-410b-81ed-331a0bb4667f | Sierra | Software Engineer, Insights | score:3.3 | location:San Francisco, CA | posted:2026-06-05T18:29:12.015+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/sierra/032c8ab4-1911-4477-bc39-9cfcd701d5a9 | Sierra | Software Engineer, Voice | score:3.3 | location:San Francisco, CA | posted:2026-06-05T18:29:27.087+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4414485818 | Cadence | Software Engineer (Numerical Analysis, C++, Optimization, Mathematics) - New College Grad | score:3 | location:Greater Boston | posted:2026-06-05T00:00:00.000Z | source:linkedin-guest
