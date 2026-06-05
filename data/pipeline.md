@@ -2309,3 +2309,12 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://jobs.ashbyhq.com/sierra/8cca0a0d-7359-410b-81ed-331a0bb4667f | Sierra | Software Engineer, Insights | score:3.3 | location:San Francisco, CA | posted:2026-06-05T18:29:12.015+00:00 | source:ashby-api
 - [ ] https://jobs.ashbyhq.com/sierra/032c8ab4-1911-4477-bc39-9cfcd701d5a9 | Sierra | Software Engineer, Voice | score:3.3 | location:San Francisco, CA | posted:2026-06-05T18:29:27.087+00:00 | source:ashby-api
 - [ ] https://www.linkedin.com/jobs/view/4414485818 | Cadence | Software Engineer (Numerical Analysis, C++, Optimization, Mathematics) - New College Grad | score:3 | location:Greater Boston | posted:2026-06-05T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4414789358 | Lightspark | Software Engineer | score:3 | location:Culver City, CA | posted:2026-06-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4424140540 | Bot Auto | Software Engineer, Operation Platforms | score:3.7 | location:San Francisco Bay Area | posted:2026-06-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4279794736 | TikTok | Software Engineer Graduate (Experimentation and Evaluation) - 2026 Start (BS/MS) | score:3 | location:San Jose, CA | posted:2026-06-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4411531916 | Q2 | Software Engineer | score:3 | location:Austin, TX | posted:2026-06-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4411538836 | WD | Software Engineer (Apps) | score:3 | location:San Jose, CA | posted:2026-06-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4424138125 | PayPal | Software Engineer | score:3 | location:San Jose, CA | posted:2026-06-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4421194587 | FetchJobs.co | Software engineer java | score:3.4 | location:United States | posted:2026-06-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4384365747 | SpaceX | Software Engineer, PCBA (Starlink) | score:3 | location:Redmond, WA | posted:2026-06-05T00:00:00.000Z | source:linkedin-guest
