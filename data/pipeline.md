@@ -2277,3 +2277,19 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4423581802 | KARL STORZ North America | Software Engineer I | score:3.8 | location:Goleta, CA | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4424476044 | Mujin US | Robotics Software Engineer I - Integration | score:3.8 | location:Suwanee, GA | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4424458811 | MetLife | Junior Software Engineer | score:3.8 | location:Bridgewater, NJ | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/pagerduty/jobs/6014660004 | PagerDuty | Software Engineer II - Authorization Team | score:3.8 | location:Atlanta | posted:2026-06-04T21:11:10-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/openai/fabfc6c5-57b5-49ba-aae9-e7dd5d7030ca | OpenAI | Robotics Software Engineer | score:3.3 | location:San Francisco | posted:2026-06-05T05:02:58.415+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4424483775 | Jobs via Dice | Software Engineer, Early Career | score:3.8 | location:Boston, MA | posted:2026-06-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4424474986 | Jobs via Dice | Software Engineer - Government Services and Solutions, Early Career | score:3.8 | location:Carlsbad, CA | posted:2026-06-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4424101601 | METECS | Junior Simulation Software Engineer | score:3.8 | location:Houston, TX | posted:2026-06-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4424471986 | Jobs via Dice | Entry-Level Software Quality &amp; Testing Engineer | score:3 | location:Warren, MI | posted:2026-06-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4424417271 | Employia | Software Engineer (New Grads) | score:4.1 | location:New York, United States | posted:2026-06-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4424122637 | NexHealth | Software Engineer | score:3.3 | location:Seattle, WA | posted:2026-06-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414661465 | Lila Sciences | Software Engineer I, Instrument Software | score:3.8 | location:Cambridge, MA | posted:2026-06-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4424567594 | Tech Consulting | Junior Software Engineer | score:3.8 | location:Georgia, United States | posted:2026-06-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4411560766 | W.E. Bowers | Software Engineer | score:3 | location:Beltsville, MD | posted:2026-06-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414484388 | DZYNE Technologies | Software Engineer I | score:3.8 | location:Fairfax, VA | posted:2026-06-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4405865286 | Handshake | Software Engineer I, RLE | score:4.1 | location:San Francisco, CA | posted:2026-06-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4424117094 | Leidos | Jr. Software Engineer | score:3 | location:Oklahoma City, OK | posted:2026-06-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4424446986 | Insight Global | Junior Software Engineer | score:3.8 | location:Irving, TX | posted:2026-06-04T00:00:00.000Z | source:linkedin-guest
