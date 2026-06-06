@@ -2340,3 +2340,9 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4424963243 | CGI | Junior Software Developer | score:3.8 | location:Lafayette, LA | posted:2026-06-06T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4415548713 | Iron EagleX, Inc. | Full Stack Engineer-Junior | score:4.2 | location:Halawa Heights, HI | posted:2026-06-05T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4415562407 | General Dynamics Information Technology | Software Engineer 1 | score:3 | location:Annapolis Junction, MD | posted:2026-06-06T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4424622860 | Jobs via Dice | Software Engineer, Early Career | score:3.8 | location:Boston, MA | posted:2026-06-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4424982728 | Collins Aerospace | Software Engineer 1 - Engine Indication &amp; Crew Alerting Systems (Onsite) | score:3 | location:Cedar Rapids, IA | posted:2026-06-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4304445726 | DataAnnotation | Software Developer | score:3 | location:Oregon, United States | posted:2026-06-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4424906996 | HX5, LLC | Software Engineer I | score:3.8 | location:Brook Park, OH | posted:2026-06-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4424671494 | targetjobs UK | Graduate Software Engineer | score:3 | location:Carlisle, PA | posted:2026-06-06T00:00:00.000Z | source:linkedin-guest
