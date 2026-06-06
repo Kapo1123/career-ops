@@ -2352,3 +2352,6 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4424661775 | Crossing Hurdles | Software Engineer – Python &amp; TypeScript | Remote | score:3.4 | location:United States | posted:2026-06-06T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4425140420 | Allied Benefit Systems | Software Engineer I | score:3.8 | location:Chicago, IL | posted:2026-06-06T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4366210690 | SpaceX | Software Engineer, High Performance Computing | score:3 | location:Hawthorne, CA | posted:2026-06-06T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4304461013 | DataAnnotation | Software Developer | score:3 | location:North Dakota, United States | posted:2026-06-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4424950164 | Honeywell Aerospace Technologies | Software Engineer I - Next Generation Integrated Avionics | score:3.8 | location:Phoenix, AZ | posted:2026-06-06T00:00:00.000Z | source:linkedin-guest
