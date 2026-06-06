@@ -2318,3 +2318,25 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4424138125 | PayPal | Software Engineer | score:3 | location:San Jose, CA | posted:2026-06-05T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4421194587 | FetchJobs.co | Software engineer java | score:3.4 | location:United States | posted:2026-06-05T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4384365747 | SpaceX | Software Engineer, PCBA (Starlink) | score:3 | location:Redmond, WA | posted:2026-06-05T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/openai/f6278b60-dd42-4aa8-a3cd-c105f75ae8ae | OpenAI | Software Engineer, Cloud Agents | score:3.3 | location:San Francisco | posted:2026-06-06T02:40:17.581+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4424750820 | Helic &amp; Co. | Junior Software Engineer | score:3.8 | location:United States | posted:2026-06-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4366526431 | Valon | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-06-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4424948628 | H-E-B | Software Engineer I (Backend/Java) - Austin or San Antonio, TX | score:4.2 | location:Austin, TX | posted:2026-06-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4424930737 | Dario | Associate Software Developer | score:4.1 | location:New York, NY | posted:2026-06-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4421548375 | ADVANCE HYDRAU-COMPONENTS PRIVATE LIMITED | Junior Software Engineer | score:3.8 | location:California, United States | posted:2026-06-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4424938615 | ZEDEDA | Software Engineer - Core team - San Jose, CA | score:3 | location:San Jose, CA | posted:2026-06-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4412051305 | Redfin | Software Developer I - ACE | score:3.3 | location:Seattle, WA | posted:2026-06-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4424750805 | S&amp;C Electric Company | Software Engineer I | score:3.8 | location:Chicago, IL | posted:2026-06-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4421191048 | BeaconFire Inc. | Software Engineer Entry Level | score:3.8 | location:California, United States | posted:2026-06-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4304450637 | DataAnnotation | Software Developer | score:3.3 | location:New York, United States | posted:2026-06-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4419638473 | BeaconFire Inc. | Entry Level- Java Developer | score:4.2 | location:New Jersey, United States | posted:2026-06-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4420762450 | BeaconFire Inc. | Jr Software Engineer | score:3 | location:California, United States | posted:2026-06-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4421553204 | fieldd | Software Engineer | score:3 | location:Austin, TX | posted:2026-06-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4393489834 | Quantcast | Software Engineer (Big Data) | score:3.7 | location:San Francisco, CA | posted:2026-06-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4384549082 | SpaceX | Software Engineer, Starlink Network | score:3 | location:Sunnyvale, CA | posted:2026-06-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4384543380 | SpaceX | Software Engineer, C++ (Starlink) | score:3 | location:Sunnyvale, CA | posted:2026-06-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4383293364 | Together AI | Backend Software Engineer — Data Platform &amp; AI Data Products | score:3.7 | location:San Francisco, CA | posted:2026-06-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4424963243 | CGI | Junior Software Developer | score:3.8 | location:Lafayette, LA | posted:2026-06-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4415548713 | Iron EagleX, Inc. | Full Stack Engineer-Junior | score:4.2 | location:Halawa Heights, HI | posted:2026-06-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4415562407 | General Dynamics Information Technology | Software Engineer 1 | score:3 | location:Annapolis Junction, MD | posted:2026-06-06T00:00:00.000Z | source:linkedin-guest
