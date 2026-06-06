@@ -2346,3 +2346,9 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4304445726 | DataAnnotation | Software Developer | score:3 | location:Oregon, United States | posted:2026-06-06T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4424906996 | HX5, LLC | Software Engineer I | score:3.8 | location:Brook Park, OH | posted:2026-06-05T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4424671494 | targetjobs UK | Graduate Software Engineer | score:3 | location:Carlisle, PA | posted:2026-06-06T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4424684376 | Micron Technology | New College Grad - Software Engineer, Full Stack | score:3.4 | location:Boise, ID | posted:2026-06-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4424672560 | Rotaract Club of GIT | Software Engineer (Entry-Level / Associate) | score:4.1 | location:New York, United States | posted:2026-06-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4424661775 | Crossing Hurdles | Software Engineer – Python &amp; TypeScript | Remote | score:3.4 | location:United States | posted:2026-06-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425140420 | Allied Benefit Systems | Software Engineer I | score:3.8 | location:Chicago, IL | posted:2026-06-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4366210690 | SpaceX | Software Engineer, High Performance Computing | score:3 | location:Hawthorne, CA | posted:2026-06-06T00:00:00.000Z | source:linkedin-guest
