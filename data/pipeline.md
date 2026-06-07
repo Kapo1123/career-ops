@@ -2374,3 +2374,13 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4425193174 | Sundayy | Software Engineer (Js, SQL) | score:3 | location:United States | posted:2026-06-07T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4425036190 | Atlas Sahara | Junior Software Engineer | score:3.8 | location:California, United States | posted:2026-06-07T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4304451654 | DataAnnotation | Software Developer | score:3.3 | location:Utah, United States | posted:2026-06-07T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4384605090 | Roblox | Software Engineer, User Co-Experience | score:3 | location:San Mateo, CA | posted:2026-06-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4317326496 | SS&amp;C Eze | Software Engineer | score:3 | location:Boston, MA | posted:2026-06-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4420933755 | eNGINE | Software Engineer | score:3 | location:Pittsburgh, PA | posted:2026-06-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4421176445 | BeaconFire Inc. | Java Software Engineer | score:3.4 | location:Georgia, United States | posted:2026-06-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4193022993 | Distyl | Software Engineer - Back End | score:3.3 | location:San Francisco, CA | posted:2026-06-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4367332055 | SpaceX | Software Engineer, Power Systems Controls (Starlink) | score:3 | location:Redmond, WA | posted:2026-06-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4385598695 | SpaceX | Software Engineer, Beam Planning (Starlink) | score:3 | location:Redmond, WA | posted:2026-06-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4413407011 | Raytheon | 2026 Raytheon Full Time- Software Engineer I -(Onsite) | score:3.8 | location:Fort Wayne, IN | posted:2026-06-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4304444837 | DataAnnotation | Software Developer | score:3 | location:New Jersey, United States | posted:2026-06-07T00:00:00.000Z | source:linkedin-guest
