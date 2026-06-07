@@ -2355,3 +2355,16 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 
 - [ ] https://www.linkedin.com/jobs/view/4304461013 | DataAnnotation | Software Developer | score:3 | location:North Dakota, United States | posted:2026-06-06T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4424950164 | Honeywell Aerospace Technologies | Software Engineer I - Next Generation Integrated Avionics | score:3.8 | location:Phoenix, AZ | posted:2026-06-06T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4421576651 | Nike Consultant | Software Engineer - Full Stack Developer | score:3.4 | location:United States | posted:2026-06-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425182784 | Rotaract Club of NUST | Software Engineer (Entry-Level / Associate) | score:4.1 | location:New York, United States | posted:2026-06-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425024137 | Solvix.io | Entry-Level Quality Assurance Engineer | score:3 | location:California, United States | posted:2026-06-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4424690925 | SynergisticIT | junior Bi Analyst/data analyst/Data Engineer | score:4.2 | location:Los Angeles, CA | posted:2026-06-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425184136 | Optum | Associate Software Engineer | score:3.8 | location:Hartford, CT | posted:2026-06-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4304433968 | DataAnnotation | Software Developer | score:3 | location:Missouri, United States | posted:2026-06-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4405716509 | Twitch | Software Engineer I, Ad Supply Experiences | score:4.1 | location:San Francisco, CA | posted:2026-06-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4421555520 | Boeing | Software Engineer–Developer (Associate and Mid-Level) | score:3.8 | location:Richardson, TX | posted:2026-06-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425193327 | Los Alamos National Laboratory | Software Engineer (R&amp;D Engineer 1/2) | score:3 | location:Los Alamos, NM | posted:2026-06-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4421576926 | CareerXperts Consulting | Associate Software Engineer | score:3.8 | location:United States | posted:2026-06-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4397356640 | Guidehouse | Junior Software Engineer | score:3.8 | location:Orleans, IN | posted:2026-06-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425180193 | TTN Talent | Graduate Software Engineer | score:3.3 | location:New York, United States | posted:2026-06-07T00:00:00.000Z | source:linkedin-guest
