@@ -2368,3 +2368,9 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4421576926 | CareerXperts Consulting | Associate Software Engineer | score:3.8 | location:United States | posted:2026-06-07T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4397356640 | Guidehouse | Junior Software Engineer | score:3.8 | location:Orleans, IN | posted:2026-06-07T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4425180193 | TTN Talent | Graduate Software Engineer | score:3.3 | location:New York, United States | posted:2026-06-07T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4425045023 | Rotaract Club Latina - Distretto 2080 | Software Engineer (Entry-Level / Associate) | score:4.1 | location:New York, United States | posted:2026-06-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4424692897 | SynergisticIT | junior software developer/data scientist | score:4.2 | location:San Jose, CA | posted:2026-06-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425193174 | Sundayy | Software Engineer (Js, SQL) | score:3 | location:United States | posted:2026-06-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425036190 | Atlas Sahara | Junior Software Engineer | score:3.8 | location:California, United States | posted:2026-06-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4304451654 | DataAnnotation | Software Developer | score:3.3 | location:Utah, United States | posted:2026-06-07T00:00:00.000Z | source:linkedin-guest
