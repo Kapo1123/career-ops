@@ -2387,3 +2387,19 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 
 - [ ] https://www.linkedin.com/jobs/view/4304443904 | DataAnnotation | Software Developer | score:3 | location:Michigan, United States | posted:2026-06-07T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4424462371 | Jobs via Dice | AI Security Software Engineer (Starshield) | score:3 | location:Palo Alto, CA | posted:2026-06-07T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.okta.com/company/careers/opportunity/7984479?gh_jid=7984479 | Okta | Full Stack Engineer | score:3.4 | location:Bengaluru, India | posted:2026-06-07T22:33:14-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4703527005 | Scale AI | Software Engineer | score:3 | location:London, UK | posted:2026-06-08T07:22:23-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/openai/3c67f712-697d-48d8-b05c-01be896e61da | OpenAI | Software Engineer, Scaled Abuse | score:3.3 | location:San Francisco | posted:2026-06-08T16:15:58.343+00:00 | source:ashby-api
+- [ ] https://jobs.lever.co/spotify/aac09f2d-e0cc-43e1-8435-01e60e426520 | Spotify | Backend Engineer - Personalization | score:3.7 | location:New York, NY | posted:2026-06-08T11:49:25.762Z | source:lever-api
+- [ ] https://www.linkedin.com/jobs/view/4425264171 | Trust In SODA | Junior Software Engineer | score:4.1 | location:San Francisco Bay Area | posted:2026-06-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4304447681 | DataAnnotation | Software Developer | score:3 | location:Texas, United States | posted:2026-06-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4366508876 | Valon | Software Engineer | score:3.3 | location:New York, NY | posted:2026-06-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4303534341 | ByteDance | Software Engineer Graduate (Cloud Native Infrastructure) - 2026 Start (BS/MS) | score:3.4 | location:San Jose, CA | posted:2026-06-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425258749 | FlexTrade | Associate Software Developer | score:3.8 | location:Great Neck, NY | posted:2026-06-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4421937397 | Stealth Startup | Backend Developer [32922] | score:3.7 | location:New York, United States | posted:2026-06-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4421925453 | Stealth Startup | Backend Developer [33168] | score:3.7 | location:New York, United States | posted:2026-06-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4397382812 | Eightfold AI | Software Engineer - AI Agentic Product Dev Team (US) | score:3 | location:Santa Clara, CA | posted:2026-06-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425630615 | Advance Metals Ltd | Junior Software Engineer | score:5 | location:California, United States | posted:2026-06-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425244833 | targetjobs UK | Graduate Software Engineer | score:3 | location:Carlisle, PA | posted:2026-06-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425230463 | Tech Consulting | Junior Software Engineer | score:3.8 | location:Washington DC-Baltimore Area | posted:2026-06-08T00:00:00.000Z | source:linkedin-guest
