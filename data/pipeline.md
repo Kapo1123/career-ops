@@ -2419,3 +2419,16 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4422203098 | BeaconFire Inc. | Jr Software Engineer | score:3 | location:California, United States | posted:2026-06-08T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4304442781 | DataAnnotation | Software Developer | score:3 | location:Rhode Island, United States | posted:2026-06-08T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4425278777 | Brooksource | Junior Software Engineer | score:3.8 | location:Columbus, Ohio Metropolitan Area | posted:2026-06-08T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://stripe.com/jobs/search?gh_jid=7991636 | Stripe | Software Engineer | score:4.1 | location:Seattle  | posted:2026-06-08T18:59:27-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4704106005 | Glean | Software Engineer, Compute Infrastructure | score:3.4 | location:Mountain View, CA | posted:2026-06-08T19:13:56-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4422208236 | IBM | Software Developer (Apprentice Conversion) | score:3 | location:Austin, TX | posted:2026-06-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425683357 | SpaceX | Software Engineer, Network Monitoring (Starlink) | score:3 | location:Hawthorne, CA | posted:2026-06-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425931378 | Visa | Software Engineer - Transformation | score:3 | location:Austin, TX | posted:2026-06-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425930029 | Webologix Ltd/ INC | Software Engineer | score:3 | location:United States | posted:2026-06-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4421998460 | Performant Capital | Junior Software Engineer | score:3.8 | location:Chicago, IL | posted:2026-06-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422208616 | BeaconFire Inc. | Junior Software Engineer | score:3.8 | location:California, United States | posted:2026-06-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425913865 | Cisco | Software Engineer I (Full Time) – Devices Technology Group – United States | score:3.8 | location:Durham, NC | posted:2026-06-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4385840559 | SpaceX | Software Engineer, High Performance Computing (Starlink) | score:3 | location:Redmond, WA | posted:2026-06-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425530403 | Google | Software Engineer | score:4.5 | location:Mountain View, CA | posted:2026-06-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425507217 | Texas Instruments | Lehi, Utah - New College Graduate - Software Engineer | score:3 | location:Lehi, UT | posted:2026-06-08T00:00:00.000Z | source:linkedin-guest
