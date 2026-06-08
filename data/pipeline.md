@@ -2403,3 +2403,12 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4425630615 | Advance Metals Ltd | Junior Software Engineer | score:5 | location:California, United States | posted:2026-06-08T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4425244833 | targetjobs UK | Graduate Software Engineer | score:3 | location:Carlisle, PA | posted:2026-06-08T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4425230463 | Tech Consulting | Junior Software Engineer | score:3.8 | location:Washington DC-Baltimore Area | posted:2026-06-08T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4425264923 | Enigma | Graduate Software Engineer | Python | AWS | Postgres | Computer Science | Hybrid, New York | score:3.7 | location:New York, NY | posted:2026-06-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425285365 | Jack | Full Stack Engineer | score:3.7 | location:San Francisco Bay Area | posted:2026-06-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425640138 | Innovative Defense Technologies (IDT) | Software Engineer | score:3 | location:Arlington, VA | posted:2026-06-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425281259 | Optomi | Junior Full Stack Developer | score:4.2 | location:Dallas, TX | posted:2026-06-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4421964904 | Initi8 Recruitment | Full Stack Engineer - 0- 1 - NYC | score:3.7 | location:New York City Metropolitan Area | posted:2026-06-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425260906 | FUNDVIEW | Software Developer (Entry Level) | score:3.8 | location:Lubbock, TX | posted:2026-06-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4304438853 | DataAnnotation | Software Developer | score:3 | location:Vermont, United States | posted:2026-06-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4421967808 | BeaconFire Inc. | Entry Level- Java Developer | score:4.2 | location:New Jersey, United States | posted:2026-06-08T00:00:00.000Z | source:linkedin-guest
