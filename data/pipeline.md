@@ -2412,3 +2412,10 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4425260906 | FUNDVIEW | Software Developer (Entry Level) | score:3.8 | location:Lubbock, TX | posted:2026-06-08T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4304438853 | DataAnnotation | Software Developer | score:3 | location:Vermont, United States | posted:2026-06-08T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4421967808 | BeaconFire Inc. | Entry Level- Java Developer | score:4.2 | location:New Jersey, United States | posted:2026-06-08T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4425638962 | Junior Full Stack Developer | Software Engineer | score:3 | location:Redmond, WA | posted:2026-06-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425659795 | TalentAlly | Software Engineer | score:3 | location:Nashville Metropolitan Area | posted:2026-06-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425225689 | Revature | Entry Level Software Developer | score:3.8 | location:Richardson, TX | posted:2026-06-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422203098 | BeaconFire Inc. | Jr Software Engineer | score:3 | location:California, United States | posted:2026-06-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4304442781 | DataAnnotation | Software Developer | score:3 | location:Rhode Island, United States | posted:2026-06-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425278777 | Brooksource | Junior Software Engineer | score:3.8 | location:Columbus, Ohio Metropolitan Area | posted:2026-06-08T00:00:00.000Z | source:linkedin-guest
