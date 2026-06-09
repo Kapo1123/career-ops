@@ -2469,3 +2469,14 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4422284802 | Tech Consulting | Junior Software Engineer | score:3.8 | location:Washington, United States | posted:2026-06-09T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4425843232 | Qualcomm | #Product Software Engineer | score:3 | location:San Diego, CA | posted:2026-06-09T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4422709234 | Revel | Full Stack Software Engineer (Entry-Junior) | score:4.2 | location:Emeryville, CA | posted:2026-06-09T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://careers.roblox.com/jobs/7991654?gh_jid=7991654 | Roblox |  Software Engineer, Storage | score:3 | location:San Mateo, CA, United States | posted:2026-06-09T17:18:49-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/notion/def3f337-5593-491c-b34d-e0b53f2a5cac | Notion | Software Engineer, Security | score:4.1 | location:San Francisco, California | posted:2026-06-09T21:07:52.334+00:00 | source:ashby-api
+- [ ] https://job-boards.greenhouse.io/gusto/jobs/7947424 | Gusto | Software Engineer, People Technology | score:3.3 | location:San Francisco, CA | posted:2026-06-09T18:51:05-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4422291960 | WeRide | New Grads 2026 - General Software Engineer | score:3.8 | location:Emeryville, CA | posted:2026-06-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4426022085 | Roblox | Software Engineer, Storage | score:3 | location:San Mateo, CA | posted:2026-06-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425844938 | Enigma | Graduate Software Engineer | Python | AWS | Postgres | Computer Science | Hybrid, New York | score:3.7 | location:New York, NY | posted:2026-06-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4426397883 | SkillStorm | Entry Level Software Developer | score:3.8 | location:Atlanta, GA | posted:2026-06-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425886243 | KNOWFINITY | Software Engineer | score:3 | location:California, United States | posted:2026-06-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425882635 | Mitutoyo America Corporation | IT Development - Software Engineer I - Aurora, IL | score:3.8 | location:Aurora, IL | posted:2026-06-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425582819 | Zekiah Technologies | Software Developer - Junior Level | score:3.8 | location:Dahlgren, VA | posted:2026-06-09T00:00:00.000Z | source:linkedin-guest
