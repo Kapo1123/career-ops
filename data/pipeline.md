@@ -2445,3 +2445,17 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4425585153 | Reflexive Concepts | Software Engineer I | score:3.8 | location:Annapolis Junction, MD | posted:2026-06-09T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4425647167 | Parsons Corporation | Software Engineer | score:3 | location:Aberdeen, MD | posted:2026-06-08T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4425992525 | Sundayy | Full Stack Developer, Jr. | score:3.4 | location:United States | posted:2026-06-09T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.coinbase.com/careers/positions/7991763?gh_jid=7991763 | Coinbase | Software Engineer, Backend (Consumer - Risk) | score:4.5 | location:Remote - Canada | posted:2026-06-09T13:14:07-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4426384387 | Visa | Software Engineer, New College Grad - 2026, Austin, TX | score:3 | location:Austin, TX | posted:2026-06-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425522024 | Thomson Reuters | AI Engineer, Materia (New Grad - 2026) | score:3.8 | location:Eagan, MN | posted:2026-06-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4426355364 | Helic &amp; Co. | Junior Software Engineer | score:3.8 | location:United States | posted:2026-06-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422701339 | FANTOM CORPORATION | Jr Software Engineer | score:3 | location:Emeryville, CA | posted:2026-06-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425841025 | Haystack | Software Engineer | score:3 | location:Missouri, United States | posted:2026-06-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4416295061 | Relativity | Software Engineer | score:3 | location:Illinois, United States | posted:2026-06-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425993122 | Optum | Associate Software Engineer | score:3.8 | location:Cypress, CA | posted:2026-06-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425869422 | Rotaract Club of Polytechnic University of the Philippines | Software Engineer (Entry-Level / Associate) | score:4.1 | location:New York, United States | posted:2026-06-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4426378579 | InterScripts, Inc. | Full Stack Developer – Immediate Joiners | score:3.4 | location:Daly City, CA | posted:2026-06-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4426380305 | SEACORP | Software Engineer I | score:3.8 | location:Newport, RI | posted:2026-06-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4421966684 | Mentor Talent Acquisition | Junior Full Stack Engineer | score:4.5 | location:New York, United States | posted:2026-06-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422293502 | Tech Consulting | Junior Software Engineer | score:3.8 | location:Massachusetts, United States | posted:2026-06-09T00:00:00.000Z | source:linkedin-guest
