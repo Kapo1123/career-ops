@@ -2459,3 +2459,13 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4426380305 | SEACORP | Software Engineer I | score:3.8 | location:Newport, RI | posted:2026-06-09T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4421966684 | Mentor Talent Acquisition | Junior Full Stack Engineer | score:4.5 | location:New York, United States | posted:2026-06-09T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4422293502 | Tech Consulting | Junior Software Engineer | score:3.8 | location:Massachusetts, United States | posted:2026-06-09T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/openai/e7a4ee23-138a-4004-916e-72a452e7d115 | OpenAI | Backend Software Engineer, ChatGPT ImageGen | score:3.7 | location:San Francisco | posted:2026-06-09T18:38:29.400+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/openai/6b47238e-025a-4350-b270-2f3564002fcc | OpenAI | Full Stack Software Engineer, ChatGPT ImageGen | score:3.7 | location:San Francisco | posted:2026-06-09T18:38:49.181+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4422766049 | Foxglove | Software Engineer, New Grad | score:4.1 | location:San Francisco Bay Area | posted:2026-06-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425831932 | AbbVie | Associate Full-Stack Software Engineer | score:3.8 | location:North Chicago, IL | posted:2026-06-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4399933005 | HackerRank | Backend Engineer II | score:4.2 | location:Santa Clara, CA | posted:2026-06-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425681388 | ASRC Federal | Associate Software Engineer | score:3.8 | location:Moorestown, NJ | posted:2026-06-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422284802 | Tech Consulting | Junior Software Engineer | score:3.8 | location:Washington, United States | posted:2026-06-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425843232 | Qualcomm | #Product Software Engineer | score:3 | location:San Diego, CA | posted:2026-06-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422709234 | Revel | Full Stack Software Engineer (Entry-Junior) | score:4.2 | location:Emeryville, CA | posted:2026-06-09T00:00:00.000Z | source:linkedin-guest
