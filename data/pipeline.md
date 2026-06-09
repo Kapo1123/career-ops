@@ -2432,3 +2432,16 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4385840559 | SpaceX | Software Engineer, High Performance Computing (Starlink) | score:3 | location:Redmond, WA | posted:2026-06-08T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4425530403 | Google | Software Engineer | score:4.5 | location:Mountain View, CA | posted:2026-06-08T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4425507217 | Texas Instruments | Lehi, Utah - New College Graduate - Software Engineer | score:3 | location:Lehi, UT | posted:2026-06-08T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://app.careerpuck.com/job-board/lyft/job/8582656002?gh_jid=8582656002 | Lyft | Software Engineer, Backend | score:4.5 | location:New York, NY | posted:2026-06-08T23:28:08-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/pagerduty/jobs/6009192004 | PagerDuty | Software Engineer II - Lisbon | score:3.8 | location:Lisbon | posted:2026-06-09T11:34:01-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5251671008 | Anthropic | Software Engineer, Safeguards Evals  | score:3.3 | location:San Francisco, CA | New York City, NY | posted:2026-06-09T11:02:53-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/openai/1c48f39f-60ea-4636-87ed-8b4b4f5243e5 | OpenAI | Systems Software Engineer, Security, First Party Hardware | score:3.3 | location:San Francisco | posted:2026-06-08T23:42:40.083+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4425504193 | Thomson Reuters | AI Engineer, Materia (New Grad - 2026) | score:4.1 | location:New York, NY | posted:2026-06-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425533792 | Micron Technology | New College Grad - Software Engineer, Full Stack | score:3.4 | location:Boise, ID | posted:2026-06-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422267117 | Jobs via Dice | Entry Level Software Engineer | score:3.8 | location:Waltham, MA | posted:2026-06-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425826610 | Emonics LLC | Software Engineer | score:3.3 | location:Seattle, WA | posted:2026-06-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422260630 | Snap Finance | Software Engineer I | score:3.8 | location:Arizona, United States | posted:2026-06-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425585153 | Reflexive Concepts | Software Engineer I | score:3.8 | location:Annapolis Junction, MD | posted:2026-06-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425647167 | Parsons Corporation | Software Engineer | score:3 | location:Aberdeen, MD | posted:2026-06-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425992525 | Sundayy | Full Stack Developer, Jr. | score:3.4 | location:United States | posted:2026-06-09T00:00:00.000Z | source:linkedin-guest
