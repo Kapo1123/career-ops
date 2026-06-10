@@ -2499,3 +2499,20 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4426011265 | Jobright.ai | Software Engineer | score:3 | location:United States | posted:2026-06-09T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4415917639 | Autodesk | Software Engineer | score:3 | location:Washington, DC | posted:2026-06-10T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4422747476 | Kansas City Life Insurance Company | Software Engineer II | score:3.8 | location:Kansas City, MO | posted:2026-06-09T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4426136102 | Jack | Full Stack Engineer | score:3.7 | location:San Francisco Bay Area | posted:2026-06-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4426042818 | Red Hat | Software Engineer | score:3 | location:Raleigh, NC | posted:2026-06-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4426707097 | SpaceX | Software Engineer, Test Infrastructure (Application Software) | score:3.4 | location:Hawthorne, CA | posted:2026-06-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4423119170 | Boeing | Software Engineer (Associate or Experienced) | score:3.8 | location:Tukwila, WA | posted:2026-06-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422745712 | Boeing | Associate and Experienced Software Engineers - Secure Network &amp; Protocols | score:3.8 | location:Oklahoma City, OK | posted:2026-06-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4427025307 | Helic &amp; Co. | Junior Software Engineer | score:3.8 | location:United States | posted:2026-06-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4426550910 | Pinterest | Software Engineer I, Backend | score:4.5 | location:San Francisco, CA | posted:2026-06-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4426719195 | JPMorganChase | Software Engineer [Multiple Positions Available] | score:3 | location:Plano, TX | posted:2026-06-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422776040 | Zebra Technologies | Software Engineer I | score:3.8 | location:Lincolnshire, IL | posted:2026-06-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4426767408 | Raytheon | Software Engineer I | score:3.8 | location:El Segundo, CA | posted:2026-06-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4427043477 | Themesoft Inc. | Software Engineer | score:3 | location:Denver metropolitan area, CO | posted:2026-06-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4408099080 | SpaceX | Software Engineer (Starlink) | score:3 | location:Redmond, WA | posted:2026-06-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4427019188 | MidAmerican Energy Company | Software Engineer 2 | score:3 | location:Des Moines, IA | posted:2026-06-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422209966 | BeaconFire Inc. | Jr Software Engineer | score:3 | location:California, United States | posted:2026-06-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4426099679 | All Metals Processing of Orange County | #1731 | Junior Software Developer | score:5 | location:Santa Ana, CA | posted:2026-06-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4423127494 | Tech Consulting | Junior Software Engineer | score:3.8 | location:Oregon, United States | posted:2026-06-10T00:00:00.000Z | source:linkedin-guest
