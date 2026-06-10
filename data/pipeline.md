@@ -2480,3 +2480,22 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4425886243 | KNOWFINITY | Software Engineer | score:3 | location:California, United States | posted:2026-06-09T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4425882635 | Mitutoyo America Corporation | IT Development - Software Engineer I - Aurora, IL | score:3.8 | location:Aurora, IL | posted:2026-06-09T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4425582819 | Zekiah Technologies | Software Developer - Junior Level | score:3.8 | location:Dahlgren, VA | posted:2026-06-09T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://app.careerpuck.com/job-board/lyft/job/8584593002?gh_jid=8584593002 | Lyft | Software Engineer, Fulfillment | score:3.8 | location:Toronto, Canada | posted:2026-06-10T10:06:39-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4426095085 | Actalent | Entry Level Software Engineer | score:3.8 | location:Mount Laurel, NJ | posted:2026-06-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4426549021 | AV | Entry-Level Software Engineer | score:3 | location:Dayton, OH | posted:2026-06-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4427042029 | NetApp | NetApp Emerging Talent - Entry Level Software Engineer (Systems) | score:3.8 | location:San Jose, CA | posted:2026-06-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4427020971 | NetApp | NetApp Emerging Talent - Entry Level Software Engineer (Cloud Storage) | score:3.8 | location:San Jose, CA | posted:2026-06-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425880356 | KNOWFINITY | Software Engineer | score:3 | location:Washington, DC | posted:2026-06-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4315871658 | FinThrive | Software Engineer | score:3 | location:United States | posted:2026-06-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4415961639 | Lam Research | Software Engineer Sys 2 | score:3 | location:Fremont, CA | posted:2026-06-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4416954992 | Proofpoint | Software Engineer | score:3 | location:Sunnyvale, CA | posted:2026-06-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4427032399 | Walgreens | Software Engineer I | score:3.8 | location:Deerfield, IL | posted:2026-06-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4426702162 | SpaceX | Software Engineer, Low Latency Computing (Starlink) | score:3 | location:Palo Alto, CA | posted:2026-06-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4426702164 | SpaceX | Software Engineer, High Performance Computing (Starlink) | score:3 | location:Palo Alto, CA | posted:2026-06-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4426521318 | Reval | Full Stack Engineer | score:3.7 | location:San Francisco Bay Area | posted:2026-06-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4426353808 | CSLabs | Software Engineer/Scientist | score:3 | location:Alexandria, VA | posted:2026-06-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4426505779 | SkillStorm | Entry Level Software Developer | score:3.8 | location:Charlotte, NC | posted:2026-06-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4426011265 | Jobright.ai | Software Engineer | score:3 | location:United States | posted:2026-06-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4415917639 | Autodesk | Software Engineer | score:3 | location:Washington, DC | posted:2026-06-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422747476 | Kansas City Life Insurance Company | Software Engineer II | score:3.8 | location:Kansas City, MO | posted:2026-06-09T00:00:00.000Z | source:linkedin-guest
