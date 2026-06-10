@@ -2524,3 +2524,10 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4423155156 | Stealth Startup | Backend Developer [33000] | score:3.4 | location:United States | posted:2026-06-10T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4427064705 | Associate and Experienced Software Engineers - Secure Network &amp; Protocols | Software Engineer | score:3.3 | location:New York, NY | posted:2026-06-10T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4423140175 | Tech Consulting | Junior Software Engineer | score:3.8 | location:Ohio, United States | posted:2026-06-10T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/sierra/ae8840cd-f46e-4c96-87b1-53fedf40f94d | Sierra | Software Engineer, Agent (Dutch speaking) | score:3 | location:London | posted:2026-06-10T21:12:57.089+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/openai/4070d52e-0263-4cd5-9107-052b4ecc1209 | OpenAI | Backend Software Engineer, API Multicloud | score:3.7 | location:San Francisco | posted:2026-06-10T19:57:54.896+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4427088503 | Codes Health | Software Engineer (All Levels) | score:3.3 | location:New York, United States | posted:2026-06-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4427075829 | Chewy | Software Engineer I | score:3.8 | location:Boston, MA | posted:2026-06-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4426159494 | FetchJobs.co | Software engineer | score:3 | location:United States | posted:2026-06-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4426087982 | Haystack | Software Engineer | score:3 | location:United States | posted:2026-06-10T00:00:00.000Z | source:linkedin-guest
