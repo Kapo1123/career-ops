@@ -2516,3 +2516,11 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4422209966 | BeaconFire Inc. | Jr Software Engineer | score:3 | location:California, United States | posted:2026-06-10T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4426099679 | All Metals Processing of Orange County | #1731 | Junior Software Developer | score:5 | location:Santa Ana, CA | posted:2026-06-10T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4423127494 | Tech Consulting | Junior Software Engineer | score:3.8 | location:Oregon, United States | posted:2026-06-10T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4426128657 | Vendra (YC S24) | Software Engineer | score:3.3 | location:San Francisco Bay Area | posted:2026-06-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4423145971 | ZappHire | Software Engineer | score:3 | location:United States | posted:2026-06-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4426132658 | Pehchaan The Street School (Trust) | Software Engineer (Entry-Level / Associate) | score:4.1 | location:New York, United States | posted:2026-06-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4427035317 | Walgreens | Software Engineer I (Full Stack) Java | score:4.2 | location:Deerfield, IL | posted:2026-06-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4423155156 | Stealth Startup | Backend Developer [33000] | score:3.4 | location:United States | posted:2026-06-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4427064705 | Associate and Experienced Software Engineers - Secure Network &amp; Protocols | Software Engineer | score:3.3 | location:New York, NY | posted:2026-06-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4423140175 | Tech Consulting | Junior Software Engineer | score:3.8 | location:Ohio, United States | posted:2026-06-10T00:00:00.000Z | source:linkedin-guest
