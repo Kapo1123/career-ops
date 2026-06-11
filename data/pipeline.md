@@ -2567,3 +2567,11 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4412034983 | Sony Interactive Entertainment | Software Engineer I | score:3.8 | location:Los Angeles Metropolitan Area | posted:2026-06-11T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4423658324 | Stealth Startup | Backend Developer [33160] | score:3.7 | location:New York, United States | posted:2026-06-11T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4426167080 | Green Key Resources | Full Stack Engineer | score:3.4 | location:Miami, FL | posted:2026-06-10T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/openai/5ebd5f66-75db-4a96-8d39-babc14f1c582 | OpenAI | Full Stack Software Engineer, Codex | score:3.7 | location:San Francisco | posted:2026-06-11T23:07:02.457+00:00 | source:ashby-api
+- [ ] https://jobs.lever.co/palantir/3b4ae28e-c4f2-4654-83b4-64366bfe72fa | Palantir | Software Engineer - Core Interfaces | score:3.3 | location:New York, NY | posted:2026-06-11T22:04:51.704Z | source:lever-api
+- [ ] https://jobs.lever.co/palantir/c288bb43-3c63-4557-bd96-600ef0d1b7a6 | Palantir | Software Engineer - Defense Applications | score:3.3 | location:New York, NY | posted:2026-06-11T22:13:37.398Z | source:lever-api
+- [ ] https://www.linkedin.com/jobs/view/4424830301 | CrowdStrike | Engineer I - New Grad, Agentic AI (Hybrid) | score:3.8 | location:Sunnyvale, CA | posted:2026-06-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4427583596 | Cox Automotive Inc. | Entry Level Software Engineer - Austin, TX | score:3.8 | location:Austin, TX | posted:2026-06-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4368432794 | SpaceX | Software Engineer (Vehicle Engineering) | score:3 | location:Hawthorne, CA | posted:2026-06-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4426663575 | Pittsburgh Steelers | Jr. Software Developer | score:3 | location:Pittsburgh, PA | posted:2026-06-11T00:00:00.000Z | source:linkedin-guest
