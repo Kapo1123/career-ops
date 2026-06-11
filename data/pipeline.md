@@ -2556,3 +2556,14 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4424800077 | Mavericks United | Junior Software Engineer | score:3.8 | location:United States | posted:2026-06-11T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4426623980 | Goldman Sachs | GIR- New York- Associate, Software Engineering- 866409 | score:4.1 | location:New York, NY | posted:2026-06-11T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4369174265 | Runpod | Software Engineer (Full-Stack) | score:3.3 | location:Seattle, WA | posted:2026-06-11T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4423621718 | Meta | Production Engineer (University Grad) | score:5 | location:Burlingame, CA | posted:2026-06-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4427582028 | Helic &amp; Co. | Junior Software Engineer | score:3.8 | location:United States | posted:2026-06-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4426663036 | KGS Technology Group, Inc | Software Engineer | score:3 | location:Alpharetta, GA | posted:2026-06-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4427109241 | Peckham Industries, Inc. | Junior Software Engineer (onsite/hybrid) | score:3.8 | location:Brewster, NY | posted:2026-06-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4408008531 | BlackRock | Full Stack Java Engineer - Aladdin Engineering, Alternatives, Associate | score:4.2 | location:Atlanta, GA | posted:2026-06-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4426250447 | Tech Consulting | Junior Software Engineer | score:3.8 | location:Alabama, United States | posted:2026-06-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4423642464 | Stealth Startup | Backend Developer [32922] | score:3.7 | location:New York, United States | posted:2026-06-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4412034983 | Sony Interactive Entertainment | Software Engineer I | score:3.8 | location:Los Angeles Metropolitan Area | posted:2026-06-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4423658324 | Stealth Startup | Backend Developer [33160] | score:3.7 | location:New York, United States | posted:2026-06-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4426167080 | Green Key Resources | Full Stack Engineer | score:3.4 | location:Miami, FL | posted:2026-06-10T00:00:00.000Z | source:linkedin-guest
