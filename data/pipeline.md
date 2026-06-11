@@ -2547,3 +2547,12 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4416363094 | SpaceX | Software Engineer (Platform Team) | score:3.4 | location:Redmond, WA | posted:2026-06-11T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4417451811 | Tential Solutions | Jr Software Engineer | score:3 | location:Rockville, CT | posted:2026-06-11T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4427105066 | Crew | Junior Software Engineer | score:3.8 | location:Des Moines, IA | posted:2026-06-10T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/openai/915a325b-55f6-44e2-8314-34ec0d8bb2c9 | OpenAI | Software Engineer, Web Layer | score:3.3 | location:San Francisco | posted:2026-06-11T17:52:46.065+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4423618885 | Meta | Production Engineer (University Grad) | score:5 | location:Menlo Park, CA | posted:2026-06-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4427100358 | General Motors | Software Engineer AV HIL Platform and Services (Early Career)) | score:4.2 | location:Sunnyvale, CA | posted:2026-06-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4426198629 | Harvey Nash | Software Engineer | score:3 | location:Sunnyvale, CA | posted:2026-06-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4426634159 | Whova | Software Engineer (San Diego Only) | score:3 | location:San Diego, CA | posted:2026-06-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4424800077 | Mavericks United | Junior Software Engineer | score:3.8 | location:United States | posted:2026-06-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4426623980 | Goldman Sachs | GIR- New York- Associate, Software Engineering- 866409 | score:4.1 | location:New York, NY | posted:2026-06-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4369174265 | Runpod | Software Engineer (Full-Stack) | score:3.3 | location:Seattle, WA | posted:2026-06-11T00:00:00.000Z | source:linkedin-guest
