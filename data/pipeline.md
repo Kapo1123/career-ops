@@ -2531,3 +2531,19 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4427075829 | Chewy | Software Engineer I | score:3.8 | location:Boston, MA | posted:2026-06-10T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4426159494 | FetchJobs.co | Software engineer | score:3 | location:United States | posted:2026-06-10T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4426087982 | Haystack | Software Engineer | score:3 | location:United States | posted:2026-06-10T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://stripe.com/jobs/search?gh_jid=7532806 | Stripe | Software Engineer, Collaboration | score:3.8 | location:Dublin | posted:2026-06-11T06:17:54-04:00 | source:greenhouse-api
+- [ ] https://stripe.com/jobs/search?gh_jid=7991718 | Stripe | Software Engineer, New Grad, Developer & End User Experience Platform | score:5 | location:Toronto | posted:2026-06-11T11:38:57-04:00 | source:greenhouse-api
+- [ ] https://www.brex.com/careers/8587789002?gh_jid=8587789002 | Brex | Software Engineer II, Cloud Infrastructure | score:4.2 | location:United States | posted:2026-06-11T11:13:25-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/planetscale/jobs/4280570009 | PlanetScale | Software Engineer - Neki Orchestration | score:3.3 | location:San Francisco Bay Area or Remote | posted:2026-06-10T23:27:37-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4423680247 | Institute on AI for Space Sustainability | Software Engineer (Entry-Level / Associate) | score:4.1 | location:New York, United States | posted:2026-06-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4423679191 | Boeing | Software Engineers (Associate or Experienced) | score:3.8 | location:Herndon, VA | posted:2026-06-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417392961 | InvestCloud, Inc. | Associate Software Developer | score:3.8 | location:Warren, NJ | posted:2026-06-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4416514539 | Goldman Sachs | Asset&amp; Wealth Management-Software Engineering-Associate-Dallas | score:3.8 | location:Dallas, TX | posted:2026-06-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4427155838 | BioSpace | Associate Full-Stack Software Engineer | score:3.8 | location:North Chicago, IL | posted:2026-06-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4423665549 | Boeing | Associate Software Engineer | score:3.8 | location:Hazelwood, MO | posted:2026-06-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417459049 | iCapital | Full Stack Engineer - Associate | score:4.5 | location:New York, NY | posted:2026-06-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4413147496 | Toyota North America | Software Engineer | score:3 | location:Plano, TX | posted:2026-06-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4416363094 | SpaceX | Software Engineer (Platform Team) | score:3.4 | location:Redmond, WA | posted:2026-06-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417451811 | Tential Solutions | Jr Software Engineer | score:3 | location:Rockville, CT | posted:2026-06-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4427105066 | Crew | Junior Software Engineer | score:3.8 | location:Des Moines, IA | posted:2026-06-10T00:00:00.000Z | source:linkedin-guest
