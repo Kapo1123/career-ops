@@ -2603,3 +2603,10 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4428144538 | Kaseware | Associate Software Engineer | score:3.8 | location:Denver, CO | posted:2026-06-12T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4428143506 | Largeton Group | Entry-Level Programmer | score:3.3 | location:New York, NY | posted:2026-06-12T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4425313073 | BeaconFire Inc. | Junior Software Engineer | score:3.8 | location:California, United States | posted:2026-06-12T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7997866 | Reddit | Software Engineer - Data Movement Platform | score:3.7 | location:Remote - United States | posted:2026-06-12T19:07:02-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5255853008 | Anthropic | IT Systems Engineer, Client Platform Engineer | score:3.7 | location:Boston, MA; New York City, NY; Remote-Friendly (Travel-Required) |  Washington, DC | posted:2026-06-12T16:01:23-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4427910114 | PayPal | Software Engineer | score:3 | location:San Jose, CA | posted:2026-06-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4427216095 | LexisNexis Risk Solutions | Software Engineer I | score:3.8 | location:Colorado, United States | posted:2026-06-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4427230216 | First Community Credit Union - Houston, TX | Software Engineer I | score:3.8 | location:Houston, TX | posted:2026-06-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425332422 | BeaconFire Inc. | Junior Software Engineer | score:3.8 | location:California, United States | posted:2026-06-12T00:00:00.000Z | source:linkedin-guest
