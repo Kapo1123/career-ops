@@ -2588,3 +2588,13 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4416352797 | SpaceX | AI Software Engineer (Vehicle Engineering) | score:3 | location:Hawthorne, CA | posted:2026-06-11T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4424448948 | ScriptPro | Software Engineer (C++) | score:3 | location:Kansas City Metropolitan Area | posted:2026-06-12T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4427669820 | Western Governors University | Software Engineer I | score:3.8 | location:Salt Lake City Metropolitan Area | posted:2026-06-12T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/openai/0f887fe6-39f4-44f6-8ee5-230c3002f0d7 | OpenAI | Software Engineer, Private Computing | score:3.3 | location:San Francisco | posted:2026-06-12T17:06:23.120+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4426962778 | Enigma | Graduate Software Engineer | Python | AWS | Postgres | Computer Science | Hybrid, New York | score:3.7 | location:New York, NY | posted:2026-06-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428112368 | Bain &amp; Company | Software Engineer I, Private Equity Innovation | score:3.8 | location:Dallas, TX | posted:2026-06-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4424897889 | AI-IoT Club | Software Engineer (Entry-Level / Associate) | score:4.1 | location:New York, United States | posted:2026-06-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4426951647 | Blizzard Entertainment | Associate Software Engineer, Gameplay | score:3.8 | location:Albany, NY | posted:2026-06-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4426987070 | Goldman Sachs | Asset &amp; Wealth Management-Software Engineering-Associate-Dallas | score:3.8 | location:Dallas, TX | posted:2026-06-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4427912211 | Hitachi Energy | Software Engineer | score:3 | location:Santa Clara, CA | posted:2026-06-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425310342 | LivaNova | Software Engineer I | score:3.8 | location:Houston, TX | posted:2026-06-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428127040 | Seneca Resources Company, LLC | Jr. Software Developer | score:3.3 | location:New York, NY | posted:2026-06-12T00:00:00.000Z | source:linkedin-guest
