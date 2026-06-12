@@ -2575,3 +2575,16 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4427583596 | Cox Automotive Inc. | Entry Level Software Engineer - Austin, TX | score:3.8 | location:Austin, TX | posted:2026-06-11T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4368432794 | SpaceX | Software Engineer (Vehicle Engineering) | score:3 | location:Hawthorne, CA | posted:2026-06-11T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4426663575 | Pittsburgh Steelers | Jr. Software Developer | score:3 | location:Pittsburgh, PA | posted:2026-06-11T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7462799?gh_jid=7462799 | Cloudflare | Distributed Systems Engineer, Analytical Database Platform | score:3.4 | location:Hybrid | posted:2026-06-12T11:47:29-04:00 | source:greenhouse-api
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7462802?gh_jid=7462802 | Cloudflare | Distributed Systems Engineer - Data Platform - Logs and Audit Logs | score:3.4 | location:Hybrid | posted:2026-06-12T11:47:34-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/sierra/b37a6f9e-53c7-4c47-beb5-1ab4451f3001 | Sierra | Software Engineer, Agent (Cantonese Speaking) | score:3 | location:Singapore | posted:2026-06-12T15:52:13.611+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4427960295 | DevGrid, Inc | Software Engineer | score:3 | location:Charlotte, NC | posted:2026-06-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4426961552 | Emonics LLC | Entry Level Software Engineer | score:4.1 | location:Seattle, WA | posted:2026-06-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4426974255 | Emonics LLC | Software Engineer | score:3 | location:San Jose, CA | posted:2026-06-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4426981436 | hackajob | Cyber Software Engineer- Early Career | score:3.8 | location:Littleton, CO | posted:2026-06-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4427942835 | Sundayy | Software Engineer, Jr. (SQL, API) | score:3 | location:United States | posted:2026-06-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4427677006 | V2X Inc | Software Engineer (T1) | score:3 | location:Indianapolis, IN | posted:2026-06-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4416352797 | SpaceX | AI Software Engineer (Vehicle Engineering) | score:3 | location:Hawthorne, CA | posted:2026-06-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4424448948 | ScriptPro | Software Engineer (C++) | score:3 | location:Kansas City Metropolitan Area | posted:2026-06-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4427669820 | Western Governors University | Software Engineer I | score:3.8 | location:Salt Lake City Metropolitan Area | posted:2026-06-12T00:00:00.000Z | source:linkedin-guest
