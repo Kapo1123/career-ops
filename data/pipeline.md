@@ -2598,3 +2598,8 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4427912211 | Hitachi Energy | Software Engineer | score:3 | location:Santa Clara, CA | posted:2026-06-12T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4425310342 | LivaNova | Software Engineer I | score:3.8 | location:Houston, TX | posted:2026-06-12T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4428127040 | Seneca Resources Company, LLC | Jr. Software Developer | score:3.3 | location:New York, NY | posted:2026-06-12T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/openai/39a709f3-6e9e-45e9-94eb-43a1c2aaaeaf | OpenAI | Software Engineer, Computer Use & Frontier Interfaces | score:3.3 | location:San Francisco | posted:2026-06-12T18:54:06.880+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4428144538 | Kaseware | Associate Software Engineer | score:3.8 | location:Denver, CO | posted:2026-06-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428143506 | Largeton Group | Entry-Level Programmer | score:3.3 | location:New York, NY | posted:2026-06-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425313073 | BeaconFire Inc. | Junior Software Engineer | score:3.8 | location:California, United States | posted:2026-06-12T00:00:00.000Z | source:linkedin-guest
