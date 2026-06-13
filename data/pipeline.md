@@ -2610,3 +2610,10 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4427216095 | LexisNexis Risk Solutions | Software Engineer I | score:3.8 | location:Colorado, United States | posted:2026-06-12T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4427230216 | First Community Credit Union - Houston, TX | Software Engineer I | score:3.8 | location:Houston, TX | posted:2026-06-12T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4425332422 | BeaconFire Inc. | Junior Software Engineer | score:3.8 | location:California, United States | posted:2026-06-12T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4427208759 | 1Phi Health | New Grad Data Engineer (for Health Tech Startup)🤓 | score:4.2 | location:United States | posted:2026-06-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425371737 | NetApp | NetApp Emerging Talent - Entry Level Software Engineer (Cloud Storage) | score:3.8 | location:San Jose, CA | posted:2026-06-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425380716 | NetApp | NetApp Emerging Talent - Entry Level Software Engineer (Systems) | score:3.8 | location:San Jose, CA | posted:2026-06-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428356491 | Cox Automotive Inc. | Software Engineer I | score:3.8 | location:Austin, TX | posted:2026-06-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428185123 | Index Analytics LLC | Junior Full Stack Developer | score:4.2 | location:Windsor Mill, MD | posted:2026-06-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428128069 | Seneca Resources | Jr. Software Developer | score:3.3 | location:New York, United States | posted:2026-06-12T00:00:00.000Z | source:linkedin-guest
