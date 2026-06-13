@@ -2634,3 +2634,9 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4423156902 | BeaconFire Inc. | Entry Level- Java Developer | score:4.2 | location:New Jersey, United States | posted:2026-06-12T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4425318044 | BeaconFire Inc. | Jr Software Engineer | score:3 | location:California, United States | posted:2026-06-12T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4427248372 | LG Electronics | Jr Software Engineer 1754 (Sanghye Son) | score:3 | location:Alpharetta, GA | posted:2026-06-13T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4417167188 | OpenAI | Backend Software Engineer, Growth | score:3.7 | location:San Francisco, CA | posted:2026-06-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428180361 | Broadview Federal Credit Union | Software Engineer | score:3 | location:Albany, NY | posted:2026-06-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4427404272 | Rilla | Software Engineer | score:3.3 | location:New York, NY | posted:2026-06-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4427235930 | Sunbelt Controls | Systems Software Engineer I | score:3.8 | location:Vancouver, WA | posted:2026-06-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428340025 | Wildfire Defense Systems, Inc. | Software Developer 1 | score:3 | location:Post Falls, ID | posted:2026-06-13T00:00:00.000Z | source:linkedin-guest
