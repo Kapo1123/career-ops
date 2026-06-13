@@ -2617,3 +2617,16 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4428356491 | Cox Automotive Inc. | Software Engineer I | score:3.8 | location:Austin, TX | posted:2026-06-13T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4428185123 | Index Analytics LLC | Junior Full Stack Developer | score:4.2 | location:Windsor Mill, MD | posted:2026-06-12T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4428128069 | Seneca Resources | Jr. Software Developer | score:3.3 | location:New York, United States | posted:2026-06-12T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4425375821 | Applied Materials | Software Engineer (New College Grad - Masters)) | score:3 | location:Santa Clara, CA | posted:2026-06-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4427227562 | Zealthy | Software Engineer | score:3.3 | location:New York City Metropolitan Area | posted:2026-06-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4398195565 | Roblox | Software Engineer, Creator Translation | score:3 | location:San Mateo, CA | posted:2026-06-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425382682 | NetApp | NetApp Emerging Talent - Entry Level Software Engineer (Systems) | score:3.8 | location:Morrisville, NC | posted:2026-06-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425389455 | NetApp | NetApp Emerging Talent - Entry Level Software Engineer (Cloud Storage) | score:3.8 | location:Morrisville, NC | posted:2026-06-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417176209 | Goldman Sachs | Engineering- Dallas - Associate, Software Engineering - 034720 | score:3.8 | location:Dallas, TX | posted:2026-06-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428377118 | Helic &amp; Co. | Junior Software Engineer | score:3.8 | location:United States | posted:2026-06-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428154347 | PNC | Software Engineer | score:3 | location:Farmers Branch, TX | posted:2026-06-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425338566 | Sam's Club | Software Engineer II | score:3.8 | location:Sunnyvale, CA | posted:2026-06-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418007095 | SpaceX | Software Engineer, Flight Software (Starlink) | score:3 | location:Redmond, WA | posted:2026-06-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417771159 | Torch Technologies, Inc. | Software Developer-Junior | score:3.8 | location:Redstone Arsenal, AL | posted:2026-06-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417513151 | Eccalon, LLC | Junior Software Engineer - onsite | score:3.8 | location:Detroit, MI | posted:2026-06-13T00:00:00.000Z | source:linkedin-guest
