@@ -2630,3 +2630,7 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4418007095 | SpaceX | Software Engineer, Flight Software (Starlink) | score:3 | location:Redmond, WA | posted:2026-06-12T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4417771159 | Torch Technologies, Inc. | Software Developer-Junior | score:3.8 | location:Redstone Arsenal, AL | posted:2026-06-12T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4417513151 | Eccalon, LLC | Junior Software Engineer - onsite | score:3.8 | location:Detroit, MI | posted:2026-06-13T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4423156902 | BeaconFire Inc. | Entry Level- Java Developer | score:4.2 | location:New Jersey, United States | posted:2026-06-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425318044 | BeaconFire Inc. | Jr Software Engineer | score:3 | location:California, United States | posted:2026-06-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4427248372 | LG Electronics | Jr Software Engineer 1754 (Sanghye Son) | score:3 | location:Alpharetta, GA | posted:2026-06-13T00:00:00.000Z | source:linkedin-guest
