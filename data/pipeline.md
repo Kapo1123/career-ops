@@ -2640,3 +2640,13 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4427404272 | Rilla | Software Engineer | score:3.3 | location:New York, NY | posted:2026-06-13T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4427235930 | Sunbelt Controls | Systems Software Engineer I | score:3.8 | location:Vancouver, WA | posted:2026-06-13T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4428340025 | Wildfire Defense Systems, Inc. | Software Developer 1 | score:3 | location:Post Falls, ID | posted:2026-06-13T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4427400819 | SynergisticIT | entry level software developer/AI engineer | score:3.8 | location:College Station, TX | posted:2026-06-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417188308 | SOCOTEC | Software Engineer | score:3.3 | location:New York, NY | posted:2026-06-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4291610181 | Navan | Software Engineer - Backend | score:3.4 | location:Palo Alto, CA | posted:2026-06-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4416464023 | NuAxis Innovations | Jr. Software Developer | score:3 | location:Vienna, VA | posted:2026-06-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4427434550 | Kearfott Corporation | Software Engineer I | score:3.8 | location:Pine Brook, NJ | posted:2026-06-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4427418012 | Jobs via Dice | Software Engineer, Test Infrastructure (Application Software) | score:3.4 | location:Hawthorne, CA | posted:2026-06-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4427411954 | Haystack | Software Engineer | score:3 | location:Atlanta Metropolitan Area | posted:2026-06-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425722862 | Vera Femme Circle | Full Stack Developer | score:3.4 | location:Worcester, MA | posted:2026-06-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425725033 | Meta | Production Engineer (University Grad) | score:5 | location:New York, NY | posted:2026-06-14T00:00:00.000Z | source:linkedin-guest
