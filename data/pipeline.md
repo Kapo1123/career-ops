@@ -2662,3 +2662,5 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4428635248 | Sundayy | Full Stack Developer, Jr. | score:3.4 | location:United States | posted:2026-06-14T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4427447013 | targetjobs UK | Graduate Software Engineer | score:3 | location:Carlisle, PA | posted:2026-06-14T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4425728073 | Unity South APAC (SEA, ANZ, IND Subcont.) | Machine Learning Engineer, User Understanding (Entry-Level / New Grad) | score:3.8 | location:Mountain View, CA | posted:2026-06-14T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4428653710 | Berkley Hunt | Software Engineer | score:3 | location:Los Angeles, CA | posted:2026-06-14T00:00:00.000Z | source:linkedin-guest
