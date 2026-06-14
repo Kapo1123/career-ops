@@ -2650,3 +2650,8 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4427411954 | Haystack | Software Engineer | score:3 | location:Atlanta Metropolitan Area | posted:2026-06-14T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4425722862 | Vera Femme Circle | Full Stack Developer | score:3.4 | location:Worcester, MA | posted:2026-06-14T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4425725033 | Meta | Production Engineer (University Grad) | score:5 | location:New York, NY | posted:2026-06-14T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4428638497 | The AI Security Summit | Software Engineer (Entry-Level / Associate) | score:3.8 | location:California, United States | posted:2026-06-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428378260 | Atano | Software Engineer | score:3 | location:Miami, FL | posted:2026-06-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4409423521 | Emerson | Software Engineer | score:3 | location:Austin, TX | posted:2026-06-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4427413834 | Haystack | Software Engineer | score:3 | location:Atlanta Metropolitan Area | posted:2026-06-14T00:00:00.000Z | source:linkedin-guest
