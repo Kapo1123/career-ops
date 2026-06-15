@@ -2699,3 +2699,12 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4426436243 | MedImpact Healthcare Systems, Inc. | Software Engineer I | score:3.8 | location:San Diego, CA | posted:2026-06-15T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4426428279 | OPERS | Full Stack Developer 1 | score:3.4 | location:Columbus, Ohio Metropolitan Area | posted:2026-06-15T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4427736989 | Jack &amp; Jill | Software Engineer, Platform ($200k-$250k + Equity) at Duckbill | score:3.7 | location:San Francisco, CA | posted:2026-06-15T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://stripe.com/jobs/search?gh_jid=8003382 | Stripe | Full-Stack Engineer | score:4.1 | location:San Francisco | posted:2026-06-15T16:49:12-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4427771284 | Voxel | Software Engineer, Applications | score:3.3 | location:San Francisco, CA | posted:2026-06-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4427470515 | Employia | Full Stack Engineer | score:3.7 | location:San Francisco, CA | posted:2026-06-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428865462 | Stelvio Inc. | Software Engineer | score:3 | location:Austin, TX | posted:2026-06-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428895516 | Loop | 2026 New Grad | Software Engineer, Full-Stack (Chicago) | score:3.8 | location:Chicago, IL | posted:2026-06-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4427748994 | Ibotta | Associate Software Engineer | score:3.8 | location:Denver, CO | posted:2026-06-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4429105706 | Arc | Software Engineer – Up to $85/hour | score:3 | location:United States | posted:2026-06-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4429144833 | Cisco | Software Engineer | score:3 | location:Durham, NC | posted:2026-06-15T00:00:00.000Z | source:linkedin-guest
