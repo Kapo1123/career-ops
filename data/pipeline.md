@@ -2664,3 +2664,22 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4425728073 | Unity South APAC (SEA, ANZ, IND Subcont.) | Machine Learning Engineer, User Understanding (Entry-Level / New Grad) | score:3.8 | location:Mountain View, CA | posted:2026-06-14T00:00:00.000Z | source:linkedin-guest
 
 - [ ] https://www.linkedin.com/jobs/view/4428653710 | Berkley Hunt | Software Engineer | score:3 | location:Los Angeles, CA | posted:2026-06-14T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://stripe.com/jobs/search?gh_jid=7975725 | Stripe | Software Engineer, Core Infrastructure | score:4.2 | location:Sydney, Australia | posted:2026-06-15T02:46:16-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/twitch/jobs/8590362002 | Twitch | Software Engineer II | score:4.1 | location:San Francisco, CA | posted:2026-06-15T12:33:42-04:00 | source:greenhouse-api
+- [ ] https://www.okta.com/company/careers/opportunity/8003538?gh_jid=8003538 | Okta | Software Engineer II, Security Engineering (Auth0) | score:3.8 | location:Toronto, Ontario, Canada | posted:2026-06-15T11:39:58-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/cohere/4a3c3eb2-ae2e-4a86-a677-7bdecbc7d76e | Cohere | Software Engineer, Agents & Automations | score:3 | location:London | posted:2026-06-15T13:58:21.357+00:00 | source:ashby-api
+- [ ] https://jobs.lever.co/palantir/fbca0358-083a-4222-bdbb-3bd729b48382 | Palantir | Forward Deployed Software Engineer - Intel, New Grad | score:3.8 | location:Washington, D.C. | posted:2026-06-15T16:08:02.343Z | source:lever-api
+- [ ] https://jobs.lever.co/palantir/0a0d2db2-75a5-48e4-b0a0-81baa6588e36 | Palantir | Forward Deployed Software Engineer - Norwegian Government | score:3 | location:Oslo, Norway | posted:2026-06-15T12:55:12.500Z | source:lever-api
+- [ ] https://www.linkedin.com/jobs/view/4427499509 | Crossing Hurdles | Entry-Level Software Engineer | Remote | score:3 | location:United States | posted:2026-06-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4427710147 | Crossing Hurdles | Junior Software Engineer (Open 3D Engine) | Remote | score:3.8 | location:United States | posted:2026-06-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4427738006 | TherapyNotes, LLC | Software Developer | score:3 | location:United States | posted:2026-06-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4389756064 | Remodel Health | Software Engineer | score:3 | location:Indianapolis, IN | posted:2026-06-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4426410259 | CareerXperts Consulting | Associate Software Engineer | score:3.8 | location:United States | posted:2026-06-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4427446394 | Jack &amp; Jill | Software Engineer, Product ($140k–$250k + Equity) at fast-growing AI edtech startup | score:3.3 | location:San Francisco, CA | posted:2026-06-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428869537 | Helic &amp; Co. | Junior Software Engineer | score:3.8 | location:United States | posted:2026-06-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425754918 | Stealth Startup | Backend Developer [33163] | score:3.4 | location:California, United States | posted:2026-06-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4427714606 | Enhance IT | Full Stack Engineer | score:3.4 | location:Alabama, United States | posted:2026-06-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425768304 | Stealth Startup | Backend Developer [33236] | score:3.4 | location:Los Angeles, CA | posted:2026-06-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428898070 | PORTAIL TECH | Full Stack Engineer/Full Stack Developer | score:3.4 | location:United States | posted:2026-06-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4427718418 | Brooksource | Junior Software Engineer | score:3.8 | location:Grand Rapids Metropolitan Area | posted:2026-06-15T00:00:00.000Z | source:linkedin-guest
