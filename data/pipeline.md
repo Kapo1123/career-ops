@@ -2689,3 +2689,13 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4428890639 | Jamf | Software Engineer I | score:3.8 | location:Austin, TX | posted:2026-06-15T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4428899718 | NBCUniversal | Software Engineer, Live and Interactive | score:3.3 | location:New York, NY | posted:2026-06-15T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4426402362 | Crown Innovations, Inc. | Junior Full Stack Developer | score:4.2 | location:Arlington, VA | posted:2026-06-15T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/pagerduty/jobs/6030951004 | PagerDuty | Software Engineer - Core Product  | score:3 | location:Toronto | posted:2026-06-15T15:55:42-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4427722672 | Goldman Sachs | Asset &amp; Wealth Management - Richardson - Associate, Software Engineering - 5093673 | score:3.8 | location:Richardson, TX | posted:2026-06-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425797877 | Boeing | Associate or Mid-Level Software Engineer | score:3.8 | location:Tukwila, WA | posted:2026-06-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4426406617 | Boeing | Test and Evaluation Software Engineer (Associate or MId-Level) | score:3.8 | location:El Segundo, CA | posted:2026-06-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4429112789 | TalentAlly | Junior Software Engineer | score:3.8 | location:Brewster, NY | posted:2026-06-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428889628 | Jamf | Software Engineer I | score:3.8 | location:Minneapolis, MN | posted:2026-06-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4426436243 | MedImpact Healthcare Systems, Inc. | Software Engineer I | score:3.8 | location:San Diego, CA | posted:2026-06-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4426428279 | OPERS | Full Stack Developer 1 | score:3.4 | location:Columbus, Ohio Metropolitan Area | posted:2026-06-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4427736989 | Jack &amp; Jill | Software Engineer, Platform ($200k-$250k + Equity) at Duckbill | score:3.7 | location:San Francisco, CA | posted:2026-06-15T00:00:00.000Z | source:linkedin-guest
