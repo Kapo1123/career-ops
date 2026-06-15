@@ -2683,3 +2683,9 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4425768304 | Stealth Startup | Backend Developer [33236] | score:3.4 | location:Los Angeles, CA | posted:2026-06-15T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4428898070 | PORTAIL TECH | Full Stack Engineer/Full Stack Developer | score:3.4 | location:United States | posted:2026-06-15T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4427718418 | Brooksource | Junior Software Engineer | score:3.8 | location:Grand Rapids Metropolitan Area | posted:2026-06-15T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.lever.co/palantir/5d8286d6-992a-404b-94af-99c173d40299 | Palantir | Deployment Strategist, New Grad - Intel, US Government | score:3.8 | location:Washington, D.C. | posted:2026-06-15T16:42:57.674Z | source:lever-api
+- [ ] https://www.linkedin.com/jobs/view/4426433124 | Toyota Connected North America | Entry Level Software Engineer | score:3.8 | location:Plano, TX | posted:2026-06-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428890639 | Jamf | Software Engineer I | score:3.8 | location:Austin, TX | posted:2026-06-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428899718 | NBCUniversal | Software Engineer, Live and Interactive | score:3.3 | location:New York, NY | posted:2026-06-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4426402362 | Crown Innovations, Inc. | Junior Full Stack Developer | score:4.2 | location:Arlington, VA | posted:2026-06-15T00:00:00.000Z | source:linkedin-guest
