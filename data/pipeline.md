@@ -2736,3 +2736,11 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4427793854 | Cisco | Software Engineer Backend/Platform Systems I (Full Time) – United States | score:3.4 | location:Austin, TX | posted:2026-06-16T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4426859602 | Mayzax Solutions | Software Engineer | score:3 | location:United States | posted:2026-06-16T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4428041140 | FedEx Freight | Full Stack Developer I | score:3.4 | location:Memphis, TN | posted:2026-06-16T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.okta.com/company/careers/opportunity/8001096?gh_jid=8001096 | Okta | Software Engineer II, Core Identity (Auth0)   | score:3.8 | location:Toronto, Ontario, Canada | posted:2026-06-16T15:54:34-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4429587564 | AmeriLux Family of Companies | Software Developer | score:3 | location:Green Bay, WI | posted:2026-06-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428077753 | Jack &amp; Jill | Software Engineer, Platform ($200k-$250k + Equity) at Duckbill | score:3.7 | location:San Francisco, CA | posted:2026-06-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428077653 | Comcast | Software Engineer 1 | score:3.3 | location:New York, NY | posted:2026-06-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428010765 | Cisco | Software Engineer Backend/Platform Systems I (Full Time) – United States | score:3.4 | location:Atlanta, GA | posted:2026-06-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4429267065 | Sundayy | Full Stack Developer, Jr. | score:3.4 | location:United States | posted:2026-06-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4429215251 | OPERS | Full Stack Developer 1 | score:3.4 | location:Columbus, OH | posted:2026-06-16T00:00:00.000Z | source:linkedin-guest
