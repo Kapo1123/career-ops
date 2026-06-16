@@ -2744,3 +2744,13 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4428010765 | Cisco | Software Engineer Backend/Platform Systems I (Full Time) – United States | score:3.4 | location:Atlanta, GA | posted:2026-06-16T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4429267065 | Sundayy | Full Stack Developer, Jr. | score:3.4 | location:United States | posted:2026-06-16T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4429215251 | OPERS | Full Stack Developer 1 | score:3.4 | location:Columbus, OH | posted:2026-06-16T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://app.careerpuck.com/job-board/lyft/job/8594759002?gh_jid=8594759002 | Lyft | Software Engineer, Frontend - Lyft Urban Solutions | score:3.8 | location:Toronto, Canada | posted:2026-06-16T17:34:12-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/snowflake/1bad12df-f443-426f-9d09-e96fc780d698 | Snowflake | AI Research Scientist, New Grad – Agents & Reinforcement Learning | score:4.6 | location:US-WA-Bellevue | posted:2026-06-16T22:14:57.725+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4429719797 | Ba Tech and AI Agency | Software Engineer (Entry-Level / Associate) | score:4.1 | location:New York, United States | posted:2026-06-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428414161 | General Dynamics Mission Systems | Entry Level Software Engineer | score:3.8 | location:Manassas, VA | posted:2026-06-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4426884474 | NAES | Controls Engineer, Distributed Control System (DCS), Entry Level | score:4.2 | location:McKittrick, CA | posted:2026-06-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4429598580 | TEL | Software Engineer I | score:3.8 | location:Chattanooga, TN | posted:2026-06-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4429591378 | AmeriLux Family of Companies | Software Developer | score:3 | location:De Pere, WI | posted:2026-06-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4427796805 | Cisco | Software Engineer Backend/Platform Systems I (Full Time) – United States | score:3.4 | location:Fulton, MD | posted:2026-06-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4426887381 | ARRASATE Arquitectura y Construcción | Junior Software Engineer | score:3.8 | location:California, United States | posted:2026-06-16T00:00:00.000Z | source:linkedin-guest
