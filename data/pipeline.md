@@ -2729,3 +2729,10 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4428045065 | Bentley Systems | Software Engineer I | score:3.8 | location:Exton, PA | posted:2026-06-16T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4426439304 | Leidos | Junior Software Engineer (SWE-1) | score:3.8 | location:Fort Meade, MD | posted:2026-06-15T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4428028896 | Jack &amp; Jill | Software Engineer at Den | score:3.3 | location:New York, United States | posted:2026-06-16T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/twitch/jobs/8527485002 | Twitch | Software Engineer, Enterprise | score:3.3 | location:San Francisco, CA | posted:2026-06-16T13:14:32-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8397228002 | Airtable | Software Engineer, Product Frontend (8+ YOE) | score:3.3 | location:San Francisco, CA; New York, NY | posted:2026-06-16T13:05:49-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4428035824 | Jack &amp; Jill | Software Engineer, Platform ($200k-$250k + Equity) at Duckbill | score:3.7 | location:San Francisco, CA | posted:2026-06-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4427793854 | Cisco | Software Engineer Backend/Platform Systems I (Full Time) – United States | score:3.4 | location:Austin, TX | posted:2026-06-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4426859602 | Mayzax Solutions | Software Engineer | score:3 | location:United States | posted:2026-06-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428041140 | FedEx Freight | Full Stack Developer I | score:3.4 | location:Memphis, TN | posted:2026-06-16T00:00:00.000Z | source:linkedin-guest
