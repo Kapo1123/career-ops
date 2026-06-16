@@ -2708,3 +2708,24 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4427748994 | Ibotta | Associate Software Engineer | score:3.8 | location:Denver, CO | posted:2026-06-15T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4429105706 | Arc | Software Engineer – Up to $85/hour | score:3 | location:United States | posted:2026-06-15T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4429144833 | Cisco | Software Engineer | score:3 | location:Durham, NC | posted:2026-06-15T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.coinbase.com/careers/positions/7558051?gh_jid=7558051 | Coinbase | Software Engineer, EAA Integrations | score:4.1 | location:Remote - India | posted:2026-06-16T07:59:41-04:00 | source:greenhouse-api
+- [ ] https://stripe.com/jobs/search?gh_jid=8009143 | Stripe | Software Engineer | score:4.1 | location:New York, NY | posted:2026-06-15T21:34:19-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/DeepL/8d258c9c-f3d2-40cc-ba19-1be287445141 | DeepL | Software Engineer | API | score:3.3 | location:New York | posted:2026-06-16T10:13:40.048+00:00 | source:ashby-api
+- [ ] https://careers.hellofresh.com/global/en/job/7954132?gh_jid=7954132 | HelloFresh | Backend Engineer, Food Planning (all genders) | score:3.4 | location:Warszawa, Masovian Voivodeship, Poland | posted:2026-06-16T03:42:48-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/snowflake/29356289-aa62-4cbb-b0ef-e779ccc7173a | Snowflake | Software Engineer, Data Transformation | score:4.2 | location:DE-Berlin-Trion Building | posted:2026-06-16T07:30:02.683+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/snowflake/d590843a-ac21-49c0-bb40-0ca203a1115e | Snowflake | Software Engineer Metadata | score:4.2 | location:DE-Berlin-Trion Building | posted:2026-06-16T06:26:45.038+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4426460920 | Xcelerium | New Grad Software Engineer | score:3.8 | location:Irvine, CA | posted:2026-06-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4426472925 | NVIDIA AI | AI Software Engineer, Kernel Libraries - New College Grad 2026 | score:3 | location:Santa Clara, CA | posted:2026-06-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4427791482 | Cognizant | Software Engineer | score:3 | location:Wilmington, DE | posted:2026-06-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4427796196 | Jobs via Dice | Cyber Software Engineer- Early Career | score:3.8 | location:Littleton, CO | posted:2026-06-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428045619 | Visory Consulting Ltd | Software Engineer (Entry-Level / Associate) | score:4.1 | location:New York, United States | posted:2026-06-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4429545493 | Helic &amp; Co. | Junior Software Engineer | score:3.8 | location:United States | posted:2026-06-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428000762 | Cisco | Software Engineer Backend/Platform Systems I (Full Time) – United States | score:3.4 | location:Dallas, TX | posted:2026-06-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4427761625 | edkey | Associate Software Engineer - Gameplay | score:3.8 | location:Albany, NY | posted:2026-06-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4426452460 | Robinhood | Software Engineer, Backend | score:4.2 | location:Menlo Park, CA | posted:2026-06-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4429189295 | Salesforce | Software Engineering MTS | score:3 | location:Palo Alto, CA | posted:2026-06-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428059799 | Itinéraire Emploi | ENTRY LEVEL SOFTWARE DEVELOPE | score:3.8 | location:United States | posted:2026-06-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428045065 | Bentley Systems | Software Engineer I | score:3.8 | location:Exton, PA | posted:2026-06-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4426439304 | Leidos | Junior Software Engineer (SWE-1) | score:3.8 | location:Fort Meade, MD | posted:2026-06-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428028896 | Jack &amp; Jill | Software Engineer at Den | score:3.3 | location:New York, United States | posted:2026-06-16T00:00:00.000Z | source:linkedin-guest
