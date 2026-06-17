@@ -2784,3 +2784,12 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4428453412 | Bruker | Software Developer | score:3 | location:King County, WA | posted:2026-06-17T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/3986115537 | Epic | Entry-Level Software Developer | score:3 | location:Grand Prairie, TX | posted:2026-06-17T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4429999148 | Honeywell Aerospace Technologies | Software Engineer I | score:3.8 | location:Clearwater, FL | posted:2026-06-17T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.coinbase.com/careers/positions/7967649?gh_jid=7967649 | Coinbase | Software Engineer | score:4.1 | location:Remote - USA | posted:2026-06-17T19:17:51-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/openai/2d7f1028-ce9b-49c7-acc8-782714ca1cf4 | OpenAI | Full Stack Software Engineer, Agent Enablement | score:3.7 | location:San Francisco | posted:2026-06-17T22:34:56.814+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4428763394 | MetLife | Junior Software Engineer | score:3.8 | location:Cary, NC | posted:2026-06-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428758366 | Toyota North America | Software Engineer (Early Career Professional) | score:3.8 | location:Plano, TX | posted:2026-06-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428754086 | Jack &amp; Jill | Software Engineer, Platform ($200k-$250k + Equity) at Duckbill | score:3.7 | location:San Francisco, CA | posted:2026-06-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430115223 | PickNik Robotics | Software Developer Engineer in Test/QA Automation Engineer (Boulder, CO) | score:3.8 | location:Boulder, CO | posted:2026-06-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428714859 | Mujin US | Robotics Software Engineer I - Integration | score:3.8 | location:Suwanee, GA | posted:2026-06-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428727911 | Summit Professional Education | Junior Backend Developer | score:4.2 | location:United States | posted:2026-06-17T00:00:00.000Z | source:linkedin-guest
