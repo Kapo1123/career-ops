@@ -2774,3 +2774,13 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4428435667 | SpaceX | Software Engineer (Starlink Enterprise) | score:3 | location:Palo Alto, CA | posted:2026-06-17T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4428418615 | Actalent | Software Engineer | score:3 | location:Moorestown, NJ | posted:2026-06-17T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4428735035 | FetchJobs.co | Software Engineer - C++ | score:3 | location:United States | posted:2026-06-17T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://boards.greenhouse.io/figma/jobs/6073106004?gh_jid=6073106004 | Figma | Software Engineer - Figma Weave (Tel Aviv, Israel)  | score:3.8 | location:Tel Aviv, Israel | posted:2026-06-17T15:34:54-04:00 | source:greenhouse-api
+- [ ] https://boards.greenhouse.io/robinhood/jobs/8008723?t=gh_src=&gh_jid=8008723 | Robinhood | Full Stack Software Engineer, Credit Cards & Banking | score:4.5 | location:Bellevue, WA; Menlo Park, CA; New York, NY | posted:2026-06-17T15:08:23-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4429942681 | Helic &amp; Co. | Junior Software Engineer | score:3.8 | location:United States | posted:2026-06-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428728989 | Emonics LLC | Entry Level Software Engineer | score:3.8 | location:Austin, TX | posted:2026-06-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428725966 | Emonics LLC | Software Engineer | score:3.3 | location:Seattle, WA | posted:2026-06-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4429756227 | Truist | Associate Software Engineer | score:3.8 | location:Raleigh, NC | posted:2026-06-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428453412 | Bruker | Software Developer | score:3 | location:King County, WA | posted:2026-06-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/3986115537 | Epic | Entry-Level Software Developer | score:3 | location:Grand Prairie, TX | posted:2026-06-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4429999148 | Honeywell Aerospace Technologies | Software Engineer I | score:3.8 | location:Clearwater, FL | posted:2026-06-17T00:00:00.000Z | source:linkedin-guest
