@@ -2754,3 +2754,15 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4429591378 | AmeriLux Family of Companies | Software Developer | score:3 | location:De Pere, WI | posted:2026-06-16T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4427796805 | Cisco | Software Engineer Backend/Platform Systems I (Full Time) – United States | score:3.4 | location:Fulton, MD | posted:2026-06-16T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4426887381 | ARRASATE Arquitectura y Construcción | Junior Software Engineer | score:3.8 | location:California, United States | posted:2026-06-16T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.coinbase.com/careers/positions/8003605?gh_jid=8003605 | Coinbase | Software Engineer | score:3.8 | location:Charlotte, NC | posted:2026-06-17T11:23:44-04:00 | source:greenhouse-api
+- [ ] https://app.careerpuck.com/job-board/lyft/job/8594129002?gh_jid=8594129002 | Lyft | Data Engineer | score:4.2 | location:Mexico City, Mexico | posted:2026-06-16T19:45:54-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/cohere/5d31ba60-683a-4d59-8059-3f728b772a9e | Cohere | Data Annotation Specialist, Software Engineering | score:3.4 | location:Canada | posted:2026-06-17T14:44:10.485+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/sierra/013d54ba-6658-448b-9de6-c7ba8dcad77f | Sierra | Forward Deployed Infrastructure Engineer  | score:3.4 | location:London | posted:2026-06-17T01:06:40.272+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4428423512 | Jobs via Dice | Entry Level Software Engineer | score:3.8 | location:West Palm Beach, FL | posted:2026-06-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4429780918 | Actalent | Software Engineer | score:3 | location:Moorestown, NJ | posted:2026-06-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428714120 | Jack &amp; Jill | Software Engineer, Platform ($200k-$250k + Equity) at Duckbill | score:3.7 | location:San Francisco, CA | posted:2026-06-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/3986112628 | Epic | Entry-Level Software Developer | score:3 | location:Frisco, TX | posted:2026-06-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428440873 | Liminal | Junior Software Engineer | score:4.1 | location:San Francisco Bay Area | posted:2026-06-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428733059 | Mujin US | Robotics Deployment Software Engineer I (Product) | score:3.8 | location:Suwanee, GA | posted:2026-06-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4427312831 | BDO USA | Software Engineer I - Tax Product Development | score:3.8 | location:Denver, CO | posted:2026-06-17T00:00:00.000Z | source:linkedin-guest
