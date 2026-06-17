@@ -2766,3 +2766,11 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4428440873 | Liminal | Junior Software Engineer | score:4.1 | location:San Francisco Bay Area | posted:2026-06-17T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4428733059 | Mujin US | Robotics Deployment Software Engineer I (Product) | score:3.8 | location:Suwanee, GA | posted:2026-06-17T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4427312831 | BDO USA | Software Engineer I - Tax Product Development | score:3.8 | location:Denver, CO | posted:2026-06-17T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/openai/c59e2e83-59a6-45bc-82cd-665c6a8a5761 | OpenAI | Data Engineer, Scaling Analytics | score:3.7 | location:San Francisco | posted:2026-06-17T17:19:20.677+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4428410962 | Docusign | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-06-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4416846647 | IBM | Software Developer 2026 | score:3 | location:Research Park, CA | posted:2026-06-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4397631320 | Allen Control Systems | Software Engineer | score:3 | location:Austin, TX | posted:2026-06-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428435667 | SpaceX | Software Engineer (Starlink Enterprise) | score:3 | location:Palo Alto, CA | posted:2026-06-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428418615 | Actalent | Software Engineer | score:3 | location:Moorestown, NJ | posted:2026-06-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428735035 | FetchJobs.co | Software Engineer - C++ | score:3 | location:United States | posted:2026-06-17T00:00:00.000Z | source:linkedin-guest
