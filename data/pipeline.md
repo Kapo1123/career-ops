@@ -2824,3 +2824,12 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/3986117143 | Epic | Entry-Level Software Developer | score:3 | location:Garland, TX | posted:2026-06-18T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4430114168 | Medtronic | Software Engineer I -CRM | score:3.8 | location:Minneapolis, MN | posted:2026-06-17T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4420274805 | CGI | Junior Front-end Full Stack Developer | score:4.2 | location:Lafayette, LA | posted:2026-06-18T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4429372017 | Jack &amp; Jill | Software Engineer, Platform ($200k-$250k + Equity) at Duckbill | score:3.7 | location:San Francisco, CA | posted:2026-06-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430742463 | Candid Health | Software Engineer | score:3 | location:California, United States | posted:2026-06-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4258793195 | WalkMe | Software Engineer | score:3.3 | location:New York, NY | posted:2026-06-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430722019 | Jefferies | Associate, Software Developer - Fixed Income Technology (NY Repo) | score:4.1 | location:New York, NY | posted:2026-06-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4429307772 | TherapyNotes, LLC | Software Developer | score:3 | location:United States | posted:2026-06-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4429385851 | Kansas City National Security Campus | Software Engineer I | score:3.8 | location:Kansas City, MO | posted:2026-06-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430180246 | Medical College of Wisconsin | Software Engineer I - Radiology | score:3.8 | location:Milwaukee, WI | posted:2026-06-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430479835 | TalentAlly | Software Engineer | score:3 | location:Daytona Beach, FL | posted:2026-06-18T00:00:00.000Z | source:linkedin-guest
