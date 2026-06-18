@@ -2819,3 +2819,8 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4430704547 | MG Evolution® Factory of Cosmetics and Medical Devices | Junior Software Engineer | score:3.8 | location:California, United States | posted:2026-06-18T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/3986116422 | Epic | Entry-Level Software Developer | score:3 | location:Arlington, TX | posted:2026-06-17T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4429005513 | Docusign | Software Engineer | score:3.3 | location:Seattle, WA | posted:2026-06-18T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4427865064 | United States Navy Chaplain Corps | Entry-Level Quality Assurance Engineer | score:3 | location:United States | posted:2026-06-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/3986117143 | Epic | Entry-Level Software Developer | score:3 | location:Garland, TX | posted:2026-06-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430114168 | Medtronic | Software Engineer I -CRM | score:3.8 | location:Minneapolis, MN | posted:2026-06-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4420274805 | CGI | Junior Front-end Full Stack Developer | score:4.2 | location:Lafayette, LA | posted:2026-06-18T00:00:00.000Z | source:linkedin-guest
