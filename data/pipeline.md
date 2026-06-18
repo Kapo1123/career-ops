@@ -2793,3 +2793,20 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4430115223 | PickNik Robotics | Software Developer Engineer in Test/QA Automation Engineer (Boulder, CO) | score:3.8 | location:Boulder, CO | posted:2026-06-17T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4428714859 | Mujin US | Robotics Software Engineer I - Integration | score:3.8 | location:Suwanee, GA | posted:2026-06-17T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4428727911 | Summit Professional Education | Junior Backend Developer | score:4.2 | location:United States | posted:2026-06-17T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4706566005 | Scale AI | Software Engineer, Identity | score:3.3 | location:San Francisco, CA; New York, NY | posted:2026-06-18T01:42:26-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4430487613 | Reed - Societe Generale Group | Software Engineer (Entry-Level / Associate) | score:3.8 | location:California, United States | posted:2026-06-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428743815 | General Dynamics Mission Systems | Entry Level Software Engineer | score:3.8 | location:Pittsburgh, PA | posted:2026-06-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430482327 | Lockheed Martin | Software Engineering Asc | score:3 | location:Highlands Ranch, CO | posted:2026-06-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430167014 | V2X Inc | Software Engineer -Weapon System Integration (T01) | score:3 | location:Indianapolis, IN | posted:2026-06-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430108202 | BlackRock | Associate, Full Stack Engineer | score:4.5 | location:San Francisco, CA | posted:2026-06-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428743949 | Freddie Mac | Software Engineer, Associate II | score:3.8 | location:McLean, VA | posted:2026-06-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428793644 | Docusign | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-06-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430480502 | TalentAlly | Associate Software Engineer | score:3.8 | location:Maryland Heights, MO | posted:2026-06-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430484421 | TalentAlly | Software Engineer | score:3 | location:Hazelwood, MO | posted:2026-06-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428762333 | Toyota North America | Mid-level Software Engineer (Java/Python, AWS) | score:3.4 | location:Plano, TX | posted:2026-06-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430493449 | Infojini Inc | Software Engineer I | score:3.8 | location:Sterling Heights, MI | posted:2026-06-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430466859 | San Diego Padres | Software Engineer | score:3 | location:San Diego, CA | posted:2026-06-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/3986116409 | Epic | Entry-Level Software Developer | score:3 | location:Plano, TX | posted:2026-06-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4429307750 | Jack &amp; Jill | Software Engineer, Platform ($200k-$250k + Equity) at Duckbill | score:3.7 | location:San Francisco, CA | posted:2026-06-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430429045 | Haystack | Junior Software Developer | score:3.8 | location:Washington, DC | posted:2026-06-18T00:00:00.000Z | source:linkedin-guest
