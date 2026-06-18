@@ -2810,3 +2810,12 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/3986116409 | Epic | Entry-Level Software Developer | score:3 | location:Plano, TX | posted:2026-06-17T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4429307750 | Jack &amp; Jill | Software Engineer, Platform ($200k-$250k + Equity) at Duckbill | score:3.7 | location:San Francisco, CA | posted:2026-06-18T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4430429045 | Haystack | Junior Software Developer | score:3.8 | location:Washington, DC | posted:2026-06-18T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5270442008 | Anthropic | Software Engineer, Identity & Access Controls | score:3.3 | location:Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY | posted:2026-06-18T13:20:48-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4429300008 | Employia | Full Stack Engineer | score:3.7 | location:San Francisco, CA | posted:2026-06-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430720133 | Reed - Societe Generale Group | Software Engineer (Entry-Level / Associate) | score:3.8 | location:California, United States | posted:2026-06-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430480780 | MetLife | Junior Software Engineer | score:3.8 | location:Cary, NC | posted:2026-06-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4429366505 | LEDex- Learn, Engage &amp; Design | Software Engineer (Entry-Level / Associate) | score:4.1 | location:New York, United States | posted:2026-06-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430704547 | MG Evolution® Factory of Cosmetics and Medical Devices | Junior Software Engineer | score:3.8 | location:California, United States | posted:2026-06-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/3986116422 | Epic | Entry-Level Software Developer | score:3 | location:Arlington, TX | posted:2026-06-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4429005513 | Docusign | Software Engineer | score:3.3 | location:Seattle, WA | posted:2026-06-18T00:00:00.000Z | source:linkedin-guest
