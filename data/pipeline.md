@@ -2847,3 +2847,10 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4429680680 | Refocus LLC | AI/ML Software engineer | score:3 | location:Austin, Texas Metropolitan Area | posted:2026-06-19T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4430989461 | US 8th Army Korean Augmentation To the United States Army | Entry-Level Quality Assurance Engineer | score:3 | location:United States | posted:2026-06-19T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4429663086 | Cohere | Software Engineer, Adoption | score:3.3 | location:San Francisco, CA | posted:2026-06-19T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4429696953 | Axentra Systems | Software Engineer (Entry-Level / Associate) | score:3.8 | location:California, United States | posted:2026-06-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431133507 | Human Growth Project Inc. | Entry-Level Software Engineer | score:3.3 | location:New York, NY | posted:2026-06-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430008629 | VetJobs | Entry Level Software Engineer - Manassas, VA | score:3.8 | location:Manassas, VA | posted:2026-06-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4429348029 | Brooksource | Junior Software Engineer | score:3.8 | location:Dallas-Fort Worth Metroplex | posted:2026-06-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430782498 | Battelle | Software Engineer (Early Career) | score:3.8 | location:Atlanta, GA | posted:2026-06-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428293134 | York Space Systems | Software Engineer I - Ground Software | score:3.8 | location:Austin, TX | posted:2026-06-19T00:00:00.000Z | source:linkedin-guest
