@@ -2854,3 +2854,20 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4429348029 | Brooksource | Junior Software Engineer | score:3.8 | location:Dallas-Fort Worth Metroplex | posted:2026-06-19T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4430782498 | Battelle | Software Engineer (Early Career) | score:3.8 | location:Atlanta, GA | posted:2026-06-19T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4428293134 | York Space Systems | Software Engineer I - Ground Software | score:3.8 | location:Austin, TX | posted:2026-06-19T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://stripe.com/jobs/search?gh_jid=6786324 | Stripe | Full Stack Engineer, Billing | score:4.2 | location:N/A | posted:2026-06-19T18:35:42-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4429368038 | Jack | Full Stack Engineer | score:3.7 | location:San Francisco Bay Area | posted:2026-06-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428246963 | Charles Schwab | Software Engineer- Investment Research and Data | score:3.7 | location:San Francisco, CA | posted:2026-06-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430037181 | Stord | Software Engineer - New Grad | score:3.8 | location:Atlanta, GA | posted:2026-06-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431117125 | Helic &amp; Co | Junior Software Engineer | score:3.8 | location:United States | posted:2026-06-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4429612362 | Asure Software | Associate Software Engineer | score:3.8 | location:Atlanta, GA | posted:2026-06-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430034418 | Advance Fiber Cement Board | Junior Software Engineer | score:3.8 | location:California, United States | posted:2026-06-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430020081 | Jack &amp; Jill | Software Engineer, Platform ($200k-$250k + Equity) at Duckbill | score:3.7 | location:San Francisco, CA | posted:2026-06-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/3986118104 | Epic | Entry-Level Software Developer | score:3 | location:Denton, TX | posted:2026-06-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431134668 | Infinite Computer Solutions | Associate Software Engineer | score:3.8 | location:California, United States | posted:2026-06-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428215181 | Activision Blizzard | Software Engineer | score:3 | location:Santa Monica, CA | posted:2026-06-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430796279 | Activision | Software Engineer | score:3 | location:Santa Monica, CA | posted:2026-06-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430972809 | BEPC Inc. - Business Excellence Professional Consulting | Junior Software Engineer | score:3.8 | location:Raritan, NJ | posted:2026-06-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4389304766 | Peraton | Junior Full Stack Software Engineer (DevSecOps) | score:4.2 | location:Herndon, VA | posted:2026-06-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428258615 | BrothersTech | Software Engineer | score:3 | location:United States | posted:2026-06-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430016688 | Jack &amp; Jill | Software Engineer at Den | score:3.3 | location:New York, United States | posted:2026-06-19T00:00:00.000Z | source:linkedin-guest
