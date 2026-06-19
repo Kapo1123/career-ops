@@ -2833,3 +2833,13 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4429385851 | Kansas City National Security Campus | Software Engineer I | score:3.8 | location:Kansas City, MO | posted:2026-06-18T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4430180246 | Medical College of Wisconsin | Software Engineer I - Radiology | score:3.8 | location:Milwaukee, WI | posted:2026-06-18T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4430479835 | TalentAlly | Software Engineer | score:3 | location:Daytona Beach, FL | posted:2026-06-18T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/snowflake/14e6f973-e312-480d-b094-c8cb7ad3181f | Snowflake | Software Engineer, Data Transformation | score:4.2 | location:DE-Berlin-Trion Building | posted:2026-06-19T06:53:42.335+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/cohere/732c05f5-a9ec-43a3-9ae4-3ec7f7630fff | Cohere | Software Engineer, Adoption | score:3 | location:London | posted:2026-06-19T09:49:24.685+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4427890981 | Hadrian | Fullstack Software Engineer, New Grad | score:4.2 | location:Los Angeles, CA | posted:2026-06-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430985452 | US 8th Army Korean Augmentation To the United States Army | Entry-Level Quality Assurance Engineer | score:3 | location:California, United States | posted:2026-06-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4429663695 | Jack &amp; Jill | Software Engineer, Platform ($200k-$250k + Equity) at Duckbill | score:3.7 | location:San Francisco, CA | posted:2026-06-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4420653816 | Epic for Kids | Junior Software Engineer, Full-Stack | score:3.8 | location:United States | posted:2026-06-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4429665305 | The Walt Disney Company | Product Software Engineer I | score:3.8 | location:Glendale, CA | posted:2026-06-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4419071723 | IPTA | Junior Software Developer | score:3.8 | location:Layton, UT | posted:2026-06-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430775952 | SpaceX | Full Stack Software Engineer (Application Software) | score:3.4 | location:Redmond, WA | posted:2026-06-19T00:00:00.000Z | source:linkedin-guest
