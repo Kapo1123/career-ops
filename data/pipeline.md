@@ -2843,3 +2843,7 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4429665305 | The Walt Disney Company | Product Software Engineer I | score:3.8 | location:Glendale, CA | posted:2026-06-19T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4419071723 | IPTA | Junior Software Developer | score:3.8 | location:Layton, UT | posted:2026-06-19T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4430775952 | SpaceX | Full Stack Software Engineer (Application Software) | score:3.4 | location:Redmond, WA | posted:2026-06-19T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4429680680 | Refocus LLC | AI/ML Software engineer | score:3 | location:Austin, Texas Metropolitan Area | posted:2026-06-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430989461 | US 8th Army Korean Augmentation To the United States Army | Entry-Level Quality Assurance Engineer | score:3 | location:United States | posted:2026-06-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4429663086 | Cohere | Software Engineer, Adoption | score:3.3 | location:San Francisco, CA | posted:2026-06-19T00:00:00.000Z | source:linkedin-guest
