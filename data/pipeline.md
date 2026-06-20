@@ -2894,3 +2894,10 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4428507972 | Haystack | Junior Software Developer | score:3.8 | location:Washington, DC | posted:2026-06-20T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4430086023 | hackajob | Software Engineer (Display Products) - Early Career | score:3.8 | location:Mt. Laurel, NJ | posted:2026-06-20T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4421876109 | Developer - IT | C++ Software Developer – Trading Execution | score:3.3 | location:New York, NY | posted:2026-06-19T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4430076672 | David Joseph &amp; Company | Software Engineer (Backend / AI Infrastructure) | score:3.7 | location:San Francisco, CA | posted:2026-06-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4403157663 | SpaceX | Wireless Software Engineer (Starlink) | score:3 | location:Sunnyvale, CA | posted:2026-06-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430084790 | ANJL - Associação Nacional de Jogos e Loterias | ENTRY LEVEL SOFTWARE DEVELOPE | score:3.8 | location:United States | posted:2026-06-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431330849 | Helic &amp; Co | Junior Software Engineer | score:3.8 | location:United States | posted:2026-06-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430078875 | Junior Software Engineer | Software Engineer | score:3 | location:Miami, FL | posted:2026-06-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431326842 | ASPIRE IMMIGRATION | Junior Software Engineer | score:3.8 | location:California, United States | posted:2026-06-20T00:00:00.000Z | source:linkedin-guest
