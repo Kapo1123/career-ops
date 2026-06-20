@@ -2907,3 +2907,8 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4428286439 | Innovative Defense Technologies (IDT) | Associate Software Engineer - JobID-838 | score:3.8 | location:Mount Laurel, NJ | posted:2026-06-19T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/3986112672 | Epic | Software Engineer | score:3 | location:Sitka, AK | posted:2026-06-20T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4420995644 | Book of the Month | Backend Software Engineer | score:3.7 | location:New York, NY | posted:2026-06-20T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4430057962 | Remote Job Network | Entry Level Remote Jobs | score:3.8 | location:Jobs Cabin, NC | posted:2026-06-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/3986111771 | Epic | Entry-Level Software Developer | score:3 | location:Carrollton, TX | posted:2026-06-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430093563 | Jack &amp; Jill | Software Engineer at Den | score:3.3 | location:New York, United States | posted:2026-06-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/3986114480 | Epic | Software Engineer | score:3 | location:Iowa City, IA | posted:2026-06-20T00:00:00.000Z | source:linkedin-guest
