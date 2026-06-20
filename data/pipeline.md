@@ -2901,3 +2901,9 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4431330849 | Helic &amp; Co | Junior Software Engineer | score:3.8 | location:United States | posted:2026-06-20T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4430078875 | Junior Software Engineer | Software Engineer | score:3 | location:Miami, FL | posted:2026-06-20T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4431326842 | ASPIRE IMMIGRATION | Junior Software Engineer | score:3.8 | location:California, United States | posted:2026-06-20T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6098390004 | Vercel | Software Engineer, Eve | score:3.3 | location:Hybrid - San Francisco, New York City | posted:2026-06-20T14:03:11-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4332702332 | Yugabyte | Software Engineer II | score:3.8 | location:Sunnyvale, CA | posted:2026-06-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428286439 | Innovative Defense Technologies (IDT) | Associate Software Engineer - JobID-838 | score:3.8 | location:Mount Laurel, NJ | posted:2026-06-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/3986112672 | Epic | Software Engineer | score:3 | location:Sitka, AK | posted:2026-06-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4420995644 | Book of the Month | Backend Software Engineer | score:3.7 | location:New York, NY | posted:2026-06-20T00:00:00.000Z | source:linkedin-guest
