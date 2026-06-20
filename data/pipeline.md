@@ -2871,3 +2871,26 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/4389304766 | Peraton | Junior Full Stack Software Engineer (DevSecOps) | score:4.2 | location:Herndon, VA | posted:2026-06-19T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4428258615 | BrothersTech | Software Engineer | score:3 | location:United States | posted:2026-06-19T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4430016688 | Jack &amp; Jill | Software Engineer at Den | score:3.3 | location:New York, United States | posted:2026-06-19T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4430042399 | Hack Chicago | Software Engineer, New Grad (AI) | score:4.1 | location:San Francisco, CA | posted:2026-06-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430030577 | Hack Chicago | Software Engineer, New Grad | score:4.1 | location:San Francisco, CA | posted:2026-06-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431302101 | Solinius | Software Engineer, New Grad | score:4.1 | location:San Francisco, CA | posted:2026-06-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431301086 | Solinius | Software Engineer, New Grad (AI) | score:4.1 | location:San Francisco, CA | posted:2026-06-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431326079 | Butler Labs | Software Engineer, New Grad | score:4.1 | location:San Francisco, CA | posted:2026-06-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431308324 | mmmanyfold dev studio | Software Engineer, New Grad (AI) | score:4.1 | location:San Francisco, CA | posted:2026-06-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431320136 | Butler Labs | Software Engineer, New Grad (AI) | score:4.1 | location:San Francisco, CA | posted:2026-06-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431154535 | Symbotic | New Grad- Software Engineer | score:3.8 | location:Wilmington, MA | posted:2026-06-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428543458 | Trivexa Technologies Private Limited | Software Engineer (Entry-Level / Associate) | score:3.8 | location:California, United States | posted:2026-06-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431190597 | Actalent | Entry Level Software Engineer | score:3.8 | location:Moorestown, NJ | posted:2026-06-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431193786 | Collins Aerospace | Software Engineer 1 (Onsite) | score:3 | location:Fulton, MD | posted:2026-06-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431181412 | Actalent | Software Engineer | score:3 | location:Moorestown, NJ | posted:2026-06-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431303657 | Collins Aerospace | Software Engineer 1 - Tactical Communications (Onsite) | score:3 | location:Cedar Rapids, IA | posted:2026-06-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4421210155 | Opendoor | Software Engineer | score:3 | location:Miami, FL | posted:2026-06-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430074650 | Jack &amp; Jill | Software Engineer, Platform ($200k-$250k + Equity) at Duckbill | score:3.7 | location:San Francisco, CA | posted:2026-06-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4365190171 | Roku | Software Engineer, Machine Learning | score:3 | location:San Jose, CA | posted:2026-06-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431135965 | County of San Luis Obispo | Software Engineer I | score:3.8 | location:San Luis Obispo County, CA | posted:2026-06-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4378981044 | iSoftStone | Software Engineer | score:3 | location:Palo Alto, CA | posted:2026-06-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430073726 | Jack &amp; Jill | Software Engineer at Den | score:3.3 | location:New York, United States | posted:2026-06-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428507972 | Haystack | Junior Software Developer | score:3.8 | location:Washington, DC | posted:2026-06-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430086023 | hackajob | Software Engineer (Display Products) - Early Career | score:3.8 | location:Mt. Laurel, NJ | posted:2026-06-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4421876109 | Developer - IT | C++ Software Developer – Trading Execution | score:3.3 | location:New York, NY | posted:2026-06-19T00:00:00.000Z | source:linkedin-guest
