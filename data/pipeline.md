@@ -2912,3 +2912,12 @@ Paste job URLs here, one per line. Run `/career-ops pipeline` to process them al
 - [ ] https://www.linkedin.com/jobs/view/3986111771 | Epic | Entry-Level Software Developer | score:3 | location:Carrollton, TX | posted:2026-06-20T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4430093563 | Jack &amp; Jill | Software Engineer at Den | score:3.3 | location:New York, United States | posted:2026-06-20T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/3986114480 | Epic | Software Engineer | score:3 | location:Iowa City, IA | posted:2026-06-20T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4411704158 | Daikin Comfort | Software Engineer, Level 1 | score:3 | location:Waller, TX | posted:2026-06-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431394420 | Whipple Learning Cove | Early Career Software Engineer – Applied AI
+San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4375090102 | AppLovin | ML Infrastructure Engineer | score:3.4 | location:Palo Alto, CA | posted:2026-06-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430330431 | Jack &amp; Jill | Forward Deployed Software Engineer ($120K - $150K + Equity) at Arzana | score:3.3 | location:New York, NY | posted:2026-06-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428589441 | Institut Supérieur d'Informatique ISI (Tunisie) | Software Engineer (Entry-Level / Associate) | score:4.1 | location:New York, United States | posted:2026-06-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430330425 | Jack &amp; Jill | Software Engineer, Platform ($200k-$250k + Equity) at Duckbill | score:3.7 | location:San Francisco, CA | posted:2026-06-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/3986118126 | Epic | Software Engineer | score:3 | location:Sunnyvale, CA | posted:2026-06-20T00:00:00.000Z | source:linkedin-guest
