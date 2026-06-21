@@ -2928,3 +2928,8 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4430311729 | Knoxville Technology Council | Associate Software Engineer | score:3.8 | location:Oak Ridge, TN | posted:2026-06-21T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4392002407 | SpaceX | AI Security Software Engineer (Starshield) | score:3 | location:Palo Alto, CA | posted:2026-06-21T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4417976234 | Artie | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-06-21T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4428598522 | Institut Supérieur d'Informatique ISI (Tunisie) | Software Engineer (Entry-Level / Associate) | score:4.1 | location:New York, United States | posted:2026-06-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4391048977 | NiCE | Associate Software Engineer | score:3.8 | location:Sandy, UT | posted:2026-06-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431374761 | BuildBuddy | Software Engineer | score:3 | location:San Angelo Area | posted:2026-06-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4391380684 | CNN | Software Engineer II | score:3.8 | location:Atlanta, GA | posted:2026-06-21T00:00:00.000Z | source:linkedin-guest
