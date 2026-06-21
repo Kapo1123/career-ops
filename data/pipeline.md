@@ -2921,3 +2921,10 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4428589441 | Institut Supérieur d'Informatique ISI (Tunisie) | Software Engineer (Entry-Level / Associate) | score:4.1 | location:New York, United States | posted:2026-06-21T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4430330425 | Jack &amp; Jill | Software Engineer, Platform ($200k-$250k + Equity) at Duckbill | score:3.7 | location:San Francisco, CA | posted:2026-06-21T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/3986118126 | Epic | Software Engineer | score:3 | location:Sunnyvale, CA | posted:2026-06-20T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4431191724 | PNC | Software Engineer Associate | score:3.8 | location:Pittsburgh, PA | posted:2026-06-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428588549 | Institut Supérieur d'Informatique ISI (Tunisie) | Software Engineer (Entry-Level / Associate) | score:4.1 | location:New York, United States | posted:2026-06-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/3986114483 | Epic | Software Engineer | score:3 | location:Owensboro, KY | posted:2026-06-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430311729 | Knoxville Technology Council | Associate Software Engineer | score:3.8 | location:Oak Ridge, TN | posted:2026-06-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4392002407 | SpaceX | AI Security Software Engineer (Starshield) | score:3 | location:Palo Alto, CA | posted:2026-06-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417976234 | Artie | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-06-21T00:00:00.000Z | source:linkedin-guest
