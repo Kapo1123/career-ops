@@ -2933,3 +2933,13 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4391048977 | NiCE | Associate Software Engineer | score:3.8 | location:Sandy, UT | posted:2026-06-21T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4431374761 | BuildBuddy | Software Engineer | score:3 | location:San Angelo Area | posted:2026-06-21T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4391380684 | CNN | Software Engineer II | score:3.8 | location:Atlanta, GA | posted:2026-06-21T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4430353078 | Cubit Capital | Fullstack Software Engineer, New Grad | score:4.2 | location:Los Angeles, CA | posted:2026-06-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4419531755 | Visa | Software Engineer- Operations and Infrastructure | score:3.4 | location:Austin, TX | posted:2026-06-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430348036 | Jack &amp; Jill | Forward Deployed Software Engineer ($120K - $150K + Equity) at Arzana | score:3.3 | location:New York, NY | posted:2026-06-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/3986117151 | Epic | Software Engineer | score:3 | location:Brookings, SD | posted:2026-06-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430322351 | Berkeley Industrial Engineering &amp; Operations Research | Software Engineer II at Pariveda | score:3.8 | location:Indiana, United States | posted:2026-06-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431601788 | SpaceX | Software Engineer, C++ (Dragon) | score:3 | location:Hawthorne, CA | posted:2026-06-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430362511 | Jack &amp; Jill | Software Engineer, Platform ($200k-$250k + Equity) at Duckbill | score:3.7 | location:San Francisco, CA | posted:2026-06-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430360134 | Flair AI | Full Stack Engineer | score:3.7 | location:San Francisco, CA | posted:2026-06-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431387887 | Cuein AI | Software Engineer - Backend | score:3.7 | location:San Francisco Bay Area | posted:2026-06-21T00:00:00.000Z | source:linkedin-guest
