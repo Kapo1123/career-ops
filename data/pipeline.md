@@ -2961,3 +2961,12 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4431709972 | ABB | R&amp;D Associate Engineer | score:3.8 | location:Cleveland, OH | posted:2026-06-22T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4430566853 | Whova | Software Engineer (San Diego Only) | score:3 | location:San Diego, CA | posted:2026-06-22T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4431734387 | Singh Capital Partners | Software Engineer I | score:3.8 | location:Washington, DC | posted:2026-06-22T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4431764437 | USAN, Inc. | Entry Level Software Engineer - Hybrid - Norcross, GA | score:3.8 | location:Norcross, GA | posted:2026-06-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430578755 | Jack &amp; Jill | Software Engineer, Platform ($200k-$250k + Equity) at Duckbill | score:3.7 | location:San Francisco, CA | posted:2026-06-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432000907 | GliaCell Technologies | Junior Software Engineer | score:3.8 | location:Annapolis Junction, MD | posted:2026-06-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4429417202 | Ingeniería Industrial | Full Stack Engineer/Full Stack Developer | score:3.4 | location:United States | posted:2026-06-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4321363973 | Epic | Entry-Level Software Developer | score:3 | location:La Crosse, WI | posted:2026-06-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430597723 | Vin Investments Ltd | ENTRY LEVEL SOFTWARE DEVELOPE | score:3.8 | location:United States | posted:2026-06-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431772325 | SkillStorm | Entry Level Software Developer | score:4.1 | location:New York City Metropolitan Area | posted:2026-06-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431718529 | Digis, a Fiverr company (NYSE: FVRR) | Full Stack Engineer | score:3.4 | location:Boston, MA | posted:2026-06-22T00:00:00.000Z | source:linkedin-guest
