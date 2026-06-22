@@ -2943,3 +2943,13 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4430362511 | Jack &amp; Jill | Software Engineer, Platform ($200k-$250k + Equity) at Duckbill | score:3.7 | location:San Francisco, CA | posted:2026-06-21T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4430360134 | Flair AI | Full Stack Engineer | score:3.7 | location:San Francisco, CA | posted:2026-06-21T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4431387887 | Cuein AI | Software Engineer - Backend | score:3.7 | location:San Francisco Bay Area | posted:2026-06-21T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8013591 | Reddit | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-06-22T09:49:18-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/snowflake/f30d8887-7108-4044-bd06-9c97ddf52189 | Snowflake | Software Engineer Metadata  | score:4.2 | location:DE-Berlin-Trion Building | posted:2026-06-22T04:55:54.577+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4431613345 | UCF Office of Military and Veteran Student Success | Entry-Level Software Engineer (St Cloud, FL – OnSite) | score:3 | location:Pine Level, NC | posted:2026-06-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431723872 | LinkedIn | Software Engineer - Personalization Platform (Frontend) | score:3.4 | location:Mountain View, CA | posted:2026-06-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430378104 | Qcells North America | Junior Software Engineer | score:3.8 | location:Santa Clara, CA | posted:2026-06-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430563173 | Jack &amp; Jill | Software Engineer, Platform ($200k-$250k + Equity) at Duckbill | score:3.7 | location:San Francisco, CA | posted:2026-06-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430394761 | Crossing Hurdles | Software Engineer – Python | Remote | score:3.4 | location:United States | posted:2026-06-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431684894 | People2Care Technology | SOFTWARE DEVELOPER | score:3.3 | location:San Francisco, CA | posted:2026-06-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430505638 | Crossing Hurdles | Software Engineer | Remote | score:3 | location:United States | posted:2026-06-22T00:00:00.000Z | source:linkedin-guest
