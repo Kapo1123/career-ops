@@ -2953,3 +2953,11 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4430394761 | Crossing Hurdles | Software Engineer – Python | Remote | score:3.4 | location:United States | posted:2026-06-22T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4431684894 | People2Care Technology | SOFTWARE DEVELOPER | score:3.3 | location:San Francisco, CA | posted:2026-06-22T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4430505638 | Crossing Hurdles | Software Engineer | Remote | score:3 | location:United States | posted:2026-06-22T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4708221005 | Scale AI | Software Engineer, Data Infrastructure | score:3.7 | location:New York, NY; Washington, DC | posted:2026-06-22T13:41:10-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4321394022 | Epic | Entry-Level Software Developer | score:3 | location:Broken Arrow, OK | posted:2026-06-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431716538 | Helic &amp; Co | Junior Software Engineer | score:3.8 | location:United States | posted:2026-06-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430569087 | Optomi | Junior Full Stack Developer | score:4.2 | location:Dallas, TX | posted:2026-06-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431709972 | ABB | R&amp;D Associate Engineer | score:3.8 | location:Cleveland, OH | posted:2026-06-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430566853 | Whova | Software Engineer (San Diego Only) | score:3 | location:San Diego, CA | posted:2026-06-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431734387 | Singh Capital Partners | Software Engineer I | score:3.8 | location:Washington, DC | posted:2026-06-22T00:00:00.000Z | source:linkedin-guest
