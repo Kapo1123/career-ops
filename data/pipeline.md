@@ -2970,3 +2970,14 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4430597723 | Vin Investments Ltd | ENTRY LEVEL SOFTWARE DEVELOPE | score:3.8 | location:United States | posted:2026-06-22T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4431772325 | SkillStorm | Entry Level Software Developer | score:4.1 | location:New York City Metropolitan Area | posted:2026-06-22T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4431718529 | Digis, a Fiverr company (NYSE: FVRR) | Full Stack Engineer | score:3.4 | location:Boston, MA | posted:2026-06-22T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8220814002 | Databricks | Sr Software Engineer, Agentic Applications | score:3.8 | location:Mountain View, California | posted:2026-06-22T17:47:46-04:00 | source:greenhouse-api
+- [ ] https://www.brex.com/careers/8603327002?gh_jid=8603327002 | Brex | Software Engineer II, Backend | score:4.2 | location:Vancouver, British Columbia, Canada | posted:2026-06-22T18:35:00-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/sierra/f51d6c09-d767-4e86-bc62-216b2051e318 | Sierra | Software Engineer, Agent (Brazilian Portuguese speaking) | score:3.3 | location:San Francisco, CA | posted:2026-06-22T21:57:03.449+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4321394018 | Epic | Entry-Level Software Developer | score:3 | location:Wausau, WI | posted:2026-06-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432016243 | WellSky | Associate Software Engineer - Onsite | score:3.8 | location:Overland Park, KS | posted:2026-06-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431741918 | BravoTran | Software Engineer | score:3 | location:United States | posted:2026-06-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428959907 | Tech Consulting | Software Engineer | score:3 | location:Georgia, United States | posted:2026-06-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431742600 | CyberCoders | Jr. Software Engineer - ONSITE Hybrid | score:3 | location:Atlanta, GA | posted:2026-06-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432033379 | Blossom | Software Engineer (All Levels) | score:3.3 | location:New York, NY | posted:2026-06-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431782659 | Cutsforth | Jr. Full Stack Developer | score:3.4 | location:Ferndale, WA | posted:2026-06-22T00:00:00.000Z | source:linkedin-guest
