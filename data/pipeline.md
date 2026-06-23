@@ -3019,3 +3019,10 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4417977797 | Boeing | Associate and Experienced Platform Software Engineers | score:4.2 | location:Berkeley, MO | posted:2026-06-23T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4392821118 | TSMC | Software Engineer (New Graduate) - North America Software Center | score:3.8 | location:Vancouver, WA | posted:2026-06-23T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4431236851 | Jack &amp; Jill | Software Engineer, Platform ($200k-$250k + Equity) at Duckbill | score:3.7 | location:San Francisco, CA | posted:2026-06-23T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8560779002 | Databricks | Software Engineer, Web Products | score:3.8 | location:Mountain View, California | posted:2026-06-23T15:35:44-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4430842739 | Intel | Software Engineer | score:3 | location:Hillsboro, OR | posted:2026-06-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4419537677 | Visa | Software Engineer | score:3 | location:Foster City, CA | posted:2026-06-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431793223 | GliaCell Technologies | Junior Java Software Engineer | score:4.2 | location:Annapolis Junction, MD | posted:2026-06-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432411514 | Honeywell | Mods &amp; Upgrades Software Engineer I | score:3.8 | location:Mason, OH | posted:2026-06-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432405624 | CVRD Health | Junior Software Engineer | score:3.8 | location:Miami, FL | posted:2026-06-23T00:00:00.000Z | source:linkedin-guest
