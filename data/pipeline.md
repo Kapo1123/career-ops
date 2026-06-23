@@ -3026,3 +3026,14 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4431793223 | GliaCell Technologies | Junior Java Software Engineer | score:4.2 | location:Annapolis Junction, MD | posted:2026-06-22T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4432411514 | Honeywell | Mods &amp; Upgrades Software Engineer I | score:3.8 | location:Mason, OH | posted:2026-06-23T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4432405624 | CVRD Health | Junior Software Engineer | score:3.8 | location:Miami, FL | posted:2026-06-23T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.coinbase.com/careers/positions/8024814?gh_jid=8024814 | Coinbase | Software Engineer, Enterprise Apps | score:4.1 | location:Remote - Brazil | posted:2026-06-23T18:40:33-04:00 | source:greenhouse-api
+- [ ] https://stripe.com/jobs/search?gh_jid=7994887 | Stripe | Full Stack Engineer, Startup Products | score:4.2 | location:N/A | posted:2026-06-23T17:56:33-04:00 | source:greenhouse-api
+- [ ] https://boards.greenhouse.io/robinhood/jobs/8024530?t=gh_src=&gh_jid=8024530 | Robinhood | Customer Experience Associate (New Grad) | score:4.6 | location:Denver, CO; Westlake, TX | posted:2026-06-23T15:59:11-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4431447345 | Seaga | Jr Software Developer | score:3 | location:River Falls, WI | posted:2026-06-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431401849 | Jack &amp; Jill | Software Engineer, Platform ($200k-$250k + Equity) at Duckbill | score:3.7 | location:San Francisco, CA | posted:2026-06-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432041681 | Clarier.ai | Software Developer | score:3 | location:Hollywood, FL | posted:2026-06-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432447882 | Renaissance Learning | Software Engineer I | score:3.8 | location:United States | posted:2026-06-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432450647 | Cisco | Software Engineer Backend/Platform Systems I (Full Time) – United States | score:3.4 | location:Austin, TX | posted:2026-06-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425967260 | Texas Sports Academy | Junior Software Engineer, AI-Forward | score:3.8 | location:Austin, TX | posted:2026-06-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432096140 | Arclite | Software Engineer (Backend) | score:3.4 | location:Multnomah County, OR | posted:2026-06-23T00:00:00.000Z | source:linkedin-guest
