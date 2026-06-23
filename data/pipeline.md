@@ -3007,3 +3007,15 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4428999340 | IBM | Software Developer (Apprentice Conversion) | score:3 | location:San Jose, CA | posted:2026-06-22T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4431236849 | Jack &amp; Jill | Software Engineer at Den | score:3.3 | location:New York, United States | posted:2026-06-23T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4431761451 | SkillStorm | Entry Level Software Developer | score:3.8 | location:Houston, TX | posted:2026-06-22T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=8015792 | MongoDB | Software Engineer 3 | score:3.3 | location:New York City | posted:2026-06-23T13:05:51-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/snowflake/9bbafaf2-240d-4cfb-8e95-b289f0350be5 | Snowflake | Forward Deployed Engineer – Data Engineer | score:4.2 | location:US-CA-Menlo Park | posted:2026-06-23T11:51:03.716+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4428934878 | BeaconFire Inc. | Software Engineer | score:3.3 | location:New York City Metropolitan Area | posted:2026-06-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432058132 | Cylake | Software Engineer (2027 University Grad) | score:3.8 | location:Sunnyvale, CA | posted:2026-06-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432280013 | Qualcomm | Software Engineer (University Grad) | score:3.8 | location:Boulder, CO | posted:2026-06-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430806173 | Carbon Robotics | Jr. Software Engineer, Mobile | score:3.3 | location:Seattle, WA | posted:2026-06-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4393219831 | Salesforce | Software Engineering AMTS (College Grad) | score:3.3 | location:San Francisco, CA | posted:2026-06-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432293848 | Bain &amp; Company | Software Engineer I, Private Equity Innovation | score:3.8 | location:Dallas, TX | posted:2026-06-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417977797 | Boeing | Associate and Experienced Platform Software Engineers | score:4.2 | location:Berkeley, MO | posted:2026-06-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4392821118 | TSMC | Software Engineer (New Graduate) - North America Software Center | score:3.8 | location:Vancouver, WA | posted:2026-06-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431236851 | Jack &amp; Jill | Software Engineer, Platform ($200k-$250k + Equity) at Duckbill | score:3.7 | location:San Francisco, CA | posted:2026-06-23T00:00:00.000Z | source:linkedin-guest
