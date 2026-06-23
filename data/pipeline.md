@@ -2981,3 +2981,29 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4431742600 | CyberCoders | Jr. Software Engineer - ONSITE Hybrid | score:3 | location:Atlanta, GA | posted:2026-06-22T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4432033379 | Blossom | Software Engineer (All Levels) | score:3.3 | location:New York, NY | posted:2026-06-22T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4431782659 | Cutsforth | Jr. Full Stack Developer | score:3.4 | location:Ferndale, WA | posted:2026-06-22T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.coinbase.com/careers/positions/7958901?gh_jid=7958901 | Coinbase | Software Engineer, Enterprise Apps | score:4.1 | location:Remote - USA | posted:2026-06-23T11:22:50-04:00 | source:greenhouse-api
+- [ ] https://careers.datadoghq.com/detail/8023250/?gh_jid=8023250 | Datadog | Software Engineer - AI Developer Workflows | score:3 | location:Tel Aviv, Israel | posted:2026-06-23T09:29:12-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/sierra/61bb1eca-b416-4e6d-a0ac-5f418b35a8f3 | Sierra | Forward Deployed Infrastructure Engineer | score:3.4 | location:London | posted:2026-06-23T13:52:35.584+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4432031923 | Snowflake | AI Research Scientist, New Grad – Agents &amp; Reinforcement Learning | score:4.6 | location:Bellevue, WA | posted:2026-06-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432054850 | Pebble | Robotics Software Engineer | score:3 | location:Fremont, CA | posted:2026-06-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431228885 | Cox Automotive Inc. | Entry Level Software Engineer (Irvine, CA) | score:3.8 | location:Irvine, CA | posted:2026-06-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431251369 | Cox Automotive Inc. | Entry Level Software Engineer (Burlington, VT) | score:3.8 | location:Burlington, VT | posted:2026-06-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431260124 | Emonics LLC | Software Engineer | score:3.3 | location:New York, United States | posted:2026-06-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431269170 | Emonics LLC | Entry Level Software Engineer | score:3.8 | location:Raleigh, NC | posted:2026-06-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432280898 | AV | Entry-Level Software Engineer | score:3 | location:Dayton, OH | posted:2026-06-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430846760 | VetJobs | Entry Level Software Engineer - Scottsdale, AZ | score:3.8 | location:Scottsdale, AZ | posted:2026-06-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430832056 | Goldman Sachs | Engineering Division -New York - Associate, Software Engineering - 3148229 | score:4.1 | location:New York, NY | posted:2026-06-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4423288387 | Morgan Stanley | Associate, Software Engineer | score:3.8 | location:Alpharetta, GA | posted:2026-06-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4429450316 | Boeing | Software Engineer - Developer (Associate and Experienced) | score:3.8 | location:Kent, WA | posted:2026-06-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431222247 | Optum | Associate Software Engineer | score:3.8 | location:Minnetonka, MN | posted:2026-06-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4423152961 | Haystack | Associate Software Engineer | score:3.8 | location:St Louis, MO | posted:2026-06-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432081181 | Eulerity | Associate Web Development Software Engineer (SDK) | score:4.1 | location:New York City Metropolitan Area | posted:2026-06-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432275480 | Helic &amp; Co | Junior Software Engineer | score:3.8 | location:United States | posted:2026-06-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430873144 | SpaceX | Application Software Engineer, Manufacturing | score:3 | location:Hawthorne, CA | posted:2026-06-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430854298 | SpaceX | Software Engineer, C++ (Simulations) | score:3 | location:Hawthorne, CA | posted:2026-06-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432240549 | Stealth Startup | Backend Developer [32922] | score:3.7 | location:New York, United States | posted:2026-06-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4429421608 | Sony Interactive Entertainment | Software Engineer I | score:3.8 | location:San Diego, CA | posted:2026-06-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428999340 | IBM | Software Developer (Apprentice Conversion) | score:3 | location:San Jose, CA | posted:2026-06-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431236849 | Jack &amp; Jill | Software Engineer at Den | score:3.3 | location:New York, United States | posted:2026-06-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431761451 | SkillStorm | Entry Level Software Developer | score:3.8 | location:Houston, TX | posted:2026-06-22T00:00:00.000Z | source:linkedin-guest
