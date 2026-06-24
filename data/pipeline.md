@@ -3037,3 +3037,17 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4432450647 | Cisco | Software Engineer Backend/Platform Systems I (Full Time) – United States | score:3.4 | location:Austin, TX | posted:2026-06-23T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4425967260 | Texas Sports Academy | Junior Software Engineer, AI-Forward | score:3.8 | location:Austin, TX | posted:2026-06-23T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4432096140 | Arclite | Software Engineer (Backend) | score:3.4 | location:Multnomah County, OR | posted:2026-06-23T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://app.careerpuck.com/job-board/lyft/job/8605842002?gh_jid=8605842002 | Lyft | Data Engineer, Pricing | score:4.2 | location:Toronto, Canada | posted:2026-06-24T11:02:28-04:00 | source:greenhouse-api
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=8010102 | MongoDB | Software Engineer 3, Query Integration | score:3.3 | location:New York; New York City | posted:2026-06-24T11:18:29-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4431448515 | Goldman Sachs | Platform Solutions- Richardson- Associate, Software Engineering- 3266716 | score:4.2 | location:Richardson, TX | posted:2026-06-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432405855 | BlackRock | Associate - Data Engineering | score:4.2 | location:Atlanta, GA | posted:2026-06-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431430570 | Goldman Sachs | Engineering -New York - Associate, Software Engineering – 3396053 | score:4.1 | location:New York, NY | posted:2026-06-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431291823 | ImpetusIT | Software Engineer | score:3.3 | location:New York, United States | posted:2026-06-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422658332 | U.S. Bank | Software Engineer 1 (React + API + Cloud Migration) | score:3 | location:Irving, TX | posted:2026-06-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4429493511 | Allegheny County | Software Engineer | score:3 | location:Pittsburgh, PA | posted:2026-06-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4429480010 | Haystack | Associate Software Engineer | score:3.8 | location:Los Angeles, CA | posted:2026-06-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4429488339 | Sam's Club | Software Engineer II | score:3.8 | location:Sunnyvale, CA | posted:2026-06-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4429873135 | Haystack | Junior Software Engineer | score:3.8 | location:Washington, DC | posted:2026-06-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4419623538 | Robinhood | Software Engineer | score:3.8 | location:Menlo Park, CA | posted:2026-06-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431476466 | targetjobs UK | Graduate Software Engineer | score:3 | location:Carlisle, PA | posted:2026-06-24T00:00:00.000Z | source:linkedin-guest
