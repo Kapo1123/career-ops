@@ -3051,3 +3051,16 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4429873135 | Haystack | Junior Software Engineer | score:3.8 | location:Washington, DC | posted:2026-06-24T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4419623538 | Robinhood | Software Engineer | score:3.8 | location:Menlo Park, CA | posted:2026-06-24T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4431476466 | targetjobs UK | Graduate Software Engineer | score:3 | location:Carlisle, PA | posted:2026-06-24T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4432408339 | Symetra | Software Engineer II, AI Enablement (Remote) | score:3.8 | location:United States | posted:2026-06-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432815188 | TalentAlly | Platform Software Engineer | score:3.4 | location:Berkeley, MO | posted:2026-06-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432512749 | Cisco | Software Engineer I (Full Time) – Devices Technology Group – United States | score:3.8 | location:Durham, NC | posted:2026-06-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432519219 | Qualtrics | Software Engineer I - Core Topics Platform | score:4.5 | location:Provo, UT | posted:2026-06-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432503903 | Cisco | Software Engineer Backend/Platform Systems I (Full Time) – United States | score:3.4 | location:Alpharetta, GA | posted:2026-06-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422477827 | True Anomaly | Software Engineer I, QA | score:3.8 | location:Long Beach, CA | posted:2026-06-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422651758 | SpaceX | Software Engineer, Components (Starshield) | score:3 | location:Hawthorne, CA | posted:2026-06-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4419610924 | Robinhood | Software Engineer | score:3.8 | location:Menlo Park, CA | posted:2026-06-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432437735 | Texas Sports Academy | Junior Software Engineer (AI-Forward) | score:3.8 | location:Austin, TX | posted:2026-06-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431466677 | Temu | Software Engineer | score:3 | location:United States | posted:2026-06-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4262571856 | xAI | Software Engineer - Infrastructure | score:3.4 | location:Palo Alto, CA | posted:2026-06-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431436985 | Space Dynamics Laboratory | Entry-Level Full Stack Web Developer | score:3.4 | location:North Logan, UT | posted:2026-06-24T00:00:00.000Z | source:linkedin-guest
