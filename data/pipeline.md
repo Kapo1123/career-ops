@@ -3079,3 +3079,16 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4432462712 | Visionist, Inc. | Junior Cloud Software Engineer | score:3.8 | location:Columbia, MD | posted:2026-06-23T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4429865572 | Stealth Startup | Backend Developer [33278] | score:3.7 | location:New York City Metropolitan Area | posted:2026-06-24T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4432478254 | KBR Careers | Software Engineer - Junior Level | score:3.8 | location:Aurora, CO | posted:2026-06-24T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=8026658 | MongoDB | Software Engineer 3, Query Integration | score:3 | location:Vancouver | posted:2026-06-24T15:03:04-04:00 | source:greenhouse-api
+- [ ] https://www.brex.com/careers/8606538002?gh_jid=8606538002 | Brex | Software Engineer II, Backend | score:4.5 | location:San Francisco, California, United States | posted:2026-06-24T14:51:55-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/snowflake/dd0b29a3-6bc8-4d6c-8fa6-79da445c70bd | Snowflake | Prinicpal Software Engineer - Data Engineering & Streaming Primitives | score:4.2 | location:US-WA-Bellevue | posted:2026-06-24T21:15:30.796+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4432846031 | Manheim Dallas-Fort Worth | Entry Level Software Engineer (Austin, TX) | score:3.8 | location:Austin, TX | posted:2026-06-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432809200 | EmpiRx Health | Software Engineer I | score:3.8 | location:United States | posted:2026-06-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431899270 | U.S. Bank | Associate Software Engineer | score:3.8 | location:Atlanta, GA | posted:2026-06-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422670737 | JPMorganChase | Software Engineer [Multiple Positions Available] | score:3 | location:Plano, TX | posted:2026-06-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432512575 | PayPal | Software Engineer - Cloud Infrastructure and Devops | score:3.4 | location:San Jose, CA | posted:2026-06-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432474191 | Nutanix | Software Engineer 2 | score:3 | location:San Jose, CA | posted:2026-06-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4423917864 | Google | Software Engineer, Calibration and System Test | score:4.5 | location:San Jose, CA | posted:2026-06-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4419603998 | Robinhood | Software Engineer | score:3.8 | location:Menlo Park, CA | posted:2026-06-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432845747 | loopfour | Full Stack Software Developer | score:3.4 | location:Silicon Valley, CA | posted:2026-06-24T00:00:00.000Z | source:linkedin-guest
