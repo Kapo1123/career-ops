@@ -3064,3 +3064,18 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4431466677 | Temu | Software Engineer | score:3 | location:United States | posted:2026-06-24T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4262571856 | xAI | Software Engineer - Infrastructure | score:3.4 | location:Palo Alto, CA | posted:2026-06-24T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4431436985 | Space Dynamics Laboratory | Entry-Level Full Stack Web Developer | score:3.4 | location:North Logan, UT | posted:2026-06-24T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=8026663 | MongoDB | Software Engineer 3, Query Integration | score:3 | location:Toronto | posted:2026-06-24T15:03:05-04:00 | source:greenhouse-api
+- [ ] https://www.brex.com/careers/8606540002?gh_jid=8606540002 | Brex | Software Engineer II, Backend | score:4.5 | location:Seattle, Washington, United States | posted:2026-06-24T14:52:35-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4419615941 | Robinhood | Software Engineer | score:3.8 | location:Menlo Park, CA | posted:2026-06-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432804616 | General Motors | Software Engineer – Test Framework | score:3 | location:Warren, MI | posted:2026-06-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4409464098 | Salesforce | Software Engineering AMTS (College Grad) | score:3 | location:Indianapolis, IN | posted:2026-06-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432436912 | Amentum | Software Programmer - Entry Level | score:3.8 | location:Tullahoma, TN | posted:2026-06-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432820924 | BlackRock | Associate, Full-Stack Engineer (Python/React) - SMA Solutions | score:4.5 | location:San Francisco, CA | posted:2026-06-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432508340 | ASRC Federal | Associate Software Engineer | score:3.8 | location:Morristown, NJ | posted:2026-06-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4429831215 | Stealth Startup | Backend Developer [33163] | score:3.4 | location:California, United States | posted:2026-06-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4429858109 | Stealth Startup | Backend Developer [33168] | score:3.7 | location:New York, United States | posted:2026-06-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4429848188 | Stealth Startup | Backend Developer [33165] | score:3.7 | location:New York, United States | posted:2026-06-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432462712 | Visionist, Inc. | Junior Cloud Software Engineer | score:3.8 | location:Columbia, MD | posted:2026-06-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4429865572 | Stealth Startup | Backend Developer [33278] | score:3.7 | location:New York City Metropolitan Area | posted:2026-06-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432478254 | KBR Careers | Software Engineer - Junior Level | score:3.8 | location:Aurora, CO | posted:2026-06-24T00:00:00.000Z | source:linkedin-guest
