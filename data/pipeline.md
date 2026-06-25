@@ -3104,3 +3104,13 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4432812870 | Showpad | Junior Software Engineer | score:3.8 | location:Minneapolis, MN | posted:2026-06-24T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4432133417 | Jack &amp; Jill | Software Engineer, Platform ($200k-$250k + Equity) at Duckbill | score:3.7 | location:San Francisco, CA | posted:2026-06-25T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4432164299 | Optum | Associate Software Engineer | score:3.8 | location:Cypress, CA | posted:2026-06-25T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/openai/66288824-8b77-4774-bc57-6825d3e6221e | OpenAI | Full Stack Software Engineer, API Experience  | score:3.7 | location:New York City | posted:2026-06-25T17:02:07.525+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4433006385 | V2X Inc | Software Engineer -Weapon System Integration (T01) | score:3 | location:Indianapolis, IN | posted:2026-06-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432860625 | Ibotta | Associate Software Engineer | score:3.8 | location:Denver, CO | posted:2026-06-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432846872 | Aledade, Inc. | Software Engineer I | score:3.8 | location:United States | posted:2026-06-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432888276 | BlueCross BlueShield of Tennessee | Associate Software Engineer I | score:3.8 | location:United States | posted:2026-06-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4433006090 | The Washington Post | Full-Stack Software Engineer I | score:3.8 | location:Washington, DC | posted:2026-06-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432153677 | Vertafore | Software Engineer I | score:3.8 | location:East Lansing, MI | posted:2026-06-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432112651 | Honeywell | Java Software Engineer I | score:4.2 | location:Richmond, VA | posted:2026-06-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432886892 | V2X Inc | Software Engineer (T1) | score:3 | location:Indianapolis, IN | posted:2026-06-25T00:00:00.000Z | source:linkedin-guest
