@@ -3114,3 +3114,10 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4432153677 | Vertafore | Software Engineer I | score:3.8 | location:East Lansing, MI | posted:2026-06-25T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4432112651 | Honeywell | Java Software Engineer I | score:4.2 | location:Richmond, VA | posted:2026-06-25T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4432886892 | V2X Inc | Software Engineer (T1) | score:3 | location:Indianapolis, IN | posted:2026-06-25T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.coinbase.com/careers/positions/8028985?gh_jid=8028985 | Coinbase | Software Engineer, Frontend (Consumer - Card) | score:4.1 | location:Remote - USA | posted:2026-06-25T14:47:56-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4433099680 | Cox Automotive Inc. | Entry Level Software Engineer (Austin, TX) | score:3.8 | location:Austin, TX | posted:2026-06-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4433034492 | Northrop Grumman | Associate AI Software Engineer (Level 1) | score:3.8 | location:Dulles, VA | posted:2026-06-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4433061680 | Haystack | Junior Software Engineer | score:3.8 | location:Washington, DC | posted:2026-06-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4433386394 | Starcloud | Software Engineer | score:3 | location:Redmond, WA | posted:2026-06-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432657834 | Nextpower | Software Engineer | score:3 | location:Fremont, CA | posted:2026-06-25T00:00:00.000Z | source:linkedin-guest
