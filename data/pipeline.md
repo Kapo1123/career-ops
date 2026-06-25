@@ -3121,3 +3121,16 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4433061680 | Haystack | Junior Software Engineer | score:3.8 | location:Washington, DC | posted:2026-06-25T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4433386394 | Starcloud | Software Engineer | score:3 | location:Redmond, WA | posted:2026-06-25T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4432657834 | Nextpower | Software Engineer | score:3 | location:Fremont, CA | posted:2026-06-25T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://careers.roblox.com/jobs/8025021?gh_jid=8025021 | Roblox | Software Engineer, Data Engineering | score:3.4 | location:San Mateo, CA, United States | posted:2026-06-25T17:24:20-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4432696560 | Emonics LLC | Entry Level Software Engineer | score:4.1 | location:New York, United States | posted:2026-06-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430271731 | Agency Folk | Software Engineer (Entry-Level / Associate) | score:4.1 | location:New York, United States | posted:2026-06-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432698393 | Emonics LLC | Software Engineer | score:3 | location:Dallas, TX | posted:2026-06-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430282744 | BAE Systems, Inc. | Software Engineer – Precision Sensing &amp; Seeker Systems | score:3 | location:Huntsville, AL | posted:2026-06-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432892913 | US Tech Solutions | Full Stack Developer Associate level- #26-14748 | score:4.2 | location:Jersey City, NJ | posted:2026-06-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4433502897 | Cisco | Software Engineer II (Full Time)- United States | score:4.1 | location:San Francisco, CA | posted:2026-06-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4433513807 | Uber | Software Engineer I | score:3.8 | location:Sunnyvale, CA | posted:2026-06-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432692590 | Vizient, Inc | Software Engineer | score:3 | location:Irving, TX | posted:2026-06-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4433528009 | Helic &amp; Co | Junior Software Engineer | score:3.8 | location:United States | posted:2026-06-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432910042 | Kyndryl | Software Engineer - Development | score:3 | location:Dallas, TX | posted:2026-06-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432698565 | Allstate | Software Engineer (All Levels) | score:3 | location:United States | posted:2026-06-25T00:00:00.000Z | source:linkedin-guest
