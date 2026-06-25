@@ -3092,3 +3092,15 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4423917864 | Google | Software Engineer, Calibration and System Test | score:4.5 | location:San Jose, CA | posted:2026-06-24T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4419603998 | Robinhood | Software Engineer | score:3.8 | location:Menlo Park, CA | posted:2026-06-24T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4432845747 | loopfour | Full Stack Software Developer | score:3.4 | location:Silicon Valley, CA | posted:2026-06-24T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.brex.com/careers/8606534002?gh_jid=8606534002 | Brex | Software Engineer II, Backend | score:4.5 | location:New York, New York, United States | posted:2026-06-24T14:50:58-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6093255004 | Vercel | Security Software Engineer, IAM | score:3.3 | location:Remote - United States | posted:2026-06-25T11:44:11-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/synthesia/c2d3d3a8-f7b8-45f5-ad89-dba6ac14625c | Synthesia |  ML Platform Engineer | score:3.4 | location:Europe | posted:2026-06-25T14:06:22.368+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4432619204 | Recursia | Software Engineer, New Grad | score:4.1 | location:San Francisco, CA | posted:2026-06-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4433042312 | Vizlab Ventures | Software Engineer, New Grad (AI) | score:4.1 | location:San Francisco, CA | posted:2026-06-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432616199 | Recursia | Software Engineer, New Grad (AI) | score:4.1 | location:San Francisco, CA | posted:2026-06-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432633898 | Elsevier | Software Engineer I | score:3.8 | location:Virginia, United States | posted:2026-06-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430214444 | Transmarket Group Inc | Junior Software Engineer | score:3.8 | location:Chicago, IL | posted:2026-06-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432812870 | Showpad | Junior Software Engineer | score:3.8 | location:Minneapolis, MN | posted:2026-06-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432133417 | Jack &amp; Jill | Software Engineer, Platform ($200k-$250k + Equity) at Duckbill | score:3.7 | location:San Francisco, CA | posted:2026-06-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432164299 | Optum | Associate Software Engineer | score:3.8 | location:Cypress, CA | posted:2026-06-25T00:00:00.000Z | source:linkedin-guest
