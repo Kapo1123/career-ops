@@ -3144,3 +3144,16 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4432672789 | V2X Inc | Software Engineer I | score:3.8 | location:Orlando, FL | posted:2026-06-25T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4433234577 | TetraMem - Accelerate The World | Software Engineer I – Compiler &amp; Runtime | score:3.8 | location:San Jose, CA | posted:2026-06-26T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4433336888 | SICK Sensor Intelligence | Software Engineer II | score:3.8 | location:Greater Minneapolis-St. Paul Area | posted:2026-06-25T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://boards.greenhouse.io/figma/jobs/6102379004?gh_jid=6102379004 | Figma | Software Engineer, Traffic | score:4.1 | location:San Francisco, CA • New York, NY • United States | posted:2026-06-26T12:43:35-04:00 | source:greenhouse-api
+- [ ] https://stripe.com/jobs/search?gh_jid=8030859 | Stripe | Backend Engineer, Financial Connections | score:4.5 | location:Toronto, Remote in Canada | posted:2026-06-26T12:29:42-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/twitch/jobs/8610471002 | Twitch | Software Engineer, Memberships  | score:3.3 | location:Seattle, WA | posted:2026-06-26T12:45:01-04:00 | source:greenhouse-api
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=8030945 | MongoDB | Software Engineer 3, Atlas API Experience Integrations | score:3 | location:Dublin | posted:2026-06-26T13:02:16-04:00 | source:greenhouse-api
+- [ ] https://jobs.lever.co/palantir/95e0d2b0-437a-4096-a5c6-0f247f426c90 | Palantir | Privacy & Civil Liberties Engineer - New Grad | score:4.1 | location:New York, NY | posted:2026-06-25T19:00:58.129Z | source:lever-api
+- [ ] https://www.linkedin.com/jobs/view/4433893285 | Hired | Software Engineer - E-Commerce (Remote) | score:3 | location:United States | posted:2026-06-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4433239135 | Haystack | Junior Software Engineer | score:3.8 | location:Atlanta Metropolitan Area | posted:2026-06-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4433249691 | Eccalon, LLC | Junior Software Engineer | score:3.8 | location:Detroit, MI | posted:2026-06-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430293944 | Software Synergy Solutions and Club | Junior Software Engineer | score:3.8 | location:California, United States | posted:2026-06-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414679704 | Garmin | Software Engineer 1 | score:3 | location:Chandler, AZ | posted:2026-06-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4433240698 | Discord | Software Engineer, Developer Success | score:3.3 | location:San Francisco Bay Area | posted:2026-06-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432953598 | Jack &amp; Jill | Software Engineer, Platform ($200k-$250k + Equity) at Duckbill | score:3.7 | location:San Francisco, CA | posted:2026-06-26T00:00:00.000Z | source:linkedin-guest
