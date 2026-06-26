@@ -3134,3 +3134,13 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4433528009 | Helic &amp; Co | Junior Software Engineer | score:3.8 | location:United States | posted:2026-06-25T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4432910042 | Kyndryl | Software Engineer - Development | score:3 | location:Dallas, TX | posted:2026-06-25T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4432698565 | Allstate | Software Engineer (All Levels) | score:3 | location:United States | posted:2026-06-25T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4432976418 | Notion @ RMIT | Software Engineer, New Grad | score:4.9 | location:San Francisco, CA | posted:2026-06-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432978350 | Notion @ RMIT | Software Engineer, New Grad (AI) | score:4.9 | location:San Francisco, CA | posted:2026-06-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4433224465 | Envoy - HelloEnvoy | Software Engineer, New Grad | score:4.1 | location:San Francisco, CA | posted:2026-06-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4433209918 | Envoy - HelloEnvoy | Software Engineer, New Grad (AI) | score:4.1 | location:San Francisco, CA | posted:2026-06-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432918261 | Product Pioneers Podcast | Software Engineer, New Grad (AI) | score:4.1 | location:San Francisco, CA | posted:2026-06-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4433840133 | Revel | Full Stack Software Engineer (Entry-Junior) | score:4.2 | location:Los Angeles, CA | posted:2026-06-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432672789 | V2X Inc | Software Engineer I | score:3.8 | location:Orlando, FL | posted:2026-06-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4433234577 | TetraMem - Accelerate The World | Software Engineer I – Compiler &amp; Runtime | score:3.8 | location:San Jose, CA | posted:2026-06-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4433336888 | SICK Sensor Intelligence | Software Engineer II | score:3.8 | location:Greater Minneapolis-St. Paul Area | posted:2026-06-25T00:00:00.000Z | source:linkedin-guest
