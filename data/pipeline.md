@@ -3157,3 +3157,12 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4414679704 | Garmin | Software Engineer 1 | score:3 | location:Chandler, AZ | posted:2026-06-26T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4433240698 | Discord | Software Engineer, Developer Success | score:3.3 | location:San Francisco Bay Area | posted:2026-06-26T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4432953598 | Jack &amp; Jill | Software Engineer, Platform ($200k-$250k + Equity) at Duckbill | score:3.7 | location:San Francisco, CA | posted:2026-06-26T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/twitch/jobs/8605153002 | Twitch | Software Engineer, Memberships  | score:3.3 | location:San Francisco, CA | posted:2026-06-26T12:45:01-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/notion/53fb4637-d1d6-4411-8a87-52865db5a11c | Notion | Software Engineer, Data Product Platform | score:4.5 | location:San Francisco, California | posted:2026-06-26T19:29:53.967+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4434020203 | StubHub | Software Engineer I - Open Distribution (New Grad) | score:3.8 | location:Los Angeles, CA | posted:2026-06-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430294358 | Boeing | Associate Software Engineer | score:3.8 | location:Hazelwood, MO | posted:2026-06-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430609267 | Boeing | Software Engineer - Developer (Associate and Experienced) | score:3.8 | location:Kent, WA | posted:2026-06-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430278975 | NetApp | Software Engineer | score:3 | location:San Jose, CA | posted:2026-06-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4433258250 | Goldman Sachs | Asset &amp; Wealth Management - Software Engineering - Associate - Richardson | score:3.8 | location:Richardson, TX | posted:2026-06-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4393019260 | Goldman Sachs | Asset &amp; Wealth Management-Full Stack Software Engineer -Associate-Albany | score:4.2 | location:Albany, NY | posted:2026-06-26T00:00:00.000Z | source:linkedin-guest
