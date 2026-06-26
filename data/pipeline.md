@@ -3166,3 +3166,8 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4430278975 | NetApp | Software Engineer | score:3 | location:San Jose, CA | posted:2026-06-26T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4433258250 | Goldman Sachs | Asset &amp; Wealth Management - Software Engineering - Associate - Richardson | score:3.8 | location:Richardson, TX | posted:2026-06-26T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4393019260 | Goldman Sachs | Asset &amp; Wealth Management-Full Stack Software Engineer -Associate-Albany | score:4.2 | location:Albany, NY | posted:2026-06-26T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4433405216 | Morgan Stanley | Associate, Software Engineer | score:3.8 | location:Alpharetta, GA | posted:2026-06-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4433285415 | Twitch | Software Engineer, Memberships | score:3.3 | location:San Francisco, CA | posted:2026-06-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4433580161 | MeeBoss | Software Engineer | score:3.3 | location:New York, United States | posted:2026-06-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430628842 | Performant Capital | Junior Software Engineer | score:3.8 | location:Chicago, IL | posted:2026-06-26T00:00:00.000Z | source:linkedin-guest
