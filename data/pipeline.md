@@ -3189,3 +3189,10 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 
 - [ ] https://www.linkedin.com/jobs/view/4433468839 | Rotaract Club of Gaborone | Software Engineer (Entry-Level / Associate) | score:4.1 | location:New York, United States | posted:2026-06-27T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4434084885 | Uber | Software Engineer I | score:3.8 | location:Sunnyvale, CA | posted:2026-06-27T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4434094332 | Uber | Software Engineer I | score:4.1 | location:San Francisco, CA | posted:2026-06-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434096628 | U.S. Bank | Associate Software Engineer | score:3.8 | location:Irving, TX | posted:2026-06-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434093334 | Uber | Software Engineer II | score:3.8 | location:Sunnyvale, CA | posted:2026-06-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4415088729 | Goldman Sachs | Corporate Treasury, Payments Platform, Software Engineering, Associate, NY | score:4.5 | location:New York, NY | posted:2026-06-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434244157 | BlackRock | Associate, Frontend Software Engineer (React) | score:3.8 | location:Chicago, IL | posted:2026-06-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414999672 | LiveRamp | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-06-27T00:00:00.000Z | source:linkedin-guest
