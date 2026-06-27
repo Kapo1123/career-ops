@@ -3171,3 +3171,13 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4433285415 | Twitch | Software Engineer, Memberships | score:3.3 | location:San Francisco, CA | posted:2026-06-26T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4433580161 | MeeBoss | Software Engineer | score:3.3 | location:New York, United States | posted:2026-06-26T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4430628842 | Performant Capital | Junior Software Engineer | score:3.8 | location:Chicago, IL | posted:2026-06-26T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4430630803 | Quantcast | Software Engineer (Full Stack) | score:3.7 | location:San Francisco, CA | posted:2026-06-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434028650 | Loop | 2026 New Grad | SWE, Full-Stack (Chicago) | score:3.8 | location:Chicago, IL | posted:2026-06-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434097397 | Cox Automotive Inc. | Entry Level Software Engineer | score:3.8 | location:Atlanta, GA | posted:2026-06-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4433479215 | Rotaract Club of Kathmandu University | Software Engineer (Entry-Level / Associate) | score:4.1 | location:New York, United States | posted:2026-06-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434229492 | Agency Named Desire | Software Engineer (Entry-Level / Associate) | score:3.8 | location:California, United States | posted:2026-06-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434201077 | Uber | Software Engineer I | score:4.1 | location:San Francisco, CA | posted:2026-06-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430694830 | Rotaract Iași | Junior Software Engineer | score:4.1 | location:New York, United States | posted:2026-06-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4433438575 | Metropolitan Transportation Authority | Junior Software Engineer | score:4.1 | location:New York, NY | posted:2026-06-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4433285657 | SimVentions | Junior Software Developer | score:3.8 | location:Dahlgren, VA | posted:2026-06-26T00:00:00.000Z | source:linkedin-guest
