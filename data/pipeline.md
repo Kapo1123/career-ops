@@ -3186,3 +3186,6 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4434079958 | Uber | Software Engineer I | score:4.1 | location:San Francisco, CA | posted:2026-06-27T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4433461327 | Starbucks | software engineer- ST, Seattle, WA | score:3.3 | location:Seattle, WA | posted:2026-06-27T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4430631739 | Quantcast | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-06-26T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4433468839 | Rotaract Club of Gaborone | Software Engineer (Entry-Level / Associate) | score:4.1 | location:New York, United States | posted:2026-06-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434084885 | Uber | Software Engineer I | score:3.8 | location:Sunnyvale, CA | posted:2026-06-27T00:00:00.000Z | source:linkedin-guest
