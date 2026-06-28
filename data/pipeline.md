@@ -3211,3 +3211,5 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4367328092 | SpaceX | Software Engineer, Simulations (Starlink) | score:3 | location:Redmond, WA | posted:2026-06-27T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4395430695 | LetsGetChecked | Graduate Software Engineer | score:3 | location:United States | posted:2026-06-27T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4384216102 | FareHarbor | Full Stack Engineer - Python &amp; JavaScript | score:3.7 | location:San Francisco, CA | posted:2026-06-28T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4434249051 | ByteDance | Software Engineer Graduate (Cloud Native Infrastructure) - 2026 Start (BS/MS) | score:3.4 | location:San Jose, CA | posted:2026-06-27T00:00:00.000Z | source:linkedin-guest
