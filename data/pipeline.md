@@ -3218,3 +3218,9 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/3765974062 | Verkada | Software Engineer - Computer Vision | score:3 | location:San Mateo, CA | posted:2026-06-28T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4433615632 | The Legacy Circle: Global Leadership Summit | Junior Software Engineer | score:3.8 | location:California, United States | posted:2026-06-28T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4412041515 | Upstart | Software Engineer, Lifecycle | score:3 | location:United States | posted:2026-06-28T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4433628660 | SynergisticIT | Junior full stack developer/AI engineer | score:4.2 | location:Atlanta, GA | posted:2026-06-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4433622500 | Jack &amp; Jill | Software Engineer, Platform ($200k-$250k + Equity) at Duckbill | score:3.7 | location:San Francisco, CA | posted:2026-06-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434293858 | University of Michigan | Software Developer | score:3 | location:Ann Arbor, MI | posted:2026-06-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4433609973 | Haystack | Software Engineer | score:3 | location:Georgia, United States | posted:2026-06-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4415551866 | Choice Hotels International | Software Engineer 1 - Data Domain | score:3.4 | location:Scottsdale, AZ | posted:2026-06-28T00:00:00.000Z | source:linkedin-guest
