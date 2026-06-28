@@ -3196,3 +3196,18 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4415088729 | Goldman Sachs | Corporate Treasury, Payments Platform, Software Engineering, Associate, NY | score:4.5 | location:New York, NY | posted:2026-06-27T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4434244157 | BlackRock | Associate, Frontend Software Engineer (React) | score:3.8 | location:Chicago, IL | posted:2026-06-27T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4414999672 | LiveRamp | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-06-27T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4434269586 | Hired | Software Engineer - E-Commerce (Remote) | score:3 | location:United States | posted:2026-06-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434298307 | Club Rotaract ENCG Dakhla | Junior Software Engineer | score:4.1 | location:New York, United States | posted:2026-06-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4433608918 | Club Rotaract ENCG Dakhla | Software Engineer (Entry-Level / Associate) | score:4.1 | location:New York, United States | posted:2026-06-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431029548 | Hacware - Consulting | Junior Software Engineer | score:4.1 | location:New York City Metropolitan Area | posted:2026-06-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434285839 | Trillion Benchmark | Software Engineer – Entry to Mid Level | score:3 | location:California, United States | posted:2026-06-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434267848 | Sundayy | Software Engineer, Jr. (React.js, Figma) | score:3 | location:United States | posted:2026-06-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4433608406 | Jack &amp; Jill | Software Engineer, Platform ($200k-$250k + Equity) at Duckbill | score:3.7 | location:San Francisco, CA | posted:2026-06-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4433496423 | WONDER LAB | Software Engineer (OPT/STEM OPT/H-1B/O-1 eligible) | score:3 | location:United States | posted:2026-06-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4424619925 | Epic | Entry-Level Technical Solutions Engineer | score:3 | location:Sunnyvale, CA | posted:2026-06-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4366533102 | Valon | Software Engineer | score:3 | location:United States | posted:2026-06-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4366975133 | SpaceX | Software Engineer, Components Test (Starshield) | score:3 | location:Hawthorne, CA | posted:2026-06-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4367328092 | SpaceX | Software Engineer, Simulations (Starlink) | score:3 | location:Redmond, WA | posted:2026-06-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4395430695 | LetsGetChecked | Graduate Software Engineer | score:3 | location:United States | posted:2026-06-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4384216102 | FareHarbor | Full Stack Engineer - Python &amp; JavaScript | score:3.7 | location:San Francisco, CA | posted:2026-06-28T00:00:00.000Z | source:linkedin-guest
