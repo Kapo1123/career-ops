@@ -3213,3 +3213,8 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4384216102 | FareHarbor | Full Stack Engineer - Python &amp; JavaScript | score:3.7 | location:San Francisco, CA | posted:2026-06-28T00:00:00.000Z | source:linkedin-guest
 
 - [ ] https://www.linkedin.com/jobs/view/4434249051 | ByteDance | Software Engineer Graduate (Cloud Native Infrastructure) - 2026 Start (BS/MS) | score:3.4 | location:San Jose, CA | posted:2026-06-27T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/8034796?gh_jid=8034796 | Cloudflare | Software Engineer, People Ops and AI Tools | score:3 | location:In-Office | posted:2026-06-28T15:02:19-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/3765974062 | Verkada | Software Engineer - Computer Vision | score:3 | location:San Mateo, CA | posted:2026-06-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4433615632 | The Legacy Circle: Global Leadership Summit | Junior Software Engineer | score:3.8 | location:California, United States | posted:2026-06-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4412041515 | Upstart | Software Engineer, Lifecycle | score:3 | location:United States | posted:2026-06-28T00:00:00.000Z | source:linkedin-guest
