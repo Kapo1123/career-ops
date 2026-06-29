@@ -3246,3 +3246,7 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4433661486 | TalentAlly | Software Developer | score:3 | location:Ann Arbor, MI | posted:2026-06-29T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4431074908 | Stealth Startup | Backend Developer [33236] | score:3.4 | location:Los Angeles, CA | posted:2026-06-29T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4434125089 | Jack &amp; Jill | Software Engineer at Den | score:3.3 | location:New York, United States | posted:2026-06-29T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4431538063 | Synergy Sports Capital | Automation Test Engineer (Entry-Level / Associate) | score:3.8 | location:California, United States | posted:2026-06-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434739346 | ASSYST | Junior Full Stack Developer | score:4.2 | location:Sterling, VA | posted:2026-06-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434732572 | Geneva Trading | Junior Software Engineer | score:3.8 | location:Chicago, IL | posted:2026-06-29T00:00:00.000Z | source:linkedin-guest
