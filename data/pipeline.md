@@ -3224,3 +3224,15 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4434293858 | University of Michigan | Software Developer | score:3 | location:Ann Arbor, MI | posted:2026-06-28T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4433609973 | Haystack | Software Engineer | score:3 | location:Georgia, United States | posted:2026-06-28T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4415551866 | Choice Hotels International | Software Engineer 1 - Data Domain | score:3.4 | location:Scottsdale, AZ | posted:2026-06-28T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/8035679?gh_jid=8035679 | Cloudflare | Software Engineer, People Ops and AI Tools | score:3 | location:In-Office | posted:2026-06-29T11:27:20-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8026180 | Reddit | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-06-29T11:44:07-04:00 | source:greenhouse-api
+- [ ] https://careers.duolingo.com/jobs/8612080002?gh_jid=8612080002 | Duolingo | Software Engineer I | score:3.8 | location:Beijing, China | posted:2026-06-29T12:08:02-04:00 | source:greenhouse-api
+- [ ] https://jobs.lever.co/palantir/53fb4c05-f949-4146-a046-5c063c36a628 | Palantir | Forward Deployed Software Engineer - Spain | score:3 | location:Madrid, Spain | posted:2026-06-29T11:38:59.235Z | source:lever-api
+- [ ] https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40 | Palantir | Forward Deployed Software Engineer, New Grad - Commercial | score:3.8 | location:Chicago, IL | posted:2026-06-29T14:44:20.702Z | source:lever-api
+- [ ] https://www.linkedin.com/jobs/view/4434414994 | Roe | Software Engineer | score:3.3 | location:San Francisco Bay Area | posted:2026-06-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434111467 | Jack &amp; Jill | Software Engineer, Platform ($200k-$250k + Equity) at Duckbill | score:3.7 | location:San Francisco, CA | posted:2026-06-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431506499 | MarathonSoft LLC | Software Developer | score:3 | location:Hopkinton, MA | posted:2026-06-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4433629541 | SynergisticIT | junior software developer/Ai ML/Engineer | score:3.8 | location:Denver, CO | posted:2026-06-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431080069 | Raytheon Australia | 2026 Raytheon Full Time- Software Engineer I -(Onsite) | score:3.8 | location:Fort Wayne, IN | posted:2026-06-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4433653707 | Jack &amp; Jill | Full Stack Engineer ($150k-$190k + Equity) at Myjunior | score:4.5 | location:New York, NY | posted:2026-06-29T00:00:00.000Z | source:linkedin-guest
