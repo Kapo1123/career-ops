@@ -3250,3 +3250,13 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4431538063 | Synergy Sports Capital | Automation Test Engineer (Entry-Level / Associate) | score:3.8 | location:California, United States | posted:2026-06-29T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4434739346 | ASSYST | Junior Full Stack Developer | score:4.2 | location:Sterling, VA | posted:2026-06-29T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4434732572 | Geneva Trading | Junior Software Engineer | score:3.8 | location:Chicago, IL | posted:2026-06-29T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4434149314 | Palantir Technologies | Software Engineer, New Grad - Infrastructure | score:4.2 | location:Palo Alto, CA | posted:2026-06-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434469603 | ByteDance | Software Engineer Graduate (Cloud Native Infrastructure) - 2026 Start (BS/MS) | score:3.4 | location:San Jose, CA | posted:2026-06-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434057074 | Hewlett Packard Enterprise | Software Engineer | score:3 | location:Westford, MA | posted:2026-06-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434781931 | Aderant | Associate Software Engineer | score:3.8 | location:Atlanta, GA | posted:2026-06-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434747703 | MetLife | Junior Software Engineer | score:3.8 | location:Tampa, FL | posted:2026-06-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434182194 | Morgan Stanley | Associate, Software Engineer | score:4.1 | location:New York, NY | posted:2026-06-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434170599 | Aegis Interlink | Software Engineer (Entry Level) | score:3.8 | location:United States | posted:2026-06-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431534552 | Luma | Dream Lab | Software Engineer - Product | score:3.3 | location:San Francisco Bay Area | posted:2026-06-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434122371 | Texas Instruments | Software Engineer | score:3 | location:Dallas, TX | posted:2026-06-29T00:00:00.000Z | source:linkedin-guest
