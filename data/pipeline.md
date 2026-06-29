@@ -3236,3 +3236,13 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4433629541 | SynergisticIT | junior software developer/Ai ML/Engineer | score:3.8 | location:Denver, CO | posted:2026-06-28T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4431080069 | Raytheon Australia | 2026 Raytheon Full Time- Software Engineer I -(Onsite) | score:3.8 | location:Fort Wayne, IN | posted:2026-06-29T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4433653707 | Jack &amp; Jill | Full Stack Engineer ($150k-$190k + Equity) at Myjunior | score:4.5 | location:New York, NY | posted:2026-06-29T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://careers.duolingo.com/jobs/8612120002?gh_jid=8612120002 | Duolingo | Software Engineer II | score:3.8 | location:Beijing, China | posted:2026-06-29T12:25:20-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/sierra/119977f8-4e2e-4518-b2ab-2100ec425bda | Sierra | Forward Deployed Infrastructure Engineer | score:3.4 | location:Tokyo | posted:2026-06-29T16:50:36.252+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4434145003 | Asset Health | Software Engineer | score:3 | location:Troy, MI | posted:2026-06-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434131499 | Whova | Software Engineer (San Diego Only) | score:3 | location:San Diego, CA | posted:2026-06-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434707338 | Helic &amp; Co | Junior Software Engineer | score:3.8 | location:United States | posted:2026-06-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4433631084 | Haystack | Software Engineer | score:3 | location:Atlanta Metropolitan Area | posted:2026-06-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4433661486 | TalentAlly | Software Developer | score:3 | location:Ann Arbor, MI | posted:2026-06-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431074908 | Stealth Startup | Backend Developer [33236] | score:3.4 | location:Los Angeles, CA | posted:2026-06-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434125089 | Jack &amp; Jill | Software Engineer at Den | score:3.3 | location:New York, United States | posted:2026-06-29T00:00:00.000Z | source:linkedin-guest
