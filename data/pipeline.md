@@ -3283,3 +3283,12 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4434332448 | Kyndryl | Software Engineer | score:3 | location:Dallas, TX | posted:2026-06-30T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4425295757 | Google | Software Engineer | score:4.5 | location:Mountain View, CA | posted:2026-06-30T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4434911166 | Pinterest | Software Engineer II | score:3.8 | location:Palo Alto, CA | posted:2026-06-30T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.dropbox.com/listing/8031442?gh_jid=8031442 | Dropbox | Infrastructure Software Engineer, Release Systems | score:3.7 | location:Remote - Mexico | posted:2026-06-30T12:00:06-04:00 | source:greenhouse-api
+- [ ] https://www.coinbase.com/careers/positions/8022068?gh_jid=8022068 | Coinbase | Software Engineer | score:4.1 | location:Remote - USA | posted:2026-06-30T14:24:29-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4435139380 | MeeBoss | Software Engineer | score:3.3 | location:New York, United States | posted:2026-06-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4435308398 | Risques psychosociaux - Prévention, formation et relations de travail | Software Engineer (Entry-Level / Associate) | score:4.1 | location:New York, United States | posted:2026-06-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4435151353 | Vertiv | Software Developer | score:3 | location:Huntsville, AL | posted:2026-06-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4435150962 | deciBel Research, Inc. | Software Developer | score:3 | location:Huntsville, AL | posted:2026-06-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431968654 | Firefly Aerospace | Aerospace Software Engineer I | score:3.8 | location:Cedar Park, TX | posted:2026-06-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434930731 | Cisco | Software Engineer Data/AI/Intelligent Systems I (Full Time) – United States | score:3.4 | location:Dallas, TX | posted:2026-06-30T00:00:00.000Z | source:linkedin-guest
