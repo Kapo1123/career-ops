@@ -3260,3 +3260,17 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4434170599 | Aegis Interlink | Software Engineer (Entry Level) | score:3.8 | location:United States | posted:2026-06-29T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4431534552 | Luma | Dream Lab | Software Engineer - Product | score:3.3 | location:San Francisco Bay Area | posted:2026-06-29T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4434122371 | Texas Instruments | Software Engineer | score:3 | location:Dallas, TX | posted:2026-06-29T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://boards.greenhouse.io/robinhood/jobs/7770009?t=gh_src=&gh_jid=7770009 | Robinhood | Software Developer, Kubernetes Compute | score:3.8 | location:Toronto, Canada | posted:2026-06-30T11:35:50-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4434135733 | Palantir Technologies | Software Engineer, New Grad - Infrastructure | score:4.5 | location:New York, NY | posted:2026-06-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431558180 | DSI Consulting | Software Engineer | score:3 | location:Austin, Texas Metropolitan Area | posted:2026-06-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434980861 | Nutanix | Software Engineer - Prism | score:3 | location:San Jose, CA | posted:2026-06-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431932096 | Employia | Full Stack Engineer | score:3.7 | location:San Francisco, CA | posted:2026-06-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431550928 | Integration Innovation, Inc. | Entry Level Software Engineer | score:3.8 | location:Huntsville, AL | posted:2026-06-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434310994 | Synergy Pharmaceuticals Corporation Private Limited. | Automation Test Engineer (Entry-Level / Associate) | score:3.8 | location:United States | posted:2026-06-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434190363 | Odoo | Junior Software Engineer | score:4.1 | location:San Francisco Bay Area | posted:2026-06-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434325195 | Jack &amp; Jill | Software Engineer, Platform ($200k-$250k + Equity) at Duckbill | score:3.7 | location:San Francisco, CA | posted:2026-06-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4387486884 | Amentum | Software Developer – Junior (Team 09) | score:3.8 | location:Washington, DC | posted:2026-06-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434915282 | Cox Automotive Inc. | Software Engineer I | score:3.8 | location:Atlanta, GA | posted:2026-06-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434777197 | Knowledge Services | Software Engineer I | score:3.8 | location:Indianapolis, IN | posted:2026-06-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434925782 | Cisco | Software Engineer Data/AI/Intelligent Systems I (Full Time) – United States | score:3.4 | location:Boston, MA | posted:2026-06-30T00:00:00.000Z | source:linkedin-guest
