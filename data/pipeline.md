@@ -3292,3 +3292,16 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4435150962 | deciBel Research, Inc. | Software Developer | score:3 | location:Huntsville, AL | posted:2026-06-30T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4431968654 | Firefly Aerospace | Aerospace Software Engineer I | score:3.8 | location:Cedar Park, TX | posted:2026-06-30T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4434930731 | Cisco | Software Engineer Data/AI/Intelligent Systems I (Full Time) – United States | score:3.4 | location:Dallas, TX | posted:2026-06-30T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://stripe.com/jobs/search?gh_jid=7557899 | Stripe | Backend Engineer, Developer SDKs | score:4.2 | location:N/A | posted:2026-06-30T15:57:31-04:00 | source:greenhouse-api
+- [ ] https://stripe.com/jobs/search?gh_jid=8039548 | Stripe | Full Stack Engineer, Support Experience (Greater China Support) | score:4.2 | location:US | posted:2026-06-30T16:36:05-04:00 | source:greenhouse-api
+- [ ] https://stripe.com/jobs/search?gh_jid=8039800 | Stripe | Software Engineer, Product Security Data Platforms | score:4.5 | location:Seattle | posted:2026-06-30T18:11:48-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4710484005 | Scale AI | Software Engineer, Identity | score:3.3 | location:San Francisco, CA; New York, NY | posted:2026-06-30T16:51:01-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4709327005 | Glean | Software Engineer, Cloud Infrastructure | score:3.4 | location:Mountain View, CA | posted:2026-06-30T16:28:58-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4435185729 | ByteDance | Software Engineer Graduate (Cloud Native Infrastructure) - 2026 Start (BS/MS) | score:3.7 | location:Seattle, WA | posted:2026-06-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4435336315 | Helic &amp; Co | Junior Software Engineer | score:3.8 | location:United States | posted:2026-06-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4435347159 | IndTech Calibration &amp; Inspection Services Private Limited | Junior Software Engineer | score:4.1 | location:New York, United States | posted:2026-06-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4435352082 | Mon Sinistre Afrique | Software Engineer (Entry-Level / Associate) | score:4.1 | location:New York, United States | posted:2026-06-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434950910 | Via | Junior Software Engineer | score:3.8 | location:United States | posted:2026-06-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431987353 | Oracle | Software Developer 2 | score:3 | location:Redwood City, CA | posted:2026-06-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434790642 | Hewlett Packard Enterprise | Software Engineer II | score:3.8 | location:Roseville, CA | posted:2026-06-30T00:00:00.000Z | source:linkedin-guest
