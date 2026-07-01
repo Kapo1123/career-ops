@@ -3338,3 +3338,11 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4434659824 | KNOWFINITY | Software Engineer | score:3.3 | location:New York, United States | posted:2026-07-01T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4434646100 | Siemens EDA (Siemens Digital Industries Software) | Software Engineer - Associate | score:3.8 | location:Austin, TX | posted:2026-07-01T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4435834945 | Joby Aviation | Software Engineer | score:3 | location:San Carlos, CA | posted:2026-07-01T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5240422008 | Anthropic | [P] Data Engineer, Safeguards | score:3.7 | location:San Francisco, CA | New York City, NY | posted:2026-07-01T16:27:17-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4435002304 | Jack | Software Engineer | score:3.3 | location:San Francisco Bay Area | posted:2026-07-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432719237 | Varsity Spirit | Software Engineer I | score:3.8 | location:Memphis, TN | posted:2026-07-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434675933 | hackajob | Associate Engineer | score:4.1 | location:New York, NY | posted:2026-07-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4435894688 | Ford Office Technologies | Associate Software Developer | score:3.8 | location:Connellsville, PA | posted:2026-07-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4435883562 | Nanobiosym | Software Engineer: Web Developer | score:3 | location:Cambridge, MA | posted:2026-07-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434678174 | KNOWFINITY | Software Engineer | score:3 | location:California, United States | posted:2026-07-01T00:00:00.000Z | source:linkedin-guest
