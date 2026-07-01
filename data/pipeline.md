@@ -3321,3 +3321,13 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4435821301 | Motion Recruitment | Software Engineer | score:3 | location:North Reading, MA | posted:2026-07-01T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4434636077 | GAC Solutions | Junior Full Stack Developer | score:4.2 | location:United States | posted:2026-07-01T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4422271953 | Crossing Hurdles | Software Engineer | Remote | score:3 | location:United States | posted:2026-07-01T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4435519361 | Hired | Software Engineer - E-Commerce (Remote) | score:3 | location:United States | posted:2026-07-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434385069 | NVIDIA | Systems Software Engineer - New College Grad 2026 | score:3 | location:Santa Clara, CA | posted:2026-07-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4435836636 | Helic &amp; Co | Junior Software Engineer | score:3.8 | location:United States | posted:2026-07-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434629651 | Bain &amp; Company | Software Engineer I, Private Equity Innovation | score:3.8 | location:Dallas, TX | posted:2026-07-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4435361496 | avua | Junior Software Developer | score:3.8 | location:United States | posted:2026-07-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432391788 | Charles Schwab | Associate Software Developer | score:3.8 | location:Southlake, TX | posted:2026-07-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434632842 | Morgan Stanley | Associate, Software Engineer | score:3.8 | location:Alpharetta, GA | posted:2026-07-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434644166 | Siemens EDA (Siemens Digital Industries Software) | Software Engineer - Associate | score:3.8 | location:Fremont, CA | posted:2026-07-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434663184 | Cruit Group | Junior Software Developer | score:3.8 | location:Miami, FL | posted:2026-07-01T00:00:00.000Z | source:linkedin-guest
