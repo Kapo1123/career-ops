@@ -3331,3 +3331,10 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4434632842 | Morgan Stanley | Associate, Software Engineer | score:3.8 | location:Alpharetta, GA | posted:2026-07-01T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4434644166 | Siemens EDA (Siemens Digital Industries Software) | Software Engineer - Associate | score:3.8 | location:Fremont, CA | posted:2026-07-01T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4434663184 | Cruit Group | Junior Software Developer | score:3.8 | location:Miami, FL | posted:2026-07-01T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/snowflake/8fab4433-4a3f-4a14-8dfe-d497702c4be4 | Snowflake | Software Engineer, Full Stack - Marketplace | score:4.2 | location:US-CA-Menlo Park | posted:2026-07-01T18:27:02.986+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4432711572 | Optiver | Graduate Software Engineer (2027 Start) | score:3 | location:Austin, TX | posted:2026-07-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4435843692 | ByteDance | Software Engineer Graduate (Cloud Native Infrastructure) - 2026 Start (BS/MS) | score:3.7 | location:Seattle, WA | posted:2026-07-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434659824 | KNOWFINITY | Software Engineer | score:3.3 | location:New York, United States | posted:2026-07-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434646100 | Siemens EDA (Siemens Digital Industries Software) | Software Engineer - Associate | score:3.8 | location:Austin, TX | posted:2026-07-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4435834945 | Joby Aviation | Software Engineer | score:3 | location:San Carlos, CA | posted:2026-07-01T00:00:00.000Z | source:linkedin-guest
