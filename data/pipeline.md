@@ -3305,3 +3305,19 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4434950910 | Via | Junior Software Engineer | score:3.8 | location:United States | posted:2026-06-30T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4431987353 | Oracle | Software Developer 2 | score:3 | location:Redwood City, CA | posted:2026-06-30T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4434790642 | Hewlett Packard Enterprise | Software Engineer II | score:3.8 | location:Roseville, CA | posted:2026-06-30T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4435340217 | Imagen Technologies | Software Engineer | score:3.3 | location:New York, NY | posted:2026-06-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432358235 | Stealth Startup | Backend Engineer [33283] | score:3.4 | location:California, United States | posted:2026-07-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434350714 | Jack &amp; Jill | Forward Deployed Software Engineer ($120K - $150K + Equity) at Arzana | score:3.3 | location:New York, NY | posted:2026-06-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432708251 | SoTalent | Software Engineer | score:3 | location:Horsham, PA | posted:2026-07-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4435811900 | Momentum Miles | Automation Test Engineer (Entry-Level / Associate) | score:3.8 | location:California, United States | posted:2026-07-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434630362 | MeritFirst | Software Engineer (New Grad) | score:3.8 | location:United States | posted:2026-07-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432372465 | Monetate | Associate Software Engineer | score:3.8 | location:Plano, TX | posted:2026-07-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4426576034 | Paylocity | Software Engineer | score:3 | location:United States | posted:2026-07-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4435816231 | Clera | Software Engineer - Full Stack | score:3.7 | location:San Francisco, CA | posted:2026-07-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4435374409 | Assured Information Security (AIS) | Software Engineer I | score:3.8 | location:Rome, NY | posted:2026-07-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4435544766 | Sundayy | Software Engineer I, Data | score:4.2 | location:United States | posted:2026-07-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4435321121 | Adtran | Software Engineer I | score:3.8 | location:Atlanta, GA | posted:2026-06-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4435821301 | Motion Recruitment | Software Engineer | score:3 | location:North Reading, MA | posted:2026-07-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434636077 | GAC Solutions | Junior Full Stack Developer | score:4.2 | location:United States | posted:2026-07-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422271953 | Crossing Hurdles | Software Engineer | Remote | score:3 | location:United States | posted:2026-07-01T00:00:00.000Z | source:linkedin-guest
