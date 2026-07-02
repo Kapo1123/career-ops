@@ -3364,3 +3364,7 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4432746111 | KLA | Software Engineer | score:3 | location:Milpitas, CA | posted:2026-07-02T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4434690030 | Toyota North America | Software Engineer | score:3 | location:Plano, TX | posted:2026-07-01T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4433118010 | Core Education &amp; Technologies Limited | Junior Software Engineer | score:3.8 | location:California, United States | posted:2026-07-02T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4436397249 | MeeBoss | Software Engineer | score:3.3 | location:New York, United States | posted:2026-07-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4436401101 | Curio Wellness | Software Engineer | score:3 | location:Towson, MD | posted:2026-07-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4436400521 | Prescient Edge | Junior Software Developer | score:3.8 | location:Kiln, MS | posted:2026-07-02T00:00:00.000Z | source:linkedin-guest
