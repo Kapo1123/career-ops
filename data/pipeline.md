@@ -3346,3 +3346,12 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4435894688 | Ford Office Technologies | Associate Software Developer | score:3.8 | location:Connellsville, PA | posted:2026-07-01T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4435883562 | Nanobiosym | Software Engineer: Web Developer | score:3 | location:Cambridge, MA | posted:2026-07-01T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4434678174 | KNOWFINITY | Software Engineer | score:3 | location:California, United States | posted:2026-07-01T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4436339244 | Hired | Software Engineer - E-Commerce (Remote) | score:3 | location:United States | posted:2026-07-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4435069159 | Haystack | Software Engineer | score:3 | location:Georgia, United States | posted:2026-07-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4436332308 | Helic &amp; Co | Junior Software Engineer | score:3.8 | location:United States | posted:2026-07-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4435204524 | Exert Infotech LLC | Software Engineer | score:3.3 | location:New York, United States | posted:2026-07-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4435211743 | Brooksource | Software Engineer | score:3 | location:Columbus, Ohio Metropolitan Area | posted:2026-07-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4436317082 | Black Frame | MORGAN STANLEY - ASSOCIATE, SOFTWARE ENGINEER | score:3.8 | location:Alpharetta, GA | posted:2026-07-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4435832362 | Cruit Group | Junior Software Engineer | score:3.8 | location:Miami, FL | posted:2026-07-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4436131741 | Nightwing | Junior Software Developer | score:3.8 | location:Annapolis Junction, MD | posted:2026-07-02T00:00:00.000Z | source:linkedin-guest
