@@ -3355,3 +3355,12 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4436317082 | Black Frame | MORGAN STANLEY - ASSOCIATE, SOFTWARE ENGINEER | score:3.8 | location:Alpharetta, GA | posted:2026-07-02T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4435832362 | Cruit Group | Junior Software Engineer | score:3.8 | location:Miami, FL | posted:2026-07-01T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4436131741 | Nightwing | Junior Software Developer | score:3.8 | location:Annapolis Junction, MD | posted:2026-07-02T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=8041664 | MongoDB | Software Engineer 3, Voyage Control Plane | score:3.3 | location:Palo Alto; Seattle | posted:2026-07-02T13:10:54-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4435250075 | All Ring Tech USA LLC | Software Engineer | score:3 | location:Phoenix, AZ | posted:2026-07-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4436369884 | Learn Tech By Visuals | Junior Software Engineer | score:4.1 | location:New York, United States | posted:2026-07-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4436362960 | Swisslog | Software Engineer | score:3 | location:Atlanta, GA | posted:2026-07-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4436158594 | Nike | Software Engineer | score:3 | location:Beaverton, OR | posted:2026-07-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432746111 | KLA | Software Engineer | score:3 | location:Milpitas, CA | posted:2026-07-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434690030 | Toyota North America | Software Engineer | score:3 | location:Plano, TX | posted:2026-07-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4433118010 | Core Education &amp; Technologies Limited | Junior Software Engineer | score:3.8 | location:California, United States | posted:2026-07-02T00:00:00.000Z | source:linkedin-guest
