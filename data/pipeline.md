@@ -3368,3 +3368,19 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4436397249 | MeeBoss | Software Engineer | score:3.3 | location:New York, United States | posted:2026-07-02T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4436401101 | Curio Wellness | Software Engineer | score:3 | location:Towson, MD | posted:2026-07-02T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4436400521 | Prescient Edge | Junior Software Developer | score:3.8 | location:Kiln, MS | posted:2026-07-02T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4520320005 | Scale AI | AI Infrastructure Engineer, Model Serving Platform | score:3.7 | location:San Francisco, CA; New York, NY | posted:2026-07-02T17:35:56-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4711861005 | Glean | Software Engineer, Cloud Deployment Infrastructure | score:3.7 | location:San Francisco, CA | posted:2026-07-02T16:11:57-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/sierra/000618f7-e0d0-43dc-ae15-2b20d948852f | Sierra | Software Engineer, Agent - Insurance | score:3.3 | location:San Francisco, CA | posted:2026-07-02T23:23:22.452+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/sierra/ab98160c-9918-483c-af74-310535448972 | Sierra | Software Engineer, Agent - Financial Services | score:3.3 | location:San Francisco, CA | posted:2026-07-02T23:16:06.001+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4436435652 | Visa | Software Engineer | score:3 | location:Foster City, CA | posted:2026-07-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4436336107 | ByteDance | Software Engineer Graduate (Cloud Native Infrastructure) - 2026 Start (BS/MS) | score:3.4 | location:San Jose, CA | posted:2026-07-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432734381 | Optiver | Graduate Software Engineer (2027 Start) | score:3 | location:Chicago, IL | posted:2026-07-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432793968 | Applied Materials | 2026 NCG - Software Engineer, BS/MS (Santa Clara, CA) | score:3 | location:Santa Clara, CA | posted:2026-07-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4436430510 | Cirém Confort | Automation Test Engineer (Entry-Level / Associate) | score:3.8 | location:California, United States | posted:2026-07-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434415475 | Actalent | Software Engineer | score:3 | location:Moorestown, NJ | posted:2026-07-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4435283028 | Goldman Sachs | Software Engineer - Associate - Jersey City - IAM Entitlements | score:3.8 | location:Jersey City, NJ | posted:2026-07-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4435253985 | ImpetusIT | Software Engineer | score:3 | location:Brooklyn, NY | posted:2026-07-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4404159733 | Boeing | Real-Time Software Engineers (Associate or Experienced) | score:3.8 | location:St Charles, MO | posted:2026-07-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4427087992 | iHeartMedia | Software Engineer | score:3 | location:Dallas, TX | posted:2026-07-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4435068107 | Haystack | Software Engineer | score:3 | location:Maryland, United States | posted:2026-07-02T00:00:00.000Z | source:linkedin-guest
