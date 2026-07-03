@@ -3395,3 +3395,12 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4436742304 | Helic &amp; Co | Junior Software Engineer | score:3.8 | location:United States | posted:2026-07-03T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4435414133 | Kyndryl | Software Engineer - Development | score:3 | location:Dallas, TX | posted:2026-07-03T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4408598153 | xAI | Software Engineer, Data | score:3.4 | location:Palo Alto, CA | posted:2026-07-03T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4435281631 | IXL Learning | Software Engineer, New Grad | score:3.8 | location:San Mateo, CA | posted:2026-07-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4436765166 | Open Select | Software Engineer - AI Retention Infrastructure | score:3.7 | location:San Francisco Bay Area | posted:2026-07-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4436762591 | Cirém Confort | Automation Test Engineer (Entry-Level / Associate) | score:4.1 | location:New York, United States | posted:2026-07-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4436764991 | Rotaract Club Of Debo | Junior Software Engineer | score:4.1 | location:New York, United States | posted:2026-07-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4435254750 | Brain Corp | Software Engineer I, SW Applications | score:3.8 | location:San Diego, CA | posted:2026-07-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4435262208 | LexisNexis Risk Solutions | Software Engineer I | score:3.8 | location:Delaware, United States | posted:2026-07-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4436409688 | Brewer Science | Software Engineer I or II | score:3.8 | location:United States | posted:2026-07-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4436461609 | Browserbase | Software Engineer (Dashboard) | score:3.3 | location:San Francisco, CA | posted:2026-07-03T00:00:00.000Z | source:linkedin-guest
