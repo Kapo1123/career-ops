@@ -3384,3 +3384,14 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4404159733 | Boeing | Real-Time Software Engineers (Associate or Experienced) | score:3.8 | location:St Charles, MO | posted:2026-07-02T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4427087992 | iHeartMedia | Software Engineer | score:3 | location:Dallas, TX | posted:2026-07-02T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4435068107 | Haystack | Software Engineer | score:3 | location:Maryland, United States | posted:2026-07-02T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4436490014 | Tiki AI | AI Data Software Engineer | score:3.7 | location:San Francisco, CA | posted:2026-07-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4436745297 | Hired | Software Engineer - E-Commerce (Remote) | score:3 | location:United States | posted:2026-07-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4436748913 | Cirém Confort | Automation Test Engineer (Entry-Level / Associate) | score:3.8 | location:Texas, United States | posted:2026-07-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4435299895 | AbbVie | Associate Full Stack Software Engineer II | score:4.2 | location:Mettawa, IL | posted:2026-07-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4433701507 | Boeing | Software Developer (Associate or Mid-Level) | score:3.8 | location:Hazelwood, MO | posted:2026-07-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4433191793 | Boeing | Associate Software Engineer | score:3.8 | location:Maryland Heights, MO | posted:2026-07-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4435402766 | Kyndryl | Software Engineer | score:3 | location:Dallas, TX | posted:2026-07-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4436742304 | Helic &amp; Co | Junior Software Engineer | score:3.8 | location:United States | posted:2026-07-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4435414133 | Kyndryl | Software Engineer - Development | score:3 | location:Dallas, TX | posted:2026-07-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4408598153 | xAI | Software Engineer, Data | score:3.4 | location:Palo Alto, CA | posted:2026-07-03T00:00:00.000Z | source:linkedin-guest
