@@ -3438,3 +3438,8 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4408585369 | Axon | Sr Software Engineer I | score:3.8 | location:Washington, United States | posted:2026-07-04T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4368429860 | SpaceX | Security Software Engineer (Starshield) | score:3 | location:Hawthorne, CA | posted:2026-07-04T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4418049708 | Deloitte | Cyber Full-Stack Software Engineer | score:3 | location:Miami, FL | posted:2026-07-04T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4433750833 | Aspire Zone | Junior Software Engineer | score:3.8 | location:California, United States | posted:2026-07-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4436963362 | Visalaw.ai | Associate Software Developer | score:3.8 | location:Memphis, TN | posted:2026-07-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4433767069 | FG Nexus (Nasdaq: FGNX) | Software Engineer (Entry-Level / Associate) | score:3.8 | location:California, United States | posted:2026-07-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4373571625 | MatX | Software Engineer - Simulators | score:3 | location:Mountain View, CA | posted:2026-07-04T00:00:00.000Z | source:linkedin-guest
