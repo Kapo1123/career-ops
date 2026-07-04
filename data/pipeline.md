@@ -3408,3 +3408,8 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://careers.hellofresh.com/global/en/job/8036564?gh_jid=8036564 | HelloFresh | Software Developer, Operations Technology | score:3 | location:Toronto, Ontario, Canada | posted:2026-07-03T14:33:46-04:00 | source:greenhouse-api
 - [ ] https://www.linkedin.com/jobs/view/4435258660 | LoVasco | Software Engineer, Fullstack | score:3.4 | location:Detroit, MI | posted:2026-07-03T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4435481457 | Peak Land Consultants | Junior Software Engineer | score:3.8 | location:California, United States | posted:2026-07-03T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4417394761 | Symbotic | New Grad- Robotics Controls Engineer | score:3.8 | location:Austin, TX | posted:2026-07-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414061401 | Reddit, Inc. | Fullstack Software Engineer, Notifications Lifecycle | score:3.4 | location:United States | posted:2026-07-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4395460550 | YouVersion | Software Engineer | score:3 | location:Edmond, OK | posted:2026-07-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4338194891 | Two Sigma | Software Engineer, Modeling Engineering | score:3.3 | location:New York, United States | posted:2026-07-03T00:00:00.000Z | source:linkedin-guest
