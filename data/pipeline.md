@@ -3413,3 +3413,12 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4414061401 | Reddit, Inc. | Fullstack Software Engineer, Notifications Lifecycle | score:3.4 | location:United States | posted:2026-07-03T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4395460550 | YouVersion | Software Engineer | score:3 | location:Edmond, OK | posted:2026-07-03T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4338194891 | Two Sigma | Software Engineer, Modeling Engineering | score:3.3 | location:New York, United States | posted:2026-07-03T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4436944724 | Hired | Software Engineer - E-Commerce (Remote) | score:3 | location:United States | posted:2026-07-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4433192763 | Boeing | Entry-Level Software Engineer | score:3 | location:Maryland Heights, MO | posted:2026-07-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4422253495 | Haystack | Software Engineer | score:3 | location:Missouri, United States | posted:2026-07-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4435787825 | Giant Eagle, Inc. | Associate Software Engineer, Retail POS | score:3.8 | location:Pennsylvania, United States | posted:2026-07-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418015649 | LiveRamp | CO-Op, Software Engineer - Pixel Serving | score:3.3 | location:New York, NY | posted:2026-07-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4435728461 | Rivian and Volkswagen Group Technologies | Software Engineer II, Full-Stack (Developer Productivity) | score:3.8 | location:Palo Alto, CA | posted:2026-07-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4399462948 | Verkada | Full Stack Engineer, Go-to-Market Systems | score:3.4 | location:San Mateo, CA | posted:2026-07-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4436798015 | Acrisure Innovation | Software Engineer, Data (L1) | score:3.4 | location:Austin, TX | posted:2026-07-03T00:00:00.000Z | source:linkedin-guest
