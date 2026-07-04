@@ -3430,3 +3430,11 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4406410758 | BAE Systems, Inc. | Software Engineer II | score:3.8 | location:Totowa, NJ | posted:2026-07-04T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4435722413 | hackajob | Software Engineer | score:3 | location:Fort Meade, MD | posted:2026-07-04T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4435791633 | RemoteHunter | Software Engineer | score:3 | location:United States | posted:2026-07-04T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4433750714 | Rotaract Club of F.R.E.S.H. | Software Engineer (Entry-Level / Associate) | score:4.1 | location:New York, United States | posted:2026-07-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4435793963 | Henneman Engineering Inc. | Entry-Level Electrical Engineer | score:3 | location:Champaign, IL | posted:2026-07-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4436901495 | Optum | Associate Software Engineer | score:3.8 | location:Waterloo, IA | posted:2026-07-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4436965274 | Helic &amp; Co | Junior Software Engineer | score:3.8 | location:United States | posted:2026-07-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4408585369 | Axon | Sr Software Engineer I | score:3.8 | location:Washington, United States | posted:2026-07-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4368429860 | SpaceX | Security Software Engineer (Starshield) | score:3 | location:Hawthorne, CA | posted:2026-07-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418049708 | Deloitte | Cyber Full-Stack Software Engineer | score:3 | location:Miami, FL | posted:2026-07-04T00:00:00.000Z | source:linkedin-guest
