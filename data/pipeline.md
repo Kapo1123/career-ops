@@ -3422,3 +3422,11 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4435728461 | Rivian and Volkswagen Group Technologies | Software Engineer II, Full-Stack (Developer Productivity) | score:3.8 | location:Palo Alto, CA | posted:2026-07-04T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4399462948 | Verkada | Full Stack Engineer, Go-to-Market Systems | score:3.4 | location:San Mateo, CA | posted:2026-07-04T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4436798015 | Acrisure Innovation | Software Engineer, Data (L1) | score:3.4 | location:Austin, TX | posted:2026-07-03T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4436948916 | Cirém Confort | Automation Test Engineer (Entry-Level / Associate) | score:4.1 | location:New York, United States | posted:2026-07-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428190589 | LG Electronics North America | Jr Software Engineer | score:3 | location:Alpharetta, GA | posted:2026-07-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418054265 | Deloitte | Cyber Full-Stack Software Engineer | score:3 | location:Costa Mesa, CA | posted:2026-07-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4425388259 | W.E. Bowers | Software Engineer | score:3 | location:Beltsville, MD | posted:2026-07-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4406410758 | BAE Systems, Inc. | Software Engineer II | score:3.8 | location:Totowa, NJ | posted:2026-07-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4435722413 | hackajob | Software Engineer | score:3 | location:Fort Meade, MD | posted:2026-07-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4435791633 | RemoteHunter | Software Engineer | score:3 | location:United States | posted:2026-07-04T00:00:00.000Z | source:linkedin-guest
