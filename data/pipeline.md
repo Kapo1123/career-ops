@@ -3453,3 +3453,9 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 
 - [ ] https://www.linkedin.com/jobs/view/4436035571 | Haystack | Software Engineer | score:3 | location:Greater St. Louis | posted:2026-07-05T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4436017570 | PandoLogic | Associate, Software Engineering | score:4.1 | location:New York, NY | posted:2026-07-05T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4436044534 | TikTok | Software Engineer, TikTok LIVE - Foundation - Governance | score:3 | location:San Jose, CA | posted:2026-07-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437122246 | Avior | Entry-Level Software Developer | score:3 | location:Irving, TX | posted:2026-07-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4436043581 | Resonate AI | Software Engineer ($125k-$200k, 0.2% to 1%) | score:3.3 | location:San Francisco, CA | posted:2026-07-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437119391 | Rise of Pakistan | Junior Software Engineer | score:3.8 | location:California, United States | posted:2026-07-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4436044290 | Haystack | Software Engineer | score:3 | location:Atlanta Metropolitan Area | posted:2026-07-05T00:00:00.000Z | source:linkedin-guest
