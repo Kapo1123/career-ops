@@ -3450,3 +3450,6 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4436021822 | Dry runZ | Junior Software Engineer | score:3.8 | location:Buffalo-Niagara Falls Area | posted:2026-07-05T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4436047230 | Haystack | Software Engineer | score:3 | location:Missouri, United States | posted:2026-07-05T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4436018024 | RemoteHunter | Software Engineer | score:3 | location:United States | posted:2026-07-04T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4436035571 | Haystack | Software Engineer | score:3 | location:Greater St. Louis | posted:2026-07-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4436017570 | PandoLogic | Associate, Software Engineering | score:4.1 | location:New York, NY | posted:2026-07-05T00:00:00.000Z | source:linkedin-guest
