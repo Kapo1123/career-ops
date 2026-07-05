@@ -3443,3 +3443,10 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4436963362 | Visalaw.ai | Associate Software Developer | score:3.8 | location:Memphis, TN | posted:2026-07-04T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4433767069 | FG Nexus (Nasdaq: FGNX) | Software Engineer (Entry-Level / Associate) | score:3.8 | location:California, United States | posted:2026-07-04T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4373571625 | MatX | Software Engineer - Simulators | score:3 | location:Mountain View, CA | posted:2026-07-04T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4436994376 | Northwood | Software Engineer – General (new grad / early career) | score:3.8 | location:Torrance, CA | posted:2026-07-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4436988959 | Hired | Software Engineer - E-Commerce (Remote) | score:3 | location:United States | posted:2026-07-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4433902343 | Haystack | Junior Software Engineer | score:3.8 | location:Washington, DC | posted:2026-07-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4436021822 | Dry runZ | Junior Software Engineer | score:3.8 | location:Buffalo-Niagara Falls Area | posted:2026-07-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4436047230 | Haystack | Software Engineer | score:3 | location:Missouri, United States | posted:2026-07-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4436018024 | RemoteHunter | Software Engineer | score:3 | location:United States | posted:2026-07-04T00:00:00.000Z | source:linkedin-guest
