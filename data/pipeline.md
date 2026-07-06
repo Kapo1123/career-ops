@@ -3479,3 +3479,13 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4436200624 | BRYCER | Junior Software Engineer | score:3.8 | location:North Aurora, IL | posted:2026-07-06T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4437161478 | Sundayy | Software Engineer, Early Career | score:3.8 | location:United States | posted:2026-07-06T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4437163434 | Sundayy | Full Stack Software Engineer, Jr. | score:3.4 | location:United States | posted:2026-07-06T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f | Notion | Software Engineer, Early Career | score:4.9 | location:San Francisco, California | posted:2026-07-06T18:37:35.161+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28 | Notion | Software Engineer, Early Career (AI) | score:4.9 | location:San Francisco, California | posted:2026-07-06T18:37:42.434+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4433958032 | Assistly | Senior Care Software | Full Stack Engineer – Assistly | score:3.4 | location:Atlanta, GA | posted:2026-07-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4436229144 | Whova | Software Engineer (San Diego Only) | score:3 | location:San Diego, CA | posted:2026-07-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4433913858 | Haystack | Software Engineer | score:3 | location:Nashville, TN | posted:2026-07-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437188651 | SkillStorm | Entry Level Software Developer | score:3.8 | location:Nashville, TN | posted:2026-07-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4433942816 | Orcaworks | Full Stack Engineer – OrcaWorks AI | score:3.4 | location:Atlanta, GA | posted:2026-07-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4433919614 | Stealth Startup | Backend Developer [33168] | score:3.7 | location:New York, United States | posted:2026-07-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4433926354 | Stealth Startup | Backend Developer [33165] | score:3.7 | location:New York, United States | posted:2026-07-06T00:00:00.000Z | source:linkedin-guest
