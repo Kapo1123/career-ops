@@ -3489,3 +3489,11 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4433942816 | Orcaworks | Full Stack Engineer – OrcaWorks AI | score:3.4 | location:Atlanta, GA | posted:2026-07-06T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4433919614 | Stealth Startup | Backend Developer [33168] | score:3.7 | location:New York, United States | posted:2026-07-06T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4433926354 | Stealth Startup | Backend Developer [33165] | score:3.7 | location:New York, United States | posted:2026-07-06T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://stripe.com/jobs/search?gh_jid=8047083 | Stripe | Backend Engineer, Financial Connections | score:4.5 | location:NYC, Toronto, Remote in Canada | posted:2026-07-06T15:24:30-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4433994242 | IBM | Software Developer - Austin, TX | score:3 | location:Austin, TX | posted:2026-07-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4433911877 | Stealth Startup | Backend Developer [32922] | score:3.7 | location:New York, United States | posted:2026-07-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437457672 | Amentum | Entry Level Software Engineer | score:3.8 | location:Dahlgren, VA | posted:2026-07-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4436049806 | Jobgether | Associate Software Engineer | score:3.8 | location:United States | posted:2026-07-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437441494 | EnsoData | Backend Software Engineer | score:3.4 | location:Madison, WI | posted:2026-07-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4436259060 | Brooksource | Junior Software Engineer | score:3.8 | location:Columbus, Ohio Metropolitan Area | posted:2026-07-06T00:00:00.000Z | source:linkedin-guest
