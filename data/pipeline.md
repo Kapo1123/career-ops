@@ -3462,3 +3462,20 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 
 - [ ] https://www.linkedin.com/jobs/view/4433903706 | QVISE Pvt. Ltd. | Entry-Level Quality Assurance Engineer | score:3 | location:United States | posted:2026-07-05T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4437133020 | Société EBM | Junior Software Engineer | score:4.1 | location:New York, United States | posted:2026-07-05T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5283063008 | Anthropic | Software Engineer, Research Infrastructure | score:3.7 | location:San Francisco, CA | New York City, NY | posted:2026-07-06T10:30:58-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4437166946 | Hired | Software Engineer - E-Commerce (Remote) | score:3 | location:United States | posted:2026-07-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437409100 | MeeBoss | Software Engineer | score:3.3 | location:New York, United States | posted:2026-07-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437402565 | Lockheed Martin | Apriso Software Engineer, Associate | score:3.8 | location:Fort Worth, TX | posted:2026-07-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4424931575 | Innovative Defense Technologies (IDT) | Associate Software Engineer - JobID-0186 | score:3.8 | location:Mount Laurel, NJ | posted:2026-07-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437435222 | Helic &amp; Co | Junior Software Engineer | score:3.8 | location:United States | posted:2026-07-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437413041 | JPMorganChase | Software Engineer II | score:3.8 | location:Jersey City, NJ | posted:2026-07-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437407977 | Vestmark | Associate Java Software Engineer | score:4.2 | location:Wakefield, MA | posted:2026-07-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4433925331 | Stealth Startup | Backend Developer [33163] | score:3.4 | location:California, United States | posted:2026-07-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434960297 | AEROCONTACT | Software Engineer I (H/F) - MAG AEROSPACE INDUSTRIES, LLC | score:3.8 | location:Carson, CA | posted:2026-07-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4433956190 | Bizowie Cloud ERP | Junior Software Developer | score:3.8 | location:Pittsburgh, PA | posted:2026-07-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4433918766 | Haystack | Junior Software Engineer | score:3.8 | location:Washington, DC | posted:2026-07-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4436098761 | Jack &amp; Jill | Software Engineer, Platform ($200k-$250k + Equity) at Duckbill | score:3.7 | location:San Francisco, CA | posted:2026-07-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4436200624 | BRYCER | Junior Software Engineer | score:3.8 | location:North Aurora, IL | posted:2026-07-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437161478 | Sundayy | Software Engineer, Early Career | score:3.8 | location:United States | posted:2026-07-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437163434 | Sundayy | Full Stack Software Engineer, Jr. | score:3.4 | location:United States | posted:2026-07-06T00:00:00.000Z | source:linkedin-guest
