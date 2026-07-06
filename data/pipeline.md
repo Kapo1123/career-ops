@@ -3459,3 +3459,6 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4436043581 | Resonate AI | Software Engineer ($125k-$200k, 0.2% to 1%) | score:3.3 | location:San Francisco, CA | posted:2026-07-05T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4437119391 | Rise of Pakistan | Junior Software Engineer | score:3.8 | location:California, United States | posted:2026-07-05T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4436044290 | Haystack | Software Engineer | score:3 | location:Atlanta Metropolitan Area | posted:2026-07-05T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4433903706 | QVISE Pvt. Ltd. | Entry-Level Quality Assurance Engineer | score:3 | location:United States | posted:2026-07-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437133020 | Société EBM | Junior Software Engineer | score:4.1 | location:New York, United States | posted:2026-07-05T00:00:00.000Z | source:linkedin-guest
