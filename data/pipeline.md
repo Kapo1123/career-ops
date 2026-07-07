@@ -3531,3 +3531,11 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 
 - [ ] https://www.linkedin.com/jobs/view/4437744049 | Uber | Software Engineer I | score:4.1 | location:Seattle, WA | posted:2026-07-07T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4434567606 | OliveGreen™ | Junior Software Engineer | score:4.1 | location:San Francisco Bay Area | posted:2026-07-07T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4656281005 | Glean | Software Engineer, Billing & Revenue Platform | score:3.4 | location:Mountain View, CA | posted:2026-07-07T16:12:17-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4437851702 | StubHub | Software Engineer I - Core Platform - Streaming &amp; Storage | score:4.5 | location:New York, NY | posted:2026-07-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437865303 | StubHub | Software Engineer I - Core Compute Platform | score:4.5 | location:New York, NY | posted:2026-07-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4436839714 | Jack &amp; Jill | Software Engineer, Platform ($200k-$250k + Equity) at Duckbill | score:3.7 | location:San Francisco, CA | posted:2026-07-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434581296 | Haystack | Software Engineer | score:3 | location:Atlanta, GA | posted:2026-07-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437856136 | BizFund | Software Engineer | score:3 | location:Brooklyn, NY | posted:2026-07-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434512647 | Stealth Startup | Backend Developer [33236] | score:3.4 | location:Los Angeles, CA | posted:2026-07-07T00:00:00.000Z | source:linkedin-guest
