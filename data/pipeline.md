@@ -3507,3 +3507,24 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4436258780 | Applied Systems | Associate Software Engineer / Software Engineer | score:3.8 | location:Dallas, TX | posted:2026-07-06T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4437466607 | Chamberlain Group | Software Engineer I - AI | score:3.8 | location:Oak Brook, IL | posted:2026-07-06T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4437478994 | Honeywell Aerospace | Software Engineer I - Aero | score:3.8 | location:Phoenix, AZ | posted:2026-07-06T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6105394004 | Vercel | Software Engineer, CDN Content | score:3.3 | location:Hybrid - San Francisco | posted:2026-07-07T11:53:09-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5428982004 | Vercel | Software Engineer, Observability | score:3 | location:Hybrid - London | posted:2026-07-07T12:01:32-04:00 | source:greenhouse-api
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7993984 | MongoDB | Software Engineer 3 | score:3 | location:Gurugram | posted:2026-07-07T06:13:40-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7791267003?gh_jid=7791267003 | Celonis | Software Engineer - Java | score:3.4 | location:Bangalore, India | posted:2026-07-07T05:35:26-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/openai/eefeb527-4e36-432e-a787-88e4672e29e1 | OpenAI | Software Engineer, Codex Security | score:3.3 | location:San Francisco | posted:2026-07-07T05:36:29.100+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4437803099 | Hired | Software Engineer - E-Commerce (Remote) | score:3 | location:United States | posted:2026-07-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434501562 | NewsBreak | NewsBreak Venture, AI Growth Intelligence Engineer (New Grad） | score:3.8 | location:Mountain View, CA | posted:2026-07-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437729506 | Uber | Software Engineer I | score:3.8 | location:Sunnyvale, CA | posted:2026-07-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437794941 | Helic &amp; Co | Junior Software Engineer | score:3.8 | location:United States | posted:2026-07-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4436808258 | Emonics LLC | Software Engineer | score:3 | location:Austin, TX | posted:2026-07-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4436261665 | Applied Systems | Associate Software Engineer / Software Engineer | score:3.8 | location:Chicago, IL | posted:2026-07-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4436593992 | Emonics LLC | Entry Level Software Engineer | score:4.1 | location:Seattle, WA | posted:2026-07-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4436258494 | Jack | Software Engineer | score:3.3 | location:San Francisco Bay Area | posted:2026-07-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434527132 | Ketch | Backend Software Engineer | score:3.7 | location:San Francisco, CA | posted:2026-07-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437767529 | Guidehouse | Software Engineer | score:3 | location:Marion County, IN | posted:2026-07-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437481457 | Beacon AI | Software Engineer, Backend | score:3.4 | location:San Carlos, CA | posted:2026-07-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4429103491 | Jamf | Software Engineer I | score:3.8 | location:Eau Claire, WI | posted:2026-07-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4436287285 | Symmons Industries | Software Engineer I | score:3.8 | location:Braintree, MA | posted:2026-07-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4436816181 | Lane Valente Industries | Junior Software Developer | score:3.8 | location:Pittsburgh, PA | posted:2026-07-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4436266255 | Autopilot | Software Engineer | score:3.3 | location:New York, NY | posted:2026-07-06T00:00:00.000Z | source:linkedin-guest
