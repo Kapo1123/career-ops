@@ -3539,3 +3539,12 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4434581296 | Haystack | Software Engineer | score:3 | location:Atlanta, GA | posted:2026-07-07T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4437856136 | BizFund | Software Engineer | score:3 | location:Brooklyn, NY | posted:2026-07-07T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4434512647 | Stealth Startup | Backend Developer [33236] | score:3.4 | location:Los Angeles, CA | posted:2026-07-07T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://boards.greenhouse.io/robinhood/jobs/8049662?t=gh_src=&gh_jid=8049662 | Robinhood | Software Developer, Web | score:3.8 | location:Toronto, Canada | posted:2026-07-07T19:28:52-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4437862008 | Nscale | Systems Engineer - Early Career | score:3.8 | location:Bellevue, WA | posted:2026-07-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437752202 | Actalent | Entry Software Engineer | score:3 | location:White Salmon, WA | posted:2026-07-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437745703 | Actalent | Entry Level Software Engineer - Contract - Onsite | score:3.8 | location:White Salmon, WA | posted:2026-07-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4436451753 | Actalent | Software Engineer | score:3 | location:White Salmon, WA | posted:2026-07-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4433791563 | nextjobz | Junior Software Engineer - Python | score:4.2 | location:Marion County, IN | posted:2026-07-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4436835396 | Docusign | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-07-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4436872546 | SimpliSafe | Software Engineer I - Device Control | score:3.8 | location:Boston, MA | posted:2026-07-07T00:00:00.000Z | source:linkedin-guest
