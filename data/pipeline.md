@@ -3528,3 +3528,6 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4436287285 | Symmons Industries | Software Engineer I | score:3.8 | location:Braintree, MA | posted:2026-07-07T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4436816181 | Lane Valente Industries | Junior Software Developer | score:3.8 | location:Pittsburgh, PA | posted:2026-07-07T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4436266255 | Autopilot | Software Engineer | score:3.3 | location:New York, NY | posted:2026-07-06T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4437744049 | Uber | Software Engineer I | score:4.1 | location:Seattle, WA | posted:2026-07-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434567606 | OliveGreen™ | Junior Software Engineer | score:4.1 | location:San Francisco Bay Area | posted:2026-07-07T00:00:00.000Z | source:linkedin-guest
