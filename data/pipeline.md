@@ -3497,3 +3497,13 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4436049806 | Jobgether | Associate Software Engineer | score:3.8 | location:United States | posted:2026-07-06T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4437441494 | EnsoData | Backend Software Engineer | score:3.4 | location:Madison, WI | posted:2026-07-06T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4436259060 | Brooksource | Junior Software Engineer | score:3.8 | location:Columbus, Ohio Metropolitan Area | posted:2026-07-06T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/snowflake/7d626629-fe04-4cce-94c1-0b1a13c1d1fd | Snowflake | Software Engineer | score:3.8 | location:US-WA-Bellevue | posted:2026-07-06T23:33:11.076+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4436258499 | Jack | Software Engineer | score:3.3 | location:San Francisco Bay Area | posted:2026-07-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437461678 | Notion | Software Engineer, Early Career | score:4.9 | location:San Francisco, CA | posted:2026-07-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437481325 | Uber | Software Engineer I | score:4.1 | location:Seattle, WA | posted:2026-07-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437472369 | Notion | Software Engineer, Early Career (AI) | score:4.9 | location:San Francisco, CA | posted:2026-07-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437473216 | Amentum | Entry Level Software Engineer | score:3.8 | location:Dahlgren, VA | posted:2026-07-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4436258780 | Applied Systems | Associate Software Engineer / Software Engineer | score:3.8 | location:Dallas, TX | posted:2026-07-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437466607 | Chamberlain Group | Software Engineer I - AI | score:3.8 | location:Oak Brook, IL | posted:2026-07-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437478994 | Honeywell Aerospace | Software Engineer I - Aero | score:3.8 | location:Phoenix, AZ | posted:2026-07-06T00:00:00.000Z | source:linkedin-guest
