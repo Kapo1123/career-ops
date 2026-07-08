@@ -3567,3 +3567,8 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4434843779 | Tech Consulting | Junior Software Engineer | score:3.8 | location:Illinois, United States | posted:2026-07-08T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4436884007 | SimpliSafe | Software Engineer I - Video Platform | score:4.2 | location:Boston, MA | posted:2026-07-08T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4436888417 | Sonalysts, Inc. | Junior Software Engineer | score:3.8 | location:Waterford, CT | posted:2026-07-08T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4437095215 | Palo Alto Networks | Early In Career - Software Engineer | score:3 | location:Santa Clara, CA | posted:2026-07-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434870453 | Applied Materials | Software Engineer II (New College Grad - Santa Clara, CA) | score:3.8 | location:Santa Clara, CA | posted:2026-07-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428407474 | Goldman Sachs | Wealth Management-Richardson-Associate-Software Engineering | score:3.8 | location:Richardson, TX | posted:2026-07-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437031096 | Haystack | Software Engineer | score:3 | location:Maryland, United States | posted:2026-07-08T00:00:00.000Z | source:linkedin-guest
