@@ -3548,3 +3548,22 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4433791563 | nextjobz | Junior Software Engineer - Python | score:4.2 | location:Marion County, IN | posted:2026-07-07T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4436835396 | Docusign | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-07-07T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4436872546 | SimpliSafe | Software Engineer I - Device Control | score:3.8 | location:Boston, MA | posted:2026-07-07T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://app.careerpuck.com/job-board/lyft/job/8623323002?gh_jid=8623323002 | Lyft | Software Engineer | score:3.8 | location:Toronto, Canada | posted:2026-07-08T11:41:30-04:00 | source:greenhouse-api
+- [ ] https://app.careerpuck.com/job-board/lyft/job/8623122002?gh_jid=8623122002 | Lyft | Software Engineer, AV Team | score:3.8 | location:Mexico City, Mexico | posted:2026-07-08T11:24:03-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4438136319 | MintMCP | Software Engineer | score:3 | location:San Mateo, CA | posted:2026-07-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438246933 | Alkira, Inc. | Software Engineer - Datapath | score:3.4 | location:San Jose, CA | posted:2026-07-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4436899733 | Docusign | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-07-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438126142 | Otter.ai | Software Engineer, Backend (New Grad) | score:4.2 | location:Mountain View, CA | posted:2026-07-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437856254 | Nscale | Systems Engineer - Early Career | score:4.1 | location:Seattle, WA | posted:2026-07-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438231481 | Helic &amp; Co | Junior Software Engineer | score:3.8 | location:United States | posted:2026-07-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437024704 | Haystack | Software Engineer | score:3 | location:Missouri, United States | posted:2026-07-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4436855808 | edkey | Junior Software Engineer | score:3.8 | location:Alpharetta, GA | posted:2026-07-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438140058 | MetLife | Junior Software Engineer | score:3.8 | location:Tampa, FL | posted:2026-07-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437067315 | Haystack | Junior Software Engineer | score:3.8 | location:United States | posted:2026-07-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434830208 | Haystack | Associate Software Engineer | score:3.8 | location:Northeast Saint Louis, MN | posted:2026-07-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438205897 | New York Technology Partners | Associate Software Engineer | score:4.1 | location:New York City Metropolitan Area | posted:2026-07-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437076361 | Tata Consultancy Services | Backend/Full Stack developer | score:3.4 | location:Sunnyvale, CA | posted:2026-07-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434843779 | Tech Consulting | Junior Software Engineer | score:3.8 | location:Illinois, United States | posted:2026-07-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4436884007 | SimpliSafe | Software Engineer I - Video Platform | score:4.2 | location:Boston, MA | posted:2026-07-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4436888417 | Sonalysts, Inc. | Junior Software Engineer | score:3.8 | location:Waterford, CT | posted:2026-07-08T00:00:00.000Z | source:linkedin-guest
