@@ -3572,3 +3572,12 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4434870453 | Applied Materials | Software Engineer II (New College Grad - Santa Clara, CA) | score:3.8 | location:Santa Clara, CA | posted:2026-07-08T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4428407474 | Goldman Sachs | Wealth Management-Richardson-Associate-Software Engineering | score:3.8 | location:Richardson, TX | posted:2026-07-08T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4437031096 | Haystack | Software Engineer | score:3 | location:Maryland, United States | posted:2026-07-08T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/gusto/jobs/7413644 | Gusto | Sr Software Engineer, Database Infrastructure | score:3.7 | location:Denver, CO;San Francisco, CA;New York, NY;Los Angeles, CA;Seattle, WA | posted:2026-07-08T16:17:33-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4438296564 | SpaceX | Software Engineer, CDN (Starlink) | score:3 | location:Palo Alto, CA | posted:2026-07-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437885536 | iCapital | Technology Software Engineer Rotation Program - Analyst | score:3.3 | location:New York, NY | posted:2026-07-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437036157 | Haystack | Software Engineer | score:3 | location:Missouri, United States | posted:2026-07-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434821549 | Haystack | Junior Software Engineer | score:3.8 | location:Washington, DC | posted:2026-07-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438196353 | Cisco | Software Engineer | score:3 | location:Durham, NC | posted:2026-07-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437046992 | Precisely | Associate Software Engineer – Full Stack (AI First) | score:4.2 | location:United States | posted:2026-07-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437080265 | Carrier | Web Application Full Stack Developer | score:3.4 | location:Georgia, United States | posted:2026-07-08T00:00:00.000Z | source:linkedin-guest
