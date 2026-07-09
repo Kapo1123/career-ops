@@ -3603,3 +3603,10 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4437307540 | SCITON | Software Developer | score:3 | location:Palo Alto, CA | posted:2026-07-08T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4434879875 | Carrier | Web Application Full Stack Developer | score:3.4 | location:Atlanta, GA | posted:2026-07-08T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4438546993 | SpaceX | Full Stack Software Engineer, Data (Starlink) | score:3.4 | location:Redmond, WA | posted:2026-07-09T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4438642092 | Hired | Software Engineer - E-Commerce (Remote) | score:3 | location:United States | posted:2026-07-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438676151 | Helic &amp; Co | Junior Software Engineer | score:3.8 | location:United States | posted:2026-07-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438633980 | Robert Half | Software Engineer I | score:3.8 | location:San Ramon, CA | posted:2026-07-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438564071 | CubeSmart | Software Engineer | score:3 | location:Malvern, PA | posted:2026-07-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438643975 | SAS | C Software Developer (Emerging Careers) | score:3 | location:Cary, NC | posted:2026-07-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437584509 | Dash Bio | Associate Software Engineer/Software Engineer | score:3.8 | location:United States | posted:2026-07-09T00:00:00.000Z | source:linkedin-guest
