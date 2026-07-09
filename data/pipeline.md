@@ -3588,3 +3588,18 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4435609225 | BAE Systems, Inc. | Entry Level Software Engineer | score:3.8 | location:Hudson, NH | posted:2026-07-08T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4438128369 | Actalent | Software Engineer | score:3 | location:White Salmon, WA | posted:2026-07-08T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4438290595 | Infinite Computer Solutions | Associate Software Engineer | score:4.1 | location:New York, United States | posted:2026-07-08T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/deepgram/2084edc0-2df0-4bd4-b759-0f05c38d5ef5 | Deepgram | Backend Engineer- Inference Services | score:3.7 | location:USA | Remote | posted:2026-07-09T00:31:35.047+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/openai/ca54cd23-2bcc-4327-bcb6-46d81ed414a8 | OpenAI | Software Engineer, ChatGPT Lifestyle | score:3.3 | location:San Francisco | posted:2026-07-09T16:33:16.935+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4437343249 | EvenUp | Software Engineer (New Grad), Cases Product | score:4.1 | location:San Francisco, CA | posted:2026-07-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437327459 | Multifactor (YC F25) | Junior Software Engineer | score:4.1 | location:San Francisco, CA | posted:2026-07-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438530176 | Los Angeles Capital Management | Software Engineer | score:3 | location:Los Angeles Metropolitan Area | posted:2026-07-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437556937 | Google | Software Engineer II, Early Career, Google Cloud AI Career Catalyst Program | score:5 | location:Sunnyvale, CA | posted:2026-07-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438589607 | Actalent | Software Engineer | score:3 | location:White Salmon, WA | posted:2026-07-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4435637988 | Haystack | Junior Software Engineer | score:3.8 | location:Washington, DC | posted:2026-07-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437324526 | The Walt Disney Company | Product Software Engineer I | score:3.8 | location:Santa Monica, CA | posted:2026-07-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437538996 | Jack &amp; Jill | Software Engineer, Platform ($200k-$250k + Equity) at Duckbill | score:3.7 | location:San Francisco, CA | posted:2026-07-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437501120 | RemoteHunter | Software Engineer I (Full -Stack) | score:3.8 | location:United States | posted:2026-07-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437307540 | SCITON | Software Developer | score:3 | location:Palo Alto, CA | posted:2026-07-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434879875 | Carrier | Web Application Full Stack Developer | score:3.4 | location:Atlanta, GA | posted:2026-07-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438546993 | SpaceX | Full Stack Software Engineer, Data (Starlink) | score:3.4 | location:Redmond, WA | posted:2026-07-09T00:00:00.000Z | source:linkedin-guest
