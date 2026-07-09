@@ -3581,3 +3581,10 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4438196353 | Cisco | Software Engineer | score:3 | location:Durham, NC | posted:2026-07-08T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4437046992 | Precisely | Associate Software Engineer – Full Stack (AI First) | score:4.2 | location:United States | posted:2026-07-08T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4437080265 | Carrier | Web Application Full Stack Developer | score:3.4 | location:Georgia, United States | posted:2026-07-08T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://boards.greenhouse.io/figma/jobs/6100023004?gh_jid=6100023004 | Figma | Software Engineer, Mobile Web | score:4.1 | location:San Francisco, CA • New York, NY • United States | posted:2026-07-08T19:17:47-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4438292999 | Confido | New Grad Software Engineer | score:4.1 | location:New York, NY | posted:2026-07-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438212626 | Hired | Software Engineer - E-Commerce (Remote) | score:3 | location:United States | posted:2026-07-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4435609225 | BAE Systems, Inc. | Entry Level Software Engineer | score:3.8 | location:Hudson, NH | posted:2026-07-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438128369 | Actalent | Software Engineer | score:3 | location:White Salmon, WA | posted:2026-07-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438290595 | Infinite Computer Solutions | Associate Software Engineer | score:4.1 | location:New York, United States | posted:2026-07-08T00:00:00.000Z | source:linkedin-guest
