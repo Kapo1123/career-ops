@@ -3610,3 +3610,12 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4438564071 | CubeSmart | Software Engineer | score:3 | location:Malvern, PA | posted:2026-07-09T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4438643975 | SAS | C Software Developer (Emerging Careers) | score:3 | location:Cary, NC | posted:2026-07-09T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4437584509 | Dash Bio | Associate Software Engineer/Software Engineer | score:3.8 | location:United States | posted:2026-07-09T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4438824270 | MintMCP | Software Engineer | score:3 | location:San Mateo, CA | posted:2026-07-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438818396 | MetLife | Junior Software Engineer | score:3.8 | location:Whippany, NJ | posted:2026-07-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438800857 | Altamira Technologies Corporation | Junior Software Engineer | score:3.8 | location:Fairborn, OH | posted:2026-07-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4429362100 | Goldman Sachs | Engineering- Dallas - Associate, Software Engineering - 4133518 | score:3.8 | location:Dallas, TX | posted:2026-07-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4435650255 | Haystack | Associate Software Engineer | score:3.8 | location:Northeast Saint Louis, MN | posted:2026-07-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438682609 | New York Life | Associate - Full Stack Developer | score:4.5 | location:New York, NY | posted:2026-07-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4435665790 | Tech Consulting | Junior Software Engineer | score:3.8 | location:Oregon, United States | posted:2026-07-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437905512 | RemoteHunter | Software Engineer I (Full -Stack) | score:3.8 | location:United States | posted:2026-07-09T00:00:00.000Z | source:linkedin-guest
