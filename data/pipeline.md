@@ -3641,3 +3641,14 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4430744160 | SpaceX | Application Software Engineer, Inference | score:3 | location:Palo Alto, CA | posted:2026-07-10T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4437982159 | Haystack | Junior Software Engineer | score:3.8 | location:United States | posted:2026-07-10T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4435969793 | Tech Consulting | Junior Software Engineer | score:3.8 | location:Pennsylvania, United States | posted:2026-07-10T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://careers.duolingo.com/jobs/8628670002?gh_jid=8628670002 | Duolingo | Software Engineer II, Android | score:4.1 | location:New York, NY | posted:2026-07-10T13:53:29-04:00 | source:greenhouse-api
+- [ ] https://careers.duolingo.com/jobs/8628275002?gh_jid=8628275002 | Duolingo | Software Engineer II, Backend | score:4.5 | location:New York, NY | posted:2026-07-10T13:12:31-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4713145005 | Glean | Software Engineer | score:3 | location:Mountain View, CA | posted:2026-07-10T14:21:38-04:00 | source:greenhouse-api
+- [ ] https://jobs.lever.co/spotify/308d127c-e765-4895-9264-3765ddbfc620 | Spotify | Software Engineer - Financial Engineering | score:3 | location:Toronto | posted:2026-07-10T15:53:26.592Z | source:lever-api
+- [ ] https://www.linkedin.com/jobs/view/4438859896 | Actalent | Entry Level Software Engineer | score:3.8 | location:Burnsville, MN | posted:2026-07-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4439026408 | Collins Aerospace | Software Engineer I (Onsite) | score:3.8 | location:Fulton, MD | posted:2026-07-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437984832 | The Walt Disney Company | Product Software Engineer I | score:3.8 | location:Bristol, CT | posted:2026-07-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437973976 | RemoteHunter | Software Engineer I (Full -Stack) | score:3.8 | location:United States | posted:2026-07-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430788614 | SpaceX | Application Software Engineer, Manufacturing Systems | score:3 | location:Redmond, WA | posted:2026-07-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438350069 | Cruit Group | Junior Software Developer | score:3.8 | location:Miami, FL | posted:2026-07-10T00:00:00.000Z | source:linkedin-guest
