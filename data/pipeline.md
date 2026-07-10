@@ -3661,3 +3661,13 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4437943732 | hackajob | Associate Engineer | score:3.8 | location:Irving, TX | posted:2026-07-10T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4436601719 | Boeing | Associate and Experienced Software Engineers - Secure Network &amp; Protocols | score:3.8 | location:Oklahoma City, OK | posted:2026-07-10T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4438371102 | Maritz | Software Engineer I | score:3.8 | location:Fenton, MO | posted:2026-07-10T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7922994 | Reddit | Backend Engineer, Moderation Enforcement | score:3.7 | location:Remote - United States | posted:2026-07-10T18:27:31-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5788954004 | Vercel | Software Engineer, Trust & Safety | score:3.3 | location:Remote - United States | posted:2026-07-10T17:13:11-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4436622959 | KNAPP North America | Software Developer I | score:3 | location:Kennesaw, GA | posted:2026-07-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4439343818 | GAINSCO | Software Developer I | score:3 | location:Dallas-Fort Worth Metroplex | posted:2026-07-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438370777 | Glean | Software Engineer | score:3 | location:Mountain View, CA | posted:2026-07-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438893269 | Northrop Grumman | Software Engineer Level 1 or 2 | score:3 | location:Aurora, CO | posted:2026-07-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4439373259 | Astronomer | Software Engineer - Infra &amp; Systems | score:3.3 | location:New York, NY | posted:2026-07-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437958987 | Haystack | Software Engineer | score:3 | location:Maryland, United States | posted:2026-07-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438339479 | Crossfire Consulting | Full-Stack Engineer Junior | score:4.1 | location:New York City Metropolitan Area | posted:2026-07-10T00:00:00.000Z | source:linkedin-guest
