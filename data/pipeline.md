@@ -3625,3 +3625,19 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4438829700 | Bain &amp; Company | Software Engineer I, Private Equity Innovation | score:3.8 | location:Dallas, TX | posted:2026-07-09T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4438850133 | Blossom | Software Engineer (All Levels) | score:3.3 | location:New York, NY | posted:2026-07-09T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4438814481 | MetLife | Junior Software Engineer | score:3.8 | location:Cary, NC | posted:2026-07-09T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://careers.duolingo.com/jobs/8628276002?gh_jid=8628276002 | Duolingo | Software Engineer II, Backend | score:4.2 | location:Pittsburgh, PA | posted:2026-07-10T10:45:19-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4712442005 | Glean | Software Engineer, Agents | score:3 | location:Bangalore, India | posted:2026-07-10T02:49:05-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4712438005 | Glean | Software Engineer, Evals | score:3 | location:Bangalore, India | posted:2026-07-10T05:02:57-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/deepgram/d98e6723-3485-4b58-9494-d6bf028fa905 | Deepgram | Sr. Backend Engineer - Engine Team: API | score:3.7 | location:USA | Remote | posted:2026-07-10T13:27:03.731+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4439087089 | Hired | Software Engineer - E-Commerce (Remote) | score:3 | location:United States | posted:2026-07-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4439079320 | Helic &amp; Co | Junior Software Engineer | score:3.8 | location:United States | posted:2026-07-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4363437669 | Epic | Entry-Level Software Developer | score:3 | location:Whitewater, WI | posted:2026-07-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4435985100 | Bracari | Junior Software Developer | score:3.8 | location:Charleston, SC | posted:2026-07-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438318675 | Elliott Electric Supply | Software Developer - Entry Level | score:3.8 | location:Nacogdoches, TX | posted:2026-07-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438873438 | U.S. Bank | Software Engineer 1 | score:3.3 | location:San Francisco, CA | posted:2026-07-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4439309021 | Eulerity | Associate Backend Engineer | score:4.5 | location:New York City Metropolitan Area | posted:2026-07-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4439019345 | MintMCP | Software Engineer | score:3 | location:San Mateo, CA | posted:2026-07-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430744160 | SpaceX | Application Software Engineer, Inference | score:3 | location:Palo Alto, CA | posted:2026-07-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437982159 | Haystack | Junior Software Engineer | score:3.8 | location:United States | posted:2026-07-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4435969793 | Tech Consulting | Junior Software Engineer | score:3.8 | location:Pennsylvania, United States | posted:2026-07-10T00:00:00.000Z | source:linkedin-guest
