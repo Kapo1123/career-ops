@@ -3652,3 +3652,12 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4437973976 | RemoteHunter | Software Engineer I (Full -Stack) | score:3.8 | location:United States | posted:2026-07-10T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4430788614 | SpaceX | Application Software Engineer, Manufacturing Systems | score:3 | location:Redmond, WA | posted:2026-07-10T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4438350069 | Cruit Group | Junior Software Developer | score:3.8 | location:Miami, FL | posted:2026-07-10T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://careers.duolingo.com/jobs/8628658002?gh_jid=8628658002 | Duolingo | Software Engineer II, Android | score:3.8 | location:Pittsburgh, PA | posted:2026-07-10T14:31:45-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4713977005 | Glean | Software Engineer | score:3 | location:Mountain View, CA | posted:2026-07-10T14:21:37-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4438343775 | Emonics LLC | Entry Level Software Engineer | score:3.8 | location:Nashville, TN | posted:2026-07-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438341762 | Emonics LLC | Software Engineer | score:3 | location:Denver, CO | posted:2026-07-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438365244 | Green Key Resources | Software Engineer | score:3.3 | location:New York City Metropolitan Area | posted:2026-07-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437943732 | hackajob | Associate Engineer | score:3.8 | location:Irving, TX | posted:2026-07-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4436601719 | Boeing | Associate and Experienced Software Engineers - Secure Network &amp; Protocols | score:3.8 | location:Oklahoma City, OK | posted:2026-07-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438371102 | Maritz | Software Engineer I | score:3.8 | location:Fenton, MO | posted:2026-07-10T00:00:00.000Z | source:linkedin-guest
