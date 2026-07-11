@@ -3700,3 +3700,7 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4438370778 | Glean | Software Engineer | score:3 | location:Mountain View, CA | posted:2026-07-10T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4436641353 | Haystack | Junior Full Stack Developer | score:4.5 | location:New York, United States | posted:2026-07-11T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4438930886 | Jack &amp; Jill | Software Engineer at Den | score:3.3 | location:New York, United States | posted:2026-07-11T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4439528525 | Revel | Software Engineer - Test (Entry-Junior) | score:3.8 | location:Los Angeles Metropolitan Area | posted:2026-07-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4439394341 | Kustomer | Software Engineer, Full Stack (Early Career) | score:4.5 | location:New York, NY | posted:2026-07-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4439539735 | Sundayy | Software Developer, Jr. (Python, API) | score:3.4 | location:United States | posted:2026-07-11T00:00:00.000Z | source:linkedin-guest
