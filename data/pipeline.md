@@ -3685,3 +3685,14 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4439548691 | BlackRock | Associate, Software Engineer, Applications | score:4.1 | location:San Francisco, CA | posted:2026-07-11T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4439503643 | MintMCP | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-07-11T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4436668203 | NetApp | Entry Level Software Engineer - ANF (Azure NetApp Files) | score:3.8 | location:San Jose, CA | posted:2026-07-11T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4439338532 | Baseten | Software Engineer, Model Performance Systems | score:3.3 | location:San Francisco, CA | posted:2026-07-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4436653532 | Leidos | Junior Software Engineer | score:3.8 | location:Huntsville, AL | posted:2026-07-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4439379837 | Marriott International | FLEX  Associate Software Engineer - CDP | score:3.8 | location:Bethesda, MD | posted:2026-07-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4436652572 | Walmart | Software Engineer II | score:3.8 | location:Sunnyvale, CA | posted:2026-07-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4436673553 | Tech Consulting | Junior Software Engineer | score:4.1 | location:New York, United States | posted:2026-07-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4439355629 | Engagement Solutions by Maritz | Software Engineer I | score:3.8 | location:Fenton, MO | posted:2026-07-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4439374515 | Autonomous Solutions, Inc. (ASI) | AI Software Engineer I | score:3.8 | location:Logan, UT | posted:2026-07-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438930046 | RemoteHunter | Software Engineer I (Full -Stack) | score:3.8 | location:United States | posted:2026-07-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4439360817 | PTR Global | Software Engineer (I) | score:3 | location:Mountain View, CA | posted:2026-07-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4439500631 | Revel | Software Engineer - Test (Entry-Junior) | score:3.8 | location:Los Angeles, CA | posted:2026-07-11T00:00:00.000Z | source:linkedin-guest
