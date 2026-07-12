@@ -3704,3 +3704,16 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4439528525 | Revel | Software Engineer - Test (Entry-Junior) | score:3.8 | location:Los Angeles Metropolitan Area | posted:2026-07-11T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4439394341 | Kustomer | Software Engineer, Full Stack (Early Career) | score:4.5 | location:New York, NY | posted:2026-07-11T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4439539735 | Sundayy | Software Developer, Jr. (Python, API) | score:3.4 | location:United States | posted:2026-07-11T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4439713887 | Hired | Software Engineer - E-Commerce (Remote) | score:3 | location:United States | posted:2026-07-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438972097 | Spatial Front, Inc | Associate Software Developer — Recent Graduates | score:3.8 | location:Arlington, VA | posted:2026-07-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4439585938 | MintMCP | Software Engineer | score:3 | location:San Mateo, CA | posted:2026-07-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438975403 | Equal Efforts Technologies | Software Engineer (Java) | score:3.4 | location:Days Creek, OR | posted:2026-07-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438970707 | Equal Efforts Technologies | Associate Software Engineer (Java) | score:4.2 | location:Days Creek, OR | posted:2026-07-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/3986111777 | Epic | Software Engineer | score:3 | location:La Crosse, WI | posted:2026-07-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4412130288 | Midmark Corporation | Software Developer | score:3 | location:Cincinnati, OH | posted:2026-07-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438852784 | Harris Computer | Software Engineer | score:3 | location:Indiana, United States | posted:2026-07-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4296093604 | Wealthfront | Backend Engineer | score:3.4 | location:Palo Alto, CA | posted:2026-07-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4390284472 | CommerceIQ | Software Engineer - Founder's Office | score:3 | location:Mountain View, CA | posted:2026-07-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4439716730 | Cisco | Cloud Engineer | score:3 | location:Milpitas, CA | posted:2026-07-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438968671 | Cruit Group | Junior Software Developer | score:3.8 | location:Miami, FL | posted:2026-07-12T00:00:00.000Z | source:linkedin-guest
