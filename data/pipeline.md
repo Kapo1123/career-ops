@@ -3734,3 +3734,11 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4438998674 | Haystack | Software Engineer | score:3 | location:Georgia, United States | posted:2026-07-12T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4438989903 | Jack &amp; Jill | Software Engineer at Den | score:3.3 | location:New York, United States | posted:2026-07-12T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4431543267 | Synergy HR Solutions | Full Stack Engineer/Full Stack Developer | score:3.4 | location:United States | posted:2026-07-12T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4439105422 | SynergisticIT | entry level AI engineer/Junior java developer | score:4.2 | location:Raleigh, NC | posted:2026-07-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4439115095 | SynergisticIT | junior software developer/Bi analyst | score:3.8 | location:Atlanta, GA | posted:2026-07-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/3986116413 | Epic | Entry-Level Software Developer | score:3 | location:Midland, TX | posted:2026-07-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438992987 | RemoteHunter | Software Engineer I (Full -Stack) | score:3.8 | location:United States | posted:2026-07-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438992796 | Haystack | Software Engineer | score:3 | location:Atlanta Metropolitan Area | posted:2026-07-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4439101463 | Dartmouth Center for Career Design | How This Software Engineer’s Love of Logic Helped Him Forge a Tech Career | score:3 | location:Indiana, United States | posted:2026-07-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4439122054 | Cruit Group | Junior Software Developer | score:3.8 | location:Miami, FL | posted:2026-07-12T00:00:00.000Z | source:linkedin-guest
