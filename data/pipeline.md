@@ -3726,3 +3726,11 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/3986113604 | Epic | Software Engineer | score:3.3 | location:Seattle, WA | posted:2026-07-11T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4439718683 | Sundayy | Software Engineer, Jr. (Js, Java) | score:3.4 | location:United States | posted:2026-07-12T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4439719328 | Rep AI | Junior QA Engineer (Entry Level) | score:3.8 | location:Location, WV | posted:2026-07-12T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4438993864 | Jack &amp; Jill | Software Engineer, Platform ($200k-$250k + Equity) at Duckbill | score:3.7 | location:San Francisco, CA | posted:2026-07-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4439741613 | Sapphire Partners | Software Engineer | score:3 | location:Mountain View, CA | posted:2026-07-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438989859 | TetraMem - Accelerate The World | Software Engineer I – Compiler &amp; Runtime | score:3.8 | location:San Jose, CA | posted:2026-07-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4439753397 | CareerWellness | Backend Engineer | score:3.7 | location:San Francisco, CA | posted:2026-07-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438998674 | Haystack | Software Engineer | score:3 | location:Georgia, United States | posted:2026-07-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438989903 | Jack &amp; Jill | Software Engineer at Den | score:3.3 | location:New York, United States | posted:2026-07-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431543267 | Synergy HR Solutions | Full Stack Engineer/Full Stack Developer | score:3.4 | location:United States | posted:2026-07-12T00:00:00.000Z | source:linkedin-guest
