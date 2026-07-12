@@ -3717,3 +3717,12 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4390284472 | CommerceIQ | Software Engineer - Founder's Office | score:3 | location:Mountain View, CA | posted:2026-07-12T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4439716730 | Cisco | Cloud Engineer | score:3 | location:Milpitas, CA | posted:2026-07-12T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4438968671 | Cruit Group | Junior Software Developer | score:3.8 | location:Miami, FL | posted:2026-07-12T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4439734646 | Sapphire Partners | Software Engineer | score:3 | location:Mountain View, CA | posted:2026-07-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4365028408 | Verkada | Software Engineer, Platform Infrastructure | score:3.4 | location:San Mateo, CA | posted:2026-07-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438962728 | Nigerian Queries | Entry Level Jobs in the USA with Visa Sponsorship | score:3.8 | location:Indiana, United States | posted:2026-07-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438960939 | Qcells North America | Junior Software Engineer | score:3.8 | location:Santa Clara, CA | posted:2026-07-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/3949597164 | The D. E. Shaw Group | Software Developer | score:3.3 | location:New York, NY | posted:2026-07-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/3986113604 | Epic | Software Engineer | score:3.3 | location:Seattle, WA | posted:2026-07-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4439718683 | Sundayy | Software Engineer, Jr. (Js, Java) | score:3.4 | location:United States | posted:2026-07-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4439719328 | Rep AI | Junior QA Engineer (Entry Level) | score:3.8 | location:Location, WV | posted:2026-07-12T00:00:00.000Z | source:linkedin-guest
