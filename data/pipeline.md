@@ -3775,3 +3775,14 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4439142758 | Haystack | Software Engineer | score:3 | location:Maryland, United States | posted:2026-07-13T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4437617407 | Upstart | Software Engineer, Upstart Bank | score:3 | location:United States | posted:2026-07-13T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4440089600 | Abridge | Software Engineer- Early Careers | score:4.1 | location:New York, NY | posted:2026-07-13T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://stripe.com/jobs/search?gh_jid=8062299 | Stripe | Backend Engineer, Financial Connections | score:4.2 | location:Toronto | posted:2026-07-13T19:07:43-04:00 | source:greenhouse-api
+- [ ] https://stripe.com/jobs/search?gh_jid=8062305 | Stripe | Full Stack Engineer, Link | score:4.5 | location:New York, New York | posted:2026-07-13T19:11:57-04:00 | source:greenhouse-api
+- [ ] https://stripe.com/jobs/search?gh_jid=8062708 | Stripe | Full Stack Engineer, Support Experience | score:4.2 | location:Toronto | posted:2026-07-13T19:24:33-04:00 | source:greenhouse-api
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=8054991 | MongoDB | Software Engineer 3, Documentation Platform | score:3.7 | location:New York City; Palo Alto; Seattle | posted:2026-07-13T17:01:25-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4440319364 | Quantiq | Software Developer- New Graduate | score:3.8 | location:Austin, TX | posted:2026-07-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/3986117145 | Epic | Entry-Level Software Developer | score:3 | location:McKinney, TX | posted:2026-07-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440084829 | Abridge | Software Engineer- Early Careers | score:4.1 | location:San Francisco, CA | posted:2026-07-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4390729232 | Pushnami | Software Engineer | score:3 | location:Austin, TX | posted:2026-07-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4439445891 | Google | Software Engineer, Calibration and System Test | score:4.5 | location:San Jose, CA | posted:2026-07-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440333069 | The Cadmus Group | Junior Full Stack Developer | score:4.2 | location:United States | posted:2026-07-13T00:00:00.000Z | source:linkedin-guest
