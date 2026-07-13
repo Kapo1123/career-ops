@@ -3764,3 +3764,14 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4437257052 | Haystack | Junior Software Engineer | score:3.8 | location:Washington, DC | posted:2026-07-13T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4437293340 | Noridian Healthcare Solutions, LLC | Software Developer I | score:3 | location:Fargo, ND | posted:2026-07-13T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4439141881 | Equal Efforts Technologies | Associate Software Engineer (Java) | score:4.2 | location:Days Creek, OR | posted:2026-07-13T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://app.careerpuck.com/job-board/lyft/job/8631837002?gh_jid=8631837002 | Lyft | Software Engineer, Async Platform | score:4.5 | location:Seattle, WA | posted:2026-07-13T15:43:59-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/openai/fff02c39-1185-427c-bf89-70d7eaa5e3db | OpenAI | Software Engineer, Codex -Enterprise Controls | score:3.3 | location:San Francisco | posted:2026-07-13T19:27:11.674+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/openai/d1c6cb87-a44d-4d04-92a8-dc40eccd090e | OpenAI | Software Engineer, Codex — User Activation | score:3.3 | location:San Francisco | posted:2026-07-13T19:27:13.459+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4440094661 | Northslope Technologies | Forward Deployed Software Engineer, New Grad | score:4.1 | location:New York, United States | posted:2026-07-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440098689 | Akuna Capital | Software Engineer (Entry-Level) - Python | score:3.4 | location:Chicago, IL | posted:2026-07-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440094908 | Akuna Capital | Software Engineer (Entry-Level) - C++ | score:3 | location:Chicago, IL | posted:2026-07-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4439457341 | State Farm | Software Engineer (Java) - Hybrid (Entry/Mid Level) | score:3.4 | location:Richardson, TX | posted:2026-07-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4439142758 | Haystack | Software Engineer | score:3 | location:Maryland, United States | posted:2026-07-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437617407 | Upstart | Software Engineer, Upstart Bank | score:3 | location:United States | posted:2026-07-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440089600 | Abridge | Software Engineer- Early Careers | score:4.1 | location:New York, NY | posted:2026-07-13T00:00:00.000Z | source:linkedin-guest
