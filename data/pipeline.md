@@ -3742,3 +3742,18 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4438992796 | Haystack | Software Engineer | score:3 | location:Atlanta Metropolitan Area | posted:2026-07-12T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4439101463 | Dartmouth Center for Career Design | How This Software Engineer’s Love of Logic Helped Him Forge a Tech Career | score:3 | location:Indiana, United States | posted:2026-07-12T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4439122054 | Cruit Group | Junior Software Developer | score:3.8 | location:Miami, FL | posted:2026-07-12T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7541032?gh_jid=7541032 | Cloudflare | Software Engineer - Network Platforms | score:3.4 | location:Hybrid | posted:2026-07-13T08:22:14-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4439432159 | Whova | Software Engineer (San Diego Only) | score:3 | location:San Diego, CA | posted:2026-07-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4439777275 | PointOne | New Grad Software Engineer | score:4.1 | location:New York, NY | posted:2026-07-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4439437184 | Collars Inc. | Full-Stack Software Engineer | score:3 | location:Roselle, IL | posted:2026-07-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440031505 | Helic &amp; Co | Junior Software Engineer | score:3.8 | location:United States | posted:2026-07-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440068571 | TalentAlly | Entry-Level Software Engineer | score:3 | location:Maryland Heights, MO | posted:2026-07-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440037854 | SAS | C Software Developer (Emerging Careers) | score:3 | location:Cary, NC | posted:2026-07-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4439433262 | Capgemini | Junior Software Developer | score:3.8 | location:Nashville, TN | posted:2026-07-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440032721 | Nomura | Software Engineer Associate - Full Stack | score:4.2 | location:Philadelphia, PA | posted:2026-07-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4439424270 | Haystack | Software Engineer | score:3 | location:Atlanta Metropolitan Area | posted:2026-07-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437268453 | Tech Consulting | Junior Software Engineer | score:3.8 | location:Arizona, United States | posted:2026-07-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4439405866 | Aurora | Software Engineer I (Data Eng infra) | score:4.2 | location:Mountain View, CA | posted:2026-07-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4439410044 | Options Consulting Solutions | Junior Full Stack Developer | score:4.2 | location:Boston, MA | posted:2026-07-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440070145 | Surge Staffing | Jr. Full Stack Developer | score:3.4 | location:Columbus, Ohio Metropolitan Area | posted:2026-07-13T00:00:00.000Z | source:linkedin-guest
