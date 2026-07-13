@@ -3757,3 +3757,10 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4439405866 | Aurora | Software Engineer I (Data Eng infra) | score:4.2 | location:Mountain View, CA | posted:2026-07-13T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4439410044 | Options Consulting Solutions | Junior Full Stack Developer | score:4.2 | location:Boston, MA | posted:2026-07-13T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4440070145 | Surge Staffing | Jr. Full Stack Developer | score:3.4 | location:Columbus, Ohio Metropolitan Area | posted:2026-07-13T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4439408049 | SLAS (Society for Laboratory Automation and Screening) | AI Research Scientist, New Grad – Agents &amp;amp; Reinforcement Learning | score:3.8 | location:Bellevue, WA | posted:2026-07-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437615175 | Teradyne | Software Engineer, New College Graduate, (Agoura Hills, CA) | score:3 | location:Agoura Hills, CA | posted:2026-07-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440041335 | Actalent | Software Engineer | score:3 | location:White Salmon, WA | posted:2026-07-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437257052 | Haystack | Junior Software Engineer | score:3.8 | location:Washington, DC | posted:2026-07-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437293340 | Noridian Healthcare Solutions, LLC | Software Developer I | score:3 | location:Fargo, ND | posted:2026-07-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4439141881 | Equal Efforts Technologies | Associate Software Engineer (Java) | score:4.2 | location:Days Creek, OR | posted:2026-07-13T00:00:00.000Z | source:linkedin-guest
