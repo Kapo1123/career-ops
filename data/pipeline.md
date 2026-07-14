@@ -3786,3 +3786,22 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4390729232 | Pushnami | Software Engineer | score:3 | location:Austin, TX | posted:2026-07-13T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4439445891 | Google | Software Engineer, Calibration and System Test | score:4.5 | location:San Jose, CA | posted:2026-07-13T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4440333069 | The Cadmus Group | Junior Full Stack Developer | score:4.2 | location:United States | posted:2026-07-13T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.dropbox.com/listing/8053628?gh_jid=8053628 | Dropbox | Data Engineer | score:3.7 | location:Remote - Poland | posted:2026-07-14T09:34:25-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/notion/a9d4a192-d31c-48d2-8156-e2a75d98eec1 | Notion | Software Engineer, AI Platform | score:4.5 | location:San Francisco, California | posted:2026-07-14T14:23:31.706+00:00 | source:ashby-api
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=8054993 | MongoDB | Software Engineer 3, Documentation Platform | score:3.4 | location:Toronto | posted:2026-07-13T17:01:22-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/snowflake/a502b27e-79de-418a-9cce-8f9150afebdd | Snowflake | Software Engineer - Platform Services  | score:4.2 | location:PL-Warsaw | posted:2026-07-14T13:47:10.626+00:00 | source:ashby-api
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6113157004 | Vercel | Software Engineer, Compute | score:3 | location:Hybrid - London | posted:2026-07-14T10:23:00-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4440366911 | MintMCP | Software Engineer | score:3 | location:San Mateo, CA | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4439820128 | Fresh Ventures | Software Engineer, New Grad | score:4.1 | location:San Francisco, CA | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4439805508 | Fresh Ventures | Software Engineer, Early Career | score:4.1 | location:San Francisco, CA | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4439498336 | Whatnot | Software Engineer, New Grad | score:4.1 | location:New York, NY | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440570136 | Helic &amp; Co | Junior Software Engineer | score:3.8 | location:United States | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437639265 | Entertainment Partners | Jr. Full Stack Engineer | score:3.4 | location:Tempe, AZ | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4439802757 | Fresh Ventures | Software Engineer, New Grad (AI) | score:4.1 | location:San Francisco, CA | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4439823038 | Fresh Ventures | Software Engineer, Early Career (AI) | score:4.1 | location:San Francisco, CA | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440359519 | Vast | Software Engineer I, Mission Software | score:3.8 | location:Long Beach, CA | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437642177 | DoorDash | Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026) | score:4.9 | location:New York, NY | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440512088 | BSN SPORTS | Software Engineer I | score:3.8 | location:Indiana, United States | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4439872712 | Volkswagen Group | Contract Software Engineer I - Backend | score:4.2 | location:Reston, VA | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437669028 | Haystack | Junior Software Engineer | score:3.8 | location:Washington, DC | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
