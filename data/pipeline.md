@@ -3819,3 +3819,11 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4437665943 | Tech Consulting | Junior Software Engineer | score:3.8 | location:North Carolina, United States | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4437668096 | Stealth Startup | Backend Developer [33168] | score:3.7 | location:New York, United States | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4437662274 | Stealth Startup | Backend Developer [32922] | score:3.7 | location:New York, United States | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4439908140 | Nuro | Software Engineer, Performance - New Grad | score:3.8 | location:Mountain View, CA | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4439884423 | Calvient | Software Developer | score:3 | location:Oklahoma City Metropolitan Area | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440554216 | Hired | Software Engineer - E-Commerce (Remote) | score:3 | location:United States | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440832341 | MetLife | Junior Software Engineer | score:3.8 | location:Whippany, NJ | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440596694 | BlackRock | Associate, Financial Platform Engineer (Java) / Wilmington, DE | score:4.2 | location:Wilmington, DE | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4363437674 | Epic | Entry-Level Software Developer | score:3 | location:Evansville, IN | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437642176 | DoorDash | Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026) | score:4.6 | location:Los Angeles, CA | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
