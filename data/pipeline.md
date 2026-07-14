@@ -3805,3 +3805,17 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4440512088 | BSN SPORTS | Software Engineer I | score:3.8 | location:Indiana, United States | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4439872712 | Volkswagen Group | Contract Software Engineer I - Backend | score:4.2 | location:Reston, VA | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4437669028 | Haystack | Junior Software Engineer | score:3.8 | location:Washington, DC | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4440383152 | MintMCP | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437643167 | DoorDash | Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026) | score:4.9 | location:San Francisco, CA | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4439823179 | HII | SOFTWARE ENGINEER 1 | score:3 | location:Newport News, VA | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4439820658 | Newport News Shipbuilding, A Division of HII | SOFTWARE ENGINEER 1 | score:3 | location:Newport News, VA | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440380036 | Actalent | Software Engineer | score:3 | location:Moorestown, NJ | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440564517 | INTERA Incorporated | Software Engineer and Quality Assurance Specialist | score:3 | location:Richland, WA | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4439813433 | Goldman Sachs | Corporate Treasury, New York, Associate, Software Engineering | score:4.1 | location:New York, NY | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440590160 | TalentAlly | Software Engineer | score:3 | location:St Charles, MO | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4439873557 | Venerable | Associate Software Developer | score:3.8 | location:Greater Philadelphia | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437646908 | Stealth Startup | Backend Developer [33163] | score:3.4 | location:California, United States | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437665943 | Tech Consulting | Junior Software Engineer | score:3.8 | location:North Carolina, United States | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437668096 | Stealth Startup | Backend Developer [33168] | score:3.7 | location:New York, United States | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437662274 | Stealth Startup | Backend Developer [32922] | score:3.7 | location:New York, United States | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
