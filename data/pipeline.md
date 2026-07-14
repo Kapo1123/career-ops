@@ -3827,3 +3827,14 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4440596694 | BlackRock | Associate, Financial Platform Engineer (Java) / Wilmington, DE | score:4.2 | location:Wilmington, DE | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4363437674 | Epic | Entry-Level Software Developer | score:3 | location:Evansville, IN | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4437642176 | DoorDash | Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026) | score:4.6 | location:Los Angeles, CA | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/twitch/jobs/8623578002 | Twitch | Software Engineer I, Discovery | score:4.1 | location:San Francisco, CA | posted:2026-07-14T18:43:05-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4439921187 | Jack | Full Stack Engineer | score:3.7 | location:San Francisco Bay Area | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4439905375 | Jack | Software Engineer | score:3.3 | location:San Francisco Bay Area | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4363377482 | Epic | Entry-Level Software Developer | score:3 | location:Lincoln, NE | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437699235 | Visionary Innovative Technology Solutions LLC | Software Engineer | score:3 | location:Nashville, TN | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440856407 | Konami Gaming, Inc. | Software Engineer I, Unity Game Developer | score:3.8 | location:Las Vegas, NV | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438020795 | BeaconFire Inc. | Java Software Engineer | score:3.7 | location:New York, United States | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440840593 | Cair Health | Software Engineer | score:3 | location:United States | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440369747 | Vorticity Inc. | Low Level Software Engineer (SPU) | score:3 | location:Redwood City, CA | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4439917303 | Allen Control Systems | Software Engineer | score:3 | location:San Jose, CA | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
