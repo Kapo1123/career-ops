@@ -3869,3 +3869,16 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4438086678 | Stealth Startup | Backend Developer [33236] | score:3.4 | location:Los Angeles, CA | posted:2026-07-15T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4440273051 | Jack &amp; Jill | Software Engineer at Den | score:3.3 | location:New York, United States | posted:2026-07-15T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4363417557 | Epic | Entry-Level Software Developer | score:3 | location:Bellevue, NE | posted:2026-07-15T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8635225002 | Databricks | Software Engineer, Web Products | score:3.8 | location:Mountain View, California | posted:2026-07-15T19:16:10-04:00 | source:greenhouse-api
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8617901002 | Databricks | Sr Software Engineer- CXI | score:4.1 | location:Mountain View, California; San Francisco, California | posted:2026-07-15T18:24:48-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4439926870 | Simplify | Junior Software Engineer | score:4.1 | location:San Francisco, CA | posted:2026-07-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441283229 | Emerson | Software Engineer | score:3 | location:Austin, TX | posted:2026-07-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441283126 | Fuse Integration | Software Engineer I | score:3.8 | location:San Diego, CA | posted:2026-07-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438437189 | PathAI | Software Engineer I, Fullstack | score:4.2 | location:Boston, MA | posted:2026-07-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438421362 | SMC³ | Software Engineer I | score:3.8 | location:Peachtree City, GA | posted:2026-07-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441244366 | Mujin | Robotics Software Engineer I/II - Integration | score:3.8 | location:Suwanee, GA | posted:2026-07-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438425551 | Carrier | Web Application Full Stack Developer | score:3.4 | location:Atlanta, GA | posted:2026-07-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440218698 | Green Key Resources | Junior Software Engineer | score:3.8 | location:Greenwich, CT | posted:2026-07-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441262042 | Neon | Software Engineer | score:3.3 | location:New York, NY | posted:2026-07-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441218734 | Path Robotics | Software Engineer, Frontend | score:3 | location:Columbus, OH | posted:2026-07-15T00:00:00.000Z | source:linkedin-guest
