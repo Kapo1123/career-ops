@@ -3859,3 +3859,13 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4438078020 | Haystack | Junior Full Stack Developer | score:4.5 | location:New York, United States | posted:2026-07-15T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4429717317 | Accenture Federal Services | Software Engineer | score:3 | location:San Diego, CA | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4439895719 | Tria Federal (Tria) | Full Stack Engineer | score:3.4 | location:United States | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4441239496 | Together AI | Backend Software Engineer — Data Platform &amp; AI Data Products | score:3.7 | location:San Francisco, CA | posted:2026-07-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4345039901 | Emerald AI | Software Engineer - Backend/Distributed Systems | score:3.7 | location:San Francisco Bay Area | posted:2026-07-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440251288 | Nigerian Queries | Entry Level Jobs in the USA with Visa Sponsorship | score:3.8 | location:Indiana, United States | posted:2026-07-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440203478 | hackajob | Software Engineer - Apollo Platform | score:3.7 | location:New York, NY | posted:2026-07-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440964850 | Microsoft | Software Engineer II | score:5 | location:Mountain View, CA | posted:2026-07-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432503728 | PayPal | Software Engineer - Cloud Infrastructure and Devops | score:3.4 | location:Austin, TX | posted:2026-07-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438086678 | Stealth Startup | Backend Developer [33236] | score:3.4 | location:Los Angeles, CA | posted:2026-07-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440273051 | Jack &amp; Jill | Software Engineer at Den | score:3.3 | location:New York, United States | posted:2026-07-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4363417557 | Epic | Entry-Level Software Developer | score:3 | location:Bellevue, NE | posted:2026-07-15T00:00:00.000Z | source:linkedin-guest
