@@ -3838,3 +3838,13 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4440840593 | Cair Health | Software Engineer | score:3 | location:United States | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4440369747 | Vorticity Inc. | Low Level Software Engineer (SPU) | score:3 | location:Redwood City, CA | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4439917303 | Allen Control Systems | Software Engineer | score:3 | location:San Jose, CA | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4440897094 | MintMCP | Software Engineer | score:3 | location:San Mateo, CA | posted:2026-07-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4439959402 | Twitch | Software Engineer I, Discovery | score:4.1 | location:San Francisco, CA | posted:2026-07-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4419607945 | Robinhood | Software Engineer | score:3.8 | location:Menlo Park, CA | posted:2026-07-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441217161 | Neuro Mali Ai | Software Engineer (Entry-Level / Associate) | score:4.1 | location:New York, United States | posted:2026-07-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440968106 | Intuit | Software Engineer I - Credit Karma | score:3.8 | location:Charlotte, NC | posted:2026-07-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438058853 | Haystack | Junior Software Engineer | score:3.8 | location:Washington, DC | posted:2026-07-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440214796 | Jack &amp; Jill | Software Engineer, Platform ($200k-$250k + Equity) at Duckbill | score:3.7 | location:San Francisco, CA | posted:2026-07-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440972128 | The Citco Group Limited | Junior Full Stack Developer | score:4.2 | location:Charlotte, NC | posted:2026-07-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438026118 | UST | Junior Full Stack Developer | score:4.2 | location:Atlanta, GA | posted:2026-07-14T00:00:00.000Z | source:linkedin-guest
