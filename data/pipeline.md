@@ -3924,3 +3924,14 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4440793229 | Nuro | Software Engineer, Performance - New Grad | score:3.8 | location:Mountain View, CA | posted:2026-07-16T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4438460834 | Health Research, Inc. | Software Engineer/Developer | score:3 | location:Albany, NY | posted:2026-07-16T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4441463851 | Microsoft | Software Engineer Identity | score:5 | location:Redmond, WA | posted:2026-07-16T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://careers.duolingo.com/jobs/8637300002?gh_jid=8637300002 | Duolingo | Software Engineer II, Backend | score:4.2 | location:Pittsburgh, PA | posted:2026-07-16T15:40:53-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4441106010 | Refocus LLC | ServiceNow Developer (Platform Engineer) | score:3.4 | location:United States | posted:2026-07-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440777174 | Emonics LLC | Entry Level Software Engineer | score:3.8 | location:Tampa, FL | posted:2026-07-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441120704 | Dewberry | Entry Level Structural (Bridge) Engineer | score:3.8 | location:Raleigh, NC | posted:2026-07-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438753317 | Haystack | Junior Software Engineer | score:3.8 | location:Washington, DC | posted:2026-07-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440787662 | Jack &amp; Jill | Software Engineer, Platform ($200k-$250k + Equity) at Duckbill | score:3.7 | location:San Francisco, CA | posted:2026-07-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441643582 | GE HealthCare | Software Engineer I | score:3.8 | location:Beachwood, OH | posted:2026-07-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440785263 | Bankers Insurance Group | Software Engineer I | score:3.8 | location:St. Petersburg, FL | posted:2026-07-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441602344 | Sparton | Software Engineer I | score:3.8 | location:De Leon Springs, FL | posted:2026-07-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438745640 | BrothersTech | Software Engineer | score:3 | location:United States | posted:2026-07-16T00:00:00.000Z | source:linkedin-guest
