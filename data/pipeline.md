@@ -3917,3 +3917,10 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4438731693 | Bankers Financial Corporation | Software Engineer I | score:3.8 | location:St. Petersburg, FL | posted:2026-07-16T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4440783282 | Brooksource | Junior Software Engineer | score:3.8 | location:Greater St. Louis | posted:2026-07-16T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4441455342 | Sundayy | Software Engineer, Jr. (React.js, Node.js) | score:3 | location:United States | posted:2026-07-16T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://careers.duolingo.com/jobs/8637306002?gh_jid=8637306002 | Duolingo | Software Engineer II, Backend | score:4.5 | location:New York, NY | posted:2026-07-16T15:40:54-04:00 | source:greenhouse-api
+- [ ] https://careers.roblox.com/jobs/8047815?gh_jid=8047815 | Roblox | Software Engineer, Ads Platform | score:3.4 | location:San Mateo, CA, United States | posted:2026-07-16T15:56:58-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6117204004 | Vercel | Security Software Engineer, Open Source Frameworks | score:3.3 | location:Hybrid - San Francisco, New York City, London, Berlin | posted:2026-07-16T14:29:21-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4440793229 | Nuro | Software Engineer, Performance - New Grad | score:3.8 | location:Mountain View, CA | posted:2026-07-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438460834 | Health Research, Inc. | Software Engineer/Developer | score:3 | location:Albany, NY | posted:2026-07-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441463851 | Microsoft | Software Engineer Identity | score:5 | location:Redmond, WA | posted:2026-07-16T00:00:00.000Z | source:linkedin-guest
