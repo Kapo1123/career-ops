@@ -3882,3 +3882,24 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4440218698 | Green Key Resources | Junior Software Engineer | score:3.8 | location:Greenwich, CT | posted:2026-07-15T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4441262042 | Neon | Software Engineer | score:3.3 | location:New York, NY | posted:2026-07-15T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4441218734 | Path Robotics | Software Engineer, Frontend | score:3 | location:Columbus, OH | posted:2026-07-15T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=8064448 | MongoDB | Software Engineer 3 | score:3 | location:Cork, Ireland; Dublin, Ireland | posted:2026-07-16T11:04:19-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4440761029 | Jack | Full Stack Engineer | score:3.7 | location:San Francisco Bay Area | posted:2026-07-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441409567 | MintMCP | Software Engineer | score:3 | location:San Mateo, CA | posted:2026-07-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440756163 | Jack | Software Engineer | score:3.3 | location:San Francisco Bay Area | posted:2026-07-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441419616 | action. | Software Engineer, Early Career | score:4.1 | location:San Francisco, CA | posted:2026-07-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441412841 | action. | Software Engineer, New Grad | score:4.1 | location:San Francisco, CA | posted:2026-07-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438447346 | Sail Lore | Software Engineer, New Grad | score:4.1 | location:San Francisco, CA | posted:2026-07-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432873275 | Nudge | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-07-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440758262 | Insight Global | Entry Level Software Engineer | score:3.8 | location:Dallas-Fort Worth Metroplex | posted:2026-07-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441409937 | action. | Software Engineer, New Grad (AI) | score:4.1 | location:San Francisco, CA | posted:2026-07-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440624903 | Pat Kelly Engineering | Software Engineer, New Grad (AI) | score:4.1 | location:San Francisco, CA | posted:2026-07-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438485978 | Level Health | Junior Software Engineer | score:3.8 | location:Buffalo-Niagara Falls Area | posted:2026-07-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438467960 | Haystack | Junior Software Engineer | score:3.8 | location:Washington, DC | posted:2026-07-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438431755 | Samsara | Sr Software Engineer I | score:3.8 | location:United States | posted:2026-07-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440744676 | RemoteHunter | Software Engineer I, Fullstack | score:4.2 | location:United States | posted:2026-07-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438499749 | Mentor Talent Acquisition | Junior Full Stack Engineer | score:4.5 | location:New York, United States | posted:2026-07-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440662534 | Haystack | Software Engineer | score:3 | location:Maryland, United States | posted:2026-07-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441264401 | Open Core Holdings LLC | Junior Software Developer | score:3.8 | location:Miami, FL | posted:2026-07-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438456829 | Health Research, Inc. | Software Engineer/Developer | score:3 | location:Albany, NY | posted:2026-07-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438704093 | Dario | Associate Software Developer | score:3.8 | location:United States | posted:2026-07-16T00:00:00.000Z | source:linkedin-guest
