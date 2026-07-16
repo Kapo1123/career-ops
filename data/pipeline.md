@@ -3903,3 +3903,17 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4441264401 | Open Core Holdings LLC | Junior Software Developer | score:3.8 | location:Miami, FL | posted:2026-07-15T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4438456829 | Health Research, Inc. | Software Engineer/Developer | score:3 | location:Albany, NY | posted:2026-07-16T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4438704093 | Dario | Associate Software Developer | score:3.8 | location:United States | posted:2026-07-16T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4441406776 | Lightfield | Software Engineer, Applied AI, New Grad | score:4.1 | location:San Francisco, CA | posted:2026-07-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438463495 | Netic | Full-Stack Software Engineer (Product) - New Grad - 2026-2027 | score:4.1 | location:San Francisco, CA | posted:2026-07-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438446984 | Netic | Software Engineer (Agent Platform) - New Grad - 2026-2027 | score:4.5 | location:San Francisco, CA | posted:2026-07-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441464750 | Hired | Software Engineer - E-Commerce (Remote) | score:3 | location:United States | posted:2026-07-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438453689 | Netic | Forward Deployed Engineer (FDE) - New Grad - 2026-2027 | score:4.1 | location:San Francisco, CA | posted:2026-07-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440764671 | Emonics LLC | Software Engineer | score:3 | location:Raleigh, NC | posted:2026-07-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441605607 | Helic &amp; Co | Junior Software Engineer | score:3.8 | location:United States | posted:2026-07-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438741012 | InterScripts, Inc. | Software Engineer I (Full Stack) – Immediate Joiners | score:4.2 | location:Daly City, CA | posted:2026-07-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441616383 | Simpson Strong-Tie | Associate Software Engineer — Cloud Services &amp; API Platform (C#/Azure track) | score:4.2 | location:Plano, TX | posted:2026-07-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438725564 | Boeing | Associate Software Engineer | score:3.8 | location:Maryland Heights, MO | posted:2026-07-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438731693 | Bankers Financial Corporation | Software Engineer I | score:3.8 | location:St. Petersburg, FL | posted:2026-07-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440783282 | Brooksource | Junior Software Engineer | score:3.8 | location:Greater St. Louis | posted:2026-07-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441455342 | Sundayy | Software Engineer, Jr. (React.js, Node.js) | score:3 | location:United States | posted:2026-07-16T00:00:00.000Z | source:linkedin-guest
