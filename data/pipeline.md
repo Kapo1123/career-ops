@@ -3935,3 +3935,19 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4440785263 | Bankers Insurance Group | Software Engineer I | score:3.8 | location:St. Petersburg, FL | posted:2026-07-16T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4441602344 | Sparton | Software Engineer I | score:3.8 | location:De Leon Springs, FL | posted:2026-07-16T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4438745640 | BrothersTech | Software Engineer | score:3 | location:United States | posted:2026-07-16T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://boards.greenhouse.io/robinhood/jobs/7737164?t=gh_src=&gh_jid=7737164 | Robinhood | Software Developer, Ops Platform and Fraud Investigations | score:4.2 | location:Toronto, Canada | posted:2026-07-17T10:24:22-04:00 | source:greenhouse-api
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/8066589?gh_jid=8066589 | Cloudflare | Distributed Systems Engineer | score:3.4 | location:In-Office | posted:2026-07-17T02:48:17-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/openai/d0956b18-4f80-4c67-b94b-313181a16be6 | OpenAI | Backend Software Engineer, API Enterprise Controls | score:3.7 | location:San Francisco | posted:2026-07-17T04:25:42.731+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4441972643 | Hired | Software Engineer - E-Commerce (Remote) | score:3 | location:United States | posted:2026-07-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441953583 | Acrisure | Software Engineer I | score:3.8 | location:Atlanta, GA | posted:2026-07-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441987665 | Helic &amp; Co | Junior Software Engineer | score:3.8 | location:United States | posted:2026-07-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441977849 | Rockhaven Homes | Software Engineer | score:3 | location:Atlanta Metropolitan Area | posted:2026-07-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441695348 | STERIS | Associate Software Engineer | score:3.8 | location:Vernon Hills, IL | posted:2026-07-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441661562 | UNCOMN | Software Developer 2 (Associate) | score:3.8 | location:O'Fallon, IL | posted:2026-07-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438791117 | Sony Interactive Entertainment | Software Engineer I | score:3.8 | location:San Mateo, CA | posted:2026-07-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441125234 | Roblox | Software Engineer, Ads Platform | score:3.4 | location:San Mateo, CA | posted:2026-07-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441984253 | Microsoft | Software Engineer | score:4.5 | location:Redmond, WA | posted:2026-07-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4439209136 | Haystack | Junior Software Engineer | score:3.8 | location:Washington, DC | posted:2026-07-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438771240 | Sail Lore | Software Engineer, Early Career (AI) | score:4.1 | location:San Francisco, CA | posted:2026-07-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441962113 | JobsInMass.com | Early Career Software Engineer | score:3.8 | location:Boston, MA | posted:2026-07-17T00:00:00.000Z | source:linkedin-guest
