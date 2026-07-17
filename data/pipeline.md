@@ -3964,3 +3964,7 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4439263464 | Amlak Al Sayyad Real Estate L L C | ENTRY LEVEL SOFTWARE DEVELOPE | score:3.8 | location:United States | posted:2026-07-17T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4442134170 | TalentAlly | Software Engineer | score:3 | location:Maryland Heights, MO | posted:2026-07-17T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4439203433 | Haystack | Junior Full Stack Developer | score:4.5 | location:New York, United States | posted:2026-07-17T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4442120579 | JRD Systems | Associate Software Engineer | score:4.1 | location:New York, NY | posted:2026-07-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432645592 | Qualcomm | Product Software Engineer | score:3 | location:San Diego, CA | posted:2026-07-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441363083 | Luminos.AI | Front End or Full Stack Engineer | score:3.4 | location:United States | posted:2026-07-17T00:00:00.000Z | source:linkedin-guest
