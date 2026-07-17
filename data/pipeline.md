@@ -3951,3 +3951,7 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4439209136 | Haystack | Junior Software Engineer | score:3.8 | location:Washington, DC | posted:2026-07-17T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4438771240 | Sail Lore | Software Engineer, Early Career (AI) | score:4.1 | location:San Francisco, CA | posted:2026-07-17T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4441962113 | JobsInMass.com | Early Career Software Engineer | score:3.8 | location:Boston, MA | posted:2026-07-17T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4441946844 | Acrisure | Software Engineer I | score:3.8 | location:Austin, TX | posted:2026-07-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442131252 | Intuit | Software Engineer I - Credit Karma | score:3.8 | location:Charlotte, NC | posted:2026-07-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441904722 | Antares | Reactor Software Engineer I/II | score:3.8 | location:Los Angeles, CA | posted:2026-07-17T00:00:00.000Z | source:linkedin-guest
