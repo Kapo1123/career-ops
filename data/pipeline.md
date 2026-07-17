@@ -3955,3 +3955,12 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4441946844 | Acrisure | Software Engineer I | score:3.8 | location:Austin, TX | posted:2026-07-17T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4442131252 | Intuit | Software Engineer I - Credit Karma | score:3.8 | location:Charlotte, NC | posted:2026-07-17T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4441904722 | Antares | Reactor Software Engineer I/II | score:3.8 | location:Los Angeles, CA | posted:2026-07-17T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4441142481 | David Joseph &amp; Company | Backend Engineer | score:3.7 | location:San Francisco, CA | posted:2026-07-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441962253 | Acrisure | Software Engineer I | score:3.8 | location:Uniondale, NY | posted:2026-07-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442172014 | SpaceX | Full Stack Software Engineer, Observability (Starlink) | score:3.4 | location:Hawthorne, CA | posted:2026-07-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441691385 | Jefferies | Software Developer - Fixed Income Technology (Java) | score:3.7 | location:New York, NY | posted:2026-07-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442147983 | SpaceX | Software Engineer, Platform / Infrastructure (Starlink) | score:3.4 | location:Palo Alto, CA | posted:2026-07-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4439263464 | Amlak Al Sayyad Real Estate L L C | ENTRY LEVEL SOFTWARE DEVELOPE | score:3.8 | location:United States | posted:2026-07-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442134170 | TalentAlly | Software Engineer | score:3 | location:Maryland Heights, MO | posted:2026-07-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4439203433 | Haystack | Junior Full Stack Developer | score:4.5 | location:New York, United States | posted:2026-07-17T00:00:00.000Z | source:linkedin-guest
