@@ -3968,3 +3968,18 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4442120579 | JRD Systems | Associate Software Engineer | score:4.1 | location:New York, NY | posted:2026-07-17T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4432645592 | Qualcomm | Product Software Engineer | score:3 | location:San Diego, CA | posted:2026-07-17T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4441363083 | Luminos.AI | Front End or Full Stack Engineer | score:3.4 | location:United States | posted:2026-07-17T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4441374492 | NVIDIA | Systems Software Engineer, Accelerated Kubernetes Performance and Scale - New College Grad 2026 | score:3 | location:Santa Clara, CA | posted:2026-07-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442448958 | L3Harris Technologies | Sr Associate, Software Engineer | score:3.8 | location:Salt Lake City, UT | posted:2026-07-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442459775 | Helic &amp; Co | Junior Software Engineer | score:3.8 | location:United States | posted:2026-07-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441740099 | AI Insights &amp; Innovations | Junior Software Engineer | score:4.1 | location:New York, United States | posted:2026-07-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442469534 | ATSK AI Innovations | Software Engineer (Entry-Level / Associate) | score:4.1 | location:New York, United States | posted:2026-07-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4439611333 | VIZIO | Software Engineer II | score:3.8 | location:Denver, CO | posted:2026-07-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4439278387 | The Hartford | Associate Software Engineer - Tech Catalyst Program (Columbus) | score:3.8 | location:Columbus, OH | posted:2026-07-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442426310 | PayPal | Software Engineer | score:3 | location:San Jose, CA | posted:2026-07-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442435808 | PNC | Software Developer Associate | score:3.8 | location:Pittsburgh, PA | posted:2026-07-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442455526 | JRD Systems | Associate Software Engineer | score:4.1 | location:New York, NY | posted:2026-07-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442423404 | PayPal | Software Engineer 2 | score:3 | location:San Jose, CA | posted:2026-07-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4433293049 | Twitch | Software Engineer, Memberships I | score:3.3 | location:Seattle, WA | posted:2026-07-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441383529 | Pax | Software Engineer (Early Career) | score:4.1 | location:San Francisco, CA | posted:2026-07-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441722782 | Jack &amp; Jill | Software Engineer at Den | score:3.3 | location:New York, United States | posted:2026-07-18T00:00:00.000Z | source:linkedin-guest
