@@ -3983,3 +3983,18 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4433293049 | Twitch | Software Engineer, Memberships I | score:3.3 | location:Seattle, WA | posted:2026-07-18T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4441383529 | Pax | Software Engineer (Early Career) | score:4.1 | location:San Francisco, CA | posted:2026-07-18T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4441722782 | Jack &amp; Jill | Software Engineer at Den | score:3.3 | location:New York, United States | posted:2026-07-18T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4442483161 | OSSUMS | Software Engineer, New Grad | score:4.1 | location:San Francisco, CA | posted:2026-07-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442479317 | OSSUMS | Software Engineer, New Grad (AI) | score:4.1 | location:San Francisco, CA | posted:2026-07-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441376218 | NVIDIA | Systems Software Engineer, Accelerated Kubernetes Performance and Scale - New College Grad 2026 | score:3.3 | location:Seattle, WA | posted:2026-07-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442463938 | OSSUMS | Software Engineer, Early Career | score:4.1 | location:San Francisco, CA | posted:2026-07-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442178825 | S&amp;C Electric Company | Software Engineer I | score:3.8 | location:Chicago, IL | posted:2026-07-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442435250 | CareersElite.com | Software Engineer (Early Career) | score:4.1 | location:San Francisco, CA | posted:2026-07-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442472630 | OSSUMS | Software Engineer, Early Career (AI) | score:4.1 | location:San Francisco, CA | posted:2026-07-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442164645 | Esri | Software Engineer I - Front-End Engineer for ArcGIS Enterprise | score:3.8 | location:Redlands, CA | posted:2026-07-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4433890609 | SEACORP | Software Engineer I | score:3.8 | location:Middletown, RI | posted:2026-07-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434089165 | SpaceX | Application Software Engineer | score:3 | location:Palo Alto, CA | posted:2026-07-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441712929 | RemoteHunter | Software Engineer I, Fullstack | score:4.2 | location:United States | posted:2026-07-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4439283291 | Haystack | Junior Software Engineer | score:3.8 | location:Atlanta, GA | posted:2026-07-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4439277819 | Haystack | Junior Full Stack Developer | score:4.2 | location:Washington DC-Baltimore Area | posted:2026-07-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441388417 | ImpetusIT | Software Engineer | score:3 | location:Houston, TX | posted:2026-07-18T00:00:00.000Z | source:linkedin-guest
