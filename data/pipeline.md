@@ -4001,3 +4001,7 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 
 - [ ] https://www.linkedin.com/jobs/view/4442416438 | SAIC | Associate Software Engineer | score:3.8 | location:San Diego, CA | posted:2026-07-18T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4442467762 | Basis Set | Software Engineer (Early Career) | score:4.1 | location:San Francisco, CA | posted:2026-07-18T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4439623645 | Boeing | Software Engineer–Systems (Associate/Experienced) | score:3.8 | location:Chantilly, VA | posted:2026-07-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442409943 | PayPal | Software Engineer | score:3 | location:San Jose, CA | posted:2026-07-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442452204 | Wells Fargo | Software Engineer-Infrastructure Automation | score:3.4 | location:Iselin, NJ | posted:2026-07-18T00:00:00.000Z | source:linkedin-guest
