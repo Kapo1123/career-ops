@@ -3998,3 +3998,6 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4439283291 | Haystack | Junior Software Engineer | score:3.8 | location:Atlanta, GA | posted:2026-07-18T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4439277819 | Haystack | Junior Full Stack Developer | score:4.2 | location:Washington DC-Baltimore Area | posted:2026-07-18T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4441388417 | ImpetusIT | Software Engineer | score:3 | location:Houston, TX | posted:2026-07-18T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4442416438 | SAIC | Associate Software Engineer | score:3.8 | location:San Diego, CA | posted:2026-07-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442467762 | Basis Set | Software Engineer (Early Career) | score:4.1 | location:San Francisco, CA | posted:2026-07-18T00:00:00.000Z | source:linkedin-guest
