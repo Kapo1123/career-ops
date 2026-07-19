@@ -4005,3 +4005,16 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4439623645 | Boeing | Software Engineer–Systems (Associate/Experienced) | score:3.8 | location:Chantilly, VA | posted:2026-07-18T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4442409943 | PayPal | Software Engineer | score:3 | location:San Jose, CA | posted:2026-07-18T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4442452204 | Wells Fargo | Software Engineer-Infrastructure Automation | score:3.4 | location:Iselin, NJ | posted:2026-07-18T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5305402008 | Anthropic | Software Engineer, Web Platform | score:3.7 | location:San Francisco, CA | posted:2026-07-19T10:58:02-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4442493261 | Fast Forward Rewind | Software Engineer, New Grad | score:4.1 | location:San Francisco, CA | posted:2026-07-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442504428 | Purpose Bits | Software Engineer, New Grad | score:4.1 | location:San Francisco, CA | posted:2026-07-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442501578 | Purpose Bits | Software Engineer, Early Career | score:4.1 | location:San Francisco, CA | posted:2026-07-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442490431 | Fast Forward Rewind | Software Engineer, New Grad (AI) | score:4.1 | location:San Francisco, CA | posted:2026-07-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414624864 | DV Trading LLC | Software Developer (New York) | score:3.3 | location:New York, NY | posted:2026-07-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441783126 | Berkeley Industrial Engineering &amp; Operations Research | Data Engineer Entry-Level at BeaconFire | score:3.4 | location:Indiana, United States | posted:2026-07-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4439682345 | Boeing | Associate Software Engineer | score:3.8 | location:Omaha, NE | posted:2026-07-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4373082505 | Goldman Sachs | Software Engineer, Global Banking &amp; Markets, Front Office Technology | score:3 | location:Dallas, TX | posted:2026-07-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4433479119 | Qualcomm | #Software Engineer - Power and Limits Management | score:3 | location:San Diego, CA | posted:2026-07-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4373600858 | The Swift Group, LLC | Software Engineer | score:3 | location:Annapolis Junction, MD | posted:2026-07-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442488431 | Fast Forward Rewind | Software Engineer, Early Career (AI) | score:4.1 | location:San Francisco, CA | posted:2026-07-18T00:00:00.000Z | source:linkedin-guest
