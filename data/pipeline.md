@@ -4024,3 +4024,5 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4442509213 | BlackRock | Software Engineer, Early Career (AI) | score:4.1 | location:San Francisco, CA | posted:2026-07-19T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4441767896 | Jack &amp; Jill | Junior Software Engineer | score:3.8 | location:Bala-Cynwyd, PA | posted:2026-07-19T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4441792047 | Unknown | Software Engineer, Platform ($200k-$250k + Equity) at Duckbill | score:3.7 | location:San Francisco, CA | posted:2026-07-19T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4405005625 | Goldman Sachs | Asset &amp; Wealth Management - Software Engineer - Associate - Dallas | score:3.8 | location:Dallas, TX | posted:2026-07-19T00:00:00.000Z | source:linkedin-guest
