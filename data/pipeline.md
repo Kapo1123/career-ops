@@ -4026,3 +4026,12 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4441792047 | Unknown | Software Engineer, Platform ($200k-$250k + Equity) at Duckbill | score:3.7 | location:San Francisco, CA | posted:2026-07-19T00:00:00.000Z | source:linkedin-guest
 
 - [ ] https://www.linkedin.com/jobs/view/4405005625 | Goldman Sachs | Asset &amp; Wealth Management - Software Engineer - Associate - Dallas | score:3.8 | location:Dallas, TX | posted:2026-07-19T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4441797221 | DV Trading LLC | Forward Deployed Software Engineer ($120K - $150K + Equity) at Arzana | score:3.3 | location:New York, NY | posted:2026-07-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414623885 | The Swift Group, LLC | Software Developer (Chicago) | score:3 | location:Chicago, IL | posted:2026-07-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441793369 | RemoteHunter | Software Engineer | score:3 | location:United States | posted:2026-07-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441793297 | RemoteHunter | Software Engineer I, Fullstack | score:4.2 | location:United States | posted:2026-07-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442506939 | Raytheon | 2026 Raytheon Full Time- Software Engineer I -(Onsite) | score:3.8 | location:El Segundo, CA | posted:2026-07-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441787580 | Jack &amp; Jill | Software Engineer at Den | score:3.3 | location:New York, United States | posted:2026-07-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441779912 | Haystack | Software Engineer | score:3 | location:San Diego Metropolitan Area | posted:2026-07-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441794226 | Jack &amp; Jill | Full-Stack Engineer ($120k–$140k + Equity) at Emporium AI | score:3.3 | location:New York, NY | posted:2026-07-19T00:00:00.000Z | source:linkedin-guest
