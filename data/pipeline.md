@@ -4018,3 +4018,9 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4433479119 | Qualcomm | #Software Engineer - Power and Limits Management | score:3 | location:San Diego, CA | posted:2026-07-19T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4373600858 | The Swift Group, LLC | Software Engineer | score:3 | location:Annapolis Junction, MD | posted:2026-07-19T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4442488431 | Fast Forward Rewind | Software Engineer, Early Career (AI) | score:4.1 | location:San Francisco, CA | posted:2026-07-18T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4442504429 | Hired | Software Engineer, New Grad (AI) | score:4.1 | location:San Francisco, CA | posted:2026-07-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442509994 | Berkeley Industrial Engineering &amp; Operations Research | Software Engineer - E-Commerce (Remote) | score:3 | location:United States | posted:2026-07-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442509213 | BlackRock | Software Engineer, Early Career (AI) | score:4.1 | location:San Francisco, CA | posted:2026-07-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441767896 | Jack &amp; Jill | Junior Software Engineer | score:3.8 | location:Bala-Cynwyd, PA | posted:2026-07-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441792047 | Unknown | Software Engineer, Platform ($200k-$250k + Equity) at Duckbill | score:3.7 | location:San Francisco, CA | posted:2026-07-19T00:00:00.000Z | source:linkedin-guest
