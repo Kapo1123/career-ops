@@ -4070,3 +4070,12 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4366224709 | Nintendo | Associate Engineer, Multimedia (NTD) | score:3.8 | location:Redmond, WA | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4440113515 | Haystack | Junior Full Stack Developer | score:4.2 | location:Washington DC-Baltimore Area | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4442076480 | Jack &amp; Jill | Full Stack Engineer ($175k-$250k + Equity) at Alta Daily | score:3.7 | location:New York, NY | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4440197019 | WD | Software Engineer | score:3 | location:San Jose, CA | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440197060 | Mastercard | Software Engineer II | score:3.8 | location:O'Fallon, MO | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442222427 | Beta Eight | Junior Software Developer | score:3.8 | location:Hicksville, NY | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442786732 | Chewy | Software Engineer I | score:3.8 | location:Boston, MA | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440104841 | Haystack | Junior Software Engineer | score:3.8 | location:Washington, DC | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442784746 | SpaceX | Wireless Software Engineer (Starlink) | score:3 | location:Palo Alto, CA | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440166576 | STV | Junior Software Engineer | score:4.1 | location:New York, NY | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442070188 | Haystack | Software Engineer | score:3 | location:Maryland, United States | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
