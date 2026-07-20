@@ -4079,3 +4079,19 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4442784746 | SpaceX | Wireless Software Engineer (Starlink) | score:3 | location:Palo Alto, CA | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4440166576 | STV | Junior Software Engineer | score:4.1 | location:New York, NY | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4442070188 | Haystack | Software Engineer | score:3 | location:Maryland, United States | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://stripe.com/jobs/search?gh_jid=8069941 | Stripe | Software Engineer, Authorization Infrastructure | score:4.2 | location:N/A | posted:2026-07-20T16:59:05-04:00 | source:greenhouse-api
+- [ ] https://stripe.com/jobs/search?gh_jid=8070260 | Stripe | Software Engineer, Data Privacy Technologies | score:4.2 | location:N/A | posted:2026-07-20T17:01:20-04:00 | source:greenhouse-api
+- [ ] https://stripe.com/jobs/search?gh_jid=8075469 | Stripe | Software Engineer, Optimized Checkout & Link | score:4.1 | location:US Remote | posted:2026-07-20T17:17:44-04:00 | source:greenhouse-api
+- [ ] https://app.careerpuck.com/job-board/lyft/job/8639200002?gh_jid=8639200002 | Lyft | ML Software Engineer, ETA | score:4.1 | location:San Francisco, CA | posted:2026-07-20T16:55:30-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/openai/1b86ec8e-fe34-452d-bbff-6619579e7385 | OpenAI | Software Engineer, Conversion Measurement | score:3.3 | location:San Francisco | posted:2026-07-20T21:47:55.434+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4442261019 | NVIDIA | Deep Learning Software Engineer, TensorRT Performance - New College Grad 2026 | score:3 | location:California, United States | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440194830 | CrowdStrike | Engineer I, Data Scientist - New Grad (Hybrid) | score:4.2 | location:Sunnyvale, CA | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442794811 | Unknown | Entry Level Quality Assurance Engineer | score:3.8 | location:United States | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440183875 | BlackLine | Software Engineer | score:3 | location:Pleasanton, CA | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442743886 | TalentAlly | Software Engineer | score:3 | location:Maryland Heights, MO | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440180648 | Mastercard | Software Engineer I | score:3.8 | location:O'Fallon, MO | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440116702 | Globus Medical | Associate Software Engineer | score:3.8 | location:King of Prussia, PA | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443003982 | Murphy USA | Software Engineer I | score:3.8 | location:El Dorado, AR | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442229447 | INSP, LLC | Full Stack Engineer | score:3.4 | location:Indian Land, SC | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442797250 | SpaceX | Wireless Software Engineer (Starlink) | score:3 | location:Redmond, WA | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
