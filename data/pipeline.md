@@ -4053,3 +4053,20 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4442090259 | Shield Consulting Solutions, Inc. | Junior Full Stack Developer | score:4.2 | location:Annapolis Junction, MD | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4442732750 | MP Engineers + Architects | Software Engineer | score:3.3 | location:New York City Metropolitan Area | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4442069510 | Revature | Entry Level Software Developer | score:3.8 | location:Dallas, TX | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4716453005 | Scale AI | AI Infrastructure Engineer, Sandbox Platform | score:3.7 | location:San Francisco, CA; Seattle, WA; New York, NY | posted:2026-07-20T13:35:24-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4442096135 | SheScans | Software Engineer, Early Career | score:4.1 | location:San Francisco, CA | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442086517 | SheScans | Software Engineer, New Grad | score:4.1 | location:San Francisco, CA | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442765661 | Alexander Chapman | Distributed Systems Engineer | score:3.7 | location:San Francisco Bay Area | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440122560 | Stealth Startup | Backend Developer [33006] | score:3.4 | location:Chicago, IL | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442222073 | Confiar Services | Graduate IT Trainee  (Junior Software Engineer) | score:3.8 | location:New Jersey, United States | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440109598 | Haystack | Software Engineer | score:3 | location:Missouri, United States | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442094232 | Thunderbolt Solutions | Software Engineer - II | score:3 | location:Moorestown, NJ | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440107660 | Haystack | Junior Software Engineer | score:3.8 | location:Atlanta, GA | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442065833 | Jack &amp; Jill | Software Engineer, Platform ($200k-$250k + Equity) at Duckbill | score:3.7 | location:San Francisco, CA | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437628089 | BeaconFire Inc. | Entry-Level / Junior Software Developer Opportunity | score:3.8 | location:New Jersey, United States | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442037145 | Crossing Hurdles | Software Engineer | Remote | score:3 | location:United States | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442788076 | KAYAK | Associate Software Engineer | score:3.8 | location:Cambridge, MA | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4366224709 | Nintendo | Associate Engineer, Multimedia (NTD) | score:3.8 | location:Redmond, WA | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440113515 | Haystack | Junior Full Stack Developer | score:4.2 | location:Washington DC-Baltimore Area | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442076480 | Jack &amp; Jill | Full Stack Engineer ($175k-$250k + Equity) at Alta Daily | score:3.7 | location:New York, NY | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
