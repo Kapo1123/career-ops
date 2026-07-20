@@ -4035,3 +4035,21 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4441787580 | Jack &amp; Jill | Software Engineer at Den | score:3.3 | location:New York, United States | posted:2026-07-19T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4441779912 | Haystack | Software Engineer | score:3 | location:San Diego Metropolitan Area | posted:2026-07-19T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4441794226 | Jack &amp; Jill | Full-Stack Engineer ($120k–$140k + Equity) at Emporium AI | score:3.3 | location:New York, NY | posted:2026-07-19T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/snowflake/4fe8d816-0453-4d63-ae0a-2085a5a49101 | Snowflake | Cloud Infrastructure Engineer | score:4.2 | location:US-CA-Dublin | posted:2026-07-20T14:42:19.429+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/elevenlabs/5459cb9d-5396-4729-9507-22729582781a | ElevenLabs | Forward Deployed Engineer - Software Engineer - ANZ | score:3 | location:Singapore | posted:2026-07-20T01:21:20.786+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/elevenlabs/6ce3306e-a546-4e11-83d6-3eaff5dd366b | ElevenLabs | Forward Deployed Engineer - Software Engineer - Brazil | score:3 | location:Brazil | posted:2026-07-20T02:08:49.062+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/elevenlabs/c25e27d5-71ff-4763-ae7b-137d0c252efa | ElevenLabs | Forward Deployed Engineer - Software Engineer - India | score:3 | location:India | posted:2026-07-20T02:10:07.440+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/elevenlabs/39d438fa-8070-4660-968b-055493860c4c | ElevenLabs | Forward Deployed Engineer - Software Engineer | score:3 | location:Brazil | posted:2026-07-20T02:37:37.676+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4442089420 | SheScans | Software Engineer, New Grad (AI) | score:4.1 | location:San Francisco, CA | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442596941 | Hired | Software Engineer - E-Commerce (Remote) | score:3 | location:United States | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442007957 | CommerceIQ | Software Engineer | score:3 | location:Mountain View, CA | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442098202 | Whova | Software Engineer (San Diego Only) | score:3 | location:San Diego, CA | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442012537 | TikTok | Software Engineer, C/C++ SDK Performance Optimization | score:3 | location:San Jose, CA | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442097151 | SheScans | Software Engineer, Early Career (AI) | score:4.1 | location:San Francisco, CA | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442076180 | Haystack | Software Engineer | score:3 | location:Greater St. Louis | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442717802 | Helic &amp; Co | Junior Software Engineer | score:3.8 | location:United States | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442079336 | Jack &amp; Jill | Software Engineer at Den | score:3.3 | location:New York, United States | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442090259 | Shield Consulting Solutions, Inc. | Junior Full Stack Developer | score:4.2 | location:Annapolis Junction, MD | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442732750 | MP Engineers + Architects | Software Engineer | score:3.3 | location:New York City Metropolitan Area | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442069510 | Revature | Entry Level Software Developer | score:3.8 | location:Dallas, TX | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
