@@ -4095,3 +4095,26 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4443003982 | Murphy USA | Software Engineer I | score:3.8 | location:El Dorado, AR | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4442229447 | INSP, LLC | Full Stack Engineer | score:3.4 | location:Indian Land, SC | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4442797250 | SpaceX | Wireless Software Engineer (Starlink) | score:3 | location:Redmond, WA | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=8069776 | MongoDB | Software Engineer 3 | score:3.3 | location:New York City | posted:2026-07-21T10:57:33-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/openai/596e543a-0ab9-471e-a1ff-40fd55c74fce | OpenAI | Software Engineer, Ads Integrity | score:3.3 | location:San Francisco | posted:2026-07-21T01:40:03.786+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4442631767 | Jack | Full Stack Engineer | score:3.7 | location:San Francisco Bay Area | posted:2026-07-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442630796 | Jack | Software Engineer | score:3.3 | location:San Francisco Bay Area | posted:2026-07-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443068003 | Q-CTRL | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442271888 | Blackstar | Software Engineer | score:3.3 | location:San Francisco Bay Area | posted:2026-07-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443377034 | Microsoft | Software Engineer | score:4.5 | location:Redmond, WA | posted:2026-07-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443395661 | General Motors | Software Engineer, Autonomous Vehicles Software Systems - Early Career | score:3.8 | location:Sunnyvale, CA | posted:2026-07-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443349481 | Sundayy | Software Engineer, Entry - Level | score:3 | location:United States | posted:2026-07-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440199979 | Fanatics | Data Engineer II - (Remote) | score:4.5 | location:New York, NY | posted:2026-07-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443366503 | OperatorVC | Software Engineer, Early Career (AI) | score:4.1 | location:San Francisco, CA | posted:2026-07-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440432261 | Haystack | Junior Software Engineer | score:3.8 | location:Washington, DC | posted:2026-07-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442628986 | Jack &amp; Jill | Software Engineer, Platform ($200k-$250k + Equity) at Duckbill | score:3.7 | location:San Francisco, CA | posted:2026-07-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443335138 | Gray Falkon | Junior Software Developer | score:3.8 | location:Junior, WV | posted:2026-07-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442650522 | InterScripts, Inc. | Software Engineer I (Full Stack) – Immediate Joiners | score:4.2 | location:Daly City, CA | posted:2026-07-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440402260 | Mastercard | Software Engineer I | score:3.8 | location:O'Fallon, MO | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443379429 | Akamai Technologies | Software Engineer | score:3 | location:Cambridge, MA | posted:2026-07-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443514162 | Thunderbolt Solutions | Software Engineer - I | score:3 | location:Moorestown, NJ | posted:2026-07-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443300664 | Everfox | Software Engineer I | score:3.8 | location:Richardson, TX | posted:2026-07-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442289935 | Dartmouth Center for Career Design | How This Software Engineer’s Love of Logic Helped Him Forge a Tech Career | score:3 | location:Indiana, United States | posted:2026-07-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443502157 | Helic &amp; Co | Junior Software Engineer | score:3.8 | location:United States | posted:2026-07-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443080780 | Anadyr Horizon | Junior Backend Software Engineer (Python) — Simulation Intelligence | score:4.5 | location:New York City Metropolitan Area | posted:2026-07-21T00:00:00.000Z | source:linkedin-guest
