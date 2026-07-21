@@ -4138,3 +4138,12 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4443049802 | Q-CTRL | Software Engineer | score:3 | location:Los Angeles, CA | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4442679202 | Agave | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-07-21T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4442223945 | Lam Research | Software Engineer Sys 2 | score:3 | location:Fremont, CA | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5247446008 | Anthropic | [C] Data Engineer, Safeguards | score:3.7 | location:San Francisco, CA | New York City, NY | posted:2026-07-21T19:25:56-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5364804008 | Anthropic | Machine Learning Infrastructure Engineer, Safeguards Research | score:3.7 | location:San Francisco, CA | New York City, NY | posted:2026-07-21T17:13:51-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/sierra/e2d3e1f5-03cb-4e18-9f3d-a32f0bb6ff91 | Sierra | Software Engineer, Agent - Travel & Hospitality | score:3.3 | location:San Francisco, CA | posted:2026-07-21T20:39:56.904+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4441010013 | NVIDIA AI | Deep Learning Software Engineer, TensorRT Performance - New College Grad 2026 | score:3 | location:Santa Clara, CA | posted:2026-07-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443577139 | RootedTECH | Junior Backend Developer | score:4.2 | location:Malta, OH | posted:2026-07-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442917199 | Odoo | Junior Software Engineer | score:4.1 | location:San Francisco Bay Area | posted:2026-07-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443586212 | HP IQ | AI Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-07-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443074993 | Acrisure Mortgage, LLC | Junior Software Developer | score:3.8 | location:Orlando, FL | posted:2026-07-21T00:00:00.000Z | source:linkedin-guest
