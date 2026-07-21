@@ -4118,3 +4118,16 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4442289935 | Dartmouth Center for Career Design | How This Software Engineer’s Love of Logic Helped Him Forge a Tech Career | score:3 | location:Indiana, United States | posted:2026-07-21T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4443502157 | Helic &amp; Co | Junior Software Engineer | score:3.8 | location:United States | posted:2026-07-21T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4443080780 | Anadyr Horizon | Junior Backend Software Engineer (Python) — Simulation Intelligence | score:4.5 | location:New York City Metropolitan Area | posted:2026-07-21T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/snowflake/74466b25-9cc8-4e9b-b60b-234c539c455c | Snowflake | Software Engineer | score:3.8 | location:US-CA-Menlo Park | posted:2026-07-21T17:11:13.768+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4443380286 | Hired | Software Engineer - E-Commerce (Remote) | score:3 | location:United States | posted:2026-07-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442630620 | SLAS (Society for Laboratory Automation and Screening) | AI Research Scientist, New Grad – Agents &amp;amp; Reinforcement Learning | score:3.8 | location:Bellevue, WA | posted:2026-07-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442243693 | NVIDIA | Deep Learning Software Engineer, TensorRT Performance - New College Grad 2026 | score:3 | location:Santa Clara, CA | posted:2026-07-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440470755 | Monetate | Associate Software Engineer | score:3.8 | location:Plano, TX | posted:2026-07-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442660210 | TalentAlly | Assoc, Software Engineering | score:3 | location:Dallas, TX | posted:2026-07-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443399816 | beyond-tabs.com | Associate Software Developer | score:3.8 | location:Warren, NJ | posted:2026-07-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434108409 | Blizzard Entertainment | Associate Software Engineer, Reliability | score:3.8 | location:Irvine, CA | posted:2026-07-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443501986 | Astronomer | Software Engineer - Applications | score:3.3 | location:New York, NY | posted:2026-07-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440486415 | Torch.AI | Software Engineer I (Python) | score:4.2 | location:Leawood, KS | posted:2026-07-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443313713 | matcha.fm | Full-stack Software Engineer (Fully remote - New Grads Ok - Up to $200k) | score:3.8 | location:United States | posted:2026-07-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440427437 | Haystack | Junior Full Stack Developer | score:4.2 | location:Washington, DC | posted:2026-07-21T00:00:00.000Z | source:linkedin-guest
