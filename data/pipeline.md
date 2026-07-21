@@ -4131,3 +4131,10 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4440486415 | Torch.AI | Software Engineer I (Python) | score:4.2 | location:Leawood, KS | posted:2026-07-21T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4443313713 | matcha.fm | Full-stack Software Engineer (Fully remote - New Grads Ok - Up to $200k) | score:3.8 | location:United States | posted:2026-07-21T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4440427437 | Haystack | Junior Full Stack Developer | score:4.2 | location:Washington, DC | posted:2026-07-21T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4443390077 | Cerberus Capital Management | Associate, Software Engineer | score:4.1 | location:New York, NY | posted:2026-07-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442688346 | Jack &amp; Jill | Software Engineer, Platform ($200k-$250k + Equity) at Duckbill | score:3.7 | location:San Francisco, CA | posted:2026-07-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443096155 | Lockheed Martin | Software Engineer | score:3 | location:Sunnyvale, CA | posted:2026-07-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443049802 | Q-CTRL | Software Engineer | score:3 | location:Los Angeles, CA | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442679202 | Agave | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-07-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442223945 | Lam Research | Software Engineer Sys 2 | score:3 | location:Fremont, CA | posted:2026-07-20T00:00:00.000Z | source:linkedin-guest
