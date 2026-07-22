@@ -4147,3 +4147,22 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4442917199 | Odoo | Junior Software Engineer | score:4.1 | location:San Francisco Bay Area | posted:2026-07-21T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4443586212 | HP IQ | AI Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-07-21T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4443074993 | Acrisure Mortgage, LLC | Junior Software Developer | score:3.8 | location:Orlando, FL | posted:2026-07-21T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/snowflake/227b8c06-b6de-4f3a-ae37-7e0c015e5b7a | Snowflake | Software Engineer - Openflow Connectors | score:3.8 | location:PL-Warsaw-Lixa C | posted:2026-07-22T09:01:52.030+00:00 | source:ashby-api
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7791275003?gh_jid=7791275003 | Celonis | Software Engineer - Java | score:3.4 | location:Bangalore, India | posted:2026-07-22T03:10:12-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4443909138 | Hired | Software Engineer - E-Commerce (Remote) | score:3 | location:United States | posted:2026-07-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443756954 | Toyota Automated Logistics | Software Project Engineer (New Grad 2026) | score:3.8 | location:Kansas City Metropolitan Area | posted:2026-07-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443136015 | Parasoleil | Entry Level Software Engineer | score:3.8 | location:United States | posted:2026-07-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443149270 | RemoteHunter | Associate Software Engineer- Infrastructure | score:4.2 | location:United States | posted:2026-07-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443703826 | New Relic | Associate Software Engineer- Infrastructure | score:4.2 | location:Lake St Louis, MO | posted:2026-07-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443908186 | Helic &amp; Co | Junior Software Engineer | score:3.8 | location:United States | posted:2026-07-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442675299 | PwC | Forward Deployed Software Engineering - Experienced Associate | score:4.1 | location:New York, NY | posted:2026-07-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442994387 | Professional Search Group | Software Engineer | score:3 | location:California, United States | posted:2026-07-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443736509 | Mastercard | Software Engineer I | score:3.8 | location:O'Fallon, MO | posted:2026-07-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4435164601 | DAT Freight &amp; Analytics | Software Engineer I | score:4.1 | location:Seattle, WA | posted:2026-07-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443168070 | ZOLL Medical Corporation | Software Engineer I | score:3.8 | location:Broomfield, CO | posted:2026-07-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440492582 | Teradyne | Software Engineer, New College Graduate, (Teradyne, North Reading, MA) | score:3 | location:North Reading, MA | posted:2026-07-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443945362 | Esri | Software Engineer I - Front-End Engineer for ArcGIS Enterprise | score:3.8 | location:Redlands, CA | posted:2026-07-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443750424 | Redfin | Software Developer I | score:3.3 | location:Seattle, WA | posted:2026-07-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443136836 | Jack &amp; Jill | Software Engineer at Den | score:3.3 | location:New York, United States | posted:2026-07-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441697476 | Harris Computer | Software Engineer | score:3 | location:California, United States | posted:2026-07-21T00:00:00.000Z | source:linkedin-guest
