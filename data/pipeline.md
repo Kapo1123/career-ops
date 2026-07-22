@@ -4188,3 +4188,14 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4443993408 | MintMCP | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-07-22T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4443976141 | SkillStorm | Entry Level Software Developer | score:3.8 | location:Miami, FL | posted:2026-07-22T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4441085052 | Personal Injury Mastermind w/ Chris Dreyer | ENTRY LEVEL SOFTWARE DEVELOPE | score:3.8 | location:United States | posted:2026-07-22T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.lever.co/palantir/67110929-adea-41c3-851a-8882e222d9e4 | Palantir | Software Engineer - Edge AI Systems | score:3.3 | location:Seattle, WA | posted:2026-07-22T22:12:20.264Z | source:lever-api
+- [ ] https://www.linkedin.com/jobs/view/4444216120 | Boson AI | Software Engineer - Platform &amp; Application | score:3.4 | location:Santa Clara, CA | posted:2026-07-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443192723 | SG Home Office | Software Engineer, Early Career | score:4.1 | location:San Francisco, CA | posted:2026-07-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443430086 | Traba | Software Engineer (New Grad) | score:4.1 | location:New York, NY | posted:2026-07-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443998864 | HME | Software Engineer | score:3 | location:Carlsbad, CA | posted:2026-07-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441085057 | Infosys | Specialist Programmer - Entry Level for new Grads | score:3.8 | location:Raleigh, NC | posted:2026-07-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443188902 | RemoteHunter | Associate Software Engineer- Infrastructure | score:4.2 | location:United States | posted:2026-07-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441070698 | UST | Junior Full Stack Developer | score:4.2 | location:Atlanta, GA | posted:2026-07-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441077882 | BAE Systems, Inc. | Software Engineer I | score:3.8 | location:Nashua, NH | posted:2026-07-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443998273 | SpaceX | Full Stack Software Engineer, Manufacturing | score:3.4 | location:Hawthorne, CA | posted:2026-07-22T00:00:00.000Z | source:linkedin-guest
