@@ -4177,3 +4177,14 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4443945568 | S&amp;C Electric Company | Software Engineer I (Early Talent Program) | score:3.8 | location:Chicago, IL | posted:2026-07-22T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4443140913 | Qualcomm | #Software Engineer | score:3 | location:San Diego, CA | posted:2026-07-22T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4441017717 | Teradyne | Software Engineer (Memory Test, San Jose) | score:3 | location:San Jose, CA | posted:2026-07-22T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4443999281 | Traba | Software Engineer (New Grad) | score:4.1 | location:New York, NY | posted:2026-07-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443187527 | Emonics LLC | Full Stack Engineer | score:3.4 | location:Portland, OR | posted:2026-07-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443183763 | Emonics LLC | Associate Software Engineer | score:3.8 | location:Madison, WI | posted:2026-07-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443166682 | FetchJobs.co | Software Engineer | score:3 | location:United States | posted:2026-07-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443998077 | Infinite Computer Solutions | Junior Software Engineer | score:3.8 | location:Maryland, United States | posted:2026-07-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443175307 | Discord | Software Engineer, Notifications | score:3.3 | location:San Francisco Bay Area | posted:2026-07-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441067774 | Premier League | Junior Software Engineer | score:4.1 | location:New York, United States | posted:2026-07-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443993408 | MintMCP | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-07-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443976141 | SkillStorm | Entry Level Software Developer | score:3.8 | location:Miami, FL | posted:2026-07-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441085052 | Personal Injury Mastermind w/ Chris Dreyer | ENTRY LEVEL SOFTWARE DEVELOPE | score:3.8 | location:United States | posted:2026-07-22T00:00:00.000Z | source:linkedin-guest
