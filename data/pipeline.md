@@ -4166,3 +4166,14 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4443750424 | Redfin | Software Developer I | score:3.3 | location:Seattle, WA | posted:2026-07-22T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4443136836 | Jack &amp; Jill | Software Engineer at Den | score:3.3 | location:New York, United States | posted:2026-07-22T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4441697476 | Harris Computer | Software Engineer | score:3 | location:California, United States | posted:2026-07-21T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://stripe.com/jobs/search?gh_jid=8070572 | Stripe | Data Analyst, Financial Data Engineering | score:4.5 | location:New York | posted:2026-07-22T13:25:41-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/openai/39cd0dd8-520d-4932-80bf-7495a1d1d11b | OpenAI | Simulation Infrastructure Engineer | score:3.7 | location:San Francisco | posted:2026-07-22T17:35:37.634+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4443973101 | Develawpers | Software Engineer, Early Career | score:4.1 | location:San Francisco, CA | posted:2026-07-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441043248 | Broad Reach Ventures | Software Engineer, Early Career | score:4.1 | location:San Francisco, CA | posted:2026-07-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443952826 | Develawpers | Software Engineer, Early Career (AI) | score:4.1 | location:San Francisco, CA | posted:2026-07-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443171785 | SpiderRock | Junior Software Engineer | score:3.8 | location:Chicago, IL | posted:2026-07-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442924935 | Vadum Inc. | Junior Software Engineer | score:3.8 | location:Raleigh, NC | posted:2026-07-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443945568 | S&amp;C Electric Company | Software Engineer I (Early Talent Program) | score:3.8 | location:Chicago, IL | posted:2026-07-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443140913 | Qualcomm | #Software Engineer | score:3 | location:San Diego, CA | posted:2026-07-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441017717 | Teradyne | Software Engineer (Memory Test, San Jose) | score:3 | location:San Jose, CA | posted:2026-07-22T00:00:00.000Z | source:linkedin-guest
