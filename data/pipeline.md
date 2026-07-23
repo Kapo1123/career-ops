@@ -4235,3 +4235,17 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4441551829 | J.B. Hunt Transport Services, Inc. | Software Engineer I | score:3.8 | location:Lowell, AR | posted:2026-07-23T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4328755947 | MANTECH | Software Engineer | score:3 | location:Crane, IN | posted:2026-07-23T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4440270103 | Vierra Digital LLC | Junior Software Engineer | score:4.1 | location:New York City Metropolitan Area | posted:2026-07-23T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/openai/118b71ad-0daa-497d-9061-68e90ea03368 | OpenAI | Software Engineer, Privacy Engineering (Lawful Access)  | score:3 | location:London, UK | posted:2026-07-23T20:31:24.454+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4443416714 | NVIDIA | Deep Learning Software Engineer, Inference - New College Grad 2026 | score:3.3 | location:New York, United States | posted:2026-07-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444726648 | Cerebras | ML Software Engineer - Integration &amp; Quality - New Grad | score:3.8 | location:Canada, NC | posted:2026-07-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444736365 | Cerebras | Kernel Engineer - New Grad | score:3.8 | location:Canada, NC | posted:2026-07-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444022748 | Ericsson | Software Engineer (Early Career) | score:3.8 | location:Lewisville, TX | posted:2026-07-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444043138 | Valon | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-07-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443464004 | U.S. Bank | Software Engineer 1 (React + API + Cloud Migration) | score:3 | location:Irving, TX | posted:2026-07-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443891437 | Goldman Sachs | Corporate Treasury, New York, Associate, Software Engineering | score:4.1 | location:New York, NY | posted:2026-07-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444033314 | Vertafore | Software Engineer I | score:3.8 | location:Pulaski, TN | posted:2026-07-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444465305 | TalentAlly | Java Software Engineer I | score:4.2 | location:Hillsboro, OR | posted:2026-07-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444421395 | Sundayy | Software Engineer, Jr. (Python, SQL) | score:3.4 | location:United States | posted:2026-07-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444408469 | OPERS | Full Stack Developer I | score:3.4 | location:Columbus, OH | posted:2026-07-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443889478 | targetjobs UK | Graduate Software Engineer | score:3 | location:Carlisle, PA | posted:2026-07-23T00:00:00.000Z | source:linkedin-guest
