@@ -4224,3 +4224,14 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4444486094 | Apex Systems | Junior Software Engineer | score:3.8 | location:Burlingame, CA | posted:2026-07-23T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4443471454 | PayPal | Software Engineer | score:3 | location:San Jose, CA | posted:2026-07-23T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4444493295 | Zello | Software Engineer I - AI Generalist | score:3.8 | location:Austin, TX | posted:2026-07-23T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/openai/a0ccedf1-2bb7-4f10-8be8-db50f9ae02c3 | OpenAI | Software Engineer, Privacy Engineering (Lawful Access)  | score:3.3 | location:San Francisco | posted:2026-07-23T18:43:09.820+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4444735037 | MintMCP | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-07-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441561419 | NVIDIA AI | Software Engineer, Physical Design Infrastructure - New College Grad 2026 | score:3.4 | location:Santa Clara, CA | posted:2026-07-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441568036 | Eclipse Avocats à la Cour | Junior Software Engineer | score:4.1 | location:New York, United States | posted:2026-07-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441520188 | Harmony AI (tryharmony.ai) | Backend Engineer | score:3.4 | location:Indiana, United States | posted:2026-07-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443460032 | Asure Software | Associate Software Engineer-Atlanta | score:3.8 | location:Atlanta, GA | posted:2026-07-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444030055 | Jack &amp; Jill | Software Engineer, Platform ($200k-$250k + Equity) at Duckbill | score:3.7 | location:San Francisco, CA | posted:2026-07-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441551829 | J.B. Hunt Transport Services, Inc. | Software Engineer I | score:3.8 | location:Lowell, AR | posted:2026-07-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4328755947 | MANTECH | Software Engineer | score:3 | location:Crane, IN | posted:2026-07-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4440270103 | Vierra Digital LLC | Junior Software Engineer | score:4.1 | location:New York City Metropolitan Area | posted:2026-07-23T00:00:00.000Z | source:linkedin-guest
