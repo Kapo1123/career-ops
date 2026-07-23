@@ -4199,3 +4199,17 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4441070698 | UST | Junior Full Stack Developer | score:4.2 | location:Atlanta, GA | posted:2026-07-22T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4441077882 | BAE Systems, Inc. | Software Engineer I | score:3.8 | location:Nashua, NH | posted:2026-07-22T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4443998273 | SpaceX | Full Stack Software Engineer, Manufacturing | score:3.4 | location:Hawthorne, CA | posted:2026-07-22T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://stripe.com/jobs/search?gh_jid=8076626 | Stripe | Software Engineer, Stripe Tax  | score:3.8 | location:Dublin, Ireland | posted:2026-07-23T10:35:40-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/snowflake/49aa16eb-c429-4e80-9b80-bd5c6cd12721 | Snowflake | Software Engineer - SnowCommand | score:3.8 | location:PL-Warsaw-Lixa C | posted:2026-07-23T14:15:04.270+00:00 | source:ashby-api
+- [ ] https://jobs.lever.co/palantir/73d1a90c-162d-4cb6-9e0c-4c8de9561ad0 | Palantir | Forward Deployed Software Engineer - NATO | score:3 | location:London, United Kingdom | posted:2026-07-23T12:53:46.989Z | source:lever-api
+- [ ] https://www.linkedin.com/jobs/view/4444286973 | Crossing Hurdles | Entry-Level Software Engineer | Remote | score:3 | location:United States | posted:2026-07-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443473339 | Southwest Airlines | Assoc Software Engineer | score:3 | location:Dallas, TX | posted:2026-07-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443838375 | SpeedyApply | Associate Backend Engineer. | score:4.2 | location:Sunnyvale, CA | posted:2026-07-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443481393 | PayPal | Software Engineer | score:3 | location:San Jose, CA | posted:2026-07-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443825653 | RemoteHunter | Associate Software Engineer- Infrastructure | score:4.2 | location:United States | posted:2026-07-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444231035 | Rubrik | Software Engineer - SaaS Data Protection | score:3.4 | location:Palo Alto, CA | posted:2026-07-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4424616675 | Nexxen | Software Engineer 1 - DSP Runtime | score:3.3 | location:New York, NY | posted:2026-07-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444450296 | Helic &amp; Co | Junior Software Engineer | score:3.8 | location:United States | posted:2026-07-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444006033 | Na Praia | ENTRY LEVEL SOFTWARE DEVELOPE | score:3.8 | location:United States | posted:2026-07-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443471360 | General Dynamics Information Technology | Software Engineer 1 | score:3 | location:Annapolis Junction, MD | posted:2026-07-23T00:00:00.000Z | source:linkedin-guest
