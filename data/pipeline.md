@@ -4213,3 +4213,14 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4444450296 | Helic &amp; Co | Junior Software Engineer | score:3.8 | location:United States | posted:2026-07-23T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4444006033 | Na Praia | ENTRY LEVEL SOFTWARE DEVELOPE | score:3.8 | location:United States | posted:2026-07-23T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4443471360 | General Dynamics Information Technology | Software Engineer 1 | score:3 | location:Annapolis Junction, MD | posted:2026-07-23T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4717105005 | Scale AI | AI Infrastructure Engineer, Sandbox Platform | score:3.4 | location:London, UK | posted:2026-07-23T13:00:58-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4443436625 | NVIDIA | Deep Learning Software Engineer, Inference - New College Grad 2026 | score:3 | location:California, United States | posted:2026-07-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443817255 | Mintegral | Software Engineer – Ads AI Infrastructure  (New Grad / PhD Welcome) | score:4.5 | location:Seattle, WA | posted:2026-07-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443873270 | Jack &amp; Jill | Software Engineer, Platform ($200k-$250k + Equity) at Duckbill | score:3.7 | location:San Francisco, CA | posted:2026-07-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444473616 | Wayfair | Software Engineer I | score:3.8 | location:Boston, MA | posted:2026-07-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414765336 | ArteraAI | Software Engineer - Python | score:3.4 | location:United States | posted:2026-07-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444276298 | TECNICA LIMITED | Software Developer | score:3 | location:Indiana, United States | posted:2026-07-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444486094 | Apex Systems | Junior Software Engineer | score:3.8 | location:Burlingame, CA | posted:2026-07-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443471454 | PayPal | Software Engineer | score:3 | location:San Jose, CA | posted:2026-07-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444493295 | Zello | Software Engineer I - AI Generalist | score:3.8 | location:Austin, TX | posted:2026-07-23T00:00:00.000Z | source:linkedin-guest
