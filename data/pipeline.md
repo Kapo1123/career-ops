@@ -4274,3 +4274,15 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4427579543 | ReliaQuest | Associate Software Engineer | score:3.8 | location:Tampa, FL | posted:2026-07-24T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4444926193 | Elbit Systems of America | Software Engineer I | score:3.8 | location:Roanoke, VA | posted:2026-07-24T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4434941647 | Cisco | Software Engineer Data/AI/Intelligent Systems I (Full Time) – United States | score:3.4 | location:Austin, TX | posted:2026-07-24T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://app.careerpuck.com/job-board/lyft/job/8649345002?gh_jid=8649345002 | Lyft | Junior Software Engineer, Luxury | score:4.6 | location:Mexico City, Mexico | posted:2026-07-24T15:04:31-04:00 | source:greenhouse-api
+- [ ] https://stripe.com/jobs/search?gh_jid=8084195 | Stripe | Backend Engineer, Credit Decisions  | score:4.2 | location:Chicago, IL  | posted:2026-07-24T16:10:18-04:00 | source:greenhouse-api
+- [ ] https://stripe.com/jobs/search?gh_jid=8084193 | Stripe | Software Engineer - Full Stack | score:4.5 | location:South San Francisco, California | posted:2026-07-24T16:10:08-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/snowflake/494fcbd0-1cf3-4248-b5cf-b35d982ced00 | Snowflake | Software Engineer- Postgres | score:3.8 | location:US-CA-Menlo Park | posted:2026-07-24T19:59:32.556+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4444963172 | WHOOP | Software Engineer I (Backend) | score:4.2 | location:Boston, MA | posted:2026-07-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444954675 | WHOOP | Software Engineer II (Backend, Business Systems) | score:4.2 | location:Boston, MA | posted:2026-07-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444387036 | Westinghouse Electric Company | Software Engineer | score:3 | location:Warrendale, PA | posted:2026-07-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444392605 | Jack | Full Stack Engineer | score:3.7 | location:San Francisco Bay Area | posted:2026-07-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444988732 | Capgemini | Full Stack Developer | score:3.7 | location:New York, NY | posted:2026-07-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445205566 | Verkada | Backend Engineer - Connectivity | score:3.4 | location:San Mateo, CA | posted:2026-07-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445214603 | USAN, Inc. | Entry Level Software Engineer - Hybrid - Norcross, GA | score:3.8 | location:Norcross, GA | posted:2026-07-24T00:00:00.000Z | source:linkedin-guest
