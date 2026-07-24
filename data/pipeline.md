@@ -4249,3 +4249,17 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4444421395 | Sundayy | Software Engineer, Jr. (Python, SQL) | score:3.4 | location:United States | posted:2026-07-23T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4444408469 | OPERS | Full Stack Developer I | score:3.4 | location:Columbus, OH | posted:2026-07-23T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4443889478 | targetjobs UK | Graduate Software Engineer | score:3 | location:Carlisle, PA | posted:2026-07-23T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4717977005 | Scale AI | AI Infrastructure Engineer, Serving Platform | score:3.4 | location:London, UK | posted:2026-07-24T03:56:48-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/openai/e99105f1-0a15-4f25-9538-60312568f835 | OpenAI | Software Engineer, Privacy Engineering (Lawful Access)  | score:3 | location:Dublin, Ireland | posted:2026-07-23T20:33:49.718+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4444044187 | NVIDIA | Software Engineer, Physical Design Infrastructure - New College Grad 2026 | score:3.4 | location:Santa Clara, CA | posted:2026-07-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444042312 | NVIDIA | AI and ML Infra Software Engineer, GPU Clusters - New College Grad 2026 | score:3 | location:Santa Clara, CA | posted:2026-07-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444021586 | Bohannan Huston, Inc. | Entry Level Civil Engineer (CDPABQ) | score:3.8 | location:Albuquerque, NM | posted:2026-07-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444984747 | Northwell Health | Associate Software Engineer - Fully Onsite | score:3.8 | location:Lake Success, NY | posted:2026-07-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444961582 | Helic &amp; Co | Junior Software Engineer | score:3.8 | location:United States | posted:2026-07-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444744594 | Broadridge | Software Engineer- | score:3 | location:Denver, CO | posted:2026-07-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444998375 | McKesson | Sr. Associate Software Engineer | score:3.8 | location:Overland Park, KS | posted:2026-07-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444073656 | Flitch | Associate Software Engineer | score:3.8 | location:Los Angeles Metropolitan Area | posted:2026-07-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441812212 | Validity Inc. | Full Stack AI Software Engineer I | score:4.2 | location:Boston, MA | posted:2026-07-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441805974 | Tech Consulting | Junior Software Engineer | score:3.8 | location:Texas, United States | posted:2026-07-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444781937 | Ammortal | Software Engineer (Full-Stack) | score:3 | location:Asheville, NC | posted:2026-07-24T00:00:00.000Z | source:linkedin-guest
