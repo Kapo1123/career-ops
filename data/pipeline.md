@@ -4263,3 +4263,14 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4441812212 | Validity Inc. | Full Stack AI Software Engineer I | score:4.2 | location:Boston, MA | posted:2026-07-24T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4441805974 | Tech Consulting | Junior Software Engineer | score:3.8 | location:Texas, United States | posted:2026-07-24T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4444781937 | Ammortal | Software Engineer (Full-Stack) | score:3 | location:Asheville, NC | posted:2026-07-24T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5097186008 | Anthropic | Full Stack Engineer, Education Labs | score:3.7 | location:San Francisco, CA | New York City, NY | posted:2026-07-24T13:07:50-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4444055059 | NVIDIA | AI and ML Infra Software Engineer, GPU Clusters - New College Grad 2026 | score:3 | location:Redmond, WA | posted:2026-07-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444775788 | CGI | Software Developer – Entry Level | score:3.8 | location:Knoxville, TN | posted:2026-07-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444364995 | Westinghouse Electric Company | Software Engineer | score:3 | location:Warrendale, PA | posted:2026-07-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444351252 | Jack &amp; Jill | Software Engineer, Platform ($200k-$250k + Equity) at Duckbill | score:3.7 | location:San Francisco, CA | posted:2026-07-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444323278 | Ling KK | Software Engineer | score:3 | location:Indiana, United States | posted:2026-07-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444777975 | Ammortal | Software Engineer (Full-Stack) | score:3 | location:Weaverville, NC | posted:2026-07-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4427579543 | ReliaQuest | Associate Software Engineer | score:3.8 | location:Tampa, FL | posted:2026-07-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444926193 | Elbit Systems of America | Software Engineer I | score:3.8 | location:Roanoke, VA | posted:2026-07-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434941647 | Cisco | Software Engineer Data/AI/Intelligent Systems I (Full Time) – United States | score:3.4 | location:Austin, TX | posted:2026-07-24T00:00:00.000Z | source:linkedin-guest
