@@ -4300,3 +4300,10 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4441839236 | UF/IFAS - School of Natural Resources and Environment | Research Software Engineer I | score:3.8 | location:Gainesville, FL | posted:2026-07-24T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4444606984 | Centre for Molecular Biosciences &amp; Genomics | ENTRY LEVEL SOFTWARE DEVELOPE | score:3.8 | location:United States | posted:2026-07-24T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4445253506 | Radiance Technologies | Junior Software Engineer | score:3.8 | location:Mississippi, United States | posted:2026-07-24T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4445297774 | Direct-Calls.com | Software Engineer I, Streamer Monetization at Repovive, Inc. | score:4.1 | location:Seattle, WA | posted:2026-07-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445348129 | Helic &amp; Co | Junior Software Engineer | score:3.8 | location:United States | posted:2026-07-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445257949 | Volaris Group | Software Developer I (Analyst) | score:3 | location:Worcester, MA | posted:2026-07-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442301955 | Boeing | Software Engineer–Developer (Associate and Mid-Level) | score:3.8 | location:Richardson, TX | posted:2026-07-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444673078 | SpeedyApply | Software Engineer 1 - DSP Runtime | score:3.3 | location:New York, NY | posted:2026-07-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444655045 | BlueCargo | Junior Software Engineer | score:3.8 | location:Los Angeles, CA | posted:2026-07-25T00:00:00.000Z | source:linkedin-guest
