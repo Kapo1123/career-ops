@@ -4317,3 +4317,7 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 
 - [ ] https://www.linkedin.com/jobs/view/4444674992 | Jack &amp; Jill | Software Engineer, Platform ($200k-$250k + Equity) at Duckbill | score:3.7 | location:San Francisco, CA | posted:2026-07-25T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4442313257 | Haystack | Software Developer | score:3 | location:Atlantic City, NJ | posted:2026-07-25T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4382412268 | Crossing Hurdles | Full Stack Software Engineer | score:3.7 | location:San Francisco, CA | posted:2026-07-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428165568 | iHeartMedia | Software Engineer | score:3.3 | location:New York, United States | posted:2026-07-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442303797 | Haystack | Junior Full Stack Developer | score:4.2 | location:Washington, DC | posted:2026-07-25T00:00:00.000Z | source:linkedin-guest
