@@ -4314,3 +4314,6 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4441877793 | BDO USA | Software Engineer I, AI | score:3.8 | location:United States | posted:2026-07-25T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4445329064 | University of Florida - Chemical Engineering Masters Program | Research Software Engineer I | score:3.8 | location:Gainesville, FL | posted:2026-07-24T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4442306518 | Haystack | Junior Full Stack Developer | score:4.2 | location:Washington DC-Baltimore Area | posted:2026-07-25T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4444674992 | Jack &amp; Jill | Software Engineer, Platform ($200k-$250k + Equity) at Duckbill | score:3.7 | location:San Francisco, CA | posted:2026-07-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442313257 | Haystack | Software Developer | score:3 | location:Atlantic City, NJ | posted:2026-07-25T00:00:00.000Z | source:linkedin-guest
