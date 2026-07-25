@@ -4286,3 +4286,17 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4444988732 | Capgemini | Full Stack Developer | score:3.7 | location:New York, NY | posted:2026-07-24T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4445205566 | Verkada | Backend Engineer - Connectivity | score:3.4 | location:San Mateo, CA | posted:2026-07-24T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4445214603 | USAN, Inc. | Entry Level Software Engineer - Hybrid - Norcross, GA | score:3.8 | location:Norcross, GA | posted:2026-07-24T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://stripe.com/jobs/search?gh_jid=8084476 | Stripe | Software Engineer, Machine Learning Infrastructure | score:4.2 | location:Toronto, Canada | posted:2026-07-24T19:34:58-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/openai/0c0fe7aa-24fb-4bad-aa30-3f68f1418e37 | OpenAI | Data Engineer, CPU & Storage | score:3.7 | location:San Francisco | posted:2026-07-24T20:44:16.847+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4444923839 | Collins Aerospace | Software Engineer I (Onsite) | score:3.8 | location:Cedar Rapids, IA | posted:2026-07-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444608401 | Toyota North America | Software Engineer (Early Career Professional) | score:3.8 | location:Plano, TX | posted:2026-07-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444391754 | Jack | Software Engineer | score:3.3 | location:San Francisco Bay Area | posted:2026-07-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441841317 | Capgemini | Full Stack Developer | score:3.7 | location:New York, United States | posted:2026-07-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444960287 | WHOOP | Software Engineer I (Frontend, Growth) | score:3.8 | location:Boston, MA | posted:2026-07-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445248984 | AppBuddy | Full Stack AI Software Engineer I | score:4.2 | location:Boston, MA | posted:2026-07-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441842476 | TGW Logistics | Software Engineer I (M/F/D)* | score:3.8 | location:Grand Rapids, MI | posted:2026-07-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445208999 | PharmaPayWatch | Software Engineer I (AI-Driven Data Solutions) - Lafayette, CO | score:4.2 | location:Lafayette, CO | posted:2026-07-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441839236 | UF/IFAS - School of Natural Resources and Environment | Research Software Engineer I | score:3.8 | location:Gainesville, FL | posted:2026-07-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444606984 | Centre for Molecular Biosciences &amp; Genomics | ENTRY LEVEL SOFTWARE DEVELOPE | score:3.8 | location:United States | posted:2026-07-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445253506 | Radiance Technologies | Junior Software Engineer | score:3.8 | location:Mississippi, United States | posted:2026-07-24T00:00:00.000Z | source:linkedin-guest
