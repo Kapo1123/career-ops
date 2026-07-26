@@ -4349,3 +4349,9 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4444842653 | Jack &amp; Jill | Software Engineer at Den | score:3.3 | location:New York, United States | posted:2026-07-26T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4418047807 | Deloitte | Cyber Full-Stack Software Engineer | score:3 | location:Stamford, CT | posted:2026-07-26T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4442355912 | Tech Consulting | Full Stack Engineer | score:3.4 | location:Philadelphia, PA | posted:2026-07-26T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4445618371 | AISIN World Corp. of America | Software Engineer | score:3 | location:Seymour, IN | posted:2026-07-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418053360 | Deloitte | Cyber Full-Stack Software Engineer | score:3 | location:Greater Indianapolis | posted:2026-07-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442375616 | Space Capital | Software Engineer | score:3 | location:Austin, TX | posted:2026-07-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442354699 | Haystack | Junior Full Stack Developer | score:4.2 | location:Washington, DC | posted:2026-07-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442360104 | EQUAFUSION | Full Stack Developer | score:3.4 | location:United States | posted:2026-07-26T00:00:00.000Z | source:linkedin-guest
