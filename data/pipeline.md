@@ -4339,3 +4339,13 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4417503853 | SBM Management Services, LP | Software Engineer | score:3 | location:Sacramento, CA | posted:2026-07-25T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4417156456 | Qualcomm | GPU Software Engineer | score:3 | location:Boxborough, MA | posted:2026-07-26T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4442335687 | Haystack | Junior Full Stack Developer | score:4.2 | location:Washington DC-Baltimore Area | posted:2026-07-26T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4445625685 | Toyota Automated Logistics | Software Project Engineer (New Grad 2026) | score:3.8 | location:Kansas City Metropolitan Area | posted:2026-07-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418067040 | Relativity | Software Engineer | score:3 | location:Indiana, United States | posted:2026-07-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444839673 | Jack &amp; Jill | Software Engineer, Platform ($200k-$250k + Equity) at Duckbill | score:3.7 | location:San Francisco, CA | posted:2026-07-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417162343 | OpenAI | Full Stack Software Engineer, Growth | score:3.7 | location:San Francisco, CA | posted:2026-07-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4325411431 | Picnic | Software Engineer | score:3.3 | location:New York, NY | posted:2026-07-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418462418 | SpaceX | Software Engineer, Flight Software (Starship) | score:3 | location:Hawthorne, CA | posted:2026-07-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444842653 | Jack &amp; Jill | Software Engineer at Den | score:3.3 | location:New York, United States | posted:2026-07-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418047807 | Deloitte | Cyber Full-Stack Software Engineer | score:3 | location:Stamford, CT | posted:2026-07-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442355912 | Tech Consulting | Full Stack Engineer | score:3.4 | location:Philadelphia, PA | posted:2026-07-26T00:00:00.000Z | source:linkedin-guest
