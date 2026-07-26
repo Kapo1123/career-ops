@@ -4321,3 +4321,21 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4382412268 | Crossing Hurdles | Full Stack Software Engineer | score:3.7 | location:San Francisco, CA | posted:2026-07-25T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4428165568 | iHeartMedia | Software Engineer | score:3.3 | location:New York, United States | posted:2026-07-25T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4442303797 | Haystack | Junior Full Stack Developer | score:4.2 | location:Washington, DC | posted:2026-07-25T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4444838369 | banking.TOP | Software Engineer, Early Career | score:4.1 | location:San Francisco, CA | posted:2026-07-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444837389 | banking.TOP | Software Engineer, Early Career (AI) | score:4.1 | location:San Francisco, CA | posted:2026-07-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428149677 | CLEAR | Software Engineer, Infrastructure | score:3.7 | location:New York, NY | posted:2026-07-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4427225097 | Allen Control Systems | Software Engineer - Deployment &amp; Fleet Management | score:3 | location:Austin, TX | posted:2026-07-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444822641 | Jack &amp; Jill | Forward Deployed Software Engineer ($120K - $150K + Equity) at Arzana | score:3.3 | location:New York, NY | posted:2026-07-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444834895 | Odyssey Logistics (fka Capital Transportation Solutions LLC) | Junior Software Engineer | score:4.1 | location:New York, United States | posted:2026-07-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444698953 | HII | SOFTWARE ENGINEER 1 | score:3 | location:Newport News, VA | posted:2026-07-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444827384 | Newport News Shipbuilding, A Division of HII | SOFTWARE ENGINEER 1 | score:3 | location:Newport News, VA | posted:2026-07-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444833204 | SpeedyApply | Associate Wireless Software Engineer | score:3.8 | location:Atlanta, GA | posted:2026-07-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442343756 | Haystack | Junior Software Engineer | score:3.8 | location:Washington, DC | posted:2026-07-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444839840 | Centre for Molecular Biosciences &amp; Genomics | ENTRY LEVEL SOFTWARE DEVELOPE | score:3.8 | location:United States | posted:2026-07-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442334825 | Haystack | Software Developer | score:3 | location:Atlantic City, NJ | posted:2026-07-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418050675 | Deloitte | Cyber Full-Stack Software Engineer | score:3 | location:Princeton, NJ | posted:2026-07-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445391980 | LaStellar Group | Software Engineer | score:3.3 | location:New York, NY | posted:2026-07-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417503853 | SBM Management Services, LP | Software Engineer | score:3 | location:Sacramento, CA | posted:2026-07-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417156456 | Qualcomm | GPU Software Engineer | score:3 | location:Boxborough, MA | posted:2026-07-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442335687 | Haystack | Junior Full Stack Developer | score:4.2 | location:Washington DC-Baltimore Area | posted:2026-07-26T00:00:00.000Z | source:linkedin-guest
