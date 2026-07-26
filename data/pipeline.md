@@ -4355,3 +4355,7 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4442375616 | Space Capital | Software Engineer | score:3 | location:Austin, TX | posted:2026-07-26T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4442354699 | Haystack | Junior Full Stack Developer | score:4.2 | location:Washington, DC | posted:2026-07-26T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4442360104 | EQUAFUSION | Full Stack Developer | score:3.4 | location:United States | posted:2026-07-26T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4442370561 | Retell | Software Engineer | score:3.3 | location:San Francisco Bay Area | posted:2026-07-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444870083 | Jack &amp; Jill | Forward Deployed Software Engineer ($120K - $150K + Equity) at Arzana | score:3.3 | location:New York, NY | posted:2026-07-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444850147 | Jack &amp; Jill | Software Engineer, Platform ($200k-$250k + Equity) at Duckbill | score:3.7 | location:San Francisco, CA | posted:2026-07-26T00:00:00.000Z | source:linkedin-guest
