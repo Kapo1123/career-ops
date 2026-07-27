@@ -4378,3 +4378,11 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4445170013 | Vert | Software Engineer | score:3 | location:Longmont, CO | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4445152134 | Haystack | Software Engineer | score:3 | location:Atlanta Metropolitan Area | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4442819425 | Haystack | Software Developer | score:3 | location:Atlantic City, NJ | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4431762372 | SkillStorm | Entry Level Software Developer | score:3.8 | location:Raleigh, NC | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445144423 | Revature | Entry Level Software Developer | score:3.8 | location:Dallas, TX | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445955013 | ASRC Federal | Associate Software Engineer | score:3.8 | location:Moorestown, NJ | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445937248 | L3Harris Technologies | Associate, Software Engineer | score:3.8 | location:Greenville, TX | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445164118 | AlloHire | Software Engineer | score:3 | location:San Jose, CA | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445994496 | Parsons Corporation | Software Developer, Associate | score:3.8 | location:Centreville, VA | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445993768 | John Galt Staffing | Software Engineer | score:3 | location:Columbia, MD | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
