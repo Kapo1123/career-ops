@@ -4359,3 +4359,22 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4442370561 | Retell | Software Engineer | score:3.3 | location:San Francisco Bay Area | posted:2026-07-26T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4444870083 | Jack &amp; Jill | Forward Deployed Software Engineer ($120K - $150K + Equity) at Arzana | score:3.3 | location:New York, NY | posted:2026-07-26T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4444850147 | Jack &amp; Jill | Software Engineer, Platform ($200k-$250k + Equity) at Duckbill | score:3.7 | location:San Francisco, CA | posted:2026-07-26T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4445655712 | Andrew &amp; Brothers, Inc. | Software Engineer, Early Career | score:4.1 | location:San Francisco, CA | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445908745 | Smrti Lab | Software Engineer, Early Career | score:4.1 | location:San Francisco, CA | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445655464 | Texas Sports Academy | Junior Software Engineer (AI-Forward) | score:3.8 | location:Austin, TX | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445660981 | Zof AI | Software Engineer, Level 2 / Junior | score:4.1 | location:San Francisco, CA | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445921563 | Smrti Lab | Software Engineer, Early Career (AI) | score:4.1 | location:San Francisco, CA | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444851820 | Allstate | Software Engineer (All Levels) | score:3 | location:United States | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445917709 | DOT_DOT Innovation | Software Engineer, Early Career (AI) | score:4.1 | location:San Francisco, CA | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445108088 | SpeedyApply | Junior Software Engineer - AI-Forward | score:3.8 | location:Austin, TX | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442818452 | Haystack | Junior Software Engineer | score:3.8 | location:Washington, DC | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445143565 | Jack &amp; Jill | Software Engineer, Platform ($200k-$250k + Equity) at Duckbill | score:3.7 | location:San Francisco, CA | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445955587 | Sparton | Software Engineer I | score:3.8 | location:De Leon Springs, FL | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442851822 | UW Credit Union | Software Engineer I | score:3.8 | location:Madison, WI | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445928524 | Helic &amp; Co | Junior Software Engineer | score:3.8 | location:United States | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445966544 | Allied World Reinsurance Company | Junior Full Stack Developer | score:4.2 | location:Iselin, NJ | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444871379 | ImpetusIT | Full Stack Engineer | score:3.4 | location:Washington, DC | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445170013 | Vert | Software Engineer | score:3 | location:Longmont, CO | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445152134 | Haystack | Software Engineer | score:3 | location:Atlanta Metropolitan Area | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442819425 | Haystack | Software Developer | score:3 | location:Atlantic City, NJ | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
