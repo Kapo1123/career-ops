@@ -4396,3 +4396,17 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4443477776 | Hewlett Packard Enterprise | System/Software Engineer | score:3 | location:Roseville, CA | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4445188192 | Intel | System Software Engineer | score:3 | location:Hillsboro, OR | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4442877289 | Mitratech | Software Engineer I - AssureHire (Go) | score:3.8 | location:Rocklin, CA | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
+
+- [ ] http://block.xyz/careers/jobs/5369941008?gh_jid=5369941008 | Block (Square) | Software Engineer, Reconciliation & Reporting | score:3 | location:Bay Area, CA, United States of America | posted:2026-07-27T18:50:13-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4446131758 | Cisco | Software Engineer (Full Time) - United States | score:3.3 | location:Seattle, WA | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442889322 | Corissa Nunn Consulting | Software Engineer, Early Career | score:4.1 | location:San Francisco, CA | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442888484 | Atos | Software Engineer | score:3 | location:Irving, TX | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442886141 | Haystack | Junior Software Engineer | score:3.8 | location:Washington, DC | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446145754 | Go Digital Web Solutions | Junior Software Engineer | score:3.8 | location:Delhi, NY | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442893738 | Rocket | Software Engineer I | score:3.8 | location:Texas, United States | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442894108 | Mitratech | Software Engineer I - AssureHire (Go) | score:3.8 | location:Austin, TX | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442877544 | EnergyHub | Software Engineer, SupportHub | score:3 | location:United States | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445401159 | Textron | Software Engineer I (Sea Systems) - Hunt Valley, MD | score:3.8 | location:Hunt Valley, MD | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445408111 | Metropolitan Transportation Authority | Junior Software Engineer | score:3.8 | location:Jamaica, NY | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445193929 | GIT America, Inc. | Junior Software Developer | score:3.8 | location:Irvine, CA | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445415629 | Jobrion | Software Engineer | score:3 | location:United States | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
