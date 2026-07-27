@@ -4386,3 +4386,13 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4445164118 | AlloHire | Software Engineer | score:3 | location:San Jose, CA | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4445994496 | Parsons Corporation | Software Developer, Associate | score:3.8 | location:Centreville, VA | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4445993768 | John Galt Staffing | Software Engineer | score:3 | location:Columbia, MD | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/openai/70aaaafa-fe2f-4409-9a72-c0faf50d7d01 | OpenAI | Software Engineer - Data Aquisition (systems) | score:3.7 | location:San Francisco | posted:2026-07-27T20:24:02.974+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4445180050 | Whova | Software Engineer (San Diego Only) | score:3 | location:San Diego, CA | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445174280 | Emonics LLC | Software Engineer | score:3 | location:Austin, TX | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445192147 | Emonics LLC | Entry Level Software Engineer | score:4.1 | location:Seattle, WA | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446114480 | Creative Techy | Junior Backend Developer | score:4.2 | location:Lebanon, PA | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446118684 | MetLife | Junior Software Engineer | score:3.8 | location:Bridgewater, NJ | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443477776 | Hewlett Packard Enterprise | System/Software Engineer | score:3 | location:Roseville, CA | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445188192 | Intel | System Software Engineer | score:3 | location:Hillsboro, OR | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442877289 | Mitratech | Software Engineer I - AssureHire (Go) | score:3.8 | location:Rocklin, CA | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
