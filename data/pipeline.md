@@ -4437,3 +4437,14 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4446376378 | Tebra | Software Engineer 1 | score:3 | location:Corona del Mar, CA | posted:2026-07-28T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4446142688 | Cisco | Software Engineer (Full Time) - United States | score:3 | location:Boston, MA | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4443242527 | Haystack | Junior Full Stack Developer | score:4.2 | location:Washington DC-Baltimore Area | posted:2026-07-28T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4446374103 | Davidson Technologies | Entry Level Software Engineer - Huntsville, Alabama | score:3.8 | location:Huntsville, AL | posted:2026-07-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445787647 | Dewberry | Entry Level Structural (Bridge) Engineer | score:3.8 | location:Bloomfield, NJ | posted:2026-07-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443632314 | NetApp | Software Engineer | score:3 | location:San Jose, CA | posted:2026-07-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446376802 | Eulerity | Associate Web Development Software Engineer (SDK) | score:4.1 | location:New York City Metropolitan Area | posted:2026-07-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446393690 | Emerson | Software Developer | score:3 | location:Round Rock, TX | posted:2026-07-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445425595 | Intelligentsia Capital | Full Stack Engineer - Associate | score:4.5 | location:New York, NY | posted:2026-07-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446396463 | Crusoe | Software Engineer I, Storage | score:4.1 | location:San Francisco, CA | posted:2026-07-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443622465 | Robinhood | Software Engineer, Backend | score:4.2 | location:Menlo Park, CA | posted:2026-07-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443245474 | Haystack | Junior Full Stack Developer | score:4.2 | location:Washington, DC | posted:2026-07-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445735320 | Crossing Hurdles | Software Engineer (Python, React) | Remote | score:3.4 | location:United States | posted:2026-07-28T00:00:00.000Z | source:linkedin-guest
