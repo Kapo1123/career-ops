@@ -4432,3 +4432,8 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4437493748 | Relativity | Software Engineer | score:3 | location:Illinois, United States | posted:2026-07-28T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4446362009 | Ziff Davis | Software Engineer I - Backend | score:4.2 | location:United States | posted:2026-07-28T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4446334716 | Haystack | Software Engineer | score:3 | location:Atlanta Metropolitan Area | posted:2026-07-28T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4446133350 | Pattern Data | Software Engineer (Entry) | score:3 | location:Richmond, VA | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446376378 | Tebra | Software Engineer 1 | score:3 | location:Corona del Mar, CA | posted:2026-07-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446142688 | Cisco | Software Engineer (Full Time) - United States | score:3 | location:Boston, MA | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443242527 | Haystack | Junior Full Stack Developer | score:4.2 | location:Washington DC-Baltimore Area | posted:2026-07-28T00:00:00.000Z | source:linkedin-guest
