@@ -4426,3 +4426,9 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4445191937 | GIT America, Inc. | Junior Software Developer | score:3.8 | location:Irvine, CA | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4445721159 | Best Buy | Associate Software Engineer | score:3.8 | location:Minneapolis, MN | posted:2026-07-28T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4443290812 | Techwave Technologies | Software Engineer | score:3 | location:United States | posted:2026-07-28T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/openai/3229b152-015f-49ad-9921-9c9de95570c8 | OpenAI | Software Engineer, Enterprise Verticals | score:3.3 | location:San Francisco | posted:2026-07-28T16:57:21.964+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4434145450 | Palantir Technologies | Software Engineer, New Grad - Production Infrastructure | score:4.5 | location:New York, NY | posted:2026-07-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437493748 | Relativity | Software Engineer | score:3 | location:Illinois, United States | posted:2026-07-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446362009 | Ziff Davis | Software Engineer I - Backend | score:4.2 | location:United States | posted:2026-07-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446334716 | Haystack | Software Engineer | score:3 | location:Atlanta Metropolitan Area | posted:2026-07-28T00:00:00.000Z | source:linkedin-guest
