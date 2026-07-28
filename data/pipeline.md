@@ -4410,3 +4410,19 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4445408111 | Metropolitan Transportation Authority | Junior Software Engineer | score:3.8 | location:Jamaica, NY | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4445193929 | GIT America, Inc. | Junior Software Developer | score:3.8 | location:Irvine, CA | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4445415629 | Jobrion | Software Engineer | score:3 | location:United States | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/snowflake/2b3e7582-84c9-4fd1-969c-16ae1a4f61e6 | Snowflake |  Software Engineer - Data Clean Room/ AI Data Hub | score:4.2 | location:US-WA-Bellevue | posted:2026-07-28T16:27:24.946+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/synthesia/6730e2e5-0d32-4919-a438-625f1673b70c | Synthesia | ML Platform Engineer | score:3.4 | location:Europe | posted:2026-07-28T09:00:08.462+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4443240193 | AANCO Financial Services | Software Engineer, New Grad | score:3.8 | location:Philadelphia, PA | posted:2026-07-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443217013 | Color | Software Engineer, New Grad 2026 | score:4.1 | location:South San Francisco, CA | posted:2026-07-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446140930 | Symbotic | New Grad- Software Engineer | score:3.8 | location:Wilmington, MA | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443288779 | Interco | Junior Software Developer | score:3.8 | location:St Louis, MO | posted:2026-07-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443212428 | The Curly Doggo Company | Software Engineer, Early Career (AI) | score:4.1 | location:San Francisco, CA | posted:2026-07-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443243519 | Haystack | Junior Software Engineer | score:3.8 | location:Washington, DC | posted:2026-07-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445737014 | Jack &amp; Jill | Software Engineer, Platform ($200k-$250k + Equity) at Duckbill | score:3.7 | location:San Francisco, CA | posted:2026-07-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443262516 | Vituity | Software Engineer I - Remote - Nationwide | score:3.8 | location:United States | posted:2026-07-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443231741 | Jobgether | Software Engineer I - AssureHire (Go) | score:3.8 | location:United States | posted:2026-07-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446316069 | Helic &amp; Co | Junior Software Engineer | score:3.8 | location:United States | posted:2026-07-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445191937 | GIT America, Inc. | Junior Software Developer | score:3.8 | location:Irvine, CA | posted:2026-07-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445721159 | Best Buy | Associate Software Engineer | score:3.8 | location:Minneapolis, MN | posted:2026-07-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443290812 | Techwave Technologies | Software Engineer | score:3 | location:United States | posted:2026-07-28T00:00:00.000Z | source:linkedin-guest
