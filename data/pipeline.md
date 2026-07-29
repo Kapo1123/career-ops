@@ -4448,3 +4448,15 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4443622465 | Robinhood | Software Engineer, Backend | score:4.2 | location:Menlo Park, CA | posted:2026-07-28T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4443245474 | Haystack | Junior Full Stack Developer | score:4.2 | location:Washington, DC | posted:2026-07-28T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4445735320 | Crossing Hurdles | Software Engineer (Python, React) | Remote | score:3.4 | location:United States | posted:2026-07-28T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4446805038 | Helic &amp; Co | Junior Software Engineer | score:3.8 | location:United States | posted:2026-07-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434138603 | Palantir Technologies | Software Engineer, New Grad | score:4.1 | location:New York, NY | posted:2026-07-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446083326 | Index Engines | Associate Software Engineer | score:3.8 | location:Holmdel, NJ | posted:2026-07-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446383629 | Yamaha Motor Corporation, USA | Software Engineer I | score:3.8 | location:Kennesaw, GA | posted:2026-07-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446042310 | Abnormal AI | Software Engineer I, Data Platform | score:4.2 | location:United States | posted:2026-07-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446571615 | Raytheon | Software Engineer I (On-Site) | score:3.8 | location:McKinney, TX | posted:2026-07-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446518108 | Cubic Corporation | Software Engineer I – Unified Video Sustainment | score:3.8 | location:Ashburn, VA | posted:2026-07-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445772682 | BNSF Railway | Product, Platform &amp; Enterprise Full Stack Software Engineer I/II (Remote - US) | score:4.2 | location:United States | posted:2026-07-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443676850 | Haystack | Junior Software Engineer | score:3.8 | location:Washington, DC | posted:2026-07-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445780063 | HiredBuddy | Junior Software Engineer | score:3.8 | location:California, United States | posted:2026-07-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446355056 | Tabs | Software Engineer | score:3.3 | location:New York, NY | posted:2026-07-28T00:00:00.000Z | source:linkedin-guest
