@@ -4477,3 +4477,12 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4446427254 | Jack | Software Engineer | score:3.3 | location:San Francisco Bay Area | posted:2026-07-29T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4446442150 | Jack | Full Stack Engineer | score:3.7 | location:San Francisco Bay Area | posted:2026-07-29T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4443688577 | Haystack | Junior Software Engineer | score:3.8 | location:Washington, DC | posted:2026-07-29T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/8088751?gh_jid=8088751 | Cloudflare | Software Engineer, Cloudflare Network Interconnect | score:3 | location:Hybrid | posted:2026-07-29T16:31:31-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4446403851 | Everfox | Software Engineer I | score:3.8 | location:Richardson, TX | posted:2026-07-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444172702 | GBIT (Global Bridge InfoTech Inc) | Junior Software Engineer | score:3.8 | location:Richardson, TX | posted:2026-07-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446865581 | MeeBoss | Software Engineer | score:3.3 | location:New York, United States | posted:2026-07-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446877240 | Cisco | Software Engineer Backend/Platform Systems I (Full Time) – United States | score:3.4 | location:Dallas, TX | posted:2026-07-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446444568 | AbbVie | Associate Software Engineer I | score:3.8 | location:Mettawa, IL | posted:2026-07-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444168278 | Reflexive Concepts | Software Engineer I | score:3.8 | location:Fort Meade, MD | posted:2026-07-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443209131 | Capgemini | Software Engineer | score:3.3 | location:New York, United States | posted:2026-07-29T00:00:00.000Z | source:linkedin-guest
