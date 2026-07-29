@@ -4460,3 +4460,14 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4443676850 | Haystack | Junior Software Engineer | score:3.8 | location:Washington, DC | posted:2026-07-29T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4445780063 | HiredBuddy | Junior Software Engineer | score:3.8 | location:California, United States | posted:2026-07-28T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4446355056 | Tabs | Software Engineer | score:3.3 | location:New York, NY | posted:2026-07-28T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://stripe.com/jobs/search?gh_jid=8078337 | Stripe | Software Engineer, Connect Tax Reporting | score:3.8 | location:Bucharest, Romania | posted:2026-07-29T14:08:02-04:00 | source:greenhouse-api
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=8083761 | MongoDB | Software Engineer 3 | score:3.3 | location:New York City | posted:2026-07-29T12:22:35-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4434155092 | Palantir Technologies | Software Engineer, New Grad - Production Infrastructure | score:4.5 | location:Seattle, WA | posted:2026-07-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446585000 | Texas Sports Academy | Junior Software Engineer (AI-Forward) | score:3.8 | location:Austin, TX | posted:2026-07-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444144607 | Buena Vista Solutions BVS | Software Engineer (Entry-Level / Associate) | score:4.1 | location:New York, United States | posted:2026-07-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446594012 | Microsoft | Software Engineer-MCAPS Core | score:4.5 | location:Redmond, WA | posted:2026-07-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443695115 | Haystack | Junior Software Engineer | score:3.8 | location:Washington DC-Baltimore Area | posted:2026-07-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446400569 | Eccalon, LLC | Junior Software Engineer | score:3.8 | location:Detroit, MI | posted:2026-07-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446425055 | Melissa | Software Engineer | score:3 | location:Rancho Santa Margarita, CA | posted:2026-07-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446068763 | Jack &amp; Jill | Software Engineer, Platform ($200k-$250k + Equity) at Duckbill | score:3.7 | location:San Francisco, CA | posted:2026-07-29T00:00:00.000Z | source:linkedin-guest
