@@ -4471,3 +4471,9 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4446400569 | Eccalon, LLC | Junior Software Engineer | score:3.8 | location:Detroit, MI | posted:2026-07-29T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4446425055 | Melissa | Software Engineer | score:3 | location:Rancho Santa Margarita, CA | posted:2026-07-29T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4446068763 | Jack &amp; Jill | Software Engineer, Platform ($200k-$250k + Equity) at Duckbill | score:3.7 | location:San Francisco, CA | posted:2026-07-29T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4446845524 | WATT Fuel Cell | Entry Level Software Engineer | score:3.8 | location:Mount Pleasant, PA | posted:2026-07-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446856074 | Space Capital | Software Engineer - Test (Entry-Junior) | score:4.1 | location:San Francisco, CA | posted:2026-07-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446427254 | Jack | Software Engineer | score:3.3 | location:San Francisco Bay Area | posted:2026-07-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446442150 | Jack | Full Stack Engineer | score:3.7 | location:San Francisco Bay Area | posted:2026-07-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443688577 | Haystack | Junior Software Engineer | score:3.8 | location:Washington, DC | posted:2026-07-29T00:00:00.000Z | source:linkedin-guest
