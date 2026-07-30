@@ -4512,3 +4512,15 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4435634442 | Walmart | Software Engineer II | score:3.8 | location:Bentonville, AR | posted:2026-07-30T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4446862779 | Cisco | Software Engineer Backend/Platform Systems I (Full Time) – United States | score:3.4 | location:Boston, MA | posted:2026-07-29T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4446732499 | SpeedyApply | Junior Software Engineer - AI-Forward | score:3.8 | location:Austin, TX | posted:2026-07-30T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4445030924 | Chime | Full-Stack Engineer, Human Agent Tooling | score:3.3 | location:San Francisco, CA | posted:2026-07-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447098750 | MeeBoss | Software Engineer | score:3.3 | location:New York, United States | posted:2026-07-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447204620 | Vertiv | Software Developer | score:3 | location:Huntsville, AL | posted:2026-07-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447220072 | Blossom | Software Engineer (All Levels) | score:3.3 | location:New York, NY | posted:2026-07-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446916655 | Jack &amp; Jill | Software Engineer, Platform ($200k-$250k + Equity) at Duckbill | score:3.7 | location:San Francisco, CA | posted:2026-07-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447003226 | Conduent | Java Developer (Entry Level) | score:4.2 | location:Atlanta, GA | posted:2026-07-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447007732 | Samsung SDS America | Software Engineer | score:3 | location:Plano, TX | posted:2026-07-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447215267 | Roblox | Software Engineer, User Frameworks | score:3 | location:San Mateo, CA | posted:2026-07-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446907892 | Nexxen | Software Engineer 1 - DSP Runtime | score:3.3 | location:New York, NY | posted:2026-07-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4428411940 | Docusign | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-07-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447073328 | Perennial Resources International | Junior Full Stack Developer | score:4.2 | location:Charlotte Metro | posted:2026-07-30T00:00:00.000Z | source:linkedin-guest
