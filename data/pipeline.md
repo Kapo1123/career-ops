@@ -4506,3 +4506,9 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4446497648 | hackajob | Software Developer | score:3 | location:Round Rock, TX | posted:2026-07-30T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4445022425 | American Airlines | Sr Associate Engineer, IT Software | score:3.8 | location:Fort Worth, TX | posted:2026-07-30T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4446845761 | ASRC Federal | Associate Software Engineer | score:3.8 | location:Moorestown, NJ | posted:2026-07-29T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://careers.roblox.com/jobs/8080438?gh_jid=8080438 | Roblox | Software Engineer, User Frameworks | score:3 | location:San Mateo, CA, United States | posted:2026-07-30T16:17:16-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4445037888 | Upbound Group | Software Engineer I | score:3.8 | location:Plano, TX | posted:2026-07-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4435634442 | Walmart | Software Engineer II | score:3.8 | location:Bentonville, AR | posted:2026-07-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446862779 | Cisco | Software Engineer Backend/Platform Systems I (Full Time) – United States | score:3.4 | location:Boston, MA | posted:2026-07-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446732499 | SpeedyApply | Junior Software Engineer - AI-Forward | score:3.8 | location:Austin, TX | posted:2026-07-30T00:00:00.000Z | source:linkedin-guest
