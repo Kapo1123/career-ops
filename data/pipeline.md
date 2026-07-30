@@ -4496,3 +4496,13 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4446794312 | Ace Technologies | Full Stack Engineer (0–3 Years)_No Visa Sponsorship | score:3.7 | location:New York, NY | posted:2026-07-30T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4446875359 | Cisco | Software Engineer Backend/Platform Systems I (Full Time) – United States | score:3.4 | location:Austin, TX | posted:2026-07-29T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4446861088 | SpaceX | Software Engineer, CDN (Starlink) | score:3 | location:Palo Alto, CA | posted:2026-07-29T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://app.careerpuck.com/job-board/lyft/job/8658624002?gh_jid=8658624002 | Lyft | Software Engineer, Privacy | score:3.8 | location:Mexico City, Mexico | posted:2026-07-30T13:12:29-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4446905172 | Halliburton | Software Engineer - Early Career - Landmark | score:3.8 | location:Houston, TX | posted:2026-07-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446439173 | Jack | Full Stack Engineer | score:3.7 | location:San Francisco Bay Area | posted:2026-07-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446869428 | Cisco | Software Engineer Backend/Platform Systems I (Full Time) – United States | score:3.4 | location:Alpharetta, GA | posted:2026-07-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444504629 | CGI | Software Developer -- Entry Level | score:3.8 | location:New Brunswick, NJ | posted:2026-07-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446787499 | TalentAlly | Assoc, Software Engineering | score:3 | location:Richardson, TX | posted:2026-07-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446497648 | hackajob | Software Developer | score:3 | location:Round Rock, TX | posted:2026-07-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445022425 | American Airlines | Sr Associate Engineer, IT Software | score:3.8 | location:Fort Worth, TX | posted:2026-07-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446845761 | ASRC Federal | Associate Software Engineer | score:3.8 | location:Moorestown, NJ | posted:2026-07-29T00:00:00.000Z | source:linkedin-guest
