@@ -4486,3 +4486,13 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4446444568 | AbbVie | Associate Software Engineer I | score:3.8 | location:Mettawa, IL | posted:2026-07-29T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4444168278 | Reflexive Concepts | Software Engineer I | score:3.8 | location:Fort Meade, MD | posted:2026-07-29T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4443209131 | Capgemini | Software Engineer | score:3.3 | location:New York, United States | posted:2026-07-29T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8632126002 | Databricks | Full Stack Developer (AI Agents) | score:4.2 | location:Bengaluru, India | posted:2026-07-30T02:47:09-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/snowflake/6e31e0cb-7821-4dcf-9d69-0afce918bcc4 | Snowflake | Software Engineer - FDE | score:3.8 | location:PL-Warsaw-Lixa C | posted:2026-07-30T09:16:19.333+00:00 | source:ashby-api
+- [ ] https://app.careerpuck.com/job-board/lyft/job/8656826002?gh_jid=8656826002 | Lyft | Software Engineer, Core Maps | score:3.8 | location:Toronto, Canada | posted:2026-07-30T03:19:43-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4446745306 | Nooks | Software Engineer, New Grad | score:4.1 | location:San Francisco, CA | posted:2026-07-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447008407 | Helic &amp; Co | Junior Software Engineer | score:3.8 | location:United States | posted:2026-07-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447028600 | Diamond Films Chile | Software Engineer (Entry-Level / Associate) | score:4.1 | location:New York, United States | posted:2026-07-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446794312 | Ace Technologies | Full Stack Engineer (0–3 Years)_No Visa Sponsorship | score:3.7 | location:New York, NY | posted:2026-07-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446875359 | Cisco | Software Engineer Backend/Platform Systems I (Full Time) – United States | score:3.4 | location:Austin, TX | posted:2026-07-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446861088 | SpaceX | Software Engineer, CDN (Starlink) | score:3 | location:Palo Alto, CA | posted:2026-07-29T00:00:00.000Z | source:linkedin-guest
