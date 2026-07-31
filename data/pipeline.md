@@ -4524,3 +4524,21 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4446907892 | Nexxen | Software Engineer 1 - DSP Runtime | score:3.3 | location:New York, NY | posted:2026-07-30T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4428411940 | Docusign | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-07-30T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4447073328 | Perennial Resources International | Junior Full Stack Developer | score:4.2 | location:Charlotte Metro | posted:2026-07-30T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/8092731?gh_jid=8092731 | Cloudflare | Software Engineer, Registrar | score:3 | location:Hybrid | posted:2026-07-30T21:41:30-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/DeepL/7d0de562-ba6e-49eb-b6a9-7b72ce64efad | DeepL | Software Engineer | Language Products | Full-Stack | score:3 | location:London | posted:2026-07-31T15:59:15.135+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/DeepL/7664ff90-725e-4955-b81a-a559c8bbd3ed | DeepL | Software Engineer | Full-Stack | score:3 | location:London | posted:2026-07-31T15:58:30.418+00:00 | source:ashby-api
+- [ ] https://stripe.com/jobs/search?gh_jid=8099239 | Stripe | Software Engineer - Infrastructure | score:4.5 | location:Seattle, WA | posted:2026-07-31T12:19:00-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4447138373 | Confido | New Grad Software Engineer | score:4.1 | location:New York, NY | posted:2026-07-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445048538 | IBM | Entry Level Software Developer 2026 | score:3.8 | location:San Jose, CA | posted:2026-07-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447261977 | TikTok USDS Joint Venture | Software Engineer, Emerging Product - USDS | score:3 | location:San Jose, CA | posted:2026-07-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446993818 | General Dynamics Mission Systems | Entry Level Software Engineer | score:3.8 | location:Scottsdale, AZ | posted:2026-07-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447102151 | General Dynamics Mission Systems | Entry Level Software Systems Engineer | score:3.8 | location:Port Orchard, WA | posted:2026-07-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446925233 | TCOM, L.P. | Software Engineer | score:3 | location:Sioux Falls, SD | posted:2026-07-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447105072 | General Dynamics Mission Systems | Entry Level Infrastructure Software Engineer | score:4.2 | location:Pittsfield, MA | posted:2026-07-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447288347 | Collins Aerospace | Software Engineer I (Onsite) | score:3.8 | location:Fulton, MD | posted:2026-07-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447254798 | Cisco | Software Engineer I (Full Time) – United States | score:3.8 | location:San Jose, CA | posted:2026-07-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447146272 | Jack &amp; Jill | Software Engineer, Platform ($200k-$250k + Equity) at Duckbill | score:3.7 | location:San Francisco, CA | posted:2026-07-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447215832 | Prosum | Junior Software Engineer | score:3.8 | location:Temecula, CA | posted:2026-07-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447280611 | TikTok USDS Joint Venture | Software Engineer, Data Foundation – USDS | score:3.4 | location:San Jose, CA | posted:2026-07-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445065407 | Haystack | Junior Full Stack Developer | score:4.2 | location:United States | posted:2026-07-31T00:00:00.000Z | source:linkedin-guest
