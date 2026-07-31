@@ -4551,3 +4551,13 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4446954053 | Advanced Space | Software Engineer (0-2 yrs) | score:3.8 | location:Westminster, CO | posted:2026-07-31T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4447549146 | BMO U.S. | Software Developer ( Early Career )-15 | score:3.8 | location:Irving, TX | posted:2026-07-31T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4446955762 | KPMG US | Associate, Software Engineer | score:3.8 | location:Montvale, NJ | posted:2026-07-31T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.coinbase.com/careers/positions/8100066?gh_jid=8100066 | Coinbase | Software Engineer, EAA  | score:4.1 | location:Remote - Brazil | posted:2026-07-31T15:42:34-04:00 | source:greenhouse-api
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=8089124 | MongoDB | Software Engineer 3 | score:3 | location:United States | posted:2026-07-31T14:48:17-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/supabase/3b5d54ca-741b-45ac-bd3f-31605a0d3541 | Supabase | AI Platform Engineer | score:3.7 | location:Remote | posted:2026-07-31T18:56:39.246+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4447582145 | MintMCP | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-07-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4363447646 | Epic | Entry-Level Software Developer | score:3 | location:Janesville, WI | posted:2026-07-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445055520 | IBM | Entry Level Software Developer 2026 | score:3.8 | location:Poughkeepsie, AR | posted:2026-07-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447575909 | Enterprise Finance Limited | Junior Software Engineer | score:4.1 | location:New York, United States | posted:2026-07-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447229272 | Amerisure Insurance | Software Engineer I | score:3.8 | location:Farmington Hills, MI | posted:2026-07-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438687063 | SEACORP | Software Engineer - Data Analytics Team | score:3.4 | location:Middletown, RI | posted:2026-07-31T00:00:00.000Z | source:linkedin-guest
