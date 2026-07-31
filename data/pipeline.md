@@ -4542,3 +4542,12 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4447215832 | Prosum | Junior Software Engineer | score:3.8 | location:Temecula, CA | posted:2026-07-31T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4447280611 | TikTok USDS Joint Venture | Software Engineer, Data Foundation – USDS | score:3.4 | location:San Jose, CA | posted:2026-07-31T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4445065407 | Haystack | Junior Full Stack Developer | score:4.2 | location:United States | posted:2026-07-31T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://careers.roblox.com/jobs/8083944?gh_jid=8083944 | Roblox | Software Engineer, Communications | score:3 | location:San Mateo, CA, United States | posted:2026-07-31T13:45:26-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4445059490 | IBM | Entry Level Software Developer 2026 | score:3.8 | location:Austin, TX | posted:2026-07-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447518670 | Helic &amp; Co | Junior Software Engineer | score:3.8 | location:United States | posted:2026-07-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4363447651 | Epic | Entry-Level Software Developer | score:3 | location:Fort Wayne, IN | posted:2026-07-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447579049 | Mimecast | Software Engineer I | score:3.8 | location:Minneapolis, MN | posted:2026-07-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446954053 | Advanced Space | Software Engineer (0-2 yrs) | score:3.8 | location:Westminster, CO | posted:2026-07-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447549146 | BMO U.S. | Software Developer ( Early Career )-15 | score:3.8 | location:Irving, TX | posted:2026-07-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446955762 | KPMG US | Associate, Software Engineer | score:3.8 | location:Montvale, NJ | posted:2026-07-31T00:00:00.000Z | source:linkedin-guest
