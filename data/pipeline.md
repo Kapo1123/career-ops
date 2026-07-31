@@ -4561,3 +4561,13 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4447575909 | Enterprise Finance Limited | Junior Software Engineer | score:4.1 | location:New York, United States | posted:2026-07-31T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4447229272 | Amerisure Insurance | Software Engineer I | score:3.8 | location:Farmington Hills, MI | posted:2026-07-30T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4438687063 | SEACORP | Software Engineer - Data Analytics Team | score:3.4 | location:Middletown, RI | posted:2026-07-31T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/sierra/97ca0c70-f371-4167-9908-2adca3464b8d | Sierra | Software Engineer, Agent - Healthcare Integrations | score:3.3 | location:San Francisco, CA | posted:2026-07-31T22:34:30.643+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/openai/96de8acb-556e-451b-bc84-7124bb4b0a20 | OpenAI | Software Engineer, API Multimodal | score:3.3 | location:San Francisco | posted:2026-07-31T22:55:40.169+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/openai/0432731c-f229-476e-92b6-d53491e79096 | OpenAI | Software Engineer, Agent Productivity  | score:3.3 | location:San Francisco | posted:2026-07-31T23:25:34.814+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4445529823 | Haystack | Entry-Level Software Engineer | score:3 | location:United States | posted:2026-07-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447150578 | Smartsheet | Software Engineer I (Remote Eligible) | score:3.8 | location:United States | posted:2026-07-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447146963 | Altamira Technologies Corporation | junior software engineer | score:3.8 | location:State College, PA | posted:2026-07-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445087622 | Haystack | Junior Software Engineer | score:3.8 | location:United States | posted:2026-07-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447185592 | RemoteHunter | Software Engineer I, Data Platform | score:4.2 | location:United States | posted:2026-07-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447718153 | MeeBoss | Software Engineer | score:3.3 | location:New York, United States | posted:2026-07-31T00:00:00.000Z | source:linkedin-guest
