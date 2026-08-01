@@ -4585,3 +4585,5 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4447402433 | RG&amp;T Solutions | Junior Software Developer | score:3.8 | location:Faulkner, MD | posted:2026-07-31T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4445547524 | Polymarket | Backend Engineer, Markets | score:3.7 | location:New York, United States | posted:2026-08-01T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4447760630 | Vituity | Software Engineer I - Remote - Nationwide | score:3.8 | location:Sacramento, CA | posted:2026-08-01T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4447815346 | Helic &amp; Co | Junior Software Engineer | score:3.8 | location:United States | posted:2026-08-01T00:00:00.000Z | source:linkedin-guest
