@@ -4587,3 +4587,15 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4447760630 | Vituity | Software Engineer I - Remote - Nationwide | score:3.8 | location:Sacramento, CA | posted:2026-08-01T00:00:00.000Z | source:linkedin-guest
 
 - [ ] https://www.linkedin.com/jobs/view/4447815346 | Helic &amp; Co | Junior Software Engineer | score:3.8 | location:United States | posted:2026-08-01T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4321375719 | Epic | Entry-Level Software Developer | score:3 | location:Dubuque, IA | posted:2026-08-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447615094 | Jack &amp; Jill | Forward Deployed Software Engineer ($120K - $150K + Equity) at Arzana | score:3.3 | location:New York, NY | posted:2026-08-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447616002 | Jobright.ai | Backend Engineer, New Grad | score:4.2 | location:United States | posted:2026-08-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447199150 | Cadence | Adams Application Software Developer (Recent Grad 2026) | score:3 | location:Livonia, MI | posted:2026-07-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447611174 | Eclipse Clinic | Junior Software Engineer | score:4.1 | location:New York, United States | posted:2026-08-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445806988 | Intermedia Lab | Software Engineer, Early Career | score:4.1 | location:San Francisco, CA | posted:2026-08-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447718895 | AdaMarie | 2027 Associate Software Engineer / Software Engineer | score:3.8 | location:Melbourne, FL | posted:2026-08-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432804167 | Sentry | Software Developer (Hybrid Work Model) | score:3 | location:Stevens Point, WI | posted:2026-07-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4429546959 | McKesson | Sr. Associate Software Engineer | score:3.8 | location:Irving, TX | posted:2026-08-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443452088 | Praxis Engineering | Software Engineer 1 | score:3 | location:Annapolis Junction, MD | posted:2026-08-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447776871 | Logicbroker | Software Engineer | score:3.3 | location:New York, NY | posted:2026-08-01T00:00:00.000Z | source:linkedin-guest
