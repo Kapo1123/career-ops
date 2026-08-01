@@ -4599,3 +4599,9 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4429546959 | McKesson | Sr. Associate Software Engineer | score:3.8 | location:Irving, TX | posted:2026-08-01T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4443452088 | Praxis Engineering | Software Engineer 1 | score:3 | location:Annapolis Junction, MD | posted:2026-08-01T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4447776871 | Logicbroker | Software Engineer | score:3.3 | location:New York, NY | posted:2026-08-01T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4447781951 | Microsoft | Software Engineer II | score:5 | location:Redmond, WA | posted:2026-08-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4436611130 | Boeing | Associate Real Time Software Engineer, Phantom Works | score:3.8 | location:Hazelwood, MO | posted:2026-08-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447499571 | RemoteHunter | Software Engineer I, Data Platform | score:4.2 | location:United States | posted:2026-08-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438377308 | American Express | Software Engineer I - Oracle Cloud HCM - CET Services | score:3.8 | location:Phoenix, AZ | posted:2026-08-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445825004 | Intermedia Lab | Software Engineer, Early Career (AI) | score:4.1 | location:San Francisco, CA | posted:2026-08-01T00:00:00.000Z | source:linkedin-guest
