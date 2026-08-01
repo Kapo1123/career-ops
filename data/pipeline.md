@@ -4571,3 +4571,17 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4445087622 | Haystack | Junior Software Engineer | score:3.8 | location:United States | posted:2026-07-31T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4447185592 | RemoteHunter | Software Engineer I, Data Platform | score:4.2 | location:United States | posted:2026-07-31T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4447718153 | MeeBoss | Software Engineer | score:3.3 | location:New York, United States | posted:2026-07-31T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/openai/a6ab3111-7092-4da2-a7a6-71e01351bfda | OpenAI | Software Engineer, API Agents | score:3.3 | location:San Francisco | posted:2026-08-01T04:45:31.744+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4447497383 | Jobright.ai | Full Stack Software Engineer, New Grad | score:4.2 | location:United States | posted:2026-08-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447728793 | Quora | Software Engineer, Machine Learning Platform, New Grad - Quora (Remote) | score:4.2 | location:United States | posted:2026-08-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445545449 | NewsBreak | Software Engineer, ML Infra (Junior &amp; New Grad) | score:3.8 | location:Mountain View, CA | posted:2026-08-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447817394 | Premier Wires Pvt. Ltd. | Software Engineer (Entry-Level / Associate) | score:4.1 | location:New York, United States | posted:2026-08-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447700661 | RoShay Services | Infra &amp; Tools Engineer - Entry Level | score:3.8 | location:Perdue Hill, AL | posted:2026-07-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447782975 | Astor Group | Junior Software Developer for Hedge fund | score:4.1 | location:New York, NY | posted:2026-08-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447420048 | Nike | Software Engineer | score:3 | location:Beaverton, OR | posted:2026-07-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447730916 | Hong Kong Next Generation Internet Society | Software Engineer, Early Career | score:4.1 | location:San Francisco, CA | posted:2026-08-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447739837 | Hong Kong Next Generation Internet Society | Software Engineer, Early Career (AI) | score:4.1 | location:San Francisco, CA | posted:2026-08-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447402433 | RG&amp;T Solutions | Junior Software Developer | score:3.8 | location:Faulkner, MD | posted:2026-07-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445547524 | Polymarket | Backend Engineer, Markets | score:3.7 | location:New York, United States | posted:2026-08-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447760630 | Vituity | Software Engineer I - Remote - Nationwide | score:3.8 | location:Sacramento, CA | posted:2026-08-01T00:00:00.000Z | source:linkedin-guest
