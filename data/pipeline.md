@@ -4620,3 +4620,14 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4447649362 | Jack &amp; Jill | Full-Stack Engineer ($120k–$140k + Equity) at Emporium AI | score:3.3 | location:New York, NY | posted:2026-08-02T00:00:00.000Z | source:linkedin-guest
 
 - [ ] https://www.linkedin.com/jobs/view/4363377481 | Epic | Entry-Level Software Developer | score:3 | location:Platteville, WI | posted:2026-08-01T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/3986116427 | Epic | Software Engineer | score:3 | location:Lawton, OK | posted:2026-08-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417997343 | Electronic Arts (EA) | Software Engineer II - Identity | score:3.8 | location:Redwood City, CA | posted:2026-08-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445843054 | Haystack | Software Engineer | score:3 | location:Missouri, United States | posted:2026-08-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438946340 | PwC | Full-Stack Cloud Engineer | score:3 | location:Dallas, TX | posted:2026-08-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4364923394 | SpaceX | Software Engineer (Starlink) | score:3 | location:Bastrop, TX | posted:2026-08-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447649754 | Catalis Partners Group | Software Engineer, Early Career | score:4.1 | location:San Francisco, CA | posted:2026-08-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4411755461 | Zoox | Software Engineer, Android | score:3 | location:Foster City, CA | posted:2026-08-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447669254 | Jack &amp; Jill | Software Engineer at Den | score:3.3 | location:New York, United States | posted:2026-08-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447662387 | Jack &amp; Jill | Forward Deployed Software Engineer ($120K - $150K + Equity) at Arzana | score:3.3 | location:New York, NY | posted:2026-08-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447657250 | Altamira Technologies Corporation | software engineer | score:3 | location:State College, PA | posted:2026-08-02T00:00:00.000Z | source:linkedin-guest
