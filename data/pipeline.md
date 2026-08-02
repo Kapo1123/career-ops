@@ -4618,3 +4618,5 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4445830015 | Haystack | Junior Software Developer | score:3.8 | location:Washington, DC | posted:2026-08-01T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4447878985 | Ororasoft Ltd | Backend Developer | score:3.7 | location:New York, NY | posted:2026-08-02T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4447649362 | Jack &amp; Jill | Full-Stack Engineer ($120k–$140k + Equity) at Emporium AI | score:3.3 | location:New York, NY | posted:2026-08-02T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4363377481 | Epic | Entry-Level Software Developer | score:3 | location:Platteville, WI | posted:2026-08-01T00:00:00.000Z | source:linkedin-guest
