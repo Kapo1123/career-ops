@@ -4605,3 +4605,16 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4447499571 | RemoteHunter | Software Engineer I, Data Platform | score:4.2 | location:United States | posted:2026-08-01T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4438377308 | American Express | Software Engineer I - Oracle Cloud HCM - CET Services | score:3.8 | location:Phoenix, AZ | posted:2026-08-01T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4445825004 | Intermedia Lab | Software Engineer, Early Career (AI) | score:4.1 | location:San Francisco, CA | posted:2026-08-01T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4447661012 | Jobright.ai | Full Stack Software Engineer, New Grad | score:4.2 | location:United States | posted:2026-08-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447877550 | Collins Aerospace | Software Engineer I (Onsite) | score:3.8 | location:Cedar Rapids, IA | posted:2026-08-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445831833 | CareerXperts Consulting | Associate Software Engineer | score:3.8 | location:United States | posted:2026-08-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4431133742 | AllianceBernstein | Software Developer | score:3 | location:Nashville, TN | posted:2026-08-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447628275 | Tank Payments | Software Engineer | score:3 | location:Austin, TX | posted:2026-08-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4435996969 | BAE Systems, Inc. | Software Engineer II | score:3.8 | location:Totowa, NJ | posted:2026-08-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430963095 | Microsoft | Software Engineer II | score:5 | location:Redmond, WA | posted:2026-08-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447835112 | L3Harris Technologies | Associate, Software Engineering | score:3.8 | location:Herndon, VA | posted:2026-08-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447659039 | Jack &amp; Jill | Software Engineer at Den | score:3.3 | location:New York, United States | posted:2026-08-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445830015 | Haystack | Junior Software Developer | score:3.8 | location:Washington, DC | posted:2026-08-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447878985 | Ororasoft Ltd | Backend Developer | score:3.7 | location:New York, NY | posted:2026-08-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447649362 | Jack &amp; Jill | Full-Stack Engineer ($120k–$140k + Equity) at Emporium AI | score:3.3 | location:New York, NY | posted:2026-08-02T00:00:00.000Z | source:linkedin-guest
