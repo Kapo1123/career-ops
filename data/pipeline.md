@@ -4631,3 +4631,8 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4447669254 | Jack &amp; Jill | Software Engineer at Den | score:3.3 | location:New York, United States | posted:2026-08-02T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4447662387 | Jack &amp; Jill | Forward Deployed Software Engineer ($120K - $150K + Equity) at Arzana | score:3.3 | location:New York, NY | posted:2026-08-02T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4447657250 | Altamira Technologies Corporation | software engineer | score:3 | location:State College, PA | posted:2026-08-02T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4447649858 | Jobright.ai | Full Stack Software Engineer, New Grad | score:4.2 | location:United States | posted:2026-08-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447654699 | HireLogic | Software Engineer | score:3.3 | location:San Francisco Bay Area | posted:2026-08-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448118259 | FetchJobs.co | Software Engineer I — Java/React | score:4.2 | location:United States | posted:2026-08-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447663440 | RemoteHunter | Software Engineer I, Data Platform | score:4.2 | location:United States | posted:2026-08-02T00:00:00.000Z | source:linkedin-guest
