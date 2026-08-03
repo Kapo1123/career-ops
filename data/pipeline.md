@@ -4636,3 +4636,23 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4447654699 | HireLogic | Software Engineer | score:3.3 | location:San Francisco Bay Area | posted:2026-08-02T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4448118259 | FetchJobs.co | Software Engineer I — Java/React | score:4.2 | location:United States | posted:2026-08-02T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4447663440 | RemoteHunter | Software Engineer I, Data Platform | score:4.2 | location:United States | posted:2026-08-02T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=8083366 | MongoDB | Software Engineer 3 | score:3 | location:Gurugram | posted:2026-08-03T05:19:20-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4446226935 | Samsara | Software Engineer I (New Grad) - SF | score:4.1 | location:San Francisco, CA | posted:2026-08-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448144400 | Direct-Calls.com | Software Engineer (New Grads) at Giga AI Inc | score:4.1 | location:New York, NY | posted:2026-08-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445880572 | Retell | Software Engineer (New Grad) | score:4.1 | location:San Francisco Bay Area | posted:2026-08-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448207159 | Jobright.ai | Full Stack Software Engineer, New Grad | score:4.2 | location:United States | posted:2026-08-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448131822 | ByteDance | Software Engineer Graduate (Traffic Infrastructure) - 2027 Start | score:3.4 | location:San Jose, CA | posted:2026-08-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448129838 | ByteDance | Software Engineer Graduate (AI Infrastructure-Compute Efficiency &amp; Scheduling) - 2027 Start | score:3.7 | location:Seattle, WA | posted:2026-08-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448135816 | ByteDance | Software Engineer Graduate (AI Infrastructure — Compute Efficiency &amp; Scheduling) - 2027 Start | score:3.4 | location:San Jose, CA | posted:2026-08-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448315303 | Freedom Technology Solutions Group, LLC | Software Engineer 571 | score:3 | location:Annapolis Junction, MD | posted:2026-08-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448305476 | NBCUniversal | Software Engineer, Content APIs | score:3.3 | location:New York, NY | posted:2026-08-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448303054 | Helic &amp; Co | Junior Software Engineer | score:3.8 | location:United States | posted:2026-08-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448320176 | TalentAlly | Software Engineer | score:3 | location:Greater St. Louis | posted:2026-08-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446218478 | Haystack | Junior Software Engineer | score:3.8 | location:Los Angeles Metropolitan Area | posted:2026-08-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446229708 | SoTalent | Software Engineer | score:3.3 | location:New York, NY | posted:2026-08-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446234091 | Tech Consulting | Software Engineer | score:3 | location:Chicago, IL | posted:2026-08-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447915124 | RemoteHunter | Software Engineer I, Data Platform | score:4.2 | location:United States | posted:2026-08-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448121814 | CareersElite.com | Software Engineer, Early Career | score:4.1 | location:San Francisco, CA | posted:2026-08-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/3986118096 | Epic | Entry-Level Software Developer | score:3 | location:Irving, TX | posted:2026-08-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448318426 | Switchboard | Junior Software Engineer | score:4.1 | location:New York, NY | posted:2026-08-03T00:00:00.000Z | source:linkedin-guest
