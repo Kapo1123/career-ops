@@ -4665,3 +4665,13 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4429415118 | Castleton Commodities International | Associate, Front Office Software Engineer | score:3.8 | location:Stamford, CT | posted:2026-08-03T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4447967897 | Clark | Software Engineer | score:3.3 | location:New York, NY | posted:2026-08-03T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4446224910 | Tech Consulting | Full Stack Engineer | score:3.4 | location:Mississippi, United States | posted:2026-08-03T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.okta.com/company/careers/opportunity/8103088?gh_jid=8103088 | Okta | Software Engineer, Observability | score:3 | location:Toronto, Ontario, Canada | posted:2026-08-03T15:09:00-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4448234451 | Emonics LLC | Entry Level Software Engineer | score:3.8 | location:Salt Lake City Metropolitan Area | posted:2026-08-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448238232 | Emonics LLC | Software Engineer | score:3 | location:Boston, MA | posted:2026-08-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448394856 | Clark | Junior Software Engineer | score:4.1 | location:New York, NY | posted:2026-08-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448243270 | SOCOTEC | Junior Software Engineer | score:4.1 | location:New York, NY | posted:2026-08-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445882677 | Haystack | Junior Software Engineer | score:3.8 | location:Washington, DC | posted:2026-08-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448613219 | McLane Company, Inc. | Software Engineer I | score:3.8 | location:Temple, TX | posted:2026-08-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448611514 | SpaceX | Software Engineer, Backend (C/C++) | score:3.4 | location:Hawthorne, CA | posted:2026-08-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448233630 | RemoteHunter | Software Engineer I, Data Platform | score:4.2 | location:United States | posted:2026-08-03T00:00:00.000Z | source:linkedin-guest
