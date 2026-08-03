@@ -4656,3 +4656,12 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4448121814 | CareersElite.com | Software Engineer, Early Career | score:4.1 | location:San Francisco, CA | posted:2026-08-03T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/3986118096 | Epic | Entry-Level Software Developer | score:3 | location:Irving, TX | posted:2026-08-02T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4448318426 | Switchboard | Junior Software Engineer | score:4.1 | location:New York, NY | posted:2026-08-03T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4448135804 | ByteDance | Backend Software Engineer Graduate (Platform) - 2027 Start | score:3.4 | location:San Jose, CA | posted:2026-08-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447913203 | TikTok | Software Engineer Graduate (Ads Delivery) - 2027 Start | score:3 | location:San Jose, CA | posted:2026-08-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447906355 | TikTok | Software Engineer Graduate (Ads Signal &amp; Measurement) - 2027 Start | score:3 | location:San Jose, CA | posted:2026-08-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448121484 | Lightfield | Software Engineer: Infrastructure (Early Career) | score:4.2 | location:Cambridge, MA | posted:2026-08-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448337861 | TalentAlly | Software Engineer | score:3 | location:Maryland Heights, MO | posted:2026-08-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4429415118 | Castleton Commodities International | Associate, Front Office Software Engineer | score:3.8 | location:Stamford, CT | posted:2026-08-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447967897 | Clark | Software Engineer | score:3.3 | location:New York, NY | posted:2026-08-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446224910 | Tech Consulting | Full Stack Engineer | score:3.4 | location:Mississippi, United States | posted:2026-08-03T00:00:00.000Z | source:linkedin-guest
