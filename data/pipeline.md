@@ -4675,3 +4675,14 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4448613219 | McLane Company, Inc. | Software Engineer I | score:3.8 | location:Temple, TX | posted:2026-08-03T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4448611514 | SpaceX | Software Engineer, Backend (C/C++) | score:3.4 | location:Hawthorne, CA | posted:2026-08-03T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4448233630 | RemoteHunter | Software Engineer I, Data Platform | score:4.2 | location:United States | posted:2026-08-03T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/langchain/dfbba971-a7e2-4feb-a0d9-8e38a1155134 | LangChain | Deployed Engineer (Early Career-NYC) | score:4.1 | location:New York, NY | posted:2026-08-03T23:03:53.044+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/langchain/0f35c8e1-9318-411d-929b-04c60e6d8522 | LangChain | Deployed Engineer (Early Career- SF) | score:4.1 | location:San Francisco, CA | posted:2026-08-03T23:04:07.386+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4448396860 | MintMCP | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-08-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448391735 | Raydar | Software Engineer | score:3.3 | location:New York, NY | posted:2026-08-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4321384014 | Epic | Entry-Level Software Developer | score:3 | location:Oshkosh, WI | posted:2026-08-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448267310 | SimpliSafe | Software Engineer I- User Systems | score:3.8 | location:Boston, MA | posted:2026-08-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448231719 | SharpAtoms | Junior Full Stack Developer (Entry-Level) | score:4.2 | location:United States | posted:2026-08-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448251080 | Coforge | Associate Software Engineer | score:4.1 | location:San Francisco Bay Area | posted:2026-08-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448244642 | Simple, a Netsmart solution | Software Engineer - (Dec.26/May 27 Grads) | score:3 | location:Overland Park, KS | posted:2026-08-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448653008 | SOCOTEC US | Junior Software Engineer | score:4.1 | location:New York, NY | posted:2026-08-03T00:00:00.000Z | source:linkedin-guest
