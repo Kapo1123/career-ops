@@ -4707,3 +4707,11 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4448285404 | TikTok | Software Engineer - TikTok Ads Creator Monetization | score:3 | location:San Jose, CA | posted:2026-08-04T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4446604556 | Smart IS | Junior Software Developer (Fresh Graduate) | score:3.8 | location:Oshkosh, WI | posted:2026-08-04T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4448898395 | JD Software | Junior Software Engineer | score:3.8 | location:Lake View, IL | posted:2026-08-04T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4448262435 | NVIDIA | Systems Software Engineer - New College Grad 2026 | score:3 | location:Hillsboro, OR | posted:2026-08-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437636303 | DoorDash | Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026) | score:4.6 | location:Sunnyvale, CA | posted:2026-08-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446277675 | Pariveda | Entry-Level Software Engineer | score:3.3 | location:New York, NY | posted:2026-08-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448535543 | American Express | Software Engineer I | score:3.8 | location:Phoenix, AZ | posted:2026-08-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448666881 | SpaceX | Full Stack Engineer (Application Software) | score:3.4 | location:Palo Alto, CA | posted:2026-08-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446642266 | Stealth Startup | Backend Developer [33163] | score:3.4 | location:California, United States | posted:2026-08-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448678444 | MeeBoss | Software Engineer | score:3 | location:United States | posted:2026-08-04T00:00:00.000Z | source:linkedin-guest
