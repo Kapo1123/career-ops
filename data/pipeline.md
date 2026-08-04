@@ -4715,3 +4715,17 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4448666881 | SpaceX | Full Stack Engineer (Application Software) | score:3.4 | location:Palo Alto, CA | posted:2026-08-04T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4446642266 | Stealth Startup | Backend Developer [33163] | score:3.4 | location:California, United States | posted:2026-08-04T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4448678444 | MeeBoss | Software Engineer | score:3 | location:United States | posted:2026-08-04T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://stripe.com/jobs/search?gh_jid=8107379 | Stripe | Software Engineer | score:4.1 | location:South San Francisco, CA | posted:2026-08-04T19:04:24-04:00 | source:greenhouse-api
+- [ ] https://stripe.com/jobs/search?gh_jid=8107302 | Stripe | Software Engineer, Sending | score:4.1 | location:South San Francisco, California | posted:2026-08-04T18:47:05-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4926242008 | Anthropic | Software Engineer, ML Networking | score:3.3 | location:San Francisco, CA | New York City, NY | Seattle, WA | posted:2026-08-04T17:41:03-04:00 | source:greenhouse-api
+- [ ] https://jobs.lever.co/palantir/721fe5ca-73b8-4223-826e-93a528194821 | Palantir | Platform Engineer - Identity Infrastructure | score:3.4 | location:Palo Alto, CA | posted:2026-08-04T21:07:54.169Z | source:lever-api
+- [ ] https://www.linkedin.com/jobs/view/4448582120 | Jobright.ai | Full Stack Software Engineer, New Grad | score:4.2 | location:United States | posted:2026-08-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446261976 | Pariveda | Entry-Level Software Engineer | score:3 | location:El Segundo, CA | posted:2026-08-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448588346 | edkey | Associate, Software Engineer | score:3.8 | location:Montvale, NJ | posted:2026-08-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4449020897 | MUFG | Software Engineer - Analyst | score:3 | location:Jersey City, NJ | posted:2026-08-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448585136 | Docusign Women in Sales | Software Engineer | score:3.3 | location:San Francisco Bay Area | posted:2026-08-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4449030336 | SONAR 360 | Estratégia com Precisão | Software Engineer, Early Career | score:4.1 | location:San Francisco, CA | posted:2026-08-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4449048545 | MintMCP | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-08-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448580843 | Everfox | Software Engineer I | score:3.8 | location:Richardson, TX | posted:2026-08-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448275779 | Haystack | Software Engineer | score:3 | location:Greater Philadelphia | posted:2026-08-04T00:00:00.000Z | source:linkedin-guest
