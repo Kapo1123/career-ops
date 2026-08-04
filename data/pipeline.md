@@ -4686,3 +4686,24 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4448251080 | Coforge | Associate Software Engineer | score:4.1 | location:San Francisco Bay Area | posted:2026-08-03T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4448244642 | Simple, a Netsmart solution | Software Engineer - (Dec.26/May 27 Grads) | score:3 | location:Overland Park, KS | posted:2026-08-03T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4448653008 | SOCOTEC US | Junior Software Engineer | score:4.1 | location:New York, NY | posted:2026-08-03T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/snowflake/ecd08904-f188-4336-bf8c-f75f97df1a02 | Snowflake | Data Engineering Solutions Specialist  | score:4.5 | location:US-NY-New York | posted:2026-08-03T06:03:05.234+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/openai/d2aad13c-6ed0-4905-ae12-8ea2397b190c | OpenAI | Software Engineer, Monetization Data Systems | score:3.4 | location:Mountain View | posted:2026-08-04T16:40:08.911+00:00 | source:ashby-api
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7820422003?gh_jid=7820422003 | Celonis | Software Engineer - Context Model Core Team | score:3 | location:Munich, Germany | posted:2026-08-04T08:34:06-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7822665003?gh_jid=7822665003 | Celonis | Software Engineer - Process Mining Technology | score:3 | location:Aachen, Germany | posted:2026-08-04T04:40:41-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4446654461 | Jobright.ai | Full Stack Software Engineer, New Grad | score:4.2 | location:United States | posted:2026-08-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448270177 | NVIDIA | Systems Software Engineer - New College Grad 2026 | score:3 | location:Santa Clara, CA | posted:2026-08-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446265806 | Pariveda | Entry-Level Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-08-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448241528 | Cognizant | Entry-level Software Engineer – Spring Boot Microservices and Core Java | score:3.4 | location:Charlotte, NC | posted:2026-08-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448225970 | Red Hat | Associate Software Engineer, Red Hat Linux Virtualization Networking | score:3.8 | location:Raleigh, NC | posted:2026-08-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446243361 | NetJets | Software Engineer, Associate (NJUS) | score:3.8 | location:Columbus, OH | posted:2026-08-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446659881 | Monetate | Associate Software Engineer | score:3.8 | location:Plano, TX | posted:2026-08-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446243799 | eBay | Software Engineer 2 | score:3 | location:Austin, TX | posted:2026-08-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448888091 | Helic &amp; Co | Junior Software Engineer | score:3.8 | location:United States | posted:2026-08-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448517635 | Jack | Software Engineer | score:3.3 | location:San Francisco Bay Area | posted:2026-08-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448509639 | Jack | Full Stack Engineer | score:3.7 | location:San Francisco Bay Area | posted:2026-08-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446630171 | TikTok USDS Joint Venture | Software Engineer Graduate (Tech and Product, USDS) - 2027 Start | score:3 | location:San Jose, CA | posted:2026-08-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448277614 | TikTok | Backend Software Engineer Graduate (TikTok-PGC-Digital Content Center) - 2027 Start | score:3.4 | location:San Jose, CA | posted:2026-08-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448285404 | TikTok | Software Engineer - TikTok Ads Creator Monetization | score:3 | location:San Jose, CA | posted:2026-08-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446604556 | Smart IS | Junior Software Developer (Fresh Graduate) | score:3.8 | location:Oshkosh, WI | posted:2026-08-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448898395 | JD Software | Junior Software Engineer | score:3.8 | location:Lake View, IL | posted:2026-08-04T00:00:00.000Z | source:linkedin-guest
