@@ -4773,3 +4773,8 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4449905432 | Handshake | Associate Software Engineer, RLE | score:4.1 | location:San Francisco, CA | posted:2026-08-05T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4447367815 | Haystack | Junior Full Stack Developer | score:4.2 | location:Washington DC-Baltimore Area | posted:2026-08-05T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4449444448 | CtrLoop | Junior Full Stack Engineer | score:4.2 | location:Forward, PA | posted:2026-08-05T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/openai/4c0a6cb6-d365-4e5b-bdff-c093d951026d | OpenAI | Software Engineer, API Enterprise Controls | score:3.3 | location:San Francisco | posted:2026-08-05T21:59:31.333+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4449913285 | MintMCP | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-08-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4449932897 | MeeBoss | Software Engineer | score:3.3 | location:New York, United States | posted:2026-08-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4449490861 | Cox Automotive Inc. | Entry Level Software Engineer - Atlanta, GA | score:3.8 | location:Atlanta, GA | posted:2026-08-05T00:00:00.000Z | source:linkedin-guest
