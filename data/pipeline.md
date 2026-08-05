@@ -4755,3 +4755,11 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4449619283 | InRhythm | Software Engineer | score:3.3 | location:New York, NY | posted:2026-08-05T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4447316361 | Avid Technology Professionals | Software Engineer 1 | score:3 | location:Annapolis Junction, MD | posted:2026-08-05T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4448945198 | Aspect AI | Junior Backend Engineer | score:4.2 | location:Call, TX | posted:2026-08-05T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/snowflake/22c61c00-65a5-4952-9a02-d897d4960437 | Snowflake | Software Engineer - Openflow | score:3.8 | location:US-CA-Menlo Park | posted:2026-08-05T18:09:38.736+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/synthesia/d5737204-2356-480a-9593-4a5a00d7eea1 | Synthesia | Software Engineer, Front End Leaning, Agents | score:3 | location:Europe | posted:2026-08-05T16:59:59.544+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4449138344 | Roblox | [2027] Software Engineer, Early Career | score:3.8 | location:San Mateo, CA | posted:2026-08-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4449671345 | Lyft | Software Engineer | score:4.1 | location:San Francisco County, CA | posted:2026-08-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4449675568 | Muon Space | Software Engineer, Entry-Level | score:3 | location:San Jose, CA | posted:2026-08-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4321363972 | Epic | Entry-Level Software Developer | score:3 | location:Appleton, WI | posted:2026-08-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4449673555 | Vitreous Alliance | Junior Software Engineer | score:4.1 | location:New York, United States | posted:2026-08-05T00:00:00.000Z | source:linkedin-guest
