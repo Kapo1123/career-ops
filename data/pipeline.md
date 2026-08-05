@@ -4763,3 +4763,13 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4449675568 | Muon Space | Software Engineer, Entry-Level | score:3 | location:San Jose, CA | posted:2026-08-05T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4321363972 | Epic | Entry-Level Software Developer | score:3 | location:Appleton, WI | posted:2026-08-05T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4449673555 | Vitreous Alliance | Junior Software Engineer | score:4.1 | location:New York, United States | posted:2026-08-05T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4449677429 | L3Harris Technologies | Associate, Software Engineer | score:3.8 | location:Salt Lake City, UT | posted:2026-08-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448048685 | Emory University | Software Engineer - Emory College of Arts and Sciences | score:3 | location:Atlanta, GA | posted:2026-08-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447395106 | Boeing | Software Engineer (Associate or Experienced) | score:3.8 | location:Tukwila, WA | posted:2026-08-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445174548 | Asure Software | Associate Software Engineer | score:3.8 | location:Addison, TX | posted:2026-08-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448016733 | NetApp | Software Engineer - Cloud Volumes | score:3 | location:San Jose, CA | posted:2026-08-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4449911290 | MintMCP | Software Engineer | score:3 | location:San Mateo, CA | posted:2026-08-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4449905432 | Handshake | Associate Software Engineer, RLE | score:4.1 | location:San Francisco, CA | posted:2026-08-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447367815 | Haystack | Junior Full Stack Developer | score:4.2 | location:Washington DC-Baltimore Area | posted:2026-08-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4449444448 | CtrLoop | Junior Full Stack Engineer | score:4.2 | location:Forward, PA | posted:2026-08-05T00:00:00.000Z | source:linkedin-guest
