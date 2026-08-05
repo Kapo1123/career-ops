@@ -4729,3 +4729,29 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4449048545 | MintMCP | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-08-04T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4448580843 | Everfox | Software Engineer I | score:3.8 | location:Richardson, TX | posted:2026-08-04T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4448275779 | Haystack | Software Engineer | score:3 | location:Greater Philadelphia | posted:2026-08-04T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.dropbox.com/listing/7958409?gh_jid=7958409 | Dropbox | Infrastructure Software Engineer, Metadata Core | score:3.7 | location:Remote - Poland | posted:2026-08-05T09:43:48-04:00 | source:greenhouse-api
+- [ ] https://app.careerpuck.com/job-board/lyft/job/8678744002?gh_jid=8678744002 | Lyft | Software Engineer | score:4.1 | location:San Francisco, CA | posted:2026-08-05T10:19:48-04:00 | source:greenhouse-api
+- [ ] https://stripe.com/jobs/search?gh_jid=6686634 | Stripe | Backend Engineer, Core Technology | score:4.2 | location:Dublin | posted:2026-08-05T10:26:57-04:00 | source:greenhouse-api
+- [ ] https://stripe.com/jobs/search?gh_jid=8089353 | Stripe | Software Engineer, Vulnerability Management | score:4.1 | location:US - Remote | posted:2026-08-04T20:01:19-04:00 | source:greenhouse-api
+- [ ] https://careers.roblox.com/jobs/8072244?gh_jid=8072244 | Roblox | [2027] Software Engineer, Early Career | score:3.8 | location:San Mateo, CA, United States | posted:2026-08-05T12:23:36-04:00 | source:greenhouse-api
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=8108725 | MongoDB | Software Engineer 3 | score:3 | location:Alberta; British Columbia; Manitoba; Nova Scotia; Ontario; Quebec | posted:2026-08-05T10:12:47-04:00 | source:greenhouse-api
+- [ ] https://jobs.lever.co/palantir/a80afc2b-2564-4a98-84c2-34cdcc0402df | Palantir | Platform Engineer - Identity Infrastructure | score:3.4 | location:Washington, D.C. | posted:2026-08-04T21:07:28.301Z | source:lever-api
+- [ ] https://www.linkedin.com/jobs/view/4448034415 | Jobright.ai | Full Stack Software Engineer, New Grad | score:4.2 | location:United States | posted:2026-08-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4449444067 | MetLife | Junior Software Engineer | score:3.8 | location:Cary, NC | posted:2026-08-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4449633041 | Helic &amp; Co | Junior Software Engineer | score:3.8 | location:United States | posted:2026-08-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448051162 | Omega Finance | Junior Software Engineer | score:4.1 | location:New York, NY | posted:2026-08-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447372215 | Software Engineer, Early Career | Software Engineer, Early Career | score:4.1 | location:San Francisco, CA | posted:2026-08-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4449621374 | MakeWithMohit | Software Engineer, Early Career | score:4.1 | location:San Francisco, CA | posted:2026-08-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447364506 | Let's BI | Software Engineer, Early Career (AI) | score:4.1 | location:San Francisco, CA | posted:2026-08-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4449618476 | Let's BI | Software Engineer, Early Career | score:4.1 | location:San Francisco, CA | posted:2026-08-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4449639308 | Cléopâtre | Software Engineer, Early Career (AI) | score:4.1 | location:San Francisco, CA | posted:2026-08-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448977265 | Investinit | Software Engineer, Early Career | score:4.1 | location:San Francisco, CA | posted:2026-08-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448937131 | Cléopâtre | Software Engineer, Early Career | score:4.1 | location:San Francisco, CA | posted:2026-08-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448975309 | Epic | Software Engineer, Early Career (AI) | score:4.1 | location:San Francisco, CA | posted:2026-08-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448912111 | Softvize | Software Engineer, Early Career | score:4.1 | location:San Francisco, CA | posted:2026-08-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4449435474 | Unknown | Junior Software Engineer | score:3.8 | location:Indiana, United States | posted:2026-08-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4449650473 | Plaid.K | Software Engineer, Backend | score:3.7 | location:San Francisco, CA | posted:2026-08-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4449619283 | InRhythm | Software Engineer | score:3.3 | location:New York, NY | posted:2026-08-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447316361 | Avid Technology Professionals | Software Engineer 1 | score:3 | location:Annapolis Junction, MD | posted:2026-08-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448945198 | Aspect AI | Junior Backend Engineer | score:4.2 | location:Call, TX | posted:2026-08-05T00:00:00.000Z | source:linkedin-guest
