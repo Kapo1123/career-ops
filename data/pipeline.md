@@ -4826,3 +4826,7 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4450726425 | Innovative Defense Technologies (IDT) | Associate Software Engineer - JobID-0186 | score:3.8 | location:Mount Laurel, NJ | posted:2026-08-07T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4450044809 | HP | AI Software Engineer - HP IQ | score:3.3 | location:San Francisco, CA | posted:2026-08-07T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4450086874 | Haystack | Software Engineer | score:3 | location:Greater Philadelphia | posted:2026-08-07T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4448757704 | Google | Software Engineer, Early Career, Campus | score:5 | location:Mountain View, CA | posted:2026-08-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4449218169 | Paragon Event Marketing | Junior Software Engineer | score:4.1 | location:New York, United States | posted:2026-08-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4450354866 | QALO YA AFRIKA | Full Stack Engineer/Full Stack Developer | score:3.4 | location:United States | posted:2026-08-07T00:00:00.000Z | source:linkedin-guest
