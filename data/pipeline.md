@@ -4811,3 +4811,10 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4448093573 | Stealth Startup | Backend Developer [33168] | score:3.7 | location:New York, United States | posted:2026-08-06T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4449792663 | Hyra | Junior Software Developer | score:3.8 | location:Maryland, United States | posted:2026-08-06T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4450614043 | Ziff Davis | Software Engineer I - Backend | score:4.2 | location:Memphis, TN | posted:2026-08-06T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://boards.greenhouse.io/robinhood/jobs/8088444?t=gh_src=&gh_jid=8088444 | Robinhood | Software Engineer, Wallet | score:4.1 | location:Menlo Park, CA; New York, NY | posted:2026-08-06T13:40:34-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4450628651 | MintMCP | Software Engineer | score:3 | location:San Mateo, CA | posted:2026-08-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4450670859 | ZEDEDA | Software Engineer - Core team - San Jose, CA | score:3 | location:San Jose, CA | posted:2026-08-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4450611741 | Salesforce | Software Engineering AMTS (College Grad) | score:3 | location:Palo Alto, CA | posted:2026-08-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4449354583 | PayPal | Software Engineer | score:3 | location:San Jose, CA | posted:2026-08-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4450637755 | Brooksource | Junior Software Engineer | score:3.8 | location:Englewood, CO | posted:2026-08-06T00:00:00.000Z | source:linkedin-guest
