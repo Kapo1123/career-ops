@@ -4838,3 +4838,12 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4450618209 | MUFG | Software Engineer - Analyst | score:3 | location:Jersey City, NJ | posted:2026-08-07T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4448495898 | TikTok | Backend Software Engineer Graduate (TikTok - Privacy and Security - Product) - 2027 Start | score:3.4 | location:San Jose, CA | posted:2026-08-07T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4448770207 | Google | Software Engineer, Early Career, Campus | score:5 | location:Los Angeles, CA | posted:2026-08-07T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/notion/e3d8dc06-da05-4e9d-a143-2e9c51fa3d51 | Notion | Software Engineer, Infrastructure Security | score:4.5 | location:San Francisco, California | posted:2026-08-07T20:33:55.367+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4450773354 | MintMCP | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-08-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4449231537 | Paragon Event Marketing | Junior Software Engineer | score:4.1 | location:New York, United States | posted:2026-08-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4450382898 | Everfox | Software Engineer I | score:3.8 | location:Richardson, TX | posted:2026-08-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4450779178 | Revel | Full Stack Software Engineer (Entry-Junior) | score:4.5 | location:San Francisco, CA | posted:2026-08-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4450395177 | The Coca-Cola Company | Junior Software Engineer | score:3.8 | location:Atlanta, GA | posted:2026-08-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448758674 | Google | Software Engineer, Early Career, Campus | score:5 | location:New York, NY | posted:2026-08-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4450376977 | iLending | Junior Software Engineer | score:3.8 | location:Englewood, CO | posted:2026-08-07T00:00:00.000Z | source:linkedin-guest
