@@ -4818,3 +4818,11 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4450611741 | Salesforce | Software Engineering AMTS (College Grad) | score:3 | location:Palo Alto, CA | posted:2026-08-06T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4449354583 | PayPal | Software Engineer | score:3 | location:San Jose, CA | posted:2026-08-06T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4450637755 | Brooksource | Junior Software Engineer | score:3.8 | location:Englewood, CO | posted:2026-08-06T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://app.careerpuck.com/job-board/lyft/job/8688776002?gh_jid=8688776002 | Lyft | Software Engineer, Routing | score:3.8 | location:Toronto, Canada | posted:2026-08-07T01:41:53-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4448752966 | Google | Software Engineer, Early Career, Campus | score:5 | location:San Bruno, CA | posted:2026-08-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448775732 | Helic &amp; Co | Junior Software Engineer | score:3.8 | location:United States | posted:2026-08-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448491382 | CubeSmart | Software Engineer | score:3 | location:Malvern, PA | posted:2026-08-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4450726425 | Innovative Defense Technologies (IDT) | Associate Software Engineer - JobID-0186 | score:3.8 | location:Mount Laurel, NJ | posted:2026-08-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4450044809 | HP | AI Software Engineer - HP IQ | score:3.3 | location:San Francisco, CA | posted:2026-08-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4450086874 | Haystack | Software Engineer | score:3 | location:Greater Philadelphia | posted:2026-08-07T00:00:00.000Z | source:linkedin-guest
