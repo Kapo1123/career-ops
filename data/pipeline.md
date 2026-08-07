@@ -4830,3 +4830,11 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4448757704 | Google | Software Engineer, Early Career, Campus | score:5 | location:Mountain View, CA | posted:2026-08-07T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4449218169 | Paragon Event Marketing | Junior Software Engineer | score:4.1 | location:New York, United States | posted:2026-08-07T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4450354866 | QALO YA AFRIKA | Full Stack Engineer/Full Stack Developer | score:3.4 | location:United States | posted:2026-08-07T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://app.careerpuck.com/job-board/lyft/job/8691539002?gh_jid=8691539002 | Lyft | Software Engineer, Async Platform | score:4.2 | location:Toronto, Canada | posted:2026-08-07T14:30:22-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4448704692 | TikTok | Backend Software Engineer Graduate (TikTok - Data Lifecycle Management) - 2027 Start | score:3.4 | location:San Jose, CA | posted:2026-08-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4450753714 | TEAM PARAGON | Software Engineer (Entry-Level / Associate) | score:4.1 | location:New York, United States | posted:2026-08-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4449219659 | Paragon Event Marketing | Junior Software Engineer | score:4.1 | location:New York, United States | posted:2026-08-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4450618209 | MUFG | Software Engineer - Analyst | score:3 | location:Jersey City, NJ | posted:2026-08-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448495898 | TikTok | Backend Software Engineer Graduate (TikTok - Privacy and Security - Product) - 2027 Start | score:3.4 | location:San Jose, CA | posted:2026-08-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448770207 | Google | Software Engineer, Early Career, Campus | score:5 | location:Los Angeles, CA | posted:2026-08-07T00:00:00.000Z | source:linkedin-guest
