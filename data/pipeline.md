@@ -4778,3 +4778,36 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4449913285 | MintMCP | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-08-05T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4449932897 | MeeBoss | Software Engineer | score:3.3 | location:New York, United States | posted:2026-08-05T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4449490861 | Cox Automotive Inc. | Entry Level Software Engineer - Atlanta, GA | score:3.8 | location:Atlanta, GA | posted:2026-08-05T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.coinbase.com/careers/positions/8092485?gh_jid=8092485 | Coinbase | Software Engineer, CDP - Stablecoin | score:4.1 | location:Remote - Canada | posted:2026-08-06T18:46:21-04:00 | source:greenhouse-api
+- [ ] https://www.coinbase.com/careers/positions/8113286?gh_jid=8113286 | Coinbase | Software Engineer, Data Platform Team | score:4.5 | location:Remote - USA | posted:2026-08-06T18:57:50-04:00 | source:greenhouse-api
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8379331002 | Databricks | Sr. Software Engineer- Backend | score:4.5 | location:New York City, New York | posted:2026-08-06T14:05:58-04:00 | source:greenhouse-api
+- [ ] https://boards.greenhouse.io/robinhood/jobs/8088446?t=gh_src=&gh_jid=8088446 | Robinhood | Software Engineer, Wallet | score:3.8 | location:Toronto, Canada | posted:2026-08-06T13:40:54-04:00 | source:greenhouse-api
+- [ ] https://app.careerpuck.com/job-board/lyft/job/8662205002?gh_jid=8662205002 | Lyft | Data Engineer | score:4.2 | location:Toronto, Canada | posted:2026-08-05T20:02:08-04:00 | source:greenhouse-api
+- [ ] https://app.careerpuck.com/job-board/lyft/job/8686832002?gh_jid=8686832002 | Lyft | Software Engineer, Async Platform | score:4.2 | location:Toronto, Canada | posted:2026-08-06T16:10:47-04:00 | source:greenhouse-api
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/8106815?gh_jid=8106815 | Cloudflare | Software Engineer, Network Firewall | score:3 | location:Hybrid | posted:2026-08-06T17:10:31-04:00 | source:greenhouse-api
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=8092317 | MongoDB | Software Engineer 3 | score:3 | location:Sydney | posted:2026-08-06T11:17:09-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/snowflake/6796fd48-b377-4943-9149-1dcc0b3b2562 | Snowflake | Sr. Software Engineer, Customer Experience Engineering | score:3.8 | location:US-CA-Menlo Park | posted:2026-08-06T21:23:02.791+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/openai/e961c9df-caa0-4b29-b37c-a3e02c564615 | OpenAI | Software Engineer, Silicon Design Methodology | score:3.3 | location:San Francisco | posted:2026-08-06T23:42:09.138+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/DeepL/4a7aa4be-7092-4dc0-bfd7-bc9dbe91dd08 | DeepL | Software Engineer | Identity & Access Management | Full-Stack  | score:3 | location:London | posted:2026-08-06T09:13:08.902+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4450631509 | MintMCP | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-08-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4450260050 | Climactic | Software Engineer, Entry-Level | score:3 | location:San Jose, CA | posted:2026-08-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4449977475 | TikTok | Software Engineer Graduate (Global E-commerce-Search) - 2027 Start | score:3.3 | location:Seattle, WA | posted:2026-08-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4450241987 | Helic &amp; Co | Junior Software Engineer | score:3.8 | location:United States | posted:2026-08-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4449969626 | Stronghold Investment Management | Software Engineer I | score:3.8 | location:Dallas, TX | posted:2026-08-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4450616426 | Salesforce | Software Engineering AMTS (College Grad) | score:3 | location:Dallas, TX | posted:2026-08-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4449748700 | Optomi | Junior Software Engineer | score:3.8 | location:Austin, TX | posted:2026-08-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4449771689 | SharpAtoms | Junior Full Stack Developer (Entry-Level) | score:4.2 | location:United States | posted:2026-08-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448452019 | Boeing | Entry-Level Software Engineer | score:3 | location:Maryland Heights, MO | posted:2026-08-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4450661368 | New York Life | Associate - Full Stack Developer | score:4.5 | location:New York, NY | posted:2026-08-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4450615222 | Nomura | Software Engineer Associate - Full Stack | score:4.2 | location:Philadelphia, PA | posted:2026-08-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448076833 | Boeing | Associate Software Engineer | score:3.8 | location:Maryland Heights, MO | posted:2026-08-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4449358214 | PayPal | Software Engineer 2 | score:3 | location:San Jose, CA | posted:2026-08-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4449349829 | PayPal | Software Engineer | score:3 | location:San Jose, CA | posted:2026-08-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4449362074 | Ketch | Backend Software Engineer | score:3.7 | location:San Francisco, CA | posted:2026-08-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4450284394 | LinkedIn | Software Engineer - Personalization Platform (Frontend) | score:3.4 | location:Mountain View, CA | posted:2026-08-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4449965046 | U.S. Bank | Software Engineer 1- (Full Stack Developer) | score:3.4 | location:Atlanta, GA | posted:2026-08-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4449954355 | MeeBoss | Software Engineer | score:3 | location:United States | posted:2026-08-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448093573 | Stealth Startup | Backend Developer [33168] | score:3.7 | location:New York, United States | posted:2026-08-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4449792663 | Hyra | Junior Software Developer | score:3.8 | location:Maryland, United States | posted:2026-08-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4450614043 | Ziff Davis | Software Engineer I - Backend | score:4.2 | location:Memphis, TN | posted:2026-08-06T00:00:00.000Z | source:linkedin-guest
