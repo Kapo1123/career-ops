@@ -4847,3 +4847,19 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4450395177 | The Coca-Cola Company | Junior Software Engineer | score:3.8 | location:Atlanta, GA | posted:2026-08-07T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4448758674 | Google | Software Engineer, Early Career, Campus | score:5 | location:New York, NY | posted:2026-08-07T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4450376977 | iLending | Junior Software Engineer | score:3.8 | location:Englewood, CO | posted:2026-08-07T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4450773353 | MintMCP | Software Engineer | score:3 | location:San Mateo, CA | posted:2026-08-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4450566262 | interface.ai | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-08-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4450365978 | Freeform | Software Engineer (New Grad December 2026) | score:3.8 | location:Los Angeles, CA | posted:2026-08-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451038723 | Alumni Founders | Software Engineer (New Grad December 2026) | score:3.8 | location:Los Angeles, CA | posted:2026-08-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4450715981 | Color | Software Engineer, New Grad 2026 | score:4.1 | location:South San Francisco, CA | posted:2026-08-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451081041 | Helic &amp; Co | Junior Software Engineer | score:3.8 | location:United States | posted:2026-08-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451042419 | Abbott | Associate Software Engineer | score:3.8 | location:Irving, TX | posted:2026-08-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4449220082 | T. Rowe Price | Associate Software Engineer (Entry-level) | score:3.8 | location:Owings Mills, MD | posted:2026-08-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4450745047 | CoStar Group | Matterport - Software Engineer I | score:3.8 | location:Irvine, CA | posted:2026-08-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4424433578 | Goldman Sachs | Corporate Planning &amp; Management, Software Engineering, New York, Associate | score:4.1 | location:New York, NY | posted:2026-08-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4424421840 | Goldman Sachs | Corporate Planning &amp; Management, Software Engineering, Dallas, Associate | score:3.8 | location:Dallas, TX | posted:2026-08-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4450384807 | Verkada | Software Engineer - Data Platform | score:3.4 | location:San Mateo, CA | posted:2026-08-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451006053 | Flight Agencies | Junior Software Engineer | score:3.8 | location:Los Angeles, CA | posted:2026-08-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4449233419 | BrothersTech | Software Engineer | score:3 | location:United States | posted:2026-08-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4450591990 | Jack &amp; Jill | Software Engineer at Den | score:3.3 | location:New York, United States | posted:2026-08-08T00:00:00.000Z | source:linkedin-guest
