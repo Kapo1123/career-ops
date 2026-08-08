@@ -4869,3 +4869,8 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4451089400 | Radixlink | MULTIPLE POSITIONS (SOFTWARE DEVELOPER I / SOFTWARE DEVELOPER II / SOFTWARE DEVELOPER (MICROSERVICES)) | score:3 | location:Arizona, United States | posted:2026-08-08T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4449260477 | Klaimee (YC P26) | ENTRY LEVEL SOFTWARE DEVELOPE | score:3.8 | location:United States | posted:2026-08-08T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4451006520 | Avid Technology Professionals | Software Engineer 1 | score:3 | location:Annapolis Junction, MD | posted:2026-08-08T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4450912573 | Carra | Software Engineer | score:3 | location:Rancho Cordova, CA | posted:2026-08-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4449248101 | Macquarie Group | Front Office Software Engineer, Commodities | score:3.3 | location:New York City Metropolitan Area | posted:2026-08-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4450915526 | Haystack | Software Engineer | score:3 | location:Atlanta Metropolitan Area | posted:2026-08-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4450376859 | Ionixa Global Inc | Software Engineer | score:3 | location:Jersey City, NJ | posted:2026-08-07T00:00:00.000Z | source:linkedin-guest
