@@ -4863,3 +4863,9 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4451006053 | Flight Agencies | Junior Software Engineer | score:3.8 | location:Los Angeles, CA | posted:2026-08-07T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4449233419 | BrothersTech | Software Engineer | score:3 | location:United States | posted:2026-08-07T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4450591990 | Jack &amp; Jill | Software Engineer at Den | score:3.3 | location:New York, United States | posted:2026-08-08T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4451097112 | EngRadar | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-08-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4404980703 | SpaceX | Software Engineer (Flight Reliability) | score:3 | location:Hawthorne, CA | posted:2026-08-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451089400 | Radixlink | MULTIPLE POSITIONS (SOFTWARE DEVELOPER I / SOFTWARE DEVELOPER II / SOFTWARE DEVELOPER (MICROSERVICES)) | score:3 | location:Arizona, United States | posted:2026-08-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4449260477 | Klaimee (YC P26) | ENTRY LEVEL SOFTWARE DEVELOPE | score:3.8 | location:United States | posted:2026-08-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451006520 | Avid Technology Professionals | Software Engineer 1 | score:3 | location:Annapolis Junction, MD | posted:2026-08-08T00:00:00.000Z | source:linkedin-guest
