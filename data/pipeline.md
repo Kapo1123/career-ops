@@ -4874,3 +4874,9 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4449248101 | Macquarie Group | Front Office Software Engineer, Commodities | score:3.3 | location:New York City Metropolitan Area | posted:2026-08-07T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4450915526 | Haystack | Software Engineer | score:3 | location:Atlanta Metropolitan Area | posted:2026-08-08T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4450376859 | Ionixa Global Inc | Software Engineer | score:3 | location:Jersey City, NJ | posted:2026-08-07T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4451017975 | JPMorganChase | Software Engineer II - Backend Python/AWS | score:4.2 | location:Plano, TX | posted:2026-08-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4450921234 | Haystack | Software Engineer | score:3 | location:Atlanta Metropolitan Area | posted:2026-08-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4414946471 | General Motors | Software Engineer, Autonomy Behavior Validation | score:3 | location:Sunnyvale, CA | posted:2026-08-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4450919516 | Jack &amp; Jill | Software Engineer at Den | score:3.3 | location:New York, United States | posted:2026-08-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4450509790 | U.S. Bank | Software Engineer 1 (Backend UI and AI) | score:3.4 | location:Earth City, MO | posted:2026-08-08T00:00:00.000Z | source:linkedin-guest
