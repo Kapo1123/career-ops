@@ -4880,3 +4880,14 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4414946471 | General Motors | Software Engineer, Autonomy Behavior Validation | score:3 | location:Sunnyvale, CA | posted:2026-08-08T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4450919516 | Jack &amp; Jill | Software Engineer at Den | score:3.3 | location:New York, United States | posted:2026-08-08T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4450509790 | U.S. Bank | Software Engineer 1 (Backend UI and AI) | score:3.4 | location:Earth City, MO | posted:2026-08-08T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4451315201 | Storyboard | Matterport - Software Engineer I | score:3.8 | location:Irvine, CA | posted:2026-08-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4320306217 | Figma | Software Engineer, Full Stack | score:4.5 | location:San Francisco, CA | posted:2026-08-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4450937898 | Jack &amp; Jill | Forward Deployed Software Engineer ($120K - $150K + Equity) at Arzana | score:3.3 | location:New York, NY | posted:2026-08-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451094607 | OASYS, INC. | Software Engineer One | score:3 | location:Huntsville, AL | posted:2026-08-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451318532 | Sanctuary Software Studio, Inc. | Software Engineer | score:3 | location:Akron, OH | posted:2026-08-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4396477185 | Bitdeer (NASDAQ: BTDR) | AI &amp; Cloud Infra Software Engineer (Fresh Grad) | score:3 | location:Tennessee, United States | posted:2026-08-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4450935666 | H1BConnect | Risk-Dallas-Associate-Software Engineering | score:3.8 | location:Dallas, TX | posted:2026-08-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4433464466 | Qualcomm | #Software Engineer - Power and Limits Management | score:3 | location:San Diego, CA | posted:2026-08-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4450950603 | Jack &amp; Jill | Software Engineer at Den | score:3.3 | location:New York, United States | posted:2026-08-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451328257 | BioSpace | Full Stack Developer | score:3.4 | location:North Chicago, IL | posted:2026-08-09T00:00:00.000Z | source:linkedin-guest
