@@ -4891,3 +4891,6 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4433464466 | Qualcomm | #Software Engineer - Power and Limits Management | score:3 | location:San Diego, CA | posted:2026-08-09T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4450950603 | Jack &amp; Jill | Software Engineer at Den | score:3.3 | location:New York, United States | posted:2026-08-09T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4451328257 | BioSpace | Full Stack Developer | score:3.4 | location:North Chicago, IL | posted:2026-08-09T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4451362295 | Direct-Calls.com | Remote Software Engineer (New Grad) — AI &amp; Production at Realm | score:4.1 | location:New York, NY | posted:2026-08-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4450948519 | Haystack | Software Engineer | score:3 | location:Missouri, United States | posted:2026-08-09T00:00:00.000Z | source:linkedin-guest
