@@ -4894,3 +4894,5 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 
 - [ ] https://www.linkedin.com/jobs/view/4451362295 | Direct-Calls.com | Remote Software Engineer (New Grad) — AI &amp; Production at Realm | score:4.1 | location:New York, NY | posted:2026-08-09T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4450948519 | Haystack | Software Engineer | score:3 | location:Missouri, United States | posted:2026-08-09T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4451358581 | Patriot Mobile | Software Engineer 1 | score:3 | location:Grapevine, TX | posted:2026-08-09T00:00:00.000Z | source:linkedin-guest
