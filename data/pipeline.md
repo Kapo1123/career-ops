@@ -4918,3 +4918,13 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4451194469 | Jack &amp; Jill | Software Engineer at Den | score:3.3 | location:New York, United States | posted:2026-08-10T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4451174589 | DataDelivers, LLC. | Full Stack Developer | score:3.4 | location:Schaumburg, IL | posted:2026-08-10T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4451562359 | MeeBoss | Software Engineer II | score:3.8 | location:United States | posted:2026-08-10T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/gusto/jobs/8073232 | Gusto | Software Engineer, ML Platform | score:3.7 | location:Denver, CO;San Francisco, CA;New York, NY; | posted:2026-08-10T13:18:12-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4449747952 | iTradeNetwork, Inc. | AI/ML Software Engineer | score:3.3 | location:San Francisco Bay Area | posted:2026-08-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451559932 | Beyond New Horizons | Early Career Software Engineer | score:3.8 | location:Manchester, TN | posted:2026-08-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4449808237 | Yo Voy | ENTRY LEVEL SOFTWARE DEVELOPE | score:3.8 | location:United States | posted:2026-08-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451402385 | Modern Technology Solutions, Inc. (MTSI) | Junior Cloud/Software Engineer | score:3.8 | location:Dayton, OH | posted:2026-08-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451576105 | Capgemini | Junior Software Engineer - Python + Gen AI | score:4.2 | location:Columbia, SC | posted:2026-08-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451122383 | Cummins Inc. | Software Engineer I | score:3.8 | location:Des Moines, IA | posted:2026-08-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4449811098 | Logic Jumps | Junior Software Engineer | score:4.1 | location:New York, United States | posted:2026-08-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451176479 | Haystack | Software Engineer | score:3 | location:Atlanta Metropolitan Area | posted:2026-08-10T00:00:00.000Z | source:linkedin-guest
