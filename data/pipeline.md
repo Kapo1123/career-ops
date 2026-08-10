@@ -4928,3 +4928,12 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4451122383 | Cummins Inc. | Software Engineer I | score:3.8 | location:Des Moines, IA | posted:2026-08-10T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4449811098 | Logic Jumps | Junior Software Engineer | score:4.1 | location:New York, United States | posted:2026-08-10T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4451176479 | Haystack | Software Engineer | score:3 | location:Atlanta Metropolitan Area | posted:2026-08-10T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.okta.com/company/careers/opportunity/7821930?gh_jid=7821930 | Okta | Software Engineer II, End User Protection (Auth0) | score:3.8 | location:Toronto, Ontario, Canada | posted:2026-08-10T15:28:35-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/notion/ca74504a-9b91-4ce3-b0df-97919b46e749 | Notion | Software Engineer, Collections Infra | score:4.1 | location:San Francisco, California | posted:2026-08-10T19:31:59.593+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4451849478 | Helic &amp; Co | Junior Software Engineer | score:3.8 | location:United States | posted:2026-08-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4449816268 | Teledyne Brown Engineering | Jr. Software Engineer | score:3 | location:Huntsville, AL | posted:2026-08-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451859427 | Truist | Associate Software Engineer | score:3.8 | location:Charlotte, NC | posted:2026-08-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451849988 | Observe.AI | Software Engineer I - AI Agents | score:3.8 | location:Redwood City, CA | posted:2026-08-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451870076 | Axon | Software Engineer I | score:4.1 | location:Seattle, WA | posted:2026-08-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451424556 | Jack &amp; Jill | Software Engineer at Den | score:3.3 | location:New York, United States | posted:2026-08-10T00:00:00.000Z | source:linkedin-guest
