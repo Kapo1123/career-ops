@@ -4899,3 +4899,22 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 
 - [ ] https://www.linkedin.com/jobs/view/4450973788 | Jack &amp; Jill | Forward Deployed Software Engineer ($120K - $150K + Equity) at Arzana | score:3.3 | location:New York, NY | posted:2026-08-09T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4450979503 | Jack &amp; Jill | Software Engineer at Den | score:3.3 | location:New York, United States | posted:2026-08-09T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.lever.co/palantir/d5f11334-3a73-4094-b7e0-d05b54e475b8 | Palantir | Deployment Strategist, New Grad - Commercial | score:3.8 | location:Seoul, South Korea | posted:2026-08-10T14:13:54.429Z | source:lever-api
+- [ ] https://jobs.lever.co/palantir/341d5cae-a473-4813-9a6c-0f67fcc1b253 | Palantir | Forward Deployed Software Engineer, New Grad - Commercial | score:3.8 | location:Seoul, South Korea | posted:2026-08-10T14:02:48.146Z | source:lever-api
+- [ ] https://www.linkedin.com/jobs/view/4449548361 | TikTok USDS Joint Venture | Software Engineer Graduate (Search) - 2027 Start | score:3 | location:San Jose, CA | posted:2026-08-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451115056 | MVP Ventures | Software Engineer (New Grad December 2026) | score:3.8 | location:Los Angeles Metropolitan Area | posted:2026-08-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4449538861 | TikTok USDS Joint Venture | Software Engineer Graduate (E-Commerce) - 2027 Start | score:3.3 | location:Seattle, WA | posted:2026-08-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451182596 | Jack &amp; Jill | Forward Deployed Software Engineer ($120K - $150K + Equity) at Arzana | score:3.3 | location:New York, NY | posted:2026-08-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4449758340 | iTradeNetwork, Inc. | AI/ML Software Engineer | score:3.3 | location:San Francisco Bay Area | posted:2026-08-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451143083 | Cummins Inc. | Software Engineer I | score:3.8 | location:Columbus, IN | posted:2026-08-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451187788 | Aaniie, Inc. | Software Engineer | score:3 | location:United States | posted:2026-08-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451180784 | PANTHERx Rare Pharmacy | Software Engineer (902128) | score:3 | location:Pittsburgh, PA | posted:2026-08-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451180072 | Haystack | Software Engineer | score:3 | location:Greater Philadelphia | posted:2026-08-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441507289 | Vestwell | Software Engineer | score:3.3 | location:New York, NY | posted:2026-08-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451395689 | FELICIS | Software Engineer - Data Platform | score:3.4 | location:San Mateo, CA | posted:2026-08-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451549225 | Venture Up | Software Engineer AI | score:3.3 | location:San Francisco, CA | posted:2026-08-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4449697094 | FDM Group | Junior Software Engineer | score:4.1 | location:New York City Metropolitan Area | posted:2026-08-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451194469 | Jack &amp; Jill | Software Engineer at Den | score:3.3 | location:New York, United States | posted:2026-08-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451174589 | DataDelivers, LLC. | Full Stack Developer | score:3.4 | location:Schaumburg, IL | posted:2026-08-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451562359 | MeeBoss | Software Engineer II | score:3.8 | location:United States | posted:2026-08-10T00:00:00.000Z | source:linkedin-guest
