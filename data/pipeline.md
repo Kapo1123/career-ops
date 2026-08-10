@@ -4937,3 +4937,23 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4451849988 | Observe.AI | Software Engineer I - AI Agents | score:3.8 | location:Redwood City, CA | posted:2026-08-10T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4451870076 | Axon | Software Engineer I | score:4.1 | location:Seattle, WA | posted:2026-08-10T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4451424556 | Jack &amp; Jill | Software Engineer at Den | score:3.3 | location:New York, United States | posted:2026-08-10T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/elevenlabs/38e0b741-5bfa-4481-891e-e95b503d4aff | ElevenLabs | Forward Deployed Engineer - Software Engineer - France | score:3 | location:France | posted:2026-08-10T22:12:46.963+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/elevenlabs/44c6b5f3-e135-4f3b-b286-7baccf782912 | ElevenLabs | Forward Deployed Engineer - Software Engineer - Belgium | score:3 | location:Belgium | posted:2026-08-10T21:55:51.813+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/elevenlabs/a4ccd185-8576-4f69-aa8d-454f323cc024 | ElevenLabs | Forward Deployed Engineer - Software Engineer - Canada | score:3 | location:Canada | posted:2026-08-10T22:02:26.426+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/elevenlabs/50d20869-819d-4ae3-be8d-71c3c9bf3394 | ElevenLabs | Forward Deployed Engineer - Software Engineer - Netherlands | score:3 | location:Netherlands | posted:2026-08-10T22:19:02.358+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/elevenlabs/cd610558-4a8e-4746-81c1-10e3902f5576 | ElevenLabs | Forward Deployed Engineer - Software Engineer - Italy | score:3 | location:Italy | posted:2026-08-10T22:20:40.583+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/elevenlabs/c6fc071f-c80e-4d3b-921a-3ec02a2ad25d | ElevenLabs | Forward Deployed Engineer - Software Engineer - Sweden | score:3 | location:Sweden | posted:2026-08-10T22:34:25.532+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4452022203 | Notion | Software Engineer, Collections Infra | score:4.1 | location:San Francisco, CA | posted:2026-08-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4452021831 | Stealth Startup | Software Engineer | score:3.3 | location:New York, United States | posted:2026-08-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4452059572 | Blue Origin | Software Development Engineer I - Early Career (2026 Starts) | score:4.1 | location:Greater Seattle Area | posted:2026-08-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4452080303 | Redfin | Software Developer I - Search | score:3.3 | location:Seattle, WA | posted:2026-08-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451434437 | Jack &amp; Jill | Forward Deployed Software Engineer ($120K - $150K + Equity) at Arzana | score:3.3 | location:New York, NY | posted:2026-08-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451426717 | Auto-Chlor System | Junior Software Engineer | score:3.8 | location:Mountain View, CA | posted:2026-08-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4449819917 | Varsity Spirit | Software Engineer I | score:3.8 | location:Memphis, TN | posted:2026-08-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451452076 | Steampunk, Inc. | Junior IT Software Engineer | score:3.8 | location:McLean, VA | posted:2026-08-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4449827286 | Mastercard | Software Engineer I | score:3.8 | location:O'Fallon, MO | posted:2026-08-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451470072 | AbbVie | Associate Backend Software Engineer II | score:4.2 | location:Mettawa, IL | posted:2026-08-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451468676 | TriNet | Associate Software Engineer | score:3.8 | location:Atlanta, GA | posted:2026-08-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4452050620 | Swift | Software Engineer (Hybrid) | score:3 | location:Manassas, VA | posted:2026-08-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4452030791 | Cisco | Software Engineer, Backend (Hybrid) | score:3.4 | location:San Jose, CA | posted:2026-08-10T00:00:00.000Z | source:linkedin-guest
