@@ -4987,3 +4987,17 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4451693212 | MeeBoss | Software Engineer | score:3 | location:United States | posted:2026-08-11T00:00:00.000Z | source:linkedin-guest
 
 - [ ] https://www.linkedin.com/jobs/view/4449893041 | Quantcast | Software Engineer (Full Stack) | score:3.7 | location:San Francisco, CA | posted:2026-08-11T00:00:00.000Z | source:linkedin-guest
+
+- [ ] http://block.xyz/careers/jobs/5369947008?gh_jid=5369947008 | Block (Square) | Software Engineer, Financial Platform - Issuing | score:3.4 | location:Bay Area, CA, United States of America | posted:2026-08-11T17:02:56-04:00 | source:greenhouse-api
+- [ ] https://boards.greenhouse.io/robinhood/jobs/8122623?t=gh_src=&gh_jid=8122623 | Robinhood | Customer Experience Associate (New Grad) | score:4.6 | location:Westlake, TX | posted:2026-08-11T15:59:01-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/sierra/2d638355-ee46-44ce-a239-844b9234ba6d | Sierra | Forward Deployed Infrastructure Engineer (Spanish speaking) | score:3.4 | location:London | posted:2026-08-11T23:04:18.170+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/sierra/93fea91f-a8a2-4084-8113-1cde73344e33 | Sierra | Software Engineer, Agent - Retail | score:3.3 | location:San Francisco, CA | posted:2026-08-11T22:03:09.266+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4452631596 | MintMCP | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-08-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451933723 | Autodesk | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-08-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4453004345 | Logic Jumps | Junior Software Engineer | score:4.1 | location:New York, United States | posted:2026-08-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4452683045 | Stronghold Investment Management | Software Engineer I | score:3.8 | location:Dallas, TX | posted:2026-08-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442783264 | KAYAK | Associate Software Engineer | score:3.8 | location:Concord, MA | posted:2026-08-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451687632 | Emonics LLC | Entry Level Software Engineer | score:4.1 | location:Seattle, WA | posted:2026-08-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451681866 | Dash Bio | Associate Software Engineer/Software Engineer - Full Stack | score:4.2 | location:Waltham, MA | posted:2026-08-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4449857879 | Cargill | Software Engineer Associate - Technology Development Program 2027, Atlanta, GA 1 | score:3.8 | location:Atlanta, GA | posted:2026-08-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451918836 | BettaBot | Junior Full Stack Developer | score:4.2 | location:Santa Fe Springs, CA | posted:2026-08-11T00:00:00.000Z | source:linkedin-guest
