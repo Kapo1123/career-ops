@@ -4985,3 +4985,5 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4451916229 | Goldman Sachs | Engineering- Jersey City - Associate, Software Engineering - 10427699 | score:3.8 | location:Jersey City, NJ | posted:2026-08-11T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4451903937 | Goldman Sachs | Corporate Planning &amp; Management–Dallas-Associate, Software Engineering-10412242 | score:3.8 | location:Dallas, TX | posted:2026-08-11T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4451693212 | MeeBoss | Software Engineer | score:3 | location:United States | posted:2026-08-11T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4449893041 | Quantcast | Software Engineer (Full Stack) | score:3.7 | location:San Francisco, CA | posted:2026-08-11T00:00:00.000Z | source:linkedin-guest
