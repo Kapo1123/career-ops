@@ -4977,3 +4977,11 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4451478475 | Aehr Test Systems | Associate Software Engineer | score:3.8 | location:Fremont, CA | posted:2026-08-11T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4451648137 | FELICIS | Software Engineer, Collections Infra | score:3.3 | location:San Francisco, CA | posted:2026-08-11T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4448442199 | 7Seventy Recruiting | Junior Full Stack Developer - $38.46 per hour | score:4.2 | location:United States | posted:2026-08-11T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5367585008 | Anthropic | Software Engineer, Desktop | score:3.3 | location:San Francisco, CA | New York City, NY | posted:2026-08-11T13:13:09-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/snowflake/654c1b07-0d92-42f5-afaf-f9d1f3d9eb8e | Snowflake | Software Engineer - Cortex Code Agentic System | score:3.8 | location:US-CA-Menlo Park | posted:2026-08-11T03:46:39.951+00:00 | source:ashby-api
+- [ ] https://stripe.com/jobs/search?gh_jid=6786568 | Stripe | Full Stack Engineer, Expansion | score:4.2 | location:N/A | posted:2026-08-11T13:59:28-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4451905126 | Haystack | Junior Software Engineer | score:3.8 | location:Greater St. Louis | posted:2026-08-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451916229 | Goldman Sachs | Engineering- Jersey City - Associate, Software Engineering - 10427699 | score:3.8 | location:Jersey City, NJ | posted:2026-08-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451903937 | Goldman Sachs | Corporate Planning &amp; Management–Dallas-Associate, Software Engineering-10412242 | score:3.8 | location:Dallas, TX | posted:2026-08-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451693212 | MeeBoss | Software Engineer | score:3 | location:United States | posted:2026-08-11T00:00:00.000Z | source:linkedin-guest
