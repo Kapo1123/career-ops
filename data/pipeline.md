@@ -4957,3 +4957,23 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4451468676 | TriNet | Associate Software Engineer | score:3.8 | location:Atlanta, GA | posted:2026-08-10T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4452050620 | Swift | Software Engineer (Hybrid) | score:3 | location:Manassas, VA | posted:2026-08-10T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4452030791 | Cisco | Software Engineer, Backend (Hybrid) | score:3.4 | location:San Jose, CA | posted:2026-08-10T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://stripe.com/jobs/search?gh_jid=8074127 | Stripe | Software Engineer, Dev Productivity | score:3.8 | location:Taipei,Taiwan | posted:2026-08-11T03:50:42-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4981828008 | Anthropic | Software Engineer, Research Tools | score:3.3 | location:San Francisco, CA | New York City, NY; San Francisco, CA | New York City, NY | Seattle, WA | posted:2026-08-11T00:44:53-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/cohere/96c74af4-b3d7-4960-a666-212ce4debac8 | Cohere | Software Engineer, Integrations | score:3 | location:Europe | posted:2026-08-11T10:41:22.845+00:00 | source:ashby-api
+- [ ] https://app.careerpuck.com/job-board/lyft/job/8695848002?gh_jid=8695848002 | Lyft | Software Engineer, MapXP | score:3.8 | location:Toronto, Canada | posted:2026-08-11T06:13:21-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4451678829 | Pax | Software Engineer (Early Career) | score:4.1 | location:San Francisco, CA | posted:2026-08-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4452454163 | Microsoft | Software Engineer I/II | score:5 | location:Mountain View, CA | posted:2026-08-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4452094453 | ByteDance | Software Engineer Graduate (AML-Engine-Orchestration) - 2027 Start | score:3 | location:San Jose, CA | posted:2026-08-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451498924 | TikTok USDS Joint Venture | Software Engineer Graduate (E-Commerce) - 2027 Start | score:3 | location:San Jose, CA | posted:2026-08-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451602056 | Whova | Software Engineer (San Diego Only) | score:3 | location:San Diego, CA | posted:2026-08-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451620501 | SLB | Early Careers - Digital Technology | score:3.8 | location:Houston, TX | posted:2026-08-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4452474073 | Helic &amp; Co | Junior Software Engineer | score:3.8 | location:United States | posted:2026-08-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451688659 | Haystack | Junior Software Engineer | score:3.8 | location:Missouri, United States | posted:2026-08-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451682609 | Emonics LLC | Software Engineer | score:3 | location:San Jose, CA | posted:2026-08-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451696884 | Logic Jumps | Junior Software Engineer | score:4.1 | location:New York, United States | posted:2026-08-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451639326 | Comcast | Junior C++ Software Engineer - New York Hybrid - FreeWheel | score:4.1 | location:New York, NY | posted:2026-08-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451610670 | Sony Interactive Entertainment | Software Engineer I SDK | score:3.8 | location:San Mateo, CA | posted:2026-08-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451478475 | Aehr Test Systems | Associate Software Engineer | score:3.8 | location:Fremont, CA | posted:2026-08-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451648137 | FELICIS | Software Engineer, Collections Infra | score:3.3 | location:San Francisco, CA | posted:2026-08-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448442199 | 7Seventy Recruiting | Junior Full Stack Developer - $38.46 per hour | score:4.2 | location:United States | posted:2026-08-11T00:00:00.000Z | source:linkedin-guest
