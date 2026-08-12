@@ -5019,3 +5019,17 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4452677793 | Cisco | Software Engineer II (Full Time) - United States ENG/CPO/WTG ETR | score:3.8 | location:San Jose, CA | posted:2026-08-11T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4451941533 | Scoring Technologies | Entry/Junior Software Engineer | score:3.8 | location:St George, UT | posted:2026-08-11T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4452389730 | Impyrian | FULL STACK DEVELOPER (JUNIOR) - ANGULAR | score:4.2 | location:Ashburn, VA | posted:2026-08-12T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://careers.roblox.com/jobs/8097701?gh_jid=8097701 | Roblox | Software Engineer, Account Authentication | score:3 | location:San Mateo, CA, United States | posted:2026-08-12T12:11:42-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4452392144 | Revature | Entry Level Software Developer | score:3.8 | location:Chattanooga, TN | posted:2026-08-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4453128066 | Hire Feed | Junior Software Engineer (Remote) | score:3.8 | location:United States | posted:2026-08-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4453156324 | T2 Systems | Full Stack Developer | score:3.4 | location:Indianapolis, IN | posted:2026-08-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4453121325 | Helic &amp; Co | Junior Software Engineer | score:3.8 | location:United States | posted:2026-08-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4452717648 | Collabera | Junior Software Developer | score:3.8 | location:Berkeley Lake, GA | posted:2026-08-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4452705810 | Jefferies | Associate, Credit eTrading Software Developer (Java) | score:4.5 | location:New York, NY | posted:2026-08-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4453134021 | Chevy Chase Trust | Associate, Software Engineer | score:3.8 | location:Bethesda, MD | posted:2026-08-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4453074502 | JPMorganChase | Software Engineer II (Java) | score:4.5 | location:New York, NY | posted:2026-08-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4453003859 | Lyntris | Software Engineer I | score:3.8 | location:San Diego, CA | posted:2026-08-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4453086934 | Capgemini | Java Engineer | score:3.7 | location:New York, NY | posted:2026-08-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4453139292 | SkillStorm | Junior Software Engineer | score:3.8 | location:Washington, DC | posted:2026-08-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4452369542 | Haystack | Software Engineer | score:3 | location:Atlanta Metropolitan Area | posted:2026-08-12T00:00:00.000Z | source:linkedin-guest
