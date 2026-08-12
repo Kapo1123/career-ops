@@ -5001,3 +5001,21 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4451681866 | Dash Bio | Associate Software Engineer/Software Engineer - Full Stack | score:4.2 | location:Waltham, MA | posted:2026-08-11T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4449857879 | Cargill | Software Engineer Associate - Technology Development Program 2027, Atlanta, GA 1 | score:3.8 | location:Atlanta, GA | posted:2026-08-11T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4451918836 | BettaBot | Junior Full Stack Developer | score:4.2 | location:Santa Fe Springs, CA | posted:2026-08-11T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=8107198 | MongoDB | Software Engineer 3 | score:3.3 | location:New York City | posted:2026-08-12T11:27:25-04:00 | source:greenhouse-api
+- [ ] https://careers.hellofresh.com/global/en/job/8105178?gh_jid=8105178 | HelloFresh | Backend Engineer, Operations Technology | score:3.4 | location:Toronto, Ontario, Canada | posted:2026-08-12T11:38:03-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4451958763 | Sentry | Software Engineer, New Grad (2027) | score:4.1 | location:San Francisco, CA | posted:2026-08-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451971779 | Cohesity | Software Engineer (New Grad 2026) | score:3.8 | location:Santa Clara, CA | posted:2026-08-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4452630550 | MintMCP | Software Engineer | score:3 | location:San Mateo, CA | posted:2026-08-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4452376767 | TikTok | Software Engineer Graduate (Recommendation - TikTok AI Search &amp; Visual Search Infra Team) - 2027 Start | score:3 | location:San Jose, CA | posted:2026-08-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4450105710 | Stealth Startup | Software Engineer (New Grad) [33427] | score:4.1 | location:San Francisco Bay Area | posted:2026-08-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4452604119 | State Street | Software Engineer, CRD- New Graduate | score:3.8 | location:Burlington, MA | posted:2026-08-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4453039940 | AbbVie | Associate Software Engineer I | score:3.8 | location:North Chicago, IL | posted:2026-08-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4453143561 | Collins Aerospace | Software Engineer I (Onsite) | score:3.8 | location:Fulton, MD | posted:2026-08-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4452330540 | T-Mobile | Associate Engineer, Software | score:3.8 | location:Bellevue, WA | posted:2026-08-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4452301246 | Handshake | Associate Software Engineer, Operator Experience | score:4.1 | location:San Francisco, CA | posted:2026-08-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4453014553 | Marriott International | Associate Software Engineer-Mobile-Android | score:3.8 | location:Bethesda, MD | posted:2026-08-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4453105383 | L3Harris Technologies | Associate, Software Engineering | score:3.8 | location:Rockwall, TX | posted:2026-08-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4452677793 | Cisco | Software Engineer II (Full Time) - United States ENG/CPO/WTG ETR | score:3.8 | location:San Jose, CA | posted:2026-08-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451941533 | Scoring Technologies | Entry/Junior Software Engineer | score:3.8 | location:St George, UT | posted:2026-08-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4452389730 | Impyrian | FULL STACK DEVELOPER (JUNIOR) - ANGULAR | score:4.2 | location:Ashburn, VA | posted:2026-08-12T00:00:00.000Z | source:linkedin-guest
