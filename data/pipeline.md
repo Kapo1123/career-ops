@@ -5041,3 +5041,13 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4452715834 | Roblox | Software Engineer, Account Authentication | score:3 | location:San Mateo, CA | posted:2026-08-12T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4452675864 | Cisco | Software Engineer II (Full Time) - United States ENG/CPO/WTG ETR | score:4.1 | location:San Francisco, CA | posted:2026-08-11T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4452711659 | Haystack | Software Engineer | score:3 | location:Atlanta Metropolitan Area | posted:2026-08-12T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5388612008 | Anthropic | Software Engineer, Infrastructure, Interpretability | score:3.7 | location:San Francisco, CA | New York City, NY | posted:2026-08-12T18:29:15-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4453380670 | Uniswap | Software Engineer - Early Career | score:4.1 | location:New York, NY | posted:2026-08-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4453379712 | Uniswap | Software Engineer- General Interest | score:3.3 | location:New York, NY | posted:2026-08-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4453073496 | OMW Consulting | Graduate Software Engineer | score:3.3 | location:San Francisco Bay Area | posted:2026-08-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4453347124 | Yara AI | Software Engineer (New Grad) | score:3.8 | location:United States | posted:2026-08-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4453393169 | Nomura | Software Engineer Associate - Full Stack | score:4.2 | location:Philadelphia, PA | posted:2026-08-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4453377258 | PayPal | Software Engineer | score:3.3 | location:New York, NY | posted:2026-08-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4442644320 | Qualcomm | #Product Software Engineer | score:3 | location:San Diego, CA | posted:2026-08-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4452357771 | Haystack | Software Engineer | score:3 | location:Maryland, United States | posted:2026-08-12T00:00:00.000Z | source:linkedin-guest
