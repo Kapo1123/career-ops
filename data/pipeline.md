@@ -5033,3 +5033,11 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4453086934 | Capgemini | Java Engineer | score:3.7 | location:New York, NY | posted:2026-08-12T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4453139292 | SkillStorm | Junior Software Engineer | score:3.8 | location:Washington, DC | posted:2026-08-12T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4452369542 | Haystack | Software Engineer | score:3 | location:Atlanta Metropolitan Area | posted:2026-08-12T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4673312005 | Scale AI | Full-Stack Software Engineer, (Forward Deployed), GPS | score:3 | location:London, UK | posted:2026-08-12T14:45:33-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4418775489 | Myna Partners | Junior Software Engineer | score:3.8 | location:Atlanta Metropolitan Area | posted:2026-08-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4452364779 | State of Tennessee | SOFTWARE DEVELOPER - JUNIOR* - 08122026-80036 | score:3.8 | location:Nashville, TN | posted:2026-08-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4453329474 | Forescout Technologies Inc. | Associate Software Engineer | score:3.8 | location:Dallas, TX | posted:2026-08-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4452715834 | Roblox | Software Engineer, Account Authentication | score:3 | location:San Mateo, CA | posted:2026-08-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4452675864 | Cisco | Software Engineer II (Full Time) - United States ENG/CPO/WTG ETR | score:4.1 | location:San Francisco, CA | posted:2026-08-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4452711659 | Haystack | Software Engineer | score:3 | location:Atlanta Metropolitan Area | posted:2026-08-12T00:00:00.000Z | source:linkedin-guest
