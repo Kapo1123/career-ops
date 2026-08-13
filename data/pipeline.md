@@ -5086,3 +5086,12 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4450809818 | Bold Architecture &amp; Consulting Co. | Junior Software Engineer | score:4.1 | location:New York, United States | posted:2026-08-13T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4454096284 | Quantinuum | Software Engineer I - Lab - 934 | score:3.8 | location:Broomfield, CO | posted:2026-08-13T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4443444335 | Booz Allen Hamilton | Software Engineer, Junior | score:3.8 | location:Albuquerque, NM | posted:2026-08-13T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://boards.greenhouse.io/robinhood/jobs/8067604?t=gh_src=&gh_jid=8067604 | Robinhood | Software Engineer, Proactive Capabilities | score:3.8 | location:Bellevue, WA; Menlo Park, CA | posted:2026-08-13T17:48:16-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/sierra/4472e6c2-fe4e-4540-a37c-68b9367fe02a | Sierra | Software Engineer, Agent - Tech, Media & Telecom | score:3.3 | location:San Francisco, CA | posted:2026-08-13T21:35:33.814+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4453687841 | JPMorganChase | Software Engineer II (Java) | score:4.5 | location:New York, NY | posted:2026-08-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4453645948 | PwC | Forward Deployed Software Engineering - Experienced Associate | score:4.1 | location:New York, NY | posted:2026-08-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4453275170 | Vagaro | Software Engineer | score:3 | location:Pleasanton, CA | posted:2026-08-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4452930644 | Haystack | Junior Software Engineer | score:3.8 | location:Huntsville, AL | posted:2026-08-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4454324446 | Technologent | Junior Full Stack Developer | score:4.2 | location:Phoenix, AZ | posted:2026-08-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4415704910 | GovWell | Software Engineer | score:3.3 | location:New York, NY | posted:2026-08-13T00:00:00.000Z | source:linkedin-guest
