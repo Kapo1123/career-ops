@@ -5070,3 +5070,12 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4452989740 | Jack | Full Stack Engineer | score:3.7 | location:San Francisco Bay Area | posted:2026-08-13T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4454059259 | TalentAlly | Software Engineer | score:3 | location:Miami-Fort Lauderdale Area | posted:2026-08-13T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4453632537 | Lennar | Software Engineer I | score:3.8 | location:Miami, FL | posted:2026-08-13T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/snowflake/5d522a45-5aa4-440d-a5dc-7a4434d8038e | Snowflake | Fullstack Software Engineer | score:4.2 | location:CA-Ontario-Toronto | posted:2026-08-13T17:15:56.601+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4450816721 | Bold Architecture &amp; Consulting Co. | Junior Software Engineer | score:4.1 | location:New York, United States | posted:2026-08-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4452921492 | Haystack | Junior Software Engineer | score:3.8 | location:Huntsville, AL | posted:2026-08-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4452901177 | TikTok | Software Engineer Graduate (Foundation Platform) - 2027 Start | score:3.4 | location:San Jose, CA | posted:2026-08-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4454074085 | Teladoc Health | Junior Software Engineering Program - Planning &amp; Budget Associate Engineer | score:4.1 | location:New York, United States | posted:2026-08-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4454050324 | Lumion | Junior Full Stack Software Engineer | score:4.2 | location:South Jordan, UT | posted:2026-08-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4452786311 | TikTok | Backend Software Engineer Graduate (TikTok-PGC-Creator Strategy) - 2027 Start | score:3.4 | location:San Jose, CA | posted:2026-08-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4452914933 | Revature | Entry Level Software Developer | score:3.8 | location:Chattanooga, TN | posted:2026-08-13T00:00:00.000Z | source:linkedin-guest
