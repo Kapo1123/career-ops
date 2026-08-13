@@ -5079,3 +5079,10 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4454050324 | Lumion | Junior Full Stack Software Engineer | score:4.2 | location:South Jordan, UT | posted:2026-08-13T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4452786311 | TikTok | Backend Software Engineer Graduate (TikTok-PGC-Creator Strategy) - 2027 Start | score:3.4 | location:San Jose, CA | posted:2026-08-13T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4452914933 | Revature | Entry Level Software Developer | score:3.8 | location:Chattanooga, TN | posted:2026-08-13T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4450469215 | Alumni Founders | Software Engineer (New Grad) | score:3.8 | location:Los Angeles, CA | posted:2026-08-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4450814865 | Bold Architecture &amp; Consulting Co. | Software Engineer (Entry-Level / Associate) | score:4.1 | location:New York, United States | posted:2026-08-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4450806927 | Zebra Technologies | Software Engineer, Professional I | score:3 | location:Holtsville, NY | posted:2026-08-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4450809818 | Bold Architecture &amp; Consulting Co. | Junior Software Engineer | score:4.1 | location:New York, United States | posted:2026-08-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4454096284 | Quantinuum | Software Engineer I - Lab - 934 | score:3.8 | location:Broomfield, CO | posted:2026-08-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443444335 | Booz Allen Hamilton | Software Engineer, Junior | score:3.8 | location:Albuquerque, NM | posted:2026-08-13T00:00:00.000Z | source:linkedin-guest
