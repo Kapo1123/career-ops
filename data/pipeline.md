@@ -5051,3 +5051,22 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4453377258 | PayPal | Software Engineer | score:3.3 | location:New York, NY | posted:2026-08-12T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4442644320 | Qualcomm | #Product Software Engineer | score:3 | location:San Diego, CA | posted:2026-08-12T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4452357771 | Haystack | Software Engineer | score:3 | location:Maryland, United States | posted:2026-08-12T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4722512005 | Scale AI | Software Engineer - AI Enablement | score:3.3 | location:San Francisco, CA | posted:2026-08-13T02:26:19-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/snowflake/cbc2087c-f5fc-48b7-8d23-114836a42e3e | Snowflake | Cloud Infrastructure Engineer | score:4.2 | location:IN-Pune | posted:2026-08-13T05:17:27.404+00:00 | source:ashby-api
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7805685003?gh_jid=7805685003 | Celonis | Sr. Frontend Software Engineer - Orchestration and Automation | score:3 | location:Madrid, Spain | posted:2026-08-13T09:37:18-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7678804003?gh_jid=7678804003 | Celonis | Sr. Full Stack Software Engineer - Orchestration and Automation | score:3.4 | location:Madrid, Spain | posted:2026-08-13T09:33:01-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4452923607 | TikTok | Software Engineer Graduate (Recommendation Infrastructure) - 2027 Start | score:3.4 | location:San Jose, CA | posted:2026-08-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4453643353 | Sapphire Partners | Software Engineer (New Grad 2026) | score:3.8 | location:Santa Clara, CA | posted:2026-08-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4453625301 | Uber | Software Engineer I | score:3.8 | location:Sunnyvale, CA | posted:2026-08-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4452798180 | TikTok | Software Engineer Graduate (Media Engine) - 2027 Start | score:3 | location:San Jose, CA | posted:2026-08-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4450418148 | UL Solutions | Associate Software Engineer | score:3.8 | location:Fremont, CA | posted:2026-08-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4453686805 | Yara AI | Software Engineer (New Grad) | score:3.8 | location:United States | posted:2026-08-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4453603418 | The Walt Disney Company | Product Software Engineer I | score:3.8 | location:Glendale, CA | posted:2026-08-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4452756216 | Glimmer | Junior Full Stack Engineer | score:4.2 | location:Austin, TX | posted:2026-08-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4454019379 | Helic &amp; Co | Junior Software Engineer | score:3.8 | location:United States | posted:2026-08-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4452921497 | Haystack | Junior Software Engineer | score:3.8 | location:Alabama, United States | posted:2026-08-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4453206621 | Jack | Software Engineer | score:3.3 | location:San Francisco Bay Area | posted:2026-08-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4452989740 | Jack | Full Stack Engineer | score:3.7 | location:San Francisco Bay Area | posted:2026-08-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4454059259 | TalentAlly | Software Engineer | score:3 | location:Miami-Fort Lauderdale Area | posted:2026-08-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4453632537 | Lennar | Software Engineer I | score:3.8 | location:Miami, FL | posted:2026-08-13T00:00:00.000Z | source:linkedin-guest
