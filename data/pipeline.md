@@ -5116,3 +5116,11 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4454386632 | Venture Up | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-08-14T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4454534347 | Synchrony | Software Engineer | score:3 | location:District of Columbia, United States | posted:2026-08-14T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4413275967 | Booz Allen Hamilton | Software Developer | score:3 | location:Fort Meade, MD | posted:2026-08-14T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://stripe.com/jobs/search?gh_jid=8130578 | Stripe | Software Engineer, Backend Engineer- Credit Coverage | score:4.5 | location:New York, NY | posted:2026-08-14T13:38:23-04:00 | source:greenhouse-api
+- [ ] https://www.okta.com/company/careers/opportunity/7919336?gh_jid=7919336 | Okta | Software Engineer | score:3 | location:Bengaluru, India | posted:2026-08-14T12:17:35-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4453540118 | Haystack | Junior Software Engineer | score:3.8 | location:Huntsville, AL | posted:2026-08-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4450878539 | Johns Hopkins Applied Physics Laboratory | Associate Software Engineer | score:3.8 | location:Laurel, MD | posted:2026-08-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4454550181 | Synchrony | Software Engineer | score:3 | location:Alpharetta, GA | posted:2026-08-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4454367150 | Lennar | Software Engineer I | score:3.8 | location:Irving, TX | posted:2026-08-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4453530970 | Revature | Entry Level Software Developer | score:3.8 | location:Chattanooga, TN | posted:2026-08-14T00:00:00.000Z | source:linkedin-guest
