@@ -5095,3 +5095,24 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4452930644 | Haystack | Junior Software Engineer | score:3.8 | location:Huntsville, AL | posted:2026-08-13T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4454324446 | Technologent | Junior Full Stack Developer | score:4.2 | location:Phoenix, AZ | posted:2026-08-13T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4415704910 | GovWell | Software Engineer | score:3.3 | location:New York, NY | posted:2026-08-13T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://careers.roblox.com/jobs/8113334?gh_jid=8113334 | Roblox | Software Engineer, Creator Business  | score:3 | location:San Mateo, CA, United States | posted:2026-08-14T03:38:06-04:00 | source:greenhouse-api
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/8125865?gh_jid=8125865 | Cloudflare | Software Engineer- | score:3 | location:Hybrid | posted:2026-08-14T04:04:07-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4453534117 | TikTok | Backend Software Engineer Graduate (Creation Platform) - 2027 Start | score:3.4 | location:San Jose, CA | posted:2026-08-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4453532834 | TikTok | Software Engineer Graduate (Media Engine) - 2027 Start | score:3 | location:San Jose, CA | posted:2026-08-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4453577159 | Roblox | Software Engineer, Creator Business | score:3 | location:San Mateo, CA | posted:2026-08-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4454513774 | Yara AI | Software Engineer (New Grad) | score:3.8 | location:United States | posted:2026-08-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4454503166 | Composio | Fullstack Engineer, Product Team (New Grad) | score:4.5 | location:San Francisco, CA | posted:2026-08-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4453540123 | Haystack | Junior Software Engineer | score:3.8 | location:Alabama, United States | posted:2026-08-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451226917 | Solarity | Software Engineer I | score:3.8 | location:Sioux Falls, SD | posted:2026-08-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4454327798 | Honeywell Technologies | Software Engineer I | score:3.8 | location:Richmond, VA | posted:2026-08-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4453507909 | BioSpace | Associate Software Engineer I | score:3.8 | location:North Chicago, IL | posted:2026-08-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4453512145 | Vagaro | Software Engineer | score:3 | location:Pleasanton, CA | posted:2026-08-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4454327209 | Northrop Grumman | 2026 Associate Cyber Software Engineer - Chantilly VA | score:3.8 | location:Chantilly, VA | posted:2026-08-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4454313426 | Northrop Grumman | Associate Software Engineer | score:3.8 | location:Rolling Meadows, IL | posted:2026-08-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4454537672 | Lumion | Junior Full Stack Software Engineer | score:4.2 | location:South Jordan, UT | posted:2026-08-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4454367151 | Lennar | Software Engineer I | score:3.8 | location:Miami, FL | posted:2026-08-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4454514592 | Microsoft | Software Engineer | score:4.5 | location:Redmond, WA | posted:2026-08-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4454386632 | Venture Up | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-08-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4454534347 | Synchrony | Software Engineer | score:3 | location:District of Columbia, United States | posted:2026-08-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4413275967 | Booz Allen Hamilton | Software Developer | score:3 | location:Fort Meade, MD | posted:2026-08-14T00:00:00.000Z | source:linkedin-guest
