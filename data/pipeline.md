@@ -5129,3 +5129,17 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4454538206 | Synchrony | Software Engineer | score:3 | location:Chicago, IL | posted:2026-08-14T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4453711487 | Jack &amp; Jill | Software Engineer at Den | score:3.3 | location:New York, United States | posted:2026-08-14T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4453510242 | Sky Transport Solution | Full Stack Engineer | score:3.4 | location:Tracy, CA | posted:2026-08-14T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://stripe.com/jobs/search?gh_jid=8131144 | Stripe | Backend Engineer, Link (US) | score:4.2 | location:NYC, Sea, SF, Tor | posted:2026-08-14T17:10:19-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/twitch/jobs/8700578002 | Twitch | Software Engineer I, Payments | score:4.1 | location:San Francisco, CA | posted:2026-08-14T16:13:21-04:00 | source:greenhouse-api
+- [ ] https://app.careerpuck.com/job-board/lyft/job/8716222002?gh_jid=8716222002 | Lyft | Software Engineer, Fulfillment Core Services | score:4.1 | location:Seattle, WA | posted:2026-08-14T16:46:23-04:00 | source:greenhouse-api
+- [ ] https://app.careerpuck.com/job-board/lyft/job/8716220002?gh_jid=8716220002 | Lyft | Software Engineer, Observability | score:3.8 | location:Toronto, Canada | posted:2026-08-14T16:06:59-04:00 | source:greenhouse-api
+- [ ] http://block.xyz/careers/jobs/5381210008?gh_jid=5381210008 | Block (Square) | Enterprise People Platform Engineer | score:3.4 | location:Bay Area, CA, United States of America | posted:2026-08-14T16:48:26-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/claylabs/9aeacdb4-2364-40b8-935e-c561af931b5a | Clay Labs | Software Engineer, Backend (Product) | score:3.7 | location:New York | posted:2026-08-14T22:16:11.964+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/claylabs/5e07db20-d96a-4dff-b7d3-3bf1cdde6fc1 | Clay Labs | Software Engineer, Applied AI | score:3.3 | location:New York | posted:2026-08-14T22:37:36.377+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/claylabs/4b20eb92-c27c-46fb-8d5b-ead32765a7d8 | Clay Labs | Software Engineer, (Full Stack) Product | score:3.7 | location:New York | posted:2026-08-14T22:11:12.345+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/claylabs/046cb127-d5fc-444f-a2a9-fb4029d6a503 | Clay Labs | Software Engineer, Data Products & Platform | score:3.7 | location:New York | posted:2026-08-14T21:44:33.380+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/claylabs/29f84bd5-71d5-411f-a3dc-3592949a5240 | Clay Labs | Software Engineer, Backend (Infrastructure & Platform) | score:3.7 | location:New York | posted:2026-08-14T22:29:03.037+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4454592335 | MintMCP | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-08-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4454805111 | Notion | Software Engineer, New Grad (Dec 2026) | score:4.9 | location:San Francisco, CA | posted:2026-08-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4453720779 | TikTok | Software Engineer Graduate (Foundation Platform) - 2027 Start | score:3.4 | location:San Jose, CA | posted:2026-08-14T00:00:00.000Z | source:linkedin-guest
