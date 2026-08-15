@@ -5143,3 +5143,19 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4454592335 | MintMCP | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-08-14T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4454805111 | Notion | Software Engineer, New Grad (Dec 2026) | score:4.9 | location:San Francisco, CA | posted:2026-08-14T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4453720779 | TikTok | Software Engineer Graduate (Foundation Platform) - 2027 Start | score:3.4 | location:San Jose, CA | posted:2026-08-14T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/snowflake/08ba6a41-fb63-4b51-aee7-be5501668909 | Snowflake | Software Engineer - AIM Virtualization | score:3.8 | location:US-CA-Menlo Park | posted:2026-08-14T23:35:58.293+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4454801273 | MintMCP | Software Engineer | score:3 | location:San Mateo, CA | posted:2026-08-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4454867743 | FELICIS | Software Engineer, New Grad (Dec 2026) | score:4.1 | location:San Francisco, CA | posted:2026-08-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451279564 | Flow Engineering | Software Engineer, Early Career | score:4.1 | location:San Francisco, CA | posted:2026-08-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4453791036 | Twitch | Software Engineer I, Payments | score:4.1 | location:San Francisco, CA | posted:2026-08-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4453789235 | MiTek | Software Engineer | score:3 | location:Greenwood Village, CO | posted:2026-08-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4453709145 | Prosum | Junior Full Stack Engineer | score:4.2 | location:California, United States | posted:2026-08-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451288420 | Avid Technology Professionals | Software Engineer 1 | score:3 | location:Annapolis Junction, MD | posted:2026-08-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451703299 | Walmart Global Tech | Software Engineer II | score:3.8 | location:Sunnyvale, CA | posted:2026-08-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451710382 | CareerXperts Consulting | Associate Software Engineer | score:3.8 | location:United States | posted:2026-08-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4454842240 | New Relic | Associate Software Engineer - Java (Distributed Systems and Databases) | score:4.2 | location:Portland, OR | posted:2026-08-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4455125064 | Microsoft | Software Engineer | score:4.5 | location:Redmond, WA | posted:2026-08-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4453931190 | Jack &amp; Jill | Software Engineer at Den | score:3.3 | location:New York, United States | posted:2026-08-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4455118486 | Amgen | Software Engineer | score:3 | location:Thousand Oaks, CA | posted:2026-08-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451733208 | Wired Media Solutions | Software Engineer | score:3 | location:Indiana, United States | posted:2026-08-15T00:00:00.000Z | source:linkedin-guest
