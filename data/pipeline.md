@@ -5159,3 +5159,5 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4453931190 | Jack &amp; Jill | Software Engineer at Den | score:3.3 | location:New York, United States | posted:2026-08-15T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4455118486 | Amgen | Software Engineer | score:3 | location:Thousand Oaks, CA | posted:2026-08-15T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4451733208 | Wired Media Solutions | Software Engineer | score:3 | location:Indiana, United States | posted:2026-08-15T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4375773802 | Hyundai AutoEver America | 10801 - Software Engineer II, KMNA Development | score:3.8 | location:Costa Mesa, CA | posted:2026-08-15T00:00:00.000Z | source:linkedin-guest
