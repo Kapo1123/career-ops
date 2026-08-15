@@ -5161,3 +5161,8 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4451733208 | Wired Media Solutions | Software Engineer | score:3 | location:Indiana, United States | posted:2026-08-15T00:00:00.000Z | source:linkedin-guest
 
 - [ ] https://www.linkedin.com/jobs/view/4375773802 | Hyundai AutoEver America | 10801 - Software Engineer II, KMNA Development | score:3.8 | location:Costa Mesa, CA | posted:2026-08-15T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4453756654 | Applied Intuition | Software Engineer - New Grad (December 2026) | score:3.8 | location:Sunnyvale, CA | posted:2026-08-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4453735487 | NVIDIA | Software Engineer, Deep Learning Libraries - New College Graduate 2026 | score:3 | location:Santa Clara, CA | posted:2026-08-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4453739773 | Applied Intuition | Software Integration Engineer - New Grad (2027) | score:3.8 | location:Sunnyvale, CA | posted:2026-08-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4453958368 | Kyra | Software Engineer | score:3.3 | location:San Francisco Bay Area | posted:2026-08-15T00:00:00.000Z | source:linkedin-guest
