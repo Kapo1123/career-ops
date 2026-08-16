@@ -5197,3 +5197,7 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4433132185 | NCCI | Software Developer | score:3 | location:Miami-Fort Lauderdale Area | posted:2026-08-15T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4454546335 | Stripe | Full Stack Engineer, Startup Products | score:4.2 | location:Chicago, IL | posted:2026-08-15T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4432846981 | Akkodis | C# Software Engineer | score:3 | location:United States | posted:2026-08-15T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4454205417 | Haystack | Full Stack Engineer | score:3.7 | location:San Francisco Bay Area | posted:2026-08-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4453997450 | RemoteHunter | Software Engineer | score:3 | location:United States | posted:2026-08-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4453994504 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-08-16T00:00:00.000Z | source:linkedin-guest
