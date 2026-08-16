@@ -5181,3 +5181,13 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4453989173 | Haystack | Junior Software Engineer | score:3.8 | location:Huntsville, AL | posted:2026-08-16T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4453995161 | Haystack | Software Engineer | score:3 | location:Maryland, United States | posted:2026-08-16T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4455191593 | Savance | Software Engineer (Junior to Mid Level) | score:3.8 | location:Walled Lake, MI | posted:2026-08-16T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4455139654 | Yara AI | Software Engineer (New Grad) | score:3.8 | location:United States | posted:2026-08-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418064126 | Relativity | Software Engineer | score:3 | location:Washington, United States | posted:2026-08-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451741671 | Tech Consulting | Junior Cloud Engineer | score:3.8 | location:Pennsylvania, United States | posted:2026-08-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4455114866 | TikTok USDS Joint Venture | Software Engineer, E-Commerce AI Platform - USDS | score:3.7 | location:Seattle, WA | posted:2026-08-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4452200000 | Jobrion | Entry software engineer | score:3 | location:United States | posted:2026-08-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4455181522 | Hire Feed | Junior Software Engineer (Remote) | score:3.8 | location:United States | posted:2026-08-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4453978888 | Jobright.ai | Python Engineer, New Grad | score:4.2 | location:United States | posted:2026-08-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4416597319 | Neuralink | Software Engineer, Implant | score:3.3 | location:San Francisco, CA | posted:2026-08-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4387469876 | SpaceX | Software Engineer, Design Software (Starship) | score:3 | location:Hawthorne, CA | posted:2026-08-16T00:00:00.000Z | source:linkedin-guest
