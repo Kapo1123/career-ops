@@ -5166,3 +5166,18 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4453735487 | NVIDIA | Software Engineer, Deep Learning Libraries - New College Graduate 2026 | score:3 | location:Santa Clara, CA | posted:2026-08-15T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4453739773 | Applied Intuition | Software Integration Engineer - New Grad (2027) | score:3.8 | location:Sunnyvale, CA | posted:2026-08-15T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4453958368 | Kyra | Software Engineer | score:3.3 | location:San Francisco Bay Area | posted:2026-08-15T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4445273773 | Luma | Software Engineer - Product | score:3 | location:Redwood City, CA | posted:2026-08-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4455147241 | Yara AI | Full Stack Engineer (New Grad) | score:4.2 | location:United States | posted:2026-08-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451737439 | Boeing | Software Engineer - Simulation - Hybrid - Relocation Assistance Available | score:3 | location:Bingen, WA | posted:2026-08-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417380539 | SpaceX | Flight Software Engineer (Starlink Mobile) | score:3 | location:Redmond, WA | posted:2026-08-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4451735429 | Meta | Software Engineer Systems Machine Learning - Frameworks | score:4.5 | location:Menlo Park, CA | posted:2026-08-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4455203502 | Asperti Advisory | Junior Software Engineer | score:4.1 | location:New York, United States | posted:2026-08-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4454202149 | Asperti Advisory | Software Engineer (Entry-Level / Associate) | score:4.1 | location:New York, United States | posted:2026-08-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4455147887 | Yara AI | Software Engineer (New Grad) | score:4.1 | location:San Francisco Bay Area | posted:2026-08-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4351877495 | Medpace | Junior Software Engineer | score:3.8 | location:Cincinnati, OH | posted:2026-08-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417436306 | General Atomics Aeronautical Systems | Software Developer | score:3 | location:Salina, KS | posted:2026-08-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4455111992 | TikTok USDS Joint Venture | Software Engineer, E-commerce Supply Chain and Logistics - USDS | score:3 | location:San Jose, CA | posted:2026-08-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4453989173 | Haystack | Junior Software Engineer | score:3.8 | location:Huntsville, AL | posted:2026-08-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4453995161 | Haystack | Software Engineer | score:3 | location:Maryland, United States | posted:2026-08-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4455191593 | Savance | Software Engineer (Junior to Mid Level) | score:3.8 | location:Walled Lake, MI | posted:2026-08-16T00:00:00.000Z | source:linkedin-guest
