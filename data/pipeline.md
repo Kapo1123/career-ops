@@ -5191,3 +5191,9 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4453978888 | Jobright.ai | Python Engineer, New Grad | score:4.2 | location:United States | posted:2026-08-16T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4416597319 | Neuralink | Software Engineer, Implant | score:3.3 | location:San Francisco, CA | posted:2026-08-16T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4387469876 | SpaceX | Software Engineer, Design Software (Starship) | score:3 | location:Hawthorne, CA | posted:2026-08-16T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4418057187 | Relativity | Software Engineer | score:3 | location:Tennessee, United States | posted:2026-08-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4455187836 | Quantinuum | Software Engineer I - Lab - 934 | score:3.8 | location:Broomfield, CO | posted:2026-08-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4433132185 | NCCI | Software Developer | score:3 | location:Miami-Fort Lauderdale Area | posted:2026-08-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4454546335 | Stripe | Full Stack Engineer, Startup Products | score:4.2 | location:Chicago, IL | posted:2026-08-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4432846981 | Akkodis | C# Software Engineer | score:3 | location:United States | posted:2026-08-15T00:00:00.000Z | source:linkedin-guest
