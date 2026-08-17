@@ -5217,3 +5217,7 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4455204174 | TikTok USDS Joint Venture | Software Engineer, Search - USDS | score:3 | location:San Jose, CA | posted:2026-08-16T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4453797819 | Hyra | Junior Software Developer | score:3.8 | location:Colonial Beach, VA | posted:2026-08-17T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4454242571 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-08-17T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://stripe.com/jobs/search?gh_jid=8118929 | Stripe | Full Stack Engineer, Enterprise & Ecosystem | score:4.2 | location:N/A | posted:2026-08-17T11:59:47-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4454294317 | Whova | Software Engineer (San Diego Only) | score:3 | location:San Diego, CA | posted:2026-08-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4455310291 | STR | Associate Software Engineer | score:4.6 | location:San Diego, CA | posted:2026-08-17T00:00:00.000Z | source:linkedin-guest
