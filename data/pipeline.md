@@ -5201,3 +5201,19 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4454205417 | Haystack | Full Stack Engineer | score:3.7 | location:San Francisco Bay Area | posted:2026-08-16T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4453997450 | RemoteHunter | Software Engineer | score:3 | location:United States | posted:2026-08-16T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4453994504 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-08-16T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4454235766 | Google | Software Engineer, Service Networking Engineering Productivity | score:4.5 | location:Cambridge, MA | posted:2026-08-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4382414291 | Crossing Hurdles | Infrastructure Software Engineer | score:3.7 | location:San Francisco, CA | posted:2026-08-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4452224250 | Stealth Startup | Backend Developer [33006] | score:3.4 | location:Chicago, IL | posted:2026-08-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4417242896 | UST | Junior Full Stack Developer (Data CoE) | score:4.2 | location:Bellevue, WA | posted:2026-08-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4380534340 | Baseten | Software Engineer - Dedicated Inference | score:3.3 | location:San Francisco, CA | posted:2026-08-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4454269867 | IXRF Systems | Junior Software Developer | score:3.8 | location:Austin, TX | posted:2026-08-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4454245901 | HRK Technologies Inc. | Junior Software Engineer | score:3.8 | location:Wyoming, United States | posted:2026-08-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4452706000 | BRYCER | Junior Software Engineer | score:3.8 | location:North Aurora, IL | posted:2026-08-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445600869 | FANUC America Corporation | Software Engineer | score:3 | location:Rochester Hills, MI | posted:2026-08-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4455316241 | STR | Associate Software Engineer | score:4.6 | location:Woburn, MA | posted:2026-08-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4454263569 | Trane Technologies | Associate Engineer | score:3.8 | location:La Crosse, WI | posted:2026-08-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4454232252 | Unlok | Junior  Options Software Developer | score:4.1 | location:New York, NY | posted:2026-08-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4455204174 | TikTok USDS Joint Venture | Software Engineer, Search - USDS | score:3 | location:San Jose, CA | posted:2026-08-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4453797819 | Hyra | Junior Software Developer | score:3.8 | location:Colonial Beach, VA | posted:2026-08-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4454242571 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-08-17T00:00:00.000Z | source:linkedin-guest
