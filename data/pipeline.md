@@ -5221,3 +5221,11 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://stripe.com/jobs/search?gh_jid=8118929 | Stripe | Full Stack Engineer, Enterprise & Ecosystem | score:4.2 | location:N/A | posted:2026-08-17T11:59:47-04:00 | source:greenhouse-api
 - [ ] https://www.linkedin.com/jobs/view/4454294317 | Whova | Software Engineer (San Diego Only) | score:3 | location:San Diego, CA | posted:2026-08-17T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4455310291 | STR | Associate Software Engineer | score:4.6 | location:San Diego, CA | posted:2026-08-17T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://boards.greenhouse.io/figma/jobs/6142506004?gh_jid=6142506004 | Figma | Software Engineer - Application Platform | score:4.5 | location:San Francisco, CA • New York, NY • United States | posted:2026-08-17T13:48:59-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/gusto/jobs/7947684 | Gusto | Software Engineer,  AI Developer Tools | score:3.3 | location:San Francisco, CA - Hybrid | posted:2026-08-17T14:27:08-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4455339876 | Simplex. | Junior Software Engineer - Top 25 CS Degree | score:3.8 | location:Austin, Texas Metropolitan Area | posted:2026-08-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4455336684 | MatX | Software Engineer - Simulators | score:3 | location:Mountain View, CA | posted:2026-08-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4455344445 | Honeywell Technologies | Software Engineer I | score:3.8 | location:Richmond, VA | posted:2026-08-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4455279243 | L3Harris Technologies | Associate, Software Engineer (Herndon, VA) | score:3.8 | location:Herndon, VA | posted:2026-08-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4450292929 | Aurora | Software Engineer I (Data Eng infra) | score:4.2 | location:Mountain View, CA | posted:2026-08-17T00:00:00.000Z | source:linkedin-guest
