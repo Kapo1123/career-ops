@@ -5229,3 +5229,21 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4455344445 | Honeywell Technologies | Software Engineer I | score:3.8 | location:Richmond, VA | posted:2026-08-17T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4455279243 | L3Harris Technologies | Associate, Software Engineer (Herndon, VA) | score:3.8 | location:Herndon, VA | posted:2026-08-17T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4450292929 | Aurora | Software Engineer I (Data Eng infra) | score:4.2 | location:Mountain View, CA | posted:2026-08-17T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://stripe.com/jobs/search?gh_jid=8137972 | Stripe | Software Engineer | score:3.8 | location:Chicago, IL | posted:2026-08-17T17:52:22-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/elevenlabs/b1b4fa6b-ad36-4b0d-be89-32f35fcb420a | ElevenLabs | Forward Deployed Engineer - Software Engineer - Germany | score:3 | location:Germany | posted:2026-08-17T21:12:14.079+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/elevenlabs/16ed3af9-e4a7-4b59-8767-7771604d9165 | ElevenLabs | Forward Deployed Engineer - Software Engineer - Denmark | score:3 | location:Denmark | posted:2026-08-17T21:15:43.802+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/elevenlabs/c8216d65-13c9-4f8c-9b57-e14fd02738b0 | ElevenLabs | Forward Deployed Engineer - Software Engineer - Saudi Arabia | score:3 | location:Saudi Arabia | posted:2026-08-17T21:58:45.009+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/elevenlabs/8e3de98e-0c2e-4999-90ae-3036ee47df05 | ElevenLabs | Forward Deployed Engineer - Software Engineer - Switzerland | score:3 | location:Switzerland | posted:2026-08-17T22:02:50.556+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/elevenlabs/fa4fc307-a0fb-47aa-9336-f202f2265440 | ElevenLabs | Forward Deployed Software Engineer - UAE | score:3 | location:UAE  | posted:2026-08-17T22:10:03.725+00:00 | source:ashby-api
+- [ ] https://careers.roblox.com/jobs/8123004?gh_jid=8123004 | Roblox | Software Engineer, Foundation AI | score:3 | location:San Mateo, CA, United States | posted:2026-08-17T16:22:55-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4454429824 | Trust In SODA | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-08-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4454419513 | Jack | Full Stack Engineer | score:3.7 | location:San Francisco Bay Area | posted:2026-08-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4454426409 | Jack | Software Engineer | score:3.3 | location:San Francisco Bay Area | posted:2026-08-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4454426686 | Sigmund Healthcare | Full-Time Software Developer | score:3.3 | location:New York, NY | posted:2026-08-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4454069242 | Powerus | Software Developer I | score:3 | location:Charlotte, NC | posted:2026-08-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4455387846 | Intuit | Software Engineer 1 | score:3 | location:Villa Park, IL | posted:2026-08-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4455355724 | TalentAlly | Software Engineer | score:3 | location:Dallas-Fort Worth Metroplex | posted:2026-08-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4455380202 | Eulerity | Associate Web Development Software Engineer (SDK) | score:4.1 | location:New York City Metropolitan Area | posted:2026-08-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4455361514 | Bristol Myers Squibb | Software Engineer, AI Engineering and Enablement | score:3.3 | location:Seattle, WA | posted:2026-08-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4455391126 | John Galt Staffing | Entry Level Software Engineer | score:3.8 | location:Columbia, MD | posted:2026-08-17T00:00:00.000Z | source:linkedin-guest
