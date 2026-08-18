@@ -5279,3 +5279,13 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://stripe.com/jobs/search?gh_jid=6692166 | Stripe | Backend Engineer, Payments | score:4.5 | location:Toronto, Canada Remote | posted:2026-08-18T14:56:52-04:00 | source:greenhouse-api
 - [ ] https://jobs.ashbyhq.com/openai/71838fdf-4476-490c-81b6-4bf0746f6774 | OpenAI | Software Engineer, Plugin Developer Platform | score:3.7 | location:San Francisco | posted:2026-08-18T19:12:23.311+00:00 | source:ashby-api
 - [ ] https://www.linkedin.com/jobs/view/4454789296 | Verita AI | Junior Software Engineer | score:4.1 | location:San Francisco, CA | posted:2026-08-18T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8139781 | Reddit | Software Engineer, Content Platform | score:3.7 | location:Remote - United States | posted:2026-08-18T15:43:32-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/langchain/bdcced92-2dca-49b0-bc33-4ec0cf5a8e00 | LangChain | Platform Software Engineer, Ingestion  | score:3.7 | location:San Francisco, CA | posted:2026-08-18T19:52:07.598+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4455960239 | MintMCP | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-08-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4455531962 | USAN, Inc. | Entry Level Software Engineer - Hybrid - Norcross, GA | score:3.8 | location:Norcross, GA | posted:2026-08-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4454795561 | Emonics LLC | Associate Software Engineer | score:3.8 | location:Madison, WI | posted:2026-08-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4452282468 | BeaconFire Inc. | Entry-Level / Junior Software Developer Opportunity | score:3.8 | location:New Jersey, United States | posted:2026-08-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4455769746 | State Street | Software Engineer, CRD- New Graduate | score:3.8 | location:Burlington, MA | posted:2026-08-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4454918360 | Morgan Stanley | AI Integration Software Engineer - Associate | score:4.1 | location:New York, NY | posted:2026-08-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4455970514 | Southern Glazer's Wine &amp; Spirits | Software Engineer | score:3 | location:Hollywood, FL | posted:2026-08-18T00:00:00.000Z | source:linkedin-guest
