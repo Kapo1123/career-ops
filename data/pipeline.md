@@ -5274,3 +5274,8 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4448295048 | TikTok | Backend Engineer Graduate (User Growth) - 2027 Start | score:3.4 | location:San Jose, CA | posted:2026-08-18T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4452543585 | Charta Health | Software Engineer, New Grad | score:4.1 | location:New York, NY | posted:2026-08-18T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4446304514 | Arcadia | Full Stack Engineer | score:3.7 | location:New York, United States | posted:2026-08-18T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://boards.greenhouse.io/robinhood/jobs/8120094?t=gh_src=&gh_jid=8120094 | Robinhood | Software Engineer | score:3.8 | location:Menlo Park, CA | posted:2026-08-18T14:25:23-04:00 | source:greenhouse-api
+- [ ] https://stripe.com/jobs/search?gh_jid=6692166 | Stripe | Backend Engineer, Payments | score:4.5 | location:Toronto, Canada Remote | posted:2026-08-18T14:56:52-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/openai/71838fdf-4476-490c-81b6-4bf0746f6774 | OpenAI | Software Engineer, Plugin Developer Platform | score:3.7 | location:San Francisco | posted:2026-08-18T19:12:23.311+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4454789296 | Verita AI | Junior Software Engineer | score:4.1 | location:San Francisco, CA | posted:2026-08-18T00:00:00.000Z | source:linkedin-guest
