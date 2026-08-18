@@ -5268,3 +5268,9 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4454484476 | TetraMem - Accelerate The World | Software Engineer I – Compiler &amp; Runtime | score:3.8 | location:San Jose, CA | posted:2026-08-18T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4455762711 | THE ARM GROUP | Software Engineer | score:3.3 | location:New York, United States | posted:2026-08-18T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4454780192 | Insight Global | Full Stack Engineer | score:3.4 | location:West Palm Beach, FL | posted:2026-08-18T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://boards.greenhouse.io/robinhood/jobs/8128738?t=gh_src=&gh_jid=8128738 | Robinhood | Customer Experience Associate, Pathways - New Graduates | score:4.6 | location:Denver, CO; Westlake, TX | posted:2026-08-18T13:20:45-04:00 | source:greenhouse-api
+- [ ] https://www.okta.com/company/careers/opportunity/8139374?gh_jid=8139374 | Okta | Software Engineer II, Frontend Agentic AI  | score:4.1 | location:San Francisco, California | posted:2026-08-18T13:28:20-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4448295048 | TikTok | Backend Engineer Graduate (User Growth) - 2027 Start | score:3.4 | location:San Jose, CA | posted:2026-08-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4452543585 | Charta Health | Software Engineer, New Grad | score:4.1 | location:New York, NY | posted:2026-08-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446304514 | Arcadia | Full Stack Engineer | score:3.7 | location:New York, United States | posted:2026-08-18T00:00:00.000Z | source:linkedin-guest
