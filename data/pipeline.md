@@ -5247,3 +5247,24 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4455380202 | Eulerity | Associate Web Development Software Engineer (SDK) | score:4.1 | location:New York City Metropolitan Area | posted:2026-08-17T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4455361514 | Bristol Myers Squibb | Software Engineer, AI Engineering and Enablement | score:3.3 | location:Seattle, WA | posted:2026-08-17T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4455391126 | John Galt Staffing | Entry Level Software Engineer | score:3.8 | location:Columbia, MD | posted:2026-08-17T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/elevenlabs/29aed1f3-26f8-4d3b-8cc4-7ca7d9342eeb | ElevenLabs | Forward Deployed Engineer - Software Engineer - Poland | score:3 | location:Poland | posted:2026-08-18T15:01:36.078+00:00 | source:ashby-api
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4712434005 | Glean | Software Engineer, Agents Governance | score:3 | location:Bangalore, India | posted:2026-08-18T06:43:34-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4446281814 | TikTok | Software Engineer Graduate (Transaction Platform) - 2027 Start | score:3.4 | location:San Jose, CA | posted:2026-08-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4452563402 | Charta Health | Software Engineer, New Grad | score:4.1 | location:San Francisco, CA | posted:2026-08-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4452287482 | BeaconFire Inc. | Entry Level- Java Developer | score:4.2 | location:California, United States | posted:2026-08-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448124963 | ByteDance | Backend Software Engineer Graduate (Platform) - 2027 Start | score:3.7 | location:New York, United States | posted:2026-08-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4452289402 | BeaconFire Inc. | Java/Software Developer Opportunity | score:3.4 | location:East Windsor, NJ | posted:2026-08-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4452516128 | CACI International Inc | C# Software Engineer | score:3 | location:Everett, WA | posted:2026-08-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4454498817 | Revature | Entry Level Software Developer | score:3.8 | location:Chattanooga, TN | posted:2026-08-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4454782173 | Harmony Science Academy-Houston | Junior Software Engineer | score:4.1 | location:New York, United States | posted:2026-08-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4454496385 | Haystack | Junior Software Engineer | score:3.8 | location:Alabama, United States | posted:2026-08-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4455734171 | BlackRock | Associate, Full Stack Engineer | score:4.5 | location:San Francisco, CA | posted:2026-08-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4454759931 | GrowTal | Associate Software Engineer | score:3.8 | location:United States | posted:2026-08-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4455738047 | L3Harris Technologies | Associate, Software Engineering | score:3.8 | location:Clifton, NJ | posted:2026-08-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4454704486 | Veeva Systems | Associate Software Engineer - 2027 Start Dates | score:3.8 | location:Pleasanton, CA | posted:2026-08-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4455560292 | Uber | Software Engineer II | score:3.8 | location:Sunnyvale, CA | posted:2026-08-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4454457090 | Roblox | Software Engineer, Foundation AI | score:3 | location:San Mateo, CA | posted:2026-08-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4454484476 | TetraMem - Accelerate The World | Software Engineer I – Compiler &amp; Runtime | score:3.8 | location:San Jose, CA | posted:2026-08-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4455762711 | THE ARM GROUP | Software Engineer | score:3.3 | location:New York, United States | posted:2026-08-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4454780192 | Insight Global | Full Stack Engineer | score:3.4 | location:West Palm Beach, FL | posted:2026-08-18T00:00:00.000Z | source:linkedin-guest
