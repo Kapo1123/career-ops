@@ -5289,3 +5289,18 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4455769746 | State Street | Software Engineer, CRD- New Graduate | score:3.8 | location:Burlington, MA | posted:2026-08-18T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4454918360 | Morgan Stanley | AI Integration Software Engineer - Associate | score:4.1 | location:New York, NY | posted:2026-08-18T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4455970514 | Southern Glazer's Wine &amp; Spirits | Software Engineer | score:3 | location:Hollywood, FL | posted:2026-08-18T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=8111979 | MongoDB | Software Engineer 3 | score:3 | location:Gurugram | posted:2026-08-19T10:42:57-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4452864525 | Koah | Software Engineer, Early Career | score:4.1 | location:San Francisco, CA | posted:2026-08-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4455957338 | MintMCP | Software Engineer | score:3 | location:San Mateo, CA | posted:2026-08-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4455774216 | General Matter | Software Engineer (New Grad) | score:3.8 | location:Los Angeles, CA | posted:2026-08-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4452858935 | Narmi | Software Engineer - Forward Deployed | score:3.3 | location:New York, NY | posted:2026-08-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434142462 | Palantir Technologies | Software Engineer, New Grad - Defense | score:3.8 | location:Palo Alto, CA | posted:2026-08-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4453447273 | Code Compass 🧭 | Backend Software Engineer | score:3.7 | location:San Francisco Bay Area | posted:2026-08-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4455424014 | SHIFT IT CONSULTING | Junior Software Engineer | score:4.1 | location:New York, United States | posted:2026-08-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456139718 | Yara AI | Software Engineer (New Grad) | score:3.8 | location:United States | posted:2026-08-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4454959207 | State Farm | Full Stack Software Engineer | score:3.4 | location:Richardson, TX | posted:2026-08-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4455959378 | ASRC Federal | Associate Software Engineer | score:3.8 | location:Moorestown, NJ | posted:2026-08-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456308462 | Microsoft | Software Engineer II | score:5 | location:Redmond, WA | posted:2026-08-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456310280 | eNGINE | Software Engineer | score:3 | location:Canonsburg, PA | posted:2026-08-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4454770413 | Collabera | Associate Software Engineer | score:3.8 | location:Tampa, FL | posted:2026-08-18T00:00:00.000Z | source:linkedin-guest
