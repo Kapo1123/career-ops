@@ -5304,3 +5304,7 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4456308462 | Microsoft | Software Engineer II | score:5 | location:Redmond, WA | posted:2026-08-19T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4456310280 | eNGINE | Software Engineer | score:3 | location:Canonsburg, PA | posted:2026-08-19T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4454770413 | Collabera | Associate Software Engineer | score:3.8 | location:Tampa, FL | posted:2026-08-18T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5649459004 | Vercel | Software Engineer, Trust & Safety | score:3.3 | location:Hybrid - San Francisco | posted:2026-08-19T13:27:53-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4454799261 | Collabera | Software Engineer | score:3 | location:Tampa, FL | posted:2026-08-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4454987653 | General Dynamics Mission Systems | Junior Full Stack Engineer (Java/React) | score:4.2 | location:Fairfax Station, VA | posted:2026-08-19T00:00:00.000Z | source:linkedin-guest
