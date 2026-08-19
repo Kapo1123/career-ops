@@ -5314,3 +5314,21 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4456382113 | Women of the Vine &amp; Spirits | Software Engineer | score:3 | location:Miramar, FL | posted:2026-08-19T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4455939114 | 7-Eleven | Software Engineer I | score:3.8 | location:Enon, OH | posted:2026-08-19T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4454926773 | Trusted Concepts, Inc. | Junior Software Developer | score:3.8 | location:Herndon, VA | posted:2026-08-18T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/openai/2bf44c13-a463-4ec7-b152-b8367075246c | OpenAI | Software Engineer, Trainium  | score:3.3 | location:San Francisco | posted:2026-08-19T23:09:36.243+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/langchain/9a0ae8b4-af0c-4551-b9cd-284fe67e1935 | LangChain | Infrastructure Engineer, Database | score:3.7 | location:San Francisco, CA | posted:2026-08-19T20:32:57.562+00:00 | source:ashby-api
+- [ ] https://www.coinbase.com/careers/positions/8070574?gh_jid=8070574 | Coinbase | Software Engineer, Frontend (Coinbase Advisor - Agentic Trading) | score:4.1 | location:Remote - USA | posted:2026-08-19T16:18:11-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4456360993 | MintMCP | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-08-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456391417 | Automation Anywhere | Software Engineer | score:3 | location:San Jose, CA | posted:2026-08-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456373787 | SpaceX | New Graduate Engineer, Software (Application Software) | score:3.8 | location:Hawthorne, CA | posted:2026-08-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434143445 | Palantir Technologies | Software Engineer, New Grad - Defense | score:4.1 | location:New York, NY | posted:2026-08-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456375426 | Deseret Mutual Benefit Administrators (DMBA) | Junior Software Engineer (Appian Platform) / Software Engineer I - Low-Code Applications | score:4.2 | location:Salt Lake City, UT | posted:2026-08-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4455454263 | Tokenworks Inc | Junior Software Developer | score:3.8 | location:Bronxville, NY | posted:2026-08-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434136634 | Palantir Technologies | Software Engineer, New Grad | score:3.8 | location:Denver, CO | posted:2026-08-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456177660 | Collins Aerospace | Software Engineer I - Aircraft Interiors (ONSITE) | score:3.8 | location:Jamestown, ND | posted:2026-08-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4443625312 | Robinhood | Software Engineer, Backend | score:4.5 | location:New York, NY | posted:2026-08-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4454975900 | Revature | Entry Level Software Developer | score:3.8 | location:Chattanooga, TN | posted:2026-08-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4453495056 | IBM | Entry Level Software Developer 2027 | score:3.8 | location:Poughkeepsie, AR | posted:2026-08-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4453910445 | PEMCO | Software Engineer | score:3.3 | location:Seattle, WA | posted:2026-08-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4455456691 | Robert Half | Software Engineer | score:3 | location:Humble, TX | posted:2026-08-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456363948 | John Galt Staffing | Entry Level Software Engineer | score:3.8 | location:Columbia, MD | posted:2026-08-19T00:00:00.000Z | source:linkedin-guest
