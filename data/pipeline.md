@@ -5308,3 +5308,9 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://job-boards.greenhouse.io/vercel/jobs/5649459004 | Vercel | Software Engineer, Trust & Safety | score:3.3 | location:Hybrid - San Francisco | posted:2026-08-19T13:27:53-04:00 | source:greenhouse-api
 - [ ] https://www.linkedin.com/jobs/view/4454799261 | Collabera | Software Engineer | score:3 | location:Tampa, FL | posted:2026-08-18T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4454987653 | General Dynamics Mission Systems | Junior Full Stack Engineer (Java/React) | score:4.2 | location:Fairfax Station, VA | posted:2026-08-19T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4456156660 | Yara AI | Software Engineer (New Grad) | score:3.8 | location:United States | posted:2026-08-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4408077577 | Garmin | Software Engineer 1 - Connect IQ Applications | score:3 | location:Olathe, KS | posted:2026-08-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456382113 | Women of the Vine &amp; Spirits | Software Engineer | score:3 | location:Miramar, FL | posted:2026-08-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4455939114 | 7-Eleven | Software Engineer I | score:3.8 | location:Enon, OH | posted:2026-08-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4454926773 | Trusted Concepts, Inc. | Junior Software Developer | score:3.8 | location:Herndon, VA | posted:2026-08-18T00:00:00.000Z | source:linkedin-guest
