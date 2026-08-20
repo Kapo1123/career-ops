@@ -5332,3 +5332,22 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4453910445 | PEMCO | Software Engineer | score:3.3 | location:Seattle, WA | posted:2026-08-19T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4455456691 | Robert Half | Software Engineer | score:3 | location:Humble, TX | posted:2026-08-19T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4456363948 | John Galt Staffing | Entry Level Software Engineer | score:3.8 | location:Columbia, MD | posted:2026-08-19T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/snowflake/04559598-b320-4bcd-ace8-fb9cc551a02c | Snowflake | Software Engineer AI Team  | score:3.8 | location:PL-Warsaw-Lixa C | posted:2026-08-20T07:39:59.005+00:00 | source:ashby-api
+- [ ] https://jobs.lever.co/pigment/373b9e9c-59a2-4e0b-91e8-cf1c49db444b | Pigment | Back-End Infrastructure Engineer | score:3.4 | location:Paris | posted:2026-08-20T09:45:00.281Z | source:lever-api
+- [ ] https://www.linkedin.com/jobs/view/4453895462 | BeaconFire Inc. | Java/Software Developer Opportunity | score:3.4 | location:East Windsor, NJ | posted:2026-08-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4455684367 | Revature | Entry Level Software Developer | score:3.8 | location:Chattanooga, TN | posted:2026-08-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456459807 | Yara AI | Full Stack Engineer (New Grad) | score:4.2 | location:United States | posted:2026-08-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456461938 | Yara AI | Software Engineer (New Grad) | score:3.8 | location:United States | posted:2026-08-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456001188 | HRK Technologies Inc. | Junior Software Engineer | score:3.8 | location:Florida, United States | posted:2026-08-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456466179 | Crusoe | Software Engineer I, Network | score:4.1 | location:San Francisco, CA | posted:2026-08-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456446955 | Prosum | Junior Full Stack Engineer | score:4.2 | location:California, United States | posted:2026-08-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4453489109 | IBM | Entry Level Software Developer 2027 | score:3.8 | location:Durham, NC | posted:2026-08-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4455466146 | LexisNexis | Software Engineer I | score:3.8 | location:Raleigh, NC | posted:2026-08-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456464001 | T-Mobile | Associate Engineer, Software | score:3.8 | location:Frisco, TX | posted:2026-08-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456730996 | PNC | Software Developer Associate | score:3.8 | location:Pittsburgh, PA | posted:2026-08-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456012023 | Life Time Inc. | Associate Software Engineer | score:3.8 | location:Chanhassen, MN | posted:2026-08-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456397010 | Light &amp; Wonder | Associate Software Engineer | score:3.8 | location:Reno, NV | posted:2026-08-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434563885 | NetJets | Software Engineer, Associate (NJUS) | score:3.8 | location:Columbus, OH | posted:2026-08-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4444189717 | ACA Group | Associate Product Engineer (Software Developer/Engineer) | score:3.8 | location:Durham, NC | posted:2026-08-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456713163 | L3Harris Technologies | Associate, Software Engineering | score:3.8 | location:Rochester, NY | posted:2026-08-20T00:00:00.000Z | source:linkedin-guest
