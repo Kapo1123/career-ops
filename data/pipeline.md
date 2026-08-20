@@ -5351,3 +5351,13 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4434563885 | NetJets | Software Engineer, Associate (NJUS) | score:3.8 | location:Columbus, OH | posted:2026-08-20T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4444189717 | ACA Group | Associate Product Engineer (Software Developer/Engineer) | score:3.8 | location:Durham, NC | posted:2026-08-20T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4456713163 | L3Harris Technologies | Associate, Software Engineering | score:3.8 | location:Rochester, NY | posted:2026-08-20T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4456005520 | Jack | Full Stack Engineer | score:3.7 | location:San Francisco Bay Area | posted:2026-08-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456374800 | MintMCP | Software Engineer | score:3 | location:San Mateo, CA | posted:2026-08-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456022444 | Jack | Software Engineer | score:3.3 | location:San Francisco Bay Area | posted:2026-08-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456468165 | Kikoff | Software Engineer - Recent Grad | score:3.3 | location:San Francisco, CA | posted:2026-08-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4454129125 | BeaconFire Inc. | Entry-Level / Junior Software Developer Opportunity | score:3.8 | location:New Jersey, United States | posted:2026-08-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4455423214 | General Dynamics Mission Systems | Entry Level Software Engineer | score:3.8 | location:Scottsdale, AZ | posted:2026-08-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456456033 | PayPal | Software Engineer | score:3 | location:Austin, TX | posted:2026-08-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456731212 | Microsoft | Quantum Software Engineer | score:4.5 | location:Redmond, WA | posted:2026-08-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456392819 | Thales | Software Engineer | score:3 | location:Austin, TX | posted:2026-08-19T00:00:00.000Z | source:linkedin-guest
