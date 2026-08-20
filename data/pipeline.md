@@ -5361,3 +5361,8 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4456456033 | PayPal | Software Engineer | score:3 | location:Austin, TX | posted:2026-08-20T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4456731212 | Microsoft | Quantum Software Engineer | score:4.5 | location:Redmond, WA | posted:2026-08-20T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4456392819 | Thales | Software Engineer | score:3 | location:Austin, TX | posted:2026-08-19T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4456799002 | FELICIS | Software Engineer I, Network | score:4.1 | location:San Francisco, CA | posted:2026-08-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456391054 | Light &amp; Wonder | Associate Software Engineer | score:3.8 | location:Las Vegas, NV | posted:2026-08-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4454126887 | NetJets | Software Engineer, Associate (NJUS) | score:3.8 | location:Columbus, OH | posted:2026-08-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4455613936 | Haystack | Software Engineer | score:3 | location:United States | posted:2026-08-20T00:00:00.000Z | source:linkedin-guest
