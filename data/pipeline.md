@@ -5366,3 +5366,12 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4456391054 | Light &amp; Wonder | Associate Software Engineer | score:3.8 | location:Las Vegas, NV | posted:2026-08-19T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4454126887 | NetJets | Software Engineer, Associate (NJUS) | score:3.8 | location:Columbus, OH | posted:2026-08-20T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4455613936 | Haystack | Software Engineer | score:3 | location:United States | posted:2026-08-20T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/openai/44abed05-4b45-4aa0-bee6-45d113bbef66 | OpenAI | Data Engineer, Monetization Data Platform | score:3.4 | location:Mountain View | posted:2026-08-20T22:40:29.869+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4456793736 | MintMCP | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-08-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4454151365 | Q2 | Software Engineer | score:3 | location:Austin, TX | posted:2026-08-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4457015235 | Raytheon | Software Engineer I -(Onsite) | score:3.8 | location:Fort Wayne, IN | posted:2026-08-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456719137 | Muon Space | Software Engineer, Entry-Level | score:3 | location:San Jose, CA | posted:2026-08-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456462867 | Uber | Software Engineer II | score:3.8 | location:Sunnyvale, CA | posted:2026-08-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4455630080 | Haystack | Software Engineer | score:3 | location:Maryland, United States | posted:2026-08-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456001521 | ModMed | Software Engineer 1 | score:3 | location:Boca Raton, FL | posted:2026-08-20T00:00:00.000Z | source:linkedin-guest
