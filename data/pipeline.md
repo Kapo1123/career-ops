@@ -5401,3 +5401,11 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4454157131 | Aurora Health Care | Software Engineer Associate | score:3.8 | location:Milwaukee, WI | posted:2026-08-21T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4448425773 | impact.com | Associate Software Engineer | score:3.8 | location:Santa Barbara, CA | posted:2026-08-21T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4457021514 | Northrop Grumman | 2026 Associate Software Engineer/Software Engineer | score:3.8 | location:El Segundo, CA | posted:2026-08-20T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=8089859 | MongoDB | Software Engineer 3, Atlas Clusters Platform | score:3.7 | location:New York City | posted:2026-08-21T15:16:32-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4457366516 | LinkedIn | Software Engineer - Systems and Infrastructure | score:3.4 | location:Mountain View, CA | posted:2026-08-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4457344567 | MeeBoss | Full Stack Engineer | score:3.7 | location:San Francisco, CA | posted:2026-08-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4457362931 | Hyve Solutions | Software Engineer (New College Grad) | score:3 | location:Fremont, CA | posted:2026-08-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4454671243 | Monetate | Associate Software Engineer | score:3.8 | location:Plano, TX | posted:2026-08-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4363407594 | Epic | Entry-Level Software Developer | score:3 | location:Green Bay, WI | posted:2026-08-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4457389580 | Trillion Technology Solutions, Inc | JR Backend Engineer | score:3.4 | location:Reston, VA | posted:2026-08-21T00:00:00.000Z | source:linkedin-guest
