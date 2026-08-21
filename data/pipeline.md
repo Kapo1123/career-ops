@@ -5375,3 +5375,17 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4456462867 | Uber | Software Engineer II | score:3.8 | location:Sunnyvale, CA | posted:2026-08-20T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4455630080 | Haystack | Software Engineer | score:3 | location:Maryland, United States | posted:2026-08-20T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4456001521 | ModMed | Software Engineer 1 | score:3 | location:Boca Raton, FL | posted:2026-08-20T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://stripe.com/jobs/search?gh_jid=8142764 | Stripe | Full Stack Engineer, Bridge | score:4.5 | location:San Francisco, NYC | posted:2026-08-20T19:35:00-04:00 | source:greenhouse-api
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=8119843 | MongoDB | Software Engineer 3, Networking & Observability | score:3 | location:Alberta; British Columbia; Ontario; Quebec | posted:2026-08-21T01:24:10-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4456793735 | MintMCP | Software Engineer | score:3 | location:San Mateo, CA | posted:2026-08-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4457015529 | DigitalOcean | Software Engineer, Automation | score:3.3 | location:Seattle, WA | posted:2026-08-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4457355110 | Mercury Insurance | Software Engineer I | score:3.8 | location:Brea, CA | posted:2026-08-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4457080361 | The Best Job Board | Software Engineer | score:3 | location:Greenwood Village, CO | posted:2026-08-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456776571 | High Trail | Software Engineer | score:3 | location:United States | posted:2026-08-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447098687 | Vertiv | Software Developer | score:3 | location:Huntsville, AL | posted:2026-08-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4457322088 | T-Mobile | Associate Software Engineer | score:3.8 | location:Frisco, TX | posted:2026-08-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456761664 | L3Harris Technologies | Associate, Software Engineer | score:3.8 | location:Yorba Linda, CA | posted:2026-08-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456068293 | American Express | Software Engineer I - Java, Python , GCP , NoSQL - GMNST | score:4.2 | location:Phoenix, AZ | posted:2026-08-20T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4457069280 | CGI | Junior Software Engineer | score:3.8 | location:Greenville, SC | posted:2026-08-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456201391 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-08-21T00:00:00.000Z | source:linkedin-guest
