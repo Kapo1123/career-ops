@@ -5409,3 +5409,11 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4454671243 | Monetate | Associate Software Engineer | score:3.8 | location:Plano, TX | posted:2026-08-21T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4363407594 | Epic | Entry-Level Software Developer | score:3 | location:Green Bay, WI | posted:2026-08-21T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4457389580 | Trillion Technology Solutions, Inc | JR Backend Engineer | score:3.4 | location:Reston, VA | posted:2026-08-21T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://boards.greenhouse.io/robinhood/jobs/8123231?t=gh_src=&gh_jid=8123231 | Robinhood | Business Analyst (New Grad)  | score:4.6 | location:Washington, DC | posted:2026-08-21T15:30:30-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/sierra/742020b7-5a2a-495d-8ac9-d74d31dc91c6 | Sierra | IT Infrastructure Engineer | score:3.7 | location:San Francisco, CA | posted:2026-08-21T22:53:42.780+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4321384016 | Epic | Entry-Level Software Developer | score:3 | location:Topeka, KS | posted:2026-08-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456294521 | General Dynamics Mission Systems | Software Engineer Entry Level | score:3.8 | location:Manassas, VA | posted:2026-08-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4457323655 | L3Harris Technologies | Associate, Software Engineering | score:3.8 | location:Rochester, NY | posted:2026-08-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4446575520 | Collins Aerospace | Assoc Software Engineer – Simulation | score:3 | location:Binghamton, NY | posted:2026-08-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4457534144 | WebCreek | Junior Full Stack Developer, React &amp; NestJS | score:4.2 | location:Houston, TX | posted:2026-08-21T00:00:00.000Z | source:linkedin-guest
