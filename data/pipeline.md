@@ -5389,3 +5389,15 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4456068293 | American Express | Software Engineer I - Java, Python , GCP , NoSQL - GMNST | score:4.2 | location:Phoenix, AZ | posted:2026-08-20T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4457069280 | CGI | Junior Software Engineer | score:3.8 | location:Greenville, SC | posted:2026-08-21T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4456201391 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-08-21T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=8119841 | MongoDB | Software Engineer 3, Networking & Observability | score:3.3 | location:New York City; United States | posted:2026-08-21T01:24:09-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/openai/990397de-c00c-4577-b093-d8c82b4e9145 | OpenAI | Software Engineer, API Safety | score:3.3 | location:San Francisco | posted:2026-08-21T17:12:26.509+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4456227059 | Revature | Entry Level Software Developer | score:3.8 | location:Chattanooga, TN | posted:2026-08-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4457358167 | Lumion | Junior Full Stack Software Engineer | score:4.2 | location:South Jordan, UT | posted:2026-08-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4457338081 | Hire Feed | Junior Software Engineer (Remote) | score:3.8 | location:United States | posted:2026-08-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456273206 | Regal Medical Group | Software Engineer-Innovation /AI On-site @West Hills, CA | score:3 | location:Los Angeles, CA | posted:2026-08-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456242192 | Jobright.ai | Python Engineer, New Grad | score:4.2 | location:United States | posted:2026-08-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4457305258 | T-Mobile | Associate Software Engineer | score:3.8 | location:Bellevue, WA | posted:2026-08-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4454157131 | Aurora Health Care | Software Engineer Associate | score:3.8 | location:Milwaukee, WI | posted:2026-08-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448425773 | impact.com | Associate Software Engineer | score:3.8 | location:Santa Barbara, CA | posted:2026-08-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4457021514 | Northrop Grumman | 2026 Associate Software Engineer/Software Engineer | score:3.8 | location:El Segundo, CA | posted:2026-08-20T00:00:00.000Z | source:linkedin-guest
