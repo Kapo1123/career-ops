@@ -5427,3 +5427,11 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4445547068 | UST | Junior Full Stack Developer (Data CoE) | score:4.2 | location:Bellevue, WA | posted:2026-08-22T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4455019686 | CareerXperts Consulting | Associate Software Engineer | score:3.8 | location:United States | posted:2026-08-22T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4437327279 | GLG | Software Engineer | score:3.3 | location:New York, NY | posted:2026-08-21T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4457822005 | Hire Feed | Junior Software Engineer (Remote) | score:3.8 | location:United States | posted:2026-08-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456666103 | Jobright.ai | Python Engineer, New Grad | score:4.2 | location:United States | posted:2026-08-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4457813694 | Hire Feed | Software Engineer - E-Commerce (Remote) | score:3 | location:United States | posted:2026-08-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456276787 | Nomura | Software Engineer Associate - Full Stack | score:4.2 | location:Philadelphia, PA | posted:2026-08-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4363377484 | Epic | Entry-Level Software Developer | score:3 | location:Norman, OK | posted:2026-08-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4457514025 | MintMCP | Software Engineer | score:3 | location:San Mateo, CA | posted:2026-08-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4455048056 | Applied Materials | Software Engineer II (New College Grad - Santa Clara, CA) | score:3.8 | location:Santa Clara, CA | posted:2026-08-22T00:00:00.000Z | source:linkedin-guest
