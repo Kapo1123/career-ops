@@ -5441,3 +5441,14 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4456299517 | TSMC | Software Engineer (New Graduate) - North America Software Center | score:3.8 | location:Vancouver, WA | posted:2026-08-21T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4456286395 | Acuity | Software Engineer Associate | score:3.8 | location:Conyers, GA | posted:2026-08-21T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4456622524 | Tharp Consulting | Software Developer (Junior) | score:3.8 | location:Dahlgren, VA | posted:2026-08-22T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4456666528 | Jobright.ai | Python Engineer, New Grad | score:4.2 | location:United States | posted:2026-08-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456618448 | Piper Companies | Jr. Software Engineer | score:3 | location:Raleigh, NC | posted:2026-08-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4457869128 | FetchJobs.co | Associate Software Engineer | score:3.8 | location:United States | posted:2026-08-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4363497625 | Epic | Entry-Level Software Developer | score:3 | location:Iowa City, IA | posted:2026-08-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4454690334 | Teradyne | Software Engineer (Memory Test, San Jose) | score:3 | location:San Jose, CA | posted:2026-08-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4455043752 | NetApp | NetApp Emerging Talent - Software Engineer (Systems) | score:3 | location:San Jose, CA | posted:2026-08-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4447425532 | CJ | Software Engineer 2 | score:3 | location:Agoura Hills, CA | posted:2026-08-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456693013 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-08-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4457535606 | H-E-B | Software Engineer I -Digital Emerging Tech &amp; Innovation (D - ETI Team) - San Antonio, Tx. or Austin, Tx. | score:3.8 | location:San Antonio, TX | posted:2026-08-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438386033 | BigBear.ai | Junior Software Developer (Backend Focused) | score:4.2 | location:Annapolis Junction, MD | posted:2026-08-22T00:00:00.000Z | source:linkedin-guest
