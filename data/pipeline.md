@@ -5417,3 +5417,13 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4457323655 | L3Harris Technologies | Associate, Software Engineering | score:3.8 | location:Rochester, NY | posted:2026-08-21T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4446575520 | Collins Aerospace | Assoc Software Engineer – Simulation | score:3 | location:Binghamton, NY | posted:2026-08-21T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4457534144 | WebCreek | Junior Full Stack Developer, React &amp; NestJS | score:4.2 | location:Houston, TX | posted:2026-08-21T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4456664025 | Eventual | Software Engineer, New Grad | score:4.1 | location:San Francisco, CA | posted:2026-08-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4457393941 | MintMCP | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-08-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4457525464 | General Motors | Software Engineer, AV Data Collection | score:3.4 | location:Sunnyvale, CA | posted:2026-08-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4455032835 | Mediation Mastery | Junior Software Engineer | score:4.1 | location:New York, United States | posted:2026-08-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4457566818 | T-Mobile | Associate Software Engineer | score:3.8 | location:Atlanta, GA | posted:2026-08-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4454679404 | ConstructConnect | Associate Engineer | score:3.8 | location:Atlanta, GA | posted:2026-08-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445547068 | UST | Junior Full Stack Developer (Data CoE) | score:4.2 | location:Bellevue, WA | posted:2026-08-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4455019686 | CareerXperts Consulting | Associate Software Engineer | score:3.8 | location:United States | posted:2026-08-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4437327279 | GLG | Software Engineer | score:3.3 | location:New York, NY | posted:2026-08-21T00:00:00.000Z | source:linkedin-guest
