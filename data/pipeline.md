@@ -5435,3 +5435,9 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4363377484 | Epic | Entry-Level Software Developer | score:3 | location:Norman, OK | posted:2026-08-21T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4457514025 | MintMCP | Software Engineer | score:3 | location:San Mateo, CA | posted:2026-08-21T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4455048056 | Applied Materials | Software Engineer II (New College Grad - Santa Clara, CA) | score:3.8 | location:Santa Clara, CA | posted:2026-08-22T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4447185926 | Cadence | Adams MultiBody Dynamics Application Software Developer (Recent Grad 2026) | score:3 | location:Livonia, MI | posted:2026-08-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4452290363 | BeaconFire Inc. | Java Software Engineer | score:3.7 | location:New York, United States | posted:2026-08-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456299517 | TSMC | Software Engineer (New Graduate) - North America Software Center | score:3.8 | location:Vancouver, WA | posted:2026-08-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456286395 | Acuity | Software Engineer Associate | score:3.8 | location:Conyers, GA | posted:2026-08-21T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456622524 | Tharp Consulting | Software Developer (Junior) | score:3.8 | location:Dahlgren, VA | posted:2026-08-22T00:00:00.000Z | source:linkedin-guest
