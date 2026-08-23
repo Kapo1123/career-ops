@@ -5472,3 +5472,6 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4409213815 | DoorDash | Software Engineer, Backend (All Teams) | score:4.5 | location:New York, NY | posted:2026-08-23T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4380944856 | TRM Labs | University Grad – Product Engineer (2026-2027) - Los Angeles Only | score:3.8 | location:Los Angeles, CA | posted:2026-08-23T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4456682008 | RemoteHunter | Software Engineer 1 | score:3 | location:United States | posted:2026-08-22T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4456803504 | Jobright.ai | Backend Engineer, New Grad | score:4.2 | location:United States | posted:2026-08-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4458116730 | FetchJobs.co | Associate Software Engineer | score:3.8 | location:United States | posted:2026-08-23T00:00:00.000Z | source:linkedin-guest
