@@ -5452,3 +5452,18 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4456693013 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-08-22T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4457535606 | H-E-B | Software Engineer I -Digital Emerging Tech &amp; Innovation (D - ETI Team) - San Antonio, Tx. or Austin, Tx. | score:3.8 | location:San Antonio, TX | posted:2026-08-22T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4438386033 | BigBear.ai | Junior Software Developer (Backend Focused) | score:4.2 | location:Annapolis Junction, MD | posted:2026-08-22T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4452284410 | BeaconFire Inc. | Java Software Engineer | score:3.4 | location:Pennsylvania, United States | posted:2026-08-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4458112249 | Hire Feed | Junior Software Engineer (Remote) | score:3.8 | location:United States | posted:2026-08-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4455080687 | Jobot | Hybrid Junior Software Engineer | Full Stack/ Clearable | score:4.2 | location:Manassas, VA | posted:2026-08-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456818391 | Jobright.ai | Python Engineer, New Grad | score:4.2 | location:United States | posted:2026-08-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4458116261 | Hire Feed | Software Engineer - E-Commerce (Remote) | score:3 | location:United States | posted:2026-08-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4457853179 | Simulation Technologies Inc. (SimTech) | Software Engineer, Entry-Level | score:3 | location:Huntsville, AL | posted:2026-08-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4458105327 | Torentify | Associate Engineer | score:3.8 | location:La Crosse, WI | posted:2026-08-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4455066057 | Applied Materials | Software Engineer I - New College Grad (Bachelors - Kalispell, MT) | score:3.8 | location:Kalispell, MT | posted:2026-08-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430781674 | SpaceX | Software Engineer (Starlink) | score:3 | location:Redmond, WA | posted:2026-08-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4457885332 | Northrop Grumman | Software Engineer | score:3 | location:Los Angeles, CA | posted:2026-08-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4455085259 | Applied Materials | Software Engineer | score:3 | location:Santa Clara, CA | posted:2026-08-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4420210705 | LG Ad Solutions | Software Engineer II | score:3.8 | location:Denver, CO | posted:2026-08-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4455061345 | PPLIED | Software Engineer | score:3 | location:United States | posted:2026-08-22T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4438384051 | American Express | Pipeline - Future Software Engineer Opportunity, Enterprise Technology Services (ETS) | score:3.3 | location:New York, NY | posted:2026-08-22T00:00:00.000Z | source:linkedin-guest
