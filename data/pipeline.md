@@ -5475,3 +5475,8 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 
 - [ ] https://www.linkedin.com/jobs/view/4456803504 | Jobright.ai | Backend Engineer, New Grad | score:4.2 | location:United States | posted:2026-08-23T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4458116730 | FetchJobs.co | Associate Software Engineer | score:3.8 | location:United States | posted:2026-08-23T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4456805749 | Jobright.ai | Python Engineer, New Grad | score:4.2 | location:United States | posted:2026-08-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456811769 | Jobright.ai | Backend Engineer, New Grad | score:4.2 | location:United States | posted:2026-08-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456825711 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-08-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456823723 | RemoteHunter | Software Engineer 1 | score:3 | location:United States | posted:2026-08-23T00:00:00.000Z | source:linkedin-guest
