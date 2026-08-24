@@ -5497,3 +5497,16 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4458194907 | Haystack | Junior Full Stack Software Engineer | score:4.2 | location:Washington DC-Baltimore Area | posted:2026-08-24T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4455819094 | PPLIED | Full Stack Developer | score:3.4 | location:United States | posted:2026-08-23T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4456877538 | RemoteHunter | Software Engineer 1 (Full-Stack) | score:3 | location:United States | posted:2026-08-24T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/openai/ec317080-e2d2-4a73-93e6-e0a9ae6fdf96 | OpenAI | Software Engineer, Model Runtime | score:3.3 | location:San Francisco | posted:2026-08-24T16:34:31.338+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4457105547 | Whova | Software Engineer (San Diego Only) | score:3 | location:San Diego, CA | posted:2026-08-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4455870088 | CrowdStrike | Software Engineer – Sensor, SaO (Hybrid) | score:3 | location:Redmond, WA | posted:2026-08-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4455983356 | Noom | Agentic Engineer (New Grad) | score:3.8 | location:Princeton, NJ | posted:2026-08-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4458238603 | Naval Nuclear Laboratory (FMP) | Entry Level Computer Engineer/Software Developer | score:3.8 | location:Niskayuna, NY | posted:2026-08-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456896824 | Emonics LLC | Full Stack Engineer | score:3.4 | location:Atlanta, GA | posted:2026-08-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4458223180 | Revature | Entry Level Software Developer | score:3.8 | location:Chattanooga, TN | posted:2026-08-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4363447648 | Epic | Entry-Level Software Developer | score:3 | location:St Louis, MO | posted:2026-08-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456899712 | Jefferies | Associate, Software Developer - Fixed Income Technology (NY Repo) | score:4.1 | location:New York, NY | posted:2026-08-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4458252579 | Visa | Software Engineer | score:3 | location:Austin, TX | posted:2026-08-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456893654 | Autodesk | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-08-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4457114345 | Jack | Software Engineer | score:3.3 | location:San Francisco Bay Area | posted:2026-08-24T00:00:00.000Z | source:linkedin-guest
