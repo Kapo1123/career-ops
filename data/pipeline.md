@@ -5480,3 +5480,20 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4456811769 | Jobright.ai | Backend Engineer, New Grad | score:4.2 | location:United States | posted:2026-08-23T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4456825711 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-08-23T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4456823723 | RemoteHunter | Software Engineer 1 | score:3 | location:United States | posted:2026-08-23T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.okta.com/company/careers/opportunity/8056119?gh_jid=8056119 | Okta | Software Engineer, Professional Services R&D | score:3 | location:Bengaluru, India | posted:2026-08-24T05:18:00-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/notion/1fc309c8-da20-4ff2-84c7-8b863ece2b0a | Notion | Software Engineer, Developer Platform | score:4.5 | location:San Francisco, California | posted:2026-08-24T14:44:49.699+00:00 | source:ashby-api
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7791403003?gh_jid=7791403003 | Celonis | Software Engineer | score:3 | location:Bangalore, India | posted:2026-08-24T04:42:35-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4457107409 | Jack | Full Stack Engineer | score:3.7 | location:San Francisco Bay Area | posted:2026-08-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4457114349 | Jack | Software Engineer | score:3.3 | location:San Francisco Bay Area | posted:2026-08-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4455849386 | Stealth Startup | Software Engineer (New Grad) [33427] | score:4.1 | location:San Francisco Bay Area | posted:2026-08-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4455862955 | Stealth Startup | Software Engineer – New Grad [33457] | score:4.1 | location:San Francisco, CA | posted:2026-08-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4455868128 | CrowdStrike | Software Engineer – Sensor, SaO (Hybrid) | score:3 | location:Sunnyvale, CA | posted:2026-08-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/3986117142 | Epic | Entry-Level Software Developer | score:3 | location:Amarillo, TX | posted:2026-08-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/3986111823 | Epic | Software Engineer | score:3 | location:Juneau, AK | posted:2026-08-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456870352 | Haystack | Software Engineer | score:3 | location:United States | posted:2026-08-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456878427 | Haystack | Software Developer | score:3 | location:United States | posted:2026-08-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4457111009 | Carnegie Mellon University | Systems Software Engineer - Computing Services | score:3 | location:Pittsburgh, PA | posted:2026-08-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4458194907 | Haystack | Junior Full Stack Software Engineer | score:4.2 | location:Washington DC-Baltimore Area | posted:2026-08-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4455819094 | PPLIED | Full Stack Developer | score:3.4 | location:United States | posted:2026-08-23T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456877538 | RemoteHunter | Software Engineer 1 (Full-Stack) | score:3 | location:United States | posted:2026-08-24T00:00:00.000Z | source:linkedin-guest
