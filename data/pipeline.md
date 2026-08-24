@@ -5510,3 +5510,16 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4458252579 | Visa | Software Engineer | score:3 | location:Austin, TX | posted:2026-08-24T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4456893654 | Autodesk | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-08-24T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4457114345 | Jack | Software Engineer | score:3.3 | location:San Francisco Bay Area | posted:2026-08-24T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/sierra/c66b30fc-9588-4699-85c1-2166b23b8778 | Sierra | Software Engineer, Agent - Public Sector | score:3.3 | location:San Francisco, CA | posted:2026-08-24T17:50:09.805+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/openai/9248eab6-74e0-4940-98eb-ca09b17da532 | OpenAI | Software Engineer, AI accelerator Runtime | score:3.3 | location:San Francisco | posted:2026-08-24T18:51:59.391+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/openai/d1121575-a1a7-47c9-97e6-56c70f441143 | OpenAI | Systems Software Engineer, Silicon Bringup | score:3.3 | location:San Francisco | posted:2026-08-24T18:48:55.627+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4457148778 | Lightfield | Software Engineer, Infrastructure (Early Career) | score:4.2 | location:Cambridge, MA | posted:2026-08-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4458258526 | Renesas Electronics | Software Engineer | score:3 | location:Austin, TX | posted:2026-08-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4457155749 | Lightfield | Software Engineer, Applied AI (Early Career) | score:4.1 | location:San Francisco, CA | posted:2026-08-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4363427442 | Epic | Entry-Level Software Developer | score:3 | location:Springdale, AR | posted:2026-08-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4458256703 | Nightwing | Software Engineer I | score:3.8 | location:Sterling, VA | posted:2026-08-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448267311 | SimpliSafe | Software Engineer II- User Systems | score:3.8 | location:Boston, MA | posted:2026-08-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4457144365 | Tria Federal (Tria) | Software Engineer | score:3 | location:United States | posted:2026-08-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4457162144 | Tria Federal (Tria) | Full Stack Engineer | score:3.4 | location:United States | posted:2026-08-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4458271339 | GeniusXLab LLC | Junior Software Engineer | score:3.8 | location:Avalon, TX | posted:2026-08-24T00:00:00.000Z | source:linkedin-guest
