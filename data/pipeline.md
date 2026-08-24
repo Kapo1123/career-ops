@@ -5523,3 +5523,14 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4457144365 | Tria Federal (Tria) | Software Engineer | score:3 | location:United States | posted:2026-08-24T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4457162144 | Tria Federal (Tria) | Full Stack Engineer | score:3.4 | location:United States | posted:2026-08-24T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4458271339 | GeniusXLab LLC | Junior Software Engineer | score:3.8 | location:Avalon, TX | posted:2026-08-24T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://app.careerpuck.com/job-board/lyft/job/8743259002?gh_jid=8743259002 | Lyft | Software Engineer, Pricing - Rider Engagement | score:3.8 | location:Toronto, Canada | posted:2026-08-24T17:17:11-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5396384008 | Anthropic | IT Systems Engineer, Mobile Client Platform Engineer  | score:3.7 | location:Boston, MA; Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY; Washington, DC | posted:2026-08-24T17:20:13-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5400153008 | Anthropic | Software Engineer, Business Technology | score:3.3 | location:New York City, NY | Seattle, WA; San Francisco, CA | New York City, NY | posted:2026-08-24T16:46:48-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4456519354 | BeaconFire Inc. | Entry Level- Java Developer | score:4.2 | location:California, United States | posted:2026-08-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4458282928 | Lennar | Software Engineer I | score:3.8 | location:Miami, FL | posted:2026-08-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4457170654 | RemoteHunter | Software Engineer 1 (Full-Stack) | score:3 | location:United States | posted:2026-08-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456531064 | IBM | Entry Level Software Developer | score:3.8 | location:San Jose, CA | posted:2026-08-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4458293585 | CGI | Software Developer – Entry Level | score:3.8 | location:Atlanta, GA | posted:2026-08-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4458524141 | Cisco | Software Engineer I (Full Time) - United States | score:3.8 | location:San Jose, CA | posted:2026-08-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456541011 | Koch | Software Engineer | score:3 | location:Plano, TX | posted:2026-08-24T00:00:00.000Z | source:linkedin-guest
