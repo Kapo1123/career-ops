@@ -5566,3 +5566,13 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4457622063 | Revature | Software Engineer | score:3 | location:Tampa, FL | posted:2026-08-25T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4448304463 | JPMorganChase | 2027 Software Engineer Program - Full-Time - United States - February Start | score:3 | location:Chicago, IL | posted:2026-08-25T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4457614863 | QuantumFabrics | Software Engineer | score:3 | location:Los Angeles, CA | posted:2026-08-25T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/twitch/jobs/8743145002 | Twitch | Software Engineer II, Fintech | score:4.1 | location:San Francisco, CA | posted:2026-08-25T16:04:31-04:00 | source:greenhouse-api
+- [ ] https://careers.roblox.com/jobs/8131689?gh_jid=8131689 | Roblox | Software Engineer, Creator Studio | score:3 | location:San Mateo, CA, United States | posted:2026-08-25T18:46:29-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4459046533 | Zip | Software Engineer, New Grad (2027 Start) | score:4.1 | location:San Francisco, CA | posted:2026-08-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456504659 | BeaconFire Inc. | Entry Level- Java Developer | score:4.2 | location:California, United States | posted:2026-08-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4459058143 | Prophet Security | Software Engineer New Grad | score:3.8 | location:Palo Alto, CA | posted:2026-08-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4459021864 | MetLife | Software Engineer Developer | score:3 | location:Cary, NC | posted:2026-08-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4459034091 | The Voleon Group | Software Engineer - University Hire 2027 | score:3.8 | location:Berkeley, CA | posted:2026-08-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4459014481 | BlackRock | Associate, Full Stack Engineer | score:4.5 | location:San Francisco, CA | posted:2026-08-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4457448020 | HiredBuddy | Software Engineer | score:3.3 | location:New York, United States | posted:2026-08-25T00:00:00.000Z | source:linkedin-guest
