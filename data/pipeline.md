@@ -5534,3 +5534,18 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4458293585 | CGI | Software Developer – Entry Level | score:3.8 | location:Atlanta, GA | posted:2026-08-24T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4458524141 | Cisco | Software Engineer I (Full Time) - United States | score:3.8 | location:San Jose, CA | posted:2026-08-24T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4456541011 | Koch | Software Engineer | score:3 | location:Plano, TX | posted:2026-08-24T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5400160008 | Anthropic | Software Engineer, Business Technology | score:3 | location:London, UK | posted:2026-08-24T16:50:24-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6161129004 | Vercel | Software Engineer, Data Platform  | score:3.7 | location:Hybrid - San Francisco, New York City | posted:2026-08-25T07:09:48-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/sierra/3cdeb98c-a25c-4f3b-a704-1418556454bc | Sierra | Software Engineer, Agent | score:3 | location:South Korea | posted:2026-08-25T14:18:00.377+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4446613511 | TikTok USDS Joint Venture | Software Engineer Graduate (Tech and Product, USDS) - 2027 Start | score:3.3 | location:Seattle, WA | posted:2026-08-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4457460623 | RemoteHunter | Software Engineer 1 (Full-Stack) | score:3 | location:United States | posted:2026-08-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4458747289 | Amazon | Software Development Engineer, Amazon Leo, Early Career - 2026 | score:5 | location:Redmond, WA | posted:2026-08-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4458527742 | Jefferies | Associate, Software Developer - Fixed Income Technology (NY Repo, Python) | score:4.5 | location:New York, NY | posted:2026-08-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4458576066 | Caris Life Sciences | Associate Software Engineer | score:3.8 | location:Irving, TX | posted:2026-08-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4458544999 | Uber | Software Engineer I | score:3.8 | location:Sunnyvale, CA | posted:2026-08-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4458558200 | Uber | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-08-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4458506394 | Cisco | Software Engineer I (Full Time) - United States | score:3.8 | location:Milpitas, CA | posted:2026-08-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4457479516 | Digital Waffle | Software Engineer | score:3.3 | location:San Francisco Bay Area | posted:2026-08-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456523182 | IBM | Entry Level Software Developer | score:3.8 | location:Austin, TX | posted:2026-08-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4458752451 | Metron Inc. | Associate Software Engineer | score:3.8 | location:Reston, VA | posted:2026-08-25T00:00:00.000Z | source:linkedin-guest
