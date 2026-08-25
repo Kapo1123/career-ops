@@ -5549,3 +5549,13 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4457479516 | Digital Waffle | Software Engineer | score:3.3 | location:San Francisco Bay Area | posted:2026-08-25T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4456523182 | IBM | Entry Level Software Developer | score:3.8 | location:Austin, TX | posted:2026-08-24T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4458752451 | Metron Inc. | Associate Software Engineer | score:3.8 | location:Reston, VA | posted:2026-08-25T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/8155495?gh_jid=8155495 | Cloudflare | Software Engineer, Enterprise Integrations | score:3 | location:Hybrid | posted:2026-08-25T11:38:49-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4458558206 | Uber | Software Engineer I | score:4.1 | location:San Francisco, CA | posted:2026-08-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456522192 | IBM | Entry Level Software Developer | score:3.8 | location:Poughkeepsie, AR | posted:2026-08-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456533731 | Galaxar solution | Software Engineer &amp; AI Engineer (Entry-Level ) | score:3 | location:United States | posted:2026-08-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4458516818 | Naval Nuclear Laboratory (FMP) | Software Engineer, Associate (Entry Level) | score:3.8 | location:West Milton, NY | posted:2026-08-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4458550064 | ICE | Associate Software Developer | score:3.8 | location:Jacksonville, FL | posted:2026-08-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4458262790 | Takt | Associate Software Engineer, Frontend | score:3.8 | location:Reston, VA | posted:2026-08-24T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456942876 | Reltio | Associate Software Engineer - US | score:3.8 | location:Greater Tampa Bay Area | posted:2026-08-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4458782596 | Vercel | Software Engineer, Data Platform | score:3.7 | location:San Francisco, CA | posted:2026-08-25T00:00:00.000Z | source:linkedin-guest
