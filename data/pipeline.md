@@ -5559,3 +5559,10 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4458262790 | Takt | Associate Software Engineer, Frontend | score:3.8 | location:Reston, VA | posted:2026-08-24T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4456942876 | Reltio | Associate Software Engineer - US | score:3.8 | location:Greater Tampa Bay Area | posted:2026-08-25T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4458782596 | Vercel | Software Engineer, Data Platform | score:3.7 | location:San Francisco, CA | posted:2026-08-25T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4363407601 | Epic | Entry-Level Software Developer | score:3 | location:Kearney, NE | posted:2026-08-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4457605819 | Emonics LLC | Associate Software Engineer | score:3.8 | location:Oakland, CA | posted:2026-08-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4459006463 | L3Harris Technologies | Associate, Software Engineering | score:3.8 | location:Greenville, TX | posted:2026-08-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4457622063 | Revature | Software Engineer | score:3 | location:Tampa, FL | posted:2026-08-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448304463 | JPMorganChase | 2027 Software Engineer Program - Full-Time - United States - February Start | score:3 | location:Chicago, IL | posted:2026-08-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4457614863 | QuantumFabrics | Software Engineer | score:3 | location:Los Angeles, CA | posted:2026-08-25T00:00:00.000Z | source:linkedin-guest
