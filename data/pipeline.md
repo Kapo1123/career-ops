@@ -5576,3 +5576,21 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4459034091 | The Voleon Group | Software Engineer - University Hire 2027 | score:3.8 | location:Berkeley, CA | posted:2026-08-25T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4459014481 | BlackRock | Associate, Full Stack Engineer | score:4.5 | location:San Francisco, CA | posted:2026-08-25T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4457448020 | HiredBuddy | Software Engineer | score:3.3 | location:New York, United States | posted:2026-08-25T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/twitch/jobs/8747649002 | Twitch | Software Engineer II, Fintech | score:4.1 | location:Seattle, WA | posted:2026-08-25T16:04:29-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4457256742 | BeaconFire Inc. | Java/Software Developer | score:3.4 | location:East Windsor, NJ | posted:2026-08-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4457905527 | RemoteHunter | Software Engineer 1 (Full-Stack) | score:3 | location:United States | posted:2026-08-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456954308 | Zebra Technologies | Software Engineer I | score:3.8 | location:Lincolnshire, IL | posted:2026-08-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4459157276 | Uber | Software Engineer I | score:4.1 | location:New York, NY | posted:2026-08-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4457930148 | RemoteHunter | Associate Software Engineer - US | score:3.8 | location:United States | posted:2026-08-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4459328521 | Sapphire Partners | Associate Software Engineer - US | score:3.8 | location:Maryland, United States | posted:2026-08-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4321058075 | Epic | Entry-Level Software Developer | score:3 | location:Branson, MO | posted:2026-08-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4418046859 | Deloitte | Cyber Full-Stack Software Engineer | score:3 | location:Dallas, TX | posted:2026-08-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4459018721 | Salesforce | Software Engineer, AI Applications | score:3.3 | location:San Francisco, CA | posted:2026-08-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4459164072 | Uber | Software Engineer II | score:3.8 | location:Sunnyvale, CA | posted:2026-08-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4459122289 | Auth21 | Software Engineer, Developer Success | score:3.3 | location:San Francisco Bay Area | posted:2026-08-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4457250148 | Mentor Talent Acquisition | Junior Full Stack Engineer | score:4.5 | location:New York, United States | posted:2026-08-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4459118024 | General Dynamics Information Technology | Software Engineer 1 | score:3 | location:Annapolis Junction, MD | posted:2026-08-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4459004216 | Mpire Financial Group LLC NMLS#2108504 (www.nmlsconsumeraccess.org) | Software Engineer | score:3 | location:Maitland, FL | posted:2026-08-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4457901832 | Haystack | Software Engineer | score:3 | location:United States | posted:2026-08-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4457907273 | Praxis Engineering | Software Engineer 1 | score:3 | location:Annapolis Junction, MD | posted:2026-08-26T00:00:00.000Z | source:linkedin-guest
