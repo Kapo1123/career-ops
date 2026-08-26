@@ -5604,3 +5604,14 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4458536503 | Boston Scientific | Software Engineer I | score:3.8 | location:Arden Hills, MN | posted:2026-08-26T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4456952850 | Charles Schwab | Software Developer | score:3 | location:Southlake, TX | posted:2026-08-25T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4459348241 | Roku | Software Engineer - Content Ingestion | score:3 | location:Austin, TX | posted:2026-08-26T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://careers.roblox.com/jobs/8115917?gh_jid=8115917 | Roblox | Software Engineer, Creator | score:3 | location:San Mateo, CA, United States | posted:2026-08-26T15:11:16-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/twitch/jobs/8747652002 | Twitch | Software Engineer II, Fintech | score:4.1 | location:New York City | posted:2026-08-26T15:25:16-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/twitch/jobs/8748320002 | Twitch | Software Engineer I, Memberships | score:4.1 | location:San Francisco, CA | posted:2026-08-26T12:56:43-04:00 | source:greenhouse-api
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/8055118?gh_jid=8055118 | Cloudflare | Data Engineer | score:3.4 | location:In-Office | posted:2026-08-26T17:19:19-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4457993184 | Pushnami | Software Engineer | score:3 | location:Austin, Texas Metropolitan Area | posted:2026-08-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4457983783 | Jack &amp; Jill | Software Engineer (Early Career) ($130k-$170k + 0.50% Equity) at Pax | score:4.1 | location:San Francisco, CA | posted:2026-08-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4457267705 | Infosys | Specialist Programmer - Entry Level for new Grads | score:3.8 | location:Richardson, TX | posted:2026-08-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4459394033 | Energy Solutions | Software Engineer I (New York, NY - US) | score:4.1 | location:New York, NY | posted:2026-08-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4459373631 | Energy Solutions | Software Engineer I (Oakland, CA - US) | score:3.8 | location:Oakland, CA | posted:2026-08-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4459397477 | TD | Software Engineer I (US) | score:3.8 | location:Mount Laurel, NJ | posted:2026-08-26T00:00:00.000Z | source:linkedin-guest
