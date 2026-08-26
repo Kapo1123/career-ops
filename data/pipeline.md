@@ -5594,3 +5594,13 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4459004216 | Mpire Financial Group LLC NMLS#2108504 (www.nmlsconsumeraccess.org) | Software Engineer | score:3 | location:Maitland, FL | posted:2026-08-25T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4457901832 | Haystack | Software Engineer | score:3 | location:United States | posted:2026-08-26T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4457907273 | Praxis Engineering | Software Engineer 1 | score:3 | location:Annapolis Junction, MD | posted:2026-08-26T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/twitch/jobs/8751076002 | Twitch | Software Engineer I, Memberships | score:4.1 | location:Seattle, WA | posted:2026-08-26T12:56:45-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8148431 | Reddit | Software Engineer, PDP Experience | score:3.3 | location:Remote - United States | posted:2026-08-26T13:56:44-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4457960934 | HiredBuddy | Full Stack Engineer | score:3.7 | location:New York, United States | posted:2026-08-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4457947299 | Revature | Entry Level Software Developer | score:3.8 | location:Texas, United States | posted:2026-08-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4458746537 | Amazon | Software Development Engineer, Amazon Leo, Early Career - 2026 | score:5 | location:Los Angeles, CA | posted:2026-08-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4459346325 | Cubic Corporation | Software Engineer I – Unified Video Sustainment | score:3.8 | location:Ashburn, VA | posted:2026-08-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4458536503 | Boston Scientific | Software Engineer I | score:3.8 | location:Arden Hills, MN | posted:2026-08-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4456952850 | Charles Schwab | Software Developer | score:3 | location:Southlake, TX | posted:2026-08-25T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4459348241 | Roku | Software Engineer - Content Ingestion | score:3 | location:Austin, TX | posted:2026-08-26T00:00:00.000Z | source:linkedin-guest
