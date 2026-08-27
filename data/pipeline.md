@@ -5615,3 +5615,17 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4459394033 | Energy Solutions | Software Engineer I (New York, NY - US) | score:4.1 | location:New York, NY | posted:2026-08-26T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4459373631 | Energy Solutions | Software Engineer I (Oakland, CA - US) | score:3.8 | location:Oakland, CA | posted:2026-08-26T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4459397477 | TD | Software Engineer I (US) | score:3.8 | location:Mount Laurel, NJ | posted:2026-08-26T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4458318925 | idler | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-08-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4457994899 | Roblox | Software Engineer, Creator | score:3 | location:San Mateo, CA | posted:2026-08-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4458324591 | EvenUp | Software Engineer (New Grad), Data Products | score:4.5 | location:San Francisco, CA | posted:2026-08-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4459623197 | SpaceXAI | Software Engineer, Ads Product | score:3 | location:Palo Alto, CA | posted:2026-08-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4457986953 | Twitch | Software Engineer I, Memberships | score:4.1 | location:San Francisco, CA | posted:2026-08-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4457705654 | Ontic | Associate Software Engineer - Full Stack | score:4.2 | location:Austin, TX | posted:2026-08-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4457704517 | Oracle | Application Software Engineer 1 | score:3 | location:Nashville, TN | posted:2026-08-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4459636547 | Cubic Digital Intelligence | Software Engineer I – Unified Video Sustainment | score:3.8 | location:Ashburn, VA | posted:2026-08-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4458302434 | RemoteHunter | Associate Software Engineer - US | score:3.8 | location:United States | posted:2026-08-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4459335324 | Sapphire Partners | Associate Software Engineer - US | score:3.8 | location:Maryland, United States | posted:2026-08-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4457708357 | MANTECH | Junior Software Developer | score:3.8 | location:Miami, FL | posted:2026-08-26T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4457715468 | Lightcast | Associate Software Engineer - 1074 | score:3.8 | location:Moscow, ID | posted:2026-08-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4457277488 | CyberCoders | Jr. Software Engineer | score:3 | location:Manhattan, NY | posted:2026-08-26T00:00:00.000Z | source:linkedin-guest
