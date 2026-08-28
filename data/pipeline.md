@@ -5665,3 +5665,23 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7955601002 | Databricks | Sr Software Engineer - Backend | score:4.2 | location:Bengaluru, India | posted:2026-08-28T00:48:31-04:00 | source:greenhouse-api
 - [ ] https://www.linkedin.com/jobs/view/4458047532 | CGI | Jr. - Mid Level JEE Software Developer | score:3 | location:All, MO | posted:2026-08-28T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4458686550 | Veolia | North America | Junior Manufacturing Software Engineer | score:3.8 | location:Boulder, CO | posted:2026-08-27T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://app.careerpuck.com/job-board/lyft/job/8743513002?gh_jid=8743513002 | Lyft | Android Software Engineer, Lyft Urban Solutions | score:3.8 | location:Montreal, Canada | posted:2026-08-28T11:41:34-04:00 | source:greenhouse-api
+- [ ] https://app.careerpuck.com/job-board/lyft/job/8760350002?gh_jid=8760350002 | Lyft | Software Engineer, LUS Backend Platforms | score:4.2 | location:Montreal, Canada | posted:2026-08-28T12:43:24-04:00 | source:greenhouse-api
+- [ ] https://www.coinbase.com/careers/positions/8164730?gh_jid=8164730 | Coinbase | Software Engineer, CDP - Payment Acceptance  | score:4.1 | location:Remote - USA | posted:2026-08-28T15:50:04-04:00 | source:greenhouse-api
+- [ ] https://www.coinbase.com/careers/positions/8165441?gh_jid=8165441 | Coinbase | Software Engineer, Security Platform | score:4.5 | location:Remote - India | posted:2026-08-28T19:26:55-04:00 | source:greenhouse-api
+- [ ] https://careers.roblox.com/jobs/8060254?gh_jid=8060254 | Roblox | Software Engineer, Economy Platform | score:3.4 | location:San Mateo, CA, United States | posted:2026-08-28T18:57:08-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/openai/00205d4e-9933-4057-8115-50b08d112ad1 | OpenAI | Software Engineer, Astral | score:3.3 | location:New York City | posted:2026-08-28T17:51:07.591+00:00 | source:ashby-api
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6174215004 | Hightouch | Software Engineer, Applied AI Research | score:3.3 | location:Remote (North America) | posted:2026-08-28T17:18:55-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4460509478 | MintMCP | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-08-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4460529371 | Hewlett Packard Enterprise | Software Engineer Graduate | score:3 | location:Sunnyvale, CA | posted:2026-08-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4458437012 | BeaconFire Inc. | Junior Java Software Developer with AI Integration | score:4.2 | location:California, United States | posted:2026-08-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4450629112 | Salesforce | Software Engineering AMTS (College Grad) | score:3.3 | location:Seattle, WA | posted:2026-08-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4460516927 | Choice Hotels International | Software Engineer 1 - Guest &amp; Loyalty Domain | score:3 | location:Scottsdale, AZ | posted:2026-08-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4458675597 | MedDots AI | Software Engineer I | score:3.8 | location:Chattanooga, TN | posted:2026-08-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4459405837 | Sally Beauty | Software Engineer | score:3 | location:Plano, TX | posted:2026-08-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4460368690 | Helic &amp; Co | Junior Software Developer | score:3.8 | location:United States | posted:2026-08-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4460385797 | CosmoProf Beauty | Software Engineer | score:3 | location:Plano, TX | posted:2026-08-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448757705 | Google | Software Engineer, Early Career, Campus | score:5 | location:Cambridge, MA | posted:2026-08-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4458963513 | Revature | Software Engineer | score:3 | location:Tampa, FL | posted:2026-08-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4459430940 | SE Independent Delivery Services, Inc. | BackEnd Developer | score:3.4 | location:Seffner, FL | posted:2026-08-28T00:00:00.000Z | source:linkedin-guest
