@@ -5651,3 +5651,10 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4460127144 | PSI Services LLC | Junior Software Engineer | score:3.8 | location:Olathe, KS | posted:2026-08-27T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4458658855 | Apton, Inc. | Java Developer Entry Level | score:4.2 | location:Wilmington, DE | posted:2026-08-27T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4449984187 | UST | Junior Full Stack Developer (Data CoE) | score:4.2 | location:Overland Park, KS | posted:2026-08-27T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4460106817 | General Matter | Software Engineer (New Grad) | score:3.8 | location:Los Angeles, CA | posted:2026-08-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4458655426 | Harvey Nash | Software Engineer | score:3 | location:Minneapolis, MN | posted:2026-08-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4458014218 | Sierra Nevada Corporation | Software Engineer I | score:3.8 | location:Plano, TX | posted:2026-08-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4459899038 | Inductive Automation | Software Engineer I | score:3.8 | location:Folsom, CA | posted:2026-08-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4459691161 | Hewlett Packard Enterprise | Software Engineer | score:3 | location:Westford, MA | posted:2026-08-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4458034583 | USAA | Junior Software Engineer | score:3.8 | location:San Antonio, TX | posted:2026-08-27T00:00:00.000Z | source:linkedin-guest
