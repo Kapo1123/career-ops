@@ -5629,3 +5629,25 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4457708357 | MANTECH | Junior Software Developer | score:3.8 | location:Miami, FL | posted:2026-08-26T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4457715468 | Lightcast | Associate Software Engineer - 1074 | score:3.8 | location:Moscow, ID | posted:2026-08-27T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4457277488 | CyberCoders | Jr. Software Engineer | score:3 | location:Manhattan, NY | posted:2026-08-26T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://boards.greenhouse.io/robinhood/jobs/8163432?t=gh_src=&gh_jid=8163432 | Robinhood | Customer Experience Associate (New Grad) | score:4.6 | location:Denver, CO; Westlake, TX | posted:2026-08-27T19:28:09-04:00 | source:greenhouse-api
+- [ ] https://app.careerpuck.com/job-board/lyft/job/8755550002?gh_jid=8755550002 | Lyft | Software Engineer, Community Safety | score:3.8 | location:Toronto, Canada | posted:2026-08-27T10:35:09-04:00 | source:greenhouse-api
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/8158920?gh_jid=8158920 | Cloudflare | Software Engineer, FL | score:3 | location:Hybrid | posted:2026-08-27T12:46:33-04:00 | source:greenhouse-api
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/8159348?gh_jid=8159348 | Cloudflare | Software Engineer, Rulesets | score:3 | location:Hybrid | posted:2026-08-27T12:44:48-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/snowflake/a51a1e30-94ec-4550-b39f-90ef328dfa87 | Snowflake | Software Engineer, Full Stack - Marketplace | score:4.2 | location:US-CA-Menlo Park | posted:2026-08-27T21:13:31.461+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/openai/984da843-107f-4ff6-ad27-07a06700e338 | OpenAI | Software Engineer, Infrastructure  | score:3.7 | location:San Francisco | posted:2026-08-27T16:27:41.861+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4459814098 | Jobverse.io | Software Engineer (Agent Platform) - New Grad - 2026-2027 | score:4.5 | location:San Francisco, CA | posted:2026-08-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4458026326 | BeaconFire Inc. | Entry Level- Java Developer | score:4.2 | location:California, United States | posted:2026-08-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4321384017 | Epic | Entry-Level Software Developer | score:3 | location:Olathe, KS | posted:2026-08-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4459668010 | Auth21 | Software Engineer, New Grad (Dec 2026) | score:4.1 | location:San Francisco, CA | posted:2026-08-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4458675740 | RemoteHunter | Software Engineer 1 (Full-Stack) | score:3 | location:United States | posted:2026-08-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4459884402 | MedDots AI | Software Engineer | score:3 | location:Chattanooga, TN | posted:2026-08-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4458034584 | USAA | Junior Software Engineer | score:3.8 | location:Plano, TX | posted:2026-08-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4449144206 | Goldman Sachs | The Core Engineering - Salt Lake City, Associate, Software Engineering | score:3.8 | location:Salt Lake City, UT | posted:2026-08-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4460119238 | Eulerity | Associate Backend Engineer | score:4.5 | location:New York City Metropolitan Area | posted:2026-08-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448081779 | Boeing | Associate Software Engineer | score:3.8 | location:Maryland Heights, MO | posted:2026-08-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4458619575 | Revature | Software Engineer | score:3 | location:Tampa, FL | posted:2026-08-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4458631787 | MetAntz | Jr. Backend Engineer | score:4.9 | location:San Jose, CA | posted:2026-08-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4460127144 | PSI Services LLC | Junior Software Engineer | score:3.8 | location:Olathe, KS | posted:2026-08-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4458658855 | Apton, Inc. | Java Developer Entry Level | score:4.2 | location:Wilmington, DE | posted:2026-08-27T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4449984187 | UST | Junior Full Stack Developer (Data CoE) | score:4.2 | location:Overland Park, KS | posted:2026-08-27T00:00:00.000Z | source:linkedin-guest
