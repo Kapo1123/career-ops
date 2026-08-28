@@ -5661,3 +5661,7 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 
 - [ ] https://www.linkedin.com/jobs/view/4458914807 | Booz Allen Hamilton | Full Stack Software Engineer, Junior | score:4.2 | location:McLean, VA | posted:2026-08-28T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4460122432 | Johnson &amp; Johnson | Software Engineer, Infrastructure | score:3.4 | location:Santa Clara, CA | posted:2026-08-27T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7955601002 | Databricks | Sr Software Engineer - Backend | score:4.2 | location:Bengaluru, India | posted:2026-08-28T00:48:31-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4458047532 | CGI | Jr. - Mid Level JEE Software Developer | score:3 | location:All, MO | posted:2026-08-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4458686550 | Veolia | North America | Junior Manufacturing Software Engineer | score:3.8 | location:Boulder, CO | posted:2026-08-27T00:00:00.000Z | source:linkedin-guest
