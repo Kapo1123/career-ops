@@ -5658,3 +5658,6 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4459899038 | Inductive Automation | Software Engineer I | score:3.8 | location:Folsom, CA | posted:2026-08-27T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4459691161 | Hewlett Packard Enterprise | Software Engineer | score:3 | location:Westford, MA | posted:2026-08-27T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4458034583 | USAA | Junior Software Engineer | score:3.8 | location:San Antonio, TX | posted:2026-08-27T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4458914807 | Booz Allen Hamilton | Full Stack Software Engineer, Junior | score:4.2 | location:McLean, VA | posted:2026-08-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4460122432 | Johnson &amp; Johnson | Software Engineer, Infrastructure | score:3.4 | location:Santa Clara, CA | posted:2026-08-27T00:00:00.000Z | source:linkedin-guest
