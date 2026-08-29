@@ -5712,3 +5712,7 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4460597998 | Microsoft | Software Engineer - Intune | score:4.5 | location:Cambridge, MA | posted:2026-08-29T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4441944930 | Acrisure | Software Engineer I | score:3.8 | location:Grand Rapids, MI | posted:2026-08-29T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4460831560 | FASHIONPHILE | Junior Software Engineer | score:3.8 | location:Lehi, UT | posted:2026-08-29T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4460537279 | Hewlett Packard Enterprise | Software Engineer Graduate | score:3 | location:Spring, TX | posted:2026-08-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4460838448 | L3Harris Technologies | Associate, Software Engineer | score:3.8 | location:Richardson, TX | posted:2026-08-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4460591894 | TEORE, LLC | Jr. Software Engineer, AI-Driven Engineering | score:3 | location:Lakeland, FL | posted:2026-08-29T00:00:00.000Z | source:linkedin-guest
