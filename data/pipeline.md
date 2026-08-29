@@ -5716,3 +5716,11 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4460537279 | Hewlett Packard Enterprise | Software Engineer Graduate | score:3 | location:Spring, TX | posted:2026-08-28T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4460838448 | L3Harris Technologies | Associate, Software Engineer | score:3.8 | location:Richardson, TX | posted:2026-08-29T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4460591894 | TEORE, LLC | Jr. Software Engineer, AI-Driven Engineering | score:3 | location:Lakeland, FL | posted:2026-08-29T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4460577521 | Calfus Inc. | Software Engineer | score:3.3 | location:San Francisco Bay Area | posted:2026-08-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4457256457 | BeaconFire Inc. | Entry-Level / Junior Software Developer | score:3.8 | location:New Jersey, United States | posted:2026-08-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4460542201 | Hewlett Packard Enterprise | Software Engineer Graduate | score:3 | location:Westford, MA | posted:2026-08-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4460832113 | Baxter International Inc. | Software Engineer, | score:3 | location:Skaneateles Falls, NY | posted:2026-08-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4458806061 | Job Spread | Backend Software Engineer | score:3.4 | location:Redwood City, CA | posted:2026-08-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4460823652 | EngRadar | Software Engineer, Economy Platform | score:3.4 | location:San Mateo, CA | posted:2026-08-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441627911 | DRB Homes | IT Full Stack Developer | score:3.4 | location:Rockville, MD | posted:2026-08-29T00:00:00.000Z | source:linkedin-guest
