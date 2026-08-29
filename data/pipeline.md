@@ -5705,3 +5705,10 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4459434916 | Carterra | Software Engineer I | score:3.8 | location:Salt Lake City, UT | posted:2026-08-29T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4460557913 | MetLife | Junior Software Engineer | score:3.8 | location:Cary, NC | posted:2026-08-29T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4460304354 | Takt | Associate Software Engineer, Frontend | score:3.8 | location:Reston, VA | posted:2026-08-28T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4460814966 | Helic &amp; Co | Junior Software Developer | score:3.8 | location:United States | posted:2026-08-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4460597959 | BlackRock | Associate, Software Engineer - SMA Solutions | score:3.8 | location:Chicago, IL | posted:2026-08-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4460815593 | Microsoft | Software Engineer Intune | score:5 | location:Redmond, WA | posted:2026-08-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4460597998 | Microsoft | Software Engineer - Intune | score:4.5 | location:Cambridge, MA | posted:2026-08-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441944930 | Acrisure | Software Engineer I | score:3.8 | location:Grand Rapids, MI | posted:2026-08-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4460831560 | FASHIONPHILE | Junior Software Engineer | score:3.8 | location:Lehi, UT | posted:2026-08-29T00:00:00.000Z | source:linkedin-guest
