@@ -5695,3 +5695,9 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4459450685 | BettaBot | Junior Full Stack Developer | score:4.2 | location:Santa Fe Springs, CA | posted:2026-08-29T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4460335551 | Microsoft | Software Engineer | score:4.5 | location:Redmond, WA | posted:2026-08-28T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4460392317 | Zof AI | Junior Software Engineer | score:4.1 | location:San Francisco, CA | posted:2026-08-28T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4460505502 | MintMCP | Software Engineer | score:3 | location:San Mateo, CA | posted:2026-08-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4460537281 | Hewlett Packard Enterprise | Software Engineer Graduate | score:3 | location:San Jose, CA | posted:2026-08-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4460550983 | MetLife | Junior Software Engineer | score:3.8 | location:Cary, NC | posted:2026-08-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4458415953 | BeaconFire Inc. | Junior Java Software Developer with AI Integration | score:4.5 | location:New York City Metropolitan Area | posted:2026-08-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4458944112 | Siemens | Software Engineer | score:3.3 | location:New York, NY | posted:2026-08-28T00:00:00.000Z | source:linkedin-guest
