@@ -5685,3 +5685,13 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4448757705 | Google | Software Engineer, Early Career, Campus | score:5 | location:Cambridge, MA | posted:2026-08-28T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4458963513 | Revature | Software Engineer | score:3 | location:Tampa, FL | posted:2026-08-28T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4459430940 | SE Independent Delivery Services, Inc. | BackEnd Developer | score:3.4 | location:Seffner, FL | posted:2026-08-28T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4450024039 | IXL Learning | Software Engineer, New Grad | score:3.8 | location:San Mateo, CA | posted:2026-08-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4458945781 | RemoteHunter | Software Engineer 1 (Full-Stack) | score:3 | location:United States | posted:2026-08-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4450623260 | Salesforce | Software Engineering AMTS (College Grad) | score:3.3 | location:San Francisco, CA | posted:2026-08-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4458971121 | Micron Technology | New College Grad - Software Engineer | score:3 | location:Boise, ID | posted:2026-08-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4458423922 | BeaconFire Inc. | Junior Java Software Developer with AI Integration | score:4.2 | location:Texas, United States | posted:2026-08-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4459453322 | Roblox | Software Engineer, Economy Platform | score:3.4 | location:San Mateo, CA | posted:2026-08-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4459450685 | BettaBot | Junior Full Stack Developer | score:4.2 | location:Santa Fe Springs, CA | posted:2026-08-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4460335551 | Microsoft | Software Engineer | score:4.5 | location:Redmond, WA | posted:2026-08-28T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4460392317 | Zof AI | Junior Software Engineer | score:4.1 | location:San Francisco, CA | posted:2026-08-28T00:00:00.000Z | source:linkedin-guest
