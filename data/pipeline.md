@@ -5724,3 +5724,9 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4458806061 | Job Spread | Backend Software Engineer | score:3.4 | location:Redwood City, CA | posted:2026-08-29T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4460823652 | EngRadar | Software Engineer, Economy Platform | score:3.4 | location:San Mateo, CA | posted:2026-08-29T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4441627911 | DRB Homes | IT Full Stack Developer | score:3.4 | location:Rockville, MD | posted:2026-08-29T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4459486994 | RemoteHunter | Software Engineer 1 (Full-Stack) | score:3 | location:United States | posted:2026-08-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4460599929 | Hire Feed | Junior Software Engineer (Remote) | score:3.8 | location:United States | posted:2026-08-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4459496837 | Jobright.ai | Python Engineer, New Grad | score:4.2 | location:United States | posted:2026-08-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4413455585 | Chenega MIOS SBU | Jr. Backend Developer | score:3.4 | location:Vienna, VA | posted:2026-08-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4459704001 | H1BConnect | Software Engineer - Intune | score:3 | location:Cambridge, MA | posted:2026-08-29T00:00:00.000Z | source:linkedin-guest
