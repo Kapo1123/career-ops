@@ -5739,3 +5739,10 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4458415962 | BeaconFire Inc. | Junior Java Software Developer with AI Integration | score:4.2 | location:Florida, United States | posted:2026-08-30T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4460871868 | SpaceX | Full Stack Engineer, Employee Experience | score:3.4 | location:Palo Alto, CA | posted:2026-08-30T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4461012867 | NetApp | Software Engineer - Cloud Volumes | score:3 | location:San Jose, CA | posted:2026-08-30T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4461032065 | TikTok USDS Joint Venture | Software Engineer, Emerging Product - USDS | score:3 | location:San Jose, CA | posted:2026-08-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4460859300 | Jacobs | Junior Software Developer | score:3.8 | location:Herndon, VA | posted:2026-08-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4460899357 | BlackRock | Associate, Full Stack Engineer - SMA Solutions | score:4.5 | location:San Francisco, CA | posted:2026-08-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4461015331 | TikTok USDS Joint Venture | Software Engineer, Data Foundation – USDS | score:3.4 | location:San Jose, CA | posted:2026-08-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4458865186 | Tech Consulting | Junior Software Engineer | score:3.8 | location:Texas, United States | posted:2026-08-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4459704833 | RemoteHunter | Software Engineer 1 | score:3 | location:United States | posted:2026-08-29T00:00:00.000Z | source:linkedin-guest
