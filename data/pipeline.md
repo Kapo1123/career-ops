@@ -5746,3 +5746,10 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4461015331 | TikTok USDS Joint Venture | Software Engineer, Data Foundation – USDS | score:3.4 | location:San Jose, CA | posted:2026-08-30T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4458865186 | Tech Consulting | Junior Software Engineer | score:3.8 | location:Texas, United States | posted:2026-08-30T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4459704833 | RemoteHunter | Software Engineer 1 | score:3 | location:United States | posted:2026-08-29T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/snowflake/99dfc810-9487-4ac1-91a8-50acefd05bae | Snowflake | Software Engineer - Dynamic Tables | score:3.8 | location:DE-Berlin-Trion Building | posted:2026-08-30T20:13:40.368+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4457793694 | BeaconFire Inc. | Java Software Engineer | score:3.4 | location:Pennsylvania, United States | posted:2026-08-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4459749640 | Jobright.ai | Python Engineer, New Grad | score:4.2 | location:United States | posted:2026-08-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4459752606 | Jobright.ai | Backend Engineer, New Grad | score:4.2 | location:United States | posted:2026-08-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4458854399 | Haystack | Associate Full Stack Engineer | score:4.2 | location:United States | posted:2026-08-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4458426939 | BeaconFire Inc. | Junior Java Software Developer with AI Integration | score:4.2 | location:New Jersey, United States | posted:2026-08-30T00:00:00.000Z | source:linkedin-guest
