@@ -5730,3 +5730,12 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4459496837 | Jobright.ai | Python Engineer, New Grad | score:4.2 | location:United States | posted:2026-08-29T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4413455585 | Chenega MIOS SBU | Jr. Backend Developer | score:3.4 | location:Vienna, VA | posted:2026-08-29T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4459704001 | H1BConnect | Software Engineer - Intune | score:3 | location:Cambridge, MA | posted:2026-08-29T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4461004852 | NetApp | Software Engineer | score:3 | location:San Jose, CA | posted:2026-08-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4459748429 | HiredBuddy | Full Stack Engineer | score:3.7 | location:New York, United States | posted:2026-08-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4460852551 | Jacobs | Junior Software Developer | score:3.8 | location:Chantilly, VA | posted:2026-08-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4458813200 | Tech Consulting | Junior Software Engineer | score:4.1 | location:Utah, United States | posted:2026-08-29T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4460854675 | Baxter International Inc. | Software Engineer, | score:3 | location:Skaneateles Falls, NY | posted:2026-08-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4458415962 | BeaconFire Inc. | Junior Java Software Developer with AI Integration | score:4.2 | location:Florida, United States | posted:2026-08-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4460871868 | SpaceX | Full Stack Engineer, Employee Experience | score:3.4 | location:Palo Alto, CA | posted:2026-08-30T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4461012867 | NetApp | Software Engineer - Cloud Volumes | score:3 | location:San Jose, CA | posted:2026-08-30T00:00:00.000Z | source:linkedin-guest
