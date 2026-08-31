@@ -5789,3 +5789,9 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4461068663 | Sundayy | Software Engineer, Jr. (Java / Python) | score:3.4 | location:United States | posted:2026-08-31T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4458977999 | Entertainment Partners | Full Stack Engineer | score:3.4 | location:United States | posted:2026-08-31T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4460043044 | Whova | Software Engineer (San Diego Only) | score:3 | location:San Diego, CA | posted:2026-08-31T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://stripe.com/jobs/search?gh_jid=8130881 | Stripe | Software Engineer, New Grad | score:4.6 | location:Dublin | posted:2026-08-31T19:07:03-04:00 | source:greenhouse-api
+- [ ] https://stripe.com/jobs/search?gh_jid=8130927 | Stripe | Software Engineer, New Grad - Frontend | score:4.6 | location:Barcelona | posted:2026-08-31T18:35:45-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/sierra/d9c445da-c7b4-43a3-8d71-d367681c3015 | Sierra | APX (New Grad 2027) | score:4.1 | location:San Francisco, CA | posted:2026-08-31T22:47:06.440+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4460075410 | Dash Bio | Software Engineer - Full Stack | score:3.4 | location:Waltham, MA | posted:2026-08-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4453663470 | Resmed | Associate Software Engineer | score:3.8 | location:San Diego, CA | posted:2026-08-31T00:00:00.000Z | source:linkedin-guest
