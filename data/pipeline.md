@@ -5758,3 +5758,24 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4458860027 | NetApp | Software Engineer - ANF (Azure NetApp Files) | score:3 | location:San Jose, CA | posted:2026-08-30T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4458855328 | Haystack | Junior/Mid Software Engineer | score:3.8 | location:St Louis, MO | posted:2026-08-30T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4460873863 | SpaceX | Full Stack Software Engineer, Developer Systems | score:3.4 | location:Hawthorne, CA | posted:2026-08-30T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/gusto/jobs/8104213 | Gusto | Software Engineer, Payments | score:3.3 | location:New York, New York, United States; San Francisco, CA - Hybrid | posted:2026-08-31T12:50:12-04:00 | source:greenhouse-api
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=8161336 | MongoDB | Software Engineer 3 | score:3 | location:Gurugram | posted:2026-08-31T11:15:38-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/sierra/1d5cf6f0-feba-46a6-98bc-70a1627a76d0 | Sierra | Software Engineer, Agent (Spanish speaking) | score:3.3 | location:San Francisco, CA | posted:2026-08-31T18:20:22.367+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/openai/9371f837-70ef-4387-a4b7-70f252b04aa5 | OpenAI | Software Engineer, Safety Engineering | score:3.3 | location:San Francisco | posted:2026-08-31T19:44:52.442+00:00 | source:ashby-api
+- [ ] https://jobs.lever.co/palantir/cadc0eb2-2703-43e4-8e4f-41edf5b071c6 | Palantir | Forward Deployed Infrastructure Engineer, New Grad - UK Government | score:4.2 | location:London, United Kingdom | posted:2026-08-31T07:29:41.774Z | source:lever-api
+- [ ] https://jobs.lever.co/palantir/701a9307-0619-45d3-b077-cabe9897cd12 | Palantir | Forward Deployed Infrastructure Engineer, New Grad - US Government | score:4.2 | location:Honolulu, HI | posted:2026-08-31T16:27:36.814Z | source:lever-api
+- [ ] https://www.linkedin.com/jobs/view/4460049105 | Emonics LLC | Associate Software Engineer | score:4.1 | location:New York, NY | posted:2026-08-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4458023367 | BeaconFire Inc. | Entry Level- Java Developer | score:4.2 | location:California, United States | posted:2026-08-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4459211469 | Revature | Software Engineer | score:3 | location:Tampa, FL | posted:2026-08-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4459205532 | Revature | Entry Level Software Developer | score:3.8 | location:Hartford, CT | posted:2026-08-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4460010744 | Jobright.ai | Python Engineer, New Grad | score:4.2 | location:United States | posted:2026-08-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4461276591 | TalentAlly | Junior Software Engineer | score:3.8 | location:Dallas-Fort Worth Metroplex | posted:2026-08-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4458875335 | TalentHop | Software Engineer I | score:3.8 | location:United States | posted:2026-08-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4459250252 | Medilinkers LLC | Software Engineer, Backend (Early-to-Mid Career) | score:3.4 | location:Redwood City, CA | posted:2026-08-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4459203815 | NetApp | Software Engineer - Cloud Volumes | score:3 | location:San Jose, CA | posted:2026-08-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4461202511 | Helic &amp; Co | Junior Software Developer | score:3.8 | location:United States | posted:2026-08-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4460041987 | Google | Software Engineer | score:4.5 | location:Mountain View, CA | posted:2026-08-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4461266741 | WellSky | Associate Software Engineer | score:3.8 | location:Overland Park, KS | posted:2026-08-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4461280081 | Everlaw | Software Engineer I | score:3.8 | location:Oakland, CA | posted:2026-08-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4461055863 | Sapiom | Software Engineer, Agent Infrastructure | score:3.7 | location:San Francisco, CA | posted:2026-08-31T00:00:00.000Z | source:linkedin-guest
