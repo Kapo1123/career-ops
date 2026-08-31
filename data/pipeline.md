@@ -5779,3 +5779,13 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4461266741 | WellSky | Associate Software Engineer | score:3.8 | location:Overland Park, KS | posted:2026-08-31T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4461280081 | Everlaw | Software Engineer I | score:3.8 | location:Oakland, CA | posted:2026-08-31T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4461055863 | Sapiom | Software Engineer, Agent Infrastructure | score:3.7 | location:San Francisco, CA | posted:2026-08-31T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/sierra/149f368c-52d5-408f-ba26-ad888f318a00 | Sierra | Software Engineer, Agent (New Grad 2027) | score:4.1 | location:San Francisco, CA | posted:2026-08-31T17:54:40.218+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4459227927 | BeaconFire Inc. | Java/Software Developer | score:3.4 | location:East Windsor, NJ | posted:2026-08-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4460066466 | Jack | Software Engineer | score:3.3 | location:San Francisco Bay Area | posted:2026-08-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4460080337 | Jack | Full Stack Engineer | score:3.7 | location:San Francisco Bay Area | posted:2026-08-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4461270670 | TalentAlly | Junior Software Engineer | score:3.8 | location:San Antonio, Texas Metropolitan Area | posted:2026-08-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4459210942 | Tech Consulting | Junior Software Engineer | score:3.8 | location:Virginia, United States | posted:2026-08-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4461068663 | Sundayy | Software Engineer, Jr. (Java / Python) | score:3.4 | location:United States | posted:2026-08-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4458977999 | Entertainment Partners | Full Stack Engineer | score:3.4 | location:United States | posted:2026-08-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4460043044 | Whova | Software Engineer (San Diego Only) | score:3 | location:San Diego, CA | posted:2026-08-31T00:00:00.000Z | source:linkedin-guest
