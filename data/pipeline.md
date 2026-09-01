@@ -5819,3 +5819,11 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4461744532 | Helic &amp; Co | Junior Software Developer | score:3.8 | location:United States | posted:2026-09-01T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4460221053 | Cognizant | Jr. Full Stack Engineer | score:3.7 | location:New York, NY | posted:2026-09-01T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4461292373 | CDK Global | Associate Software Engineer | score:3.8 | location:Austin, TX | posted:2026-08-31T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://stripe.com/jobs/search?gh_jid=8130930 | Stripe | Software Engineer, New Grad | score:4.6 | location:London | posted:2026-08-31T18:32:53-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4460205602 | Whatnot | Software Engineer, 2027 New Grad | score:4.1 | location:New York, NY | posted:2026-09-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4460090449 | IXL Learning | Software Engineer, New Grad | score:3.8 | location:San Mateo, CA | posted:2026-09-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4461500405 | Cisco | Software Engineer Full Stack / Backend I (Full Time) - United States | score:3.4 | location:Hillsboro, OR | posted:2026-08-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4462033273 | Axon | Software Engineer I | score:4.1 | location:Seattle, WA | posted:2026-09-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4462022731 | Cortrucent Security | Junior Full Stack Engineer | score:4.2 | location:Berlin, NJ | posted:2026-09-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4461539476 | Booz Allen Hamilton | Full Stack Software Developer, Junior | score:4.2 | location:Dahlgren, VA | posted:2026-09-01T00:00:00.000Z | source:linkedin-guest
