@@ -5797,3 +5797,25 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4453663470 | Resmed | Associate Software Engineer | score:3.8 | location:San Diego, CA | posted:2026-08-31T00:00:00.000Z | source:linkedin-guest
 
 - [ ] https://stripe.com/jobs/search?gh_jid=8130922 | Stripe | Software Engineer, New Grad | score:4.6 | location:Bucharest | posted:2026-08-31T19:03:34-04:00 | source:greenhouse-api
+
+- [ ] https://stripe.com/jobs/search?gh_jid=7737237 | Stripe | Software Engineer, Metronome Infrastructure | score:4.5 | location:Toronto, Vancouver, Canada-Remote | posted:2026-09-01T12:48:56-04:00 | source:greenhouse-api
+- [ ] https://stripe.com/jobs/search?gh_jid=8128744 | Stripe | Software Engineer, New Grad | score:4.9 | location:San Francisco, Seattle, New York | posted:2026-09-01T13:19:48-04:00 | source:greenhouse-api
+- [ ] https://stripe.com/jobs/search?gh_jid=8127182 | Stripe | Software Engineer, Platform Infrastructure | score:4.5 | location:San Francisco, New York City, Seattle, Chicago, US-Remote | posted:2026-09-01T12:44:30-04:00 | source:greenhouse-api
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/8168623?gh_jid=8168623 | Cloudflare | Software Engineer - Platforms & Productivity | score:3.4 | location:Hybrid | posted:2026-09-01T01:19:12-04:00 | source:greenhouse-api
+- [ ] http://block.xyz/careers/jobs/5412832008?gh_jid=5412832008 | Block (Square) | Software Engineer, Cash App Taxes | score:3.3 | location:New York, NY, United States of America | posted:2026-09-01T13:55:46-04:00 | source:greenhouse-api
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=8167389 | MongoDB | Software Engineer 3 | score:3 | location:Gurugram | posted:2026-09-01T11:07:34-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/plaid/8de90516-8070-42c5-8b04-267bf6785bea | Plaid | Software Engineer, Full Stack  | score:3.7 | location:Seattle Office | posted:2026-09-01T16:19:53.357+00:00 | source:ashby-api
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7791259003?gh_jid=7791259003 | Celonis | Software Engineer | score:3 | location:Bangalore, India | posted:2026-09-01T10:02:56-04:00 | source:greenhouse-api
+- [ ] https://careers.hellofresh.com/global/en/job/8170849?gh_jid=8170849 | HelloFresh | Data Engineer, Operations Technology (all genders) | score:3.4 | location:Warszawa, Masovian Voivodeship, Poland | posted:2026-09-01T11:23:40-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4460087902 | Whatnot | Software Engineer, 2027 New Grad | score:4.1 | location:San Francisco, CA | posted:2026-09-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4459524491 | Stealth Startup | Software Engineer (New Grad) [33427] | score:4.1 | location:San Francisco Bay Area | posted:2026-09-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4460091322 | edkey | Junior Software Engineer | score:4.1 | location:New York, NY | posted:2026-08-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4461295437 | Cisco | Software Engineer Full Stack / Backend I (Full Time) - United States | score:3.4 | location:Austin, TX | posted:2026-08-31T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4459259325 | Zelis | Software Engineer | score:3.3 | location:Utah, United States | posted:2026-09-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4460630451 | Peraton | Cyber Software Engineering, Associate - Annapolis Junction, MD | score:3.8 | location:Annapolis Junction, MD | posted:2026-09-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4460256194 | Haystack | Junior Software Engineer | score:3.8 | location:United States | posted:2026-09-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4459299236 | Onlano | Software Engineer / Technical Associate - Onsite | score:3.8 | location:Manhattan, NY | posted:2026-09-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4460244605 | Haystack | Software Engineer | score:3 | location:United States | posted:2026-09-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4461744532 | Helic &amp; Co | Junior Software Developer | score:3.8 | location:United States | posted:2026-09-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4460221053 | Cognizant | Jr. Full Stack Engineer | score:3.7 | location:New York, NY | posted:2026-09-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4461292373 | CDK Global | Associate Software Engineer | score:3.8 | location:Austin, TX | posted:2026-08-31T00:00:00.000Z | source:linkedin-guest
