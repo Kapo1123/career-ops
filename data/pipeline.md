@@ -5795,3 +5795,5 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://jobs.ashbyhq.com/sierra/d9c445da-c7b4-43a3-8d71-d367681c3015 | Sierra | APX (New Grad 2027) | score:4.1 | location:San Francisco, CA | posted:2026-08-31T22:47:06.440+00:00 | source:ashby-api
 - [ ] https://www.linkedin.com/jobs/view/4460075410 | Dash Bio | Software Engineer - Full Stack | score:3.4 | location:Waltham, MA | posted:2026-08-31T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4453663470 | Resmed | Associate Software Engineer | score:3.8 | location:San Diego, CA | posted:2026-08-31T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://stripe.com/jobs/search?gh_jid=8130922 | Stripe | Software Engineer, New Grad | score:4.6 | location:Bucharest | posted:2026-08-31T19:03:34-04:00 | source:greenhouse-api
