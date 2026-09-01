@@ -5827,3 +5827,12 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4462033273 | Axon | Software Engineer I | score:4.1 | location:Seattle, WA | posted:2026-09-01T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4462022731 | Cortrucent Security | Junior Full Stack Engineer | score:4.2 | location:Berlin, NJ | posted:2026-09-01T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4461539476 | Booz Allen Hamilton | Full Stack Software Developer, Junior | score:4.2 | location:Dahlgren, VA | posted:2026-09-01T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://stripe.com/jobs/search?gh_jid=8157838 | Stripe | Software Engineer, New Grad | score:4.6 | location:Toronto | posted:2026-08-31T19:16:14-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4460099703 | Whatnot | Software Engineer, 2027 New Grad | score:3.8 | location:Los Angeles, CA | posted:2026-09-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4460630675 | Advaita Health | Associate Software Engineer | score:3.8 | location:Raleigh, NC | posted:2026-09-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4459537212 | Amoha Recruitment Services LLC | Software Developer | score:3.3 | location:San Francisco Bay Area | posted:2026-09-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4462066354 | Kinective | Associate Software Engineer | score:3.8 | location:Golden, CO | posted:2026-09-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4462025162 | Harris Computer | Associate AI Assisted Software Developer | score:3.8 | location:Idaho, United States | posted:2026-09-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4460272900 | Revature | Software Engineer | score:3 | location:Tampa, FL | posted:2026-09-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4461282743 | Cisco | Software Engineer Full Stack / Backend I (Full Time) - United States | score:3.4 | location:Dallas, TX | posted:2026-08-31T00:00:00.000Z | source:linkedin-guest
