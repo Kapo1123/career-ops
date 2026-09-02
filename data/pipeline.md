@@ -5846,3 +5846,23 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4462032471 | SkillStorm | Junior Software Engineer | score:4.1 | location:New York, NY | posted:2026-09-01T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4462070411 | Crestalix Talent | Software Engineer | score:3 | location:United States | posted:2026-09-01T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4460238450 | Haystack | Junior Software Engineer | score:3.8 | location:Huntsville, AL | posted:2026-09-01T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://app.careerpuck.com/job-board/lyft/job/8772594002?gh_jid=8772594002 | Lyft | Software Engineer | score:4.1 | location:Seattle, WA | posted:2026-09-02T03:13:55-04:00 | source:greenhouse-api
+- [ ] https://stripe.com/jobs/search?gh_jid=8174105 | Stripe | Software Engineer | score:4.1 | location:Seattle, WA | posted:2026-09-02T12:57:08-04:00 | source:greenhouse-api
+- [ ] https://careers.roblox.com/jobs/8143982?gh_jid=8143982 | Roblox | [2027] Associate Product Designer, Early Career | score:3.8 | location:San Mateo, CA, United States | posted:2026-09-02T12:40:55-04:00 | source:greenhouse-api
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/8155463?gh_jid=8155463 | Cloudflare | Software Engineer, R2 Gateway | score:3 | location:In-Office | posted:2026-09-02T13:55:38-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4729979005 | Scale AI | Infrastructure Software Engineer, Apps Platform | score:3.4 | location:London, UK | posted:2026-09-02T14:15:03-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/supabase/4eb14408-51e6-4c58-812a-3782d5c0b045 | Supabase | Platform Engineer - Compute Capacity | score:3.7 | location:Remote, Global | posted:2026-09-02T10:03:09.472+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/supabase/06752423-eebb-472c-95b5-c7ff2559fd60 | Supabase | Software Engineer - Branching | score:3.3 | location:Remote, Global | posted:2026-09-02T10:25:03.190+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4460688284 | Valon | Software Engineer New Grad | score:4.1 | location:New York, NY | posted:2026-09-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4462041991 | Stripe | Software Engineer, New Grad | score:4.9 | location:New York, United States | posted:2026-09-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4459963076 | BeaconFire Inc. | Entry Level- Java Developer | score:4.2 | location:California, United States | posted:2026-09-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4460674213 | American Express | Campus Undergraduate Full-Time Engineer - 2027 Software Engineer I, Enterprise Technology Services- Phoenix, AZ | score:3.8 | location:Phoenix, AZ | posted:2026-09-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4459594541 | Yara AI | Full Stack Engineer (New Grad) | score:4.2 | location:United States | posted:2026-09-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4462424149 | Lumion | Junior Full Stack Software Engineer | score:4.2 | location:South Jordan, UT | posted:2026-09-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4459598360 | Yara AI | Software Engineer (New Grad) | score:3.8 | location:United States | posted:2026-09-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4462401424 | Helic &amp; Co | Junior Software Developer | score:3.8 | location:United States | posted:2026-09-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4462156749 | Uber | Software Engineer I | score:4.1 | location:San Francisco, CA | posted:2026-09-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4462115615 | MetLife | Junior Software Engineer | score:3.8 | location:Tampa, FL | posted:2026-09-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4460943562 | American Express | Campus Undergraduate Full-Time Engineer - 2027 Software Engineer I, Enterprise Technology Services- New York, NY | score:4.1 | location:New York, NY | posted:2026-09-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4459596478 | Contexture | Junior Software Developer | score:3.8 | location:Greater Phoenix Area | posted:2026-09-02T00:00:00.000Z | source:linkedin-guest
