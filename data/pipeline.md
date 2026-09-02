@@ -5866,3 +5866,12 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4462115615 | MetLife | Junior Software Engineer | score:3.8 | location:Tampa, FL | posted:2026-09-02T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4460943562 | American Express | Campus Undergraduate Full-Time Engineer - 2027 Software Engineer I, Enterprise Technology Services- New York, NY | score:4.1 | location:New York, NY | posted:2026-09-02T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4459596478 | Contexture | Junior Software Developer | score:3.8 | location:Greater Phoenix Area | posted:2026-09-02T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://app.careerpuck.com/job-board/lyft/job/8772571002?gh_jid=8772571002 | Lyft | Software Engineer | score:4.1 | location:San Francisco, CA | posted:2026-09-02T03:13:51-04:00 | source:greenhouse-api
+- [ ] https://careers.duolingo.com/jobs/8778700002?gh_jid=8778700002 | Duolingo | Platform Engineer II | score:4.2 | location:Pittsburgh, PA | posted:2026-09-02T15:02:08-04:00 | source:greenhouse-api
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/8094826?gh_jid=8094826 | Cloudflare | Software Engineer, Spectrum | score:3 | location:Hybrid | posted:2026-09-02T14:29:30-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4459589774 | Raydar | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-09-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4460950386 | Helm AI | Software Engineering Apprentice | score:3.3 | location:Seattle, WA | posted:2026-09-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4462450489 | TalentAlly | Junior Software Engineer | score:3.8 | location:Dallas-Fort Worth Metroplex | posted:2026-09-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4459947630 | Kareer Basycs | Software Engineer | score:3 | location:New Jersey, United States | posted:2026-09-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4459936224 | TalentHop | Software Engineer I | score:3.8 | location:United States | posted:2026-09-02T00:00:00.000Z | source:linkedin-guest
