@@ -5836,3 +5836,13 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4462025162 | Harris Computer | Associate AI Assisted Software Developer | score:3.8 | location:Idaho, United States | posted:2026-09-01T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4460272900 | Revature | Software Engineer | score:3 | location:Tampa, FL | posted:2026-09-01T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4461282743 | Cisco | Software Engineer Full Stack / Backend I (Full Time) - United States | score:3.4 | location:Dallas, TX | posted:2026-08-31T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.coinbase.com/careers/positions/8029037?gh_jid=8029037 | Coinbase | Software Engineer, Data Layer  | score:4.5 | location:Remote - Singapore | posted:2026-09-01T18:41:28-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4462058112 | Stripe | Software Engineer, New Grad | score:4.9 | location:San Francisco, CA | posted:2026-09-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4460676285 | Valon | Software Engineer New Grad | score:4.1 | location:San Francisco, CA | posted:2026-09-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4462069640 | AV | Entry-Level Software Engineer | score:3 | location:Austin, TX | posted:2026-09-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4460672055 | Metropolitan Transportation Authority | Associate Software Engineer - Infrastructure | score:4.5 | location:New York, NY | posted:2026-09-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4459573188 | Breeze | Full Stack Engineer - Junior | score:4.5 | location:New York, NY | posted:2026-09-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4462032471 | SkillStorm | Junior Software Engineer | score:4.1 | location:New York, NY | posted:2026-09-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4462070411 | Crestalix Talent | Software Engineer | score:3 | location:United States | posted:2026-09-01T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4460238450 | Haystack | Junior Software Engineer | score:3.8 | location:Huntsville, AL | posted:2026-09-01T00:00:00.000Z | source:linkedin-guest
