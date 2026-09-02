@@ -5875,3 +5875,10 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4462450489 | TalentAlly | Junior Software Engineer | score:3.8 | location:Dallas-Fort Worth Metroplex | posted:2026-09-02T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4459947630 | Kareer Basycs | Software Engineer | score:3 | location:New Jersey, United States | posted:2026-09-02T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4459936224 | TalentHop | Software Engineer I | score:3.8 | location:United States | posted:2026-09-02T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4459979802 | VAST Data | Top Graduate Software Engineer - V-Force - RTP | score:3 | location:Raleigh, NC | posted:2026-09-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4459994659 | Arch | Software Engineer | Early Careers, 2027 Start | score:4.1 | location:New York, NY | posted:2026-09-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4461340622 | SpiderRock | 2027 New Graduate Software Engineer | score:3.8 | location:Chicago, IL | posted:2026-09-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4462478464 | Sift | Software Engineer – New College Graduate | score:3 | location:Marina del Rey, CA | posted:2026-09-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4460410040 | Leidos | Associate Software Engineer | score:3.8 | location:Egg Harbor, NJ | posted:2026-09-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4462455295 | TalentAlly | Junior Software Engineer | score:3.8 | location:San Antonio, Texas Metropolitan Area | posted:2026-09-02T00:00:00.000Z | source:linkedin-guest
