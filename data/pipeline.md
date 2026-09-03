@@ -5919,3 +5919,15 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4461913109 | Haystack | Junior Software Engineer | score:3.8 | location:United States | posted:2026-09-03T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4460748106 | Zebra Technologies | Software Engineer I | score:3.8 | location:Holtsville, NY | posted:2026-09-03T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4460752079 | NetJets | Software Engineer, Associate (NJUS) | score:3.8 | location:Columbus, OH | posted:2026-09-03T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/openai/1098311d-3a07-40ad-8107-6245a492a0b3 | OpenAI | Software Engineer, Native Learning Experiences | score:3.3 | location:San Francisco | posted:2026-09-03T19:51:26.815+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/openai/4d1ede8c-3d4c-4503-8408-81e4b68c5c91 | OpenAI | Full Stack Software Engineer, Product Explorations | score:3.7 | location:San Francisco | posted:2026-09-03T20:29:00.146+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4462747981 | Kikoff | Software Engineer - Recent Grad | score:3.3 | location:San Francisco, CA | posted:2026-09-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4460752391 | IBM | Entry level Backend Developer - San Jose, CA - 2027 | score:4.2 | location:San Jose, CA | posted:2026-09-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4462870449 | EngRadar | Software Engineer - Recent Grad | score:3.3 | location:San Francisco, CA | posted:2026-09-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4463106891 | Pave Finance | Software Engineer 1 | score:3.3 | location:New York City Metropolitan Area | posted:2026-09-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4462760620 | Viasat | Software Engineer - Automation, Early Career | score:3.8 | location:Carlsbad, CA | posted:2026-09-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4452713340 | Pinnacle Fertility | Jr Software Developer | score:3 | location:Scottsdale, AZ | posted:2026-09-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4462748032 | Baker Hughes | Software Engineer | score:3 | location:Minden, NV | posted:2026-09-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4463111636 | Dallas County | 1000000878.SOFTWARE ENGINEER I.INFO TECH - OPERATIONS | score:3.8 | location:Dallas, TX | posted:2026-09-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4461915014 | Haystack | Junior Software Engineer | score:3.8 | location:Washington DC-Baltimore Area | posted:2026-09-03T00:00:00.000Z | source:linkedin-guest
