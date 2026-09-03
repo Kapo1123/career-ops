@@ -5913,3 +5913,9 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4460483132 | TalentHop | Software Engineer I | score:3.8 | location:United States | posted:2026-09-03T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4462867616 | FAMU National Alumni Association | Junior Software Engineer | score:3.8 | location:Reston, VA | posted:2026-09-03T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4459994766 | Leidos | Junior Software Engineer | score:3.8 | location:Gaithersburg, MD | posted:2026-09-02T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://stripe.com/jobs/search?gh_jid=8177930 | Stripe | Software Engineer, Online Database Infrastructure | score:4.5 | location:Seattle, WA | posted:2026-09-03T14:57:02-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4463102704 | Helic &amp; Co | Junior Software Developer | score:3.8 | location:United States | posted:2026-09-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4461913109 | Haystack | Junior Software Engineer | score:3.8 | location:United States | posted:2026-09-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4460748106 | Zebra Technologies | Software Engineer I | score:3.8 | location:Holtsville, NY | posted:2026-09-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4460752079 | NetJets | Software Engineer, Associate (NJUS) | score:3.8 | location:Columbus, OH | posted:2026-09-03T00:00:00.000Z | source:linkedin-guest
