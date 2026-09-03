@@ -5891,3 +5891,25 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4461355396 | Haystack | Junior Software Engineer | score:3.8 | location:United States | posted:2026-09-02T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4460431127 | TalentHop | Software Engineer I | score:3.8 | location:United States | posted:2026-09-02T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4460400378 | Leidos | Junior Software Engineer | score:3.8 | location:Egg Harbor, NJ | posted:2026-09-02T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://stripe.com/jobs/search?gh_jid=8160776 | Stripe | Software Engineer, New Grad | score:4.6 | location:Singapore | posted:2026-09-02T23:28:52-04:00 | source:greenhouse-api
+- [ ] https://www.coinbase.com/careers/positions/8177619?gh_jid=8177619 | Coinbase | Threat Intelligence Platform Engineer | score:4.5 | location:Remote - USA | posted:2026-09-03T14:02:16-04:00 | source:greenhouse-api
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/8160660?gh_jid=8160660 | Cloudflare | Software Engineer, Security Rules | score:3 | location:Hybrid | posted:2026-09-03T08:39:43-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/elevenlabs/120da2b3-d88b-4e3c-9b89-d19ff73db9d9 | ElevenLabs | HPC Infrastructure Engineer - GPU Clusters | score:3.4 | location:United States | posted:2026-09-03T13:13:09.417+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4459963100 | BeaconFire Inc. | Entry Level- Java Developer | score:4.2 | location:California, United States | posted:2026-09-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4462808685 | Yara AI | Software Engineer (Early Career) | score:4.1 | location:New York City Metropolitan Area | posted:2026-09-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4460733700 | Oracle | Software Developer 1 | score:3 | location:Nashville, TN | posted:2026-09-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4459991342 | Zebra Technologies | Software Engineer, I | score:3 | location:Kennesaw, GA | posted:2026-09-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4461352313 | Haystack | Junior Software Engineer | score:3.8 | location:Nashville Metropolitan Area | posted:2026-09-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4462849441 | Switchboard | Junior Software Engineer | score:4.1 | location:New York, NY | posted:2026-09-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4462795395 | Boeing | Associate Software Engineer | score:3.8 | location:Berkeley, MO | posted:2026-09-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4460400379 | Leidos | Associate Software Engineer | score:3.8 | location:Egg Harbor, NJ | posted:2026-09-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4462478508 | INNOVIM | Software Engineer, Associate - NASA | score:3.8 | location:Annapolis, MD | posted:2026-09-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4461643770 | Revature | Software Engineer | score:3 | location:Tampa, FL | posted:2026-09-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4461678467 | J. J. Keller &amp; Associates, Inc. | Associate Software Engineer | score:3.8 | location:Neenah, WI | posted:2026-09-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4462745969 | Hewlett Packard Enterprise | Software Engineer II | score:3.8 | location:Sunnyvale, CA | posted:2026-09-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4461667393 | Qualcomm | #Software Engineer | score:3 | location:San Diego, CA | posted:2026-09-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4462737648 | Venmo | Software Engineer- Cloud Infrastructure and DevOps | score:3.4 | location:San Jose, CA | posted:2026-09-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4460483132 | TalentHop | Software Engineer I | score:3.8 | location:United States | posted:2026-09-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4462867616 | FAMU National Alumni Association | Junior Software Engineer | score:3.8 | location:Reston, VA | posted:2026-09-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4459994766 | Leidos | Junior Software Engineer | score:3.8 | location:Gaithersburg, MD | posted:2026-09-02T00:00:00.000Z | source:linkedin-guest
