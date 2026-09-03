@@ -5882,3 +5882,12 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4462478464 | Sift | Software Engineer – New College Graduate | score:3 | location:Marina del Rey, CA | posted:2026-09-02T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4460410040 | Leidos | Associate Software Engineer | score:3.8 | location:Egg Harbor, NJ | posted:2026-09-02T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4462455295 | TalentAlly | Junior Software Engineer | score:3.8 | location:San Antonio, Texas Metropolitan Area | posted:2026-09-02T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4459583772 | Yara AI | Software Engineer (New Grad) | score:3.8 | location:United States | posted:2026-09-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4459995749 | Leidos | Associate Software Engineer | score:3.8 | location:Gaithersburg, MD | posted:2026-09-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4460922959 | American Express | Campus Undergraduate Full-Time Engineer - 2027 Software Engineer I, Enterprise Technology Services- Sunrise, FL | score:3.8 | location:Sunrise, FL | posted:2026-09-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4462481510 | Venmo | Software Engineer - Cloud Infrastructure and Devops | score:3.4 | location:San Jose, CA | posted:2026-09-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4462478034 | Chewy | Software Engineer I, Enterprise Financial Technology | score:3.8 | location:Bellevue, WA | posted:2026-09-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4461355396 | Haystack | Junior Software Engineer | score:3.8 | location:United States | posted:2026-09-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4460431127 | TalentHop | Software Engineer I | score:3.8 | location:United States | posted:2026-09-02T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4460400378 | Leidos | Junior Software Engineer | score:3.8 | location:Egg Harbor, NJ | posted:2026-09-02T00:00:00.000Z | source:linkedin-guest
