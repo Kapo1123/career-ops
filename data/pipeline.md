@@ -5950,3 +5950,15 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4463180019 | Self Financial, Inc. | Associate Software Engineer (UI) | score:3.8 | location:Austin, TX | posted:2026-09-04T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4463141906 | Paylocity | Associate Engineer Software | score:3.8 | location:Pittsford, NY | posted:2026-09-04T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4463118982 | Northrop Grumman | Associate Software Engineer / Software Engineer | score:3.8 | location:Huntsville, AL | posted:2026-09-03T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4461186124 | BeaconFire Inc. | Java/Software Developer | score:3.4 | location:East Windsor, NJ | posted:2026-09-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4461163914 | DoorDash | Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US | score:4.9 | location:New York, NY | posted:2026-09-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4461972477 | Jobright.ai | Python Engineer, New Grad | score:4.2 | location:United States | posted:2026-09-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4459524666 | BeaconFire Inc. | Entry-Level / Junior Software Developer | score:3.8 | location:New Jersey, United States | posted:2026-09-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4463351090 | Amazon | Software Development Engineer, Amazon Dedicated Cloud, Early Career - 2026 | score:5 | location:Herndon, VA | posted:2026-09-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4461139616 | NetApp | Software Engineer - Cloud Volumes | score:3 | location:San Jose, CA | posted:2026-09-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4462311428 | Yext | Software Engineer | score:3.3 | location:New York, NY | posted:2026-09-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4463126405 | Dallas County | 1000000879.SOFTWARE ENGINEER I.INFO TECH - OPERATIONS | score:3.8 | location:Dallas, TX | posted:2026-09-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4461948650 | Haystack | Junior Software Engineer | score:3.8 | location:Huntsville-Decatur-Albertville Area | posted:2026-09-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4436355790 | Enova International | Software Engineer - SMB (Hybrid) | score:3 | location:Chicago, IL | posted:2026-09-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4461181453 | BrothersTech | Software Engineer | score:3 | location:United States | posted:2026-09-04T00:00:00.000Z | source:linkedin-guest
