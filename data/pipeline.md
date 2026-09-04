@@ -5931,3 +5931,9 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4462748032 | Baker Hughes | Software Engineer | score:3 | location:Minden, NV | posted:2026-09-03T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4463111636 | Dallas County | 1000000878.SOFTWARE ENGINEER I.INFO TECH - OPERATIONS | score:3.8 | location:Dallas, TX | posted:2026-09-03T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4461915014 | Haystack | Junior Software Engineer | score:3.8 | location:Washington DC-Baltimore Area | posted:2026-09-03T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4461648178 | Revature | Entry Level Software Developer | score:3.8 | location:Cleveland, OH | posted:2026-09-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4461925202 | Ciena | Platform Software Developer - 2026 New Grads | score:4.2 | location:Atlanta, GA | posted:2026-09-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4461919761 | Morgan Stanley | Associate, Software Engineer | score:4.1 | location:New York, NY | posted:2026-09-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4463131790 | MITRE | Software Developer, Associate | score:3.8 | location:Sumter, SC | posted:2026-09-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4462896513 | Haystack | Junior Software Engineer | score:3.8 | location:San Antonio, TX | posted:2026-09-03T00:00:00.000Z | source:linkedin-guest
