@@ -5962,3 +5962,13 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4461948650 | Haystack | Junior Software Engineer | score:3.8 | location:Huntsville-Decatur-Albertville Area | posted:2026-09-04T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4436355790 | Enova International | Software Engineer - SMB (Hybrid) | score:3 | location:Chicago, IL | posted:2026-09-04T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4461181453 | BrothersTech | Software Engineer | score:3 | location:United States | posted:2026-09-04T00:00:00.000Z | source:linkedin-guest
+
+- [ ] http://block.xyz/careers/jobs/5406194008?gh_jid=5406194008 | Block (Square) | Software Engineer, Justice Engineering | score:3 | location:Bay Area, CA, United States of America | posted:2026-09-04T16:24:12-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4463615188 | Scale AI | Software Engineer - New Grad | score:4.1 | location:San Francisco Bay Area | posted:2026-09-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4462311744 | Amdocs | Software Engineer | score:3 | location:Plano, TX | posted:2026-09-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4461404285 | IBM | Entry Level Cloud Infrastructure Network Monitoring and Automation Software Engineer - San Jose, CA - 2027 | score:4.2 | location:San Jose, CA | posted:2026-09-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4462327040 | GlobalFoundries | Software Engineer, Cloud Platform (2027 New College Graduate) | score:3.4 | location:Santa Clara, CA | posted:2026-09-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4463352081 | Amazon | Software Development Engineer, Amazon Dedicated Cloud, Early Career - 2026 | score:5 | location:Arlington, VA | posted:2026-09-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4463616687 | Credence | Entry-Level AI Software Engineer | score:3 | location:McLean, VA | posted:2026-09-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4462306919 | Solarity | Software Engineer I | score:3.8 | location:Sioux Falls, SD | posted:2026-09-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4463612931 | U.S. Bank | Software Engineer 1 (Java, Linux, SQL) | score:3.4 | location:St Paul, MN | posted:2026-09-04T00:00:00.000Z | source:linkedin-guest
