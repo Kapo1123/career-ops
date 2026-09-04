@@ -5937,3 +5937,16 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4461919761 | Morgan Stanley | Associate, Software Engineer | score:4.1 | location:New York, NY | posted:2026-09-03T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4463131790 | MITRE | Software Developer, Associate | score:3.8 | location:Sumter, SC | posted:2026-09-03T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4462896513 | Haystack | Junior Software Engineer | score:3.8 | location:San Antonio, TX | posted:2026-09-03T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4730836005 | Scale AI | Software Engineer - New Grad | score:4.1 | location:San Francisco, CA | posted:2026-09-04T12:53:37-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4973067008 | Anthropic | Data Infrastructure Engineer, Pre-training | score:3.7 | location:San Francisco, CA | posted:2026-09-03T21:23:09-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4461173217 | DoorDash | Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US | score:4.9 | location:San Francisco, CA | posted:2026-09-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4463158709 | SpaceX | Software Engineer (Flight Reliability) | score:3 | location:Hawthorne, CA | posted:2026-09-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4463151152 | Analytical Mechanics Associates | Software Engineer | score:3 | location:Mountain View, CA | posted:2026-09-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4462887445 | Matroid | Software Engineer, Product | score:3 | location:Palo Alto, CA | posted:2026-09-03T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4463357579 | Helic &amp; Co | Junior Software Developer | score:3.8 | location:United States | posted:2026-09-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4463341754 | Haystack | Junior Software Developer | score:3.8 | location:Alabama, United States | posted:2026-09-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4461950603 | Haystack | Junior Software Engineer | score:3.8 | location:United States | posted:2026-09-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4463180019 | Self Financial, Inc. | Associate Software Engineer (UI) | score:3.8 | location:Austin, TX | posted:2026-09-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4463141906 | Paylocity | Associate Engineer Software | score:3.8 | location:Pittsford, NY | posted:2026-09-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4463118982 | Northrop Grumman | Associate Software Engineer / Software Engineer | score:3.8 | location:Huntsville, AL | posted:2026-09-03T00:00:00.000Z | source:linkedin-guest
