@@ -5994,3 +5994,11 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4463673976 | HealthEdge | Associate Software Engineer | score:3.8 | location:Boston, MA | posted:2026-09-05T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4463664747 | Audible | Software Development Engineer, Early Careers | score:3.8 | location:Cambridge, MA | posted:2026-09-05T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4462611620 | HiredBuddy | Software Engineer | score:3.3 | location:New York, United States | posted:2026-09-05T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4454584413 | SpaceX | New Graduate Engineer, Software - '26/'27 (Starlink) | score:3.8 | location:Palo Alto, CA | posted:2026-09-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4463654152 | PayPal | Software Engineer - Recent Graduate | score:3 | location:Chicago, IL | posted:2026-09-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4463659798 | Audible | Software Development Engineer, Early Careers | score:3.8 | location:New Jersey, United States | posted:2026-09-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4461409488 | BeaconFire Inc. | Entry Level Java Developer | score:4.2 | location:New Jersey, United States | posted:2026-09-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4461802405 | Re-vert | ENTRY LEVEL SOFTWARE DEVELOPE | score:3.8 | location:United States | posted:2026-09-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4463731751 | Haystack | Junior Software Engineer | score:3.8 | location:Los Angeles, CA | posted:2026-09-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4463718858 | SpaceX | Full Stack Software Engineer | score:3.4 | location:Hawthorne, CA | posted:2026-09-05T00:00:00.000Z | source:linkedin-guest
