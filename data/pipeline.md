@@ -5972,3 +5972,12 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4463616687 | Credence | Entry-Level AI Software Engineer | score:3 | location:McLean, VA | posted:2026-09-04T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4462306919 | Solarity | Software Engineer I | score:3.8 | location:Sioux Falls, SD | posted:2026-09-04T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4463612931 | U.S. Bank | Software Engineer 1 (Java, Linux, SQL) | score:3.4 | location:St Paul, MN | posted:2026-09-04T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/openai/a14780e7-0316-478c-8e6a-d7629c31c49d | OpenAI | Software Engineer, HSM Infrastructure Security, Consumer Devices | score:3.7 | location:San Francisco | posted:2026-09-04T23:40:07.105+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4463648426 | PayPal | Software Engineer - Recent Graduate | score:3 | location:San Jose, CA | posted:2026-09-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4463675072 | Audible | Software Development Engineer, Early Careers | score:3.8 | location:Cambridge, MA | posted:2026-09-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4461401706 | Emonics LLC | Associate Software Engineer | score:3.8 | location:Los Angeles, CA | posted:2026-09-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4461407575 | BeaconFire Inc. | Entry Level Java Developer | score:4.5 | location:New York City Metropolitan Area | posted:2026-09-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4461403629 | Vestwell | Associate, Software Engineer | score:3.8 | location:Austin, TX | posted:2026-09-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4462343100 | Constellation | Associate Software Engineer, AI | score:3.8 | location:Baltimore, MD | posted:2026-09-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4462334392 | The Blue Venture Fund | Software Engineer I (Remote) | score:3.8 | location:Oak Brook, IL | posted:2026-09-04T00:00:00.000Z | source:linkedin-guest
