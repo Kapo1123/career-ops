@@ -5981,3 +5981,16 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4461403629 | Vestwell | Associate, Software Engineer | score:3.8 | location:Austin, TX | posted:2026-09-04T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4462343100 | Constellation | Associate Software Engineer, AI | score:3.8 | location:Baltimore, MD | posted:2026-09-04T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4462334392 | The Blue Venture Fund | Software Engineer I (Remote) | score:3.8 | location:Oak Brook, IL | posted:2026-09-04T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/openai/0b9e565a-ae5f-40fc-8350-b59f71f76df1 | OpenAI | Software Engineer, Host Assurance | score:3.3 | location:San Francisco | posted:2026-09-05T14:19:37.047+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4463637920 | PayPal | Software Engineer - Recent Graduate | score:3 | location:Austin, TX | posted:2026-09-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4463709289 | Yara AI | Software Engineer (Early Career) | score:4.1 | location:New York City Metropolitan Area | posted:2026-09-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4463724311 | AiPrise | Software Engineer I | score:3.8 | location:San Jose, CA | posted:2026-09-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4462353929 | Haystack | Junior Software Engineer | score:3.8 | location:Tennessee, United States | posted:2026-09-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4461422132 | ConstructConnect | Software Engineer I - (Full Stack) | score:4.2 | location:Atlanta, GA | posted:2026-09-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4462328246 | Rivian | Software Engineer, Cloud &amp; Software FinOps | score:3 | location:Riverdale, GA | posted:2026-09-04T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4463735807 | Haystack | Junior Software Developer | score:3.8 | location:Alabama, United States | posted:2026-09-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4462369311 | Garner Health | Associate Software Engineer | score:4.1 | location:New York, NY | posted:2026-09-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4463673976 | HealthEdge | Associate Software Engineer | score:3.8 | location:Boston, MA | posted:2026-09-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4463664747 | Audible | Software Development Engineer, Early Careers | score:3.8 | location:Cambridge, MA | posted:2026-09-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4462611620 | HiredBuddy | Software Engineer | score:3.3 | location:New York, United States | posted:2026-09-05T00:00:00.000Z | source:linkedin-guest
