@@ -6002,3 +6002,6 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4461802405 | Re-vert | ENTRY LEVEL SOFTWARE DEVELOPE | score:3.8 | location:United States | posted:2026-09-05T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4463731751 | Haystack | Junior Software Engineer | score:3.8 | location:Los Angeles, CA | posted:2026-09-05T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4463718858 | SpaceX | Full Stack Software Engineer | score:3.4 | location:Hawthorne, CA | posted:2026-09-05T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4453719658 | Wolverine Trading | Entry Level C++ Software Engineer (December 2026 Graduates) | score:3.8 | location:Chicago, IL | posted:2026-09-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4453745721 | Applied Intuition | Software Engineer - New Grad (December 2026) | score:3.8 | location:Ann Arbor, MI | posted:2026-09-05T00:00:00.000Z | source:linkedin-guest
