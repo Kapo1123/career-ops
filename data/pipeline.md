@@ -6010,3 +6010,15 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4434750014 | InComm Payments | Software Engineer I | score:4.1 | location:Utah, United States | posted:2026-09-05T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4463779867 | SteerBridge | Junior Software Engineer | score:3.8 | location:Vienna, VA | posted:2026-09-05T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4453368906 | Kforce Inc | Junior Full Stack Engineer | score:4.2 | location:Atlanta, GA | posted:2026-09-05T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4458496301 | BeaconFire Inc. | Java Software Engineer | score:3.7 | location:New York, United States | posted:2026-09-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4464013753 | Yara AI | Software Engineer (Early Career) | score:4.1 | location:New York City Metropolitan Area | posted:2026-09-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4464007565 | EngRadar | Software Engineer I | score:3.8 | location:San Jose, CA | posted:2026-09-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4464035751 | Hire Feed | Junior Software Engineer (Remote) | score:3.8 | location:United States | posted:2026-09-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4462691547 | Jobright.ai | Python Engineer, New Grad | score:4.2 | location:United States | posted:2026-09-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4462689531 | Jobright.ai | Backend Engineer, New Grad | score:4.2 | location:United States | posted:2026-09-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4445270123 | GE Vernova | GE Vernova Software Engineer, Transmission | score:3 | location:Bellevue, WA | posted:2026-09-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4427643568 | Anduril Industries | 2027 Early Career Software Engineer | score:4.1 | location:Seattle, WA | posted:2026-09-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4462687710 | topGrads | Software Engineer | score:3.3 | location:New York, NY | posted:2026-09-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4441884278 | MANTECH | Junior Software Developer | score:3.8 | location:Montgomery, AL | posted:2026-09-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4450725628 | Innovative Defense Technologies (IDT) | Software Engineer - JobID-0198 | score:3 | location:Mount Laurel, NJ | posted:2026-09-06T00:00:00.000Z | source:linkedin-guest
