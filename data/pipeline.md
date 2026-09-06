@@ -6005,3 +6005,8 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 
 - [ ] https://www.linkedin.com/jobs/view/4453719658 | Wolverine Trading | Entry Level C++ Software Engineer (December 2026 Graduates) | score:3.8 | location:Chicago, IL | posted:2026-09-05T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4453745721 | Applied Intuition | Software Engineer - New Grad (December 2026) | score:3.8 | location:Ann Arbor, MI | posted:2026-09-05T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4453734041 | Wolverine Trading | Entry Level C++ Software Engineer (Spring 2027 Graduates) | score:3.8 | location:Chicago, IL | posted:2026-09-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4434750014 | InComm Payments | Software Engineer I | score:4.1 | location:Utah, United States | posted:2026-09-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4463779867 | SteerBridge | Junior Software Engineer | score:3.8 | location:Vienna, VA | posted:2026-09-05T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4453368906 | Kforce Inc | Junior Full Stack Engineer | score:4.2 | location:Atlanta, GA | posted:2026-09-05T00:00:00.000Z | source:linkedin-guest
