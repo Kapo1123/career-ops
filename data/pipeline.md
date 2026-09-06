@@ -6025,3 +6025,9 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 
 - [ ] https://www.linkedin.com/jobs/view/4461863004 | Re-vert | ENTRY LEVEL SOFTWARE DEVELOPE | score:3.8 | location:United States | posted:2026-09-06T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4464053133 | FetchJobs.co | Associate Software Engineer | score:3.8 | location:United States | posted:2026-09-06T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4462686859 | Jobright.ai | Python Engineer, New Grad | score:4.2 | location:United States | posted:2026-09-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4462687906 | Jobright.ai | Backend Engineer, New Grad | score:4.2 | location:United States | posted:2026-09-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4455446296 | State Farm | (HYBRID: Bloomington, IL) SOFTWARE ENGINEER-AWS /Javascript | score:3.4 | location:Bloomington, IL | posted:2026-09-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4464057375 | Unknown | Software Engineer | score:3 | location:Ohio, United States | posted:2026-09-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4464043316 | DataDelivers, LLC. | Full Stack Engineer | score:3.4 | location:Schaumburg, IL | posted:2026-09-06T00:00:00.000Z | source:linkedin-guest
