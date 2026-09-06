@@ -6022,3 +6022,6 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4462687710 | topGrads | Software Engineer | score:3.3 | location:New York, NY | posted:2026-09-06T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4441884278 | MANTECH | Junior Software Developer | score:3.8 | location:Montgomery, AL | posted:2026-09-06T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4450725628 | Innovative Defense Technologies (IDT) | Software Engineer - JobID-0198 | score:3 | location:Mount Laurel, NJ | posted:2026-09-06T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4461863004 | Re-vert | ENTRY LEVEL SOFTWARE DEVELOPE | score:3.8 | location:United States | posted:2026-09-06T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4464053133 | FetchJobs.co | Associate Software Engineer | score:3.8 | location:United States | posted:2026-09-06T00:00:00.000Z | source:linkedin-guest
