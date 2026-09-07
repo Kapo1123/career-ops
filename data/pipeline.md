@@ -6042,3 +6042,6 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4462901406 | Haystack | Software Engineer | score:3 | location:United States | posted:2026-09-07T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4462959752 | Google | Software Engineer, Backend, Google Photos | score:4.9 | location:Mountain View, CA | posted:2026-09-07T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4462927502 | Base-2 Solutions | Junior Software Engineer | score:3.8 | location:Hanover, MD | posted:2026-09-07T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4464372693 | FetchJobs.co | Associate Software Engineer | score:3.8 | location:United States | posted:2026-09-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4301317457 | Crossway | Software Developer | score:3 | location:Wheaton, IL | posted:2026-09-07T00:00:00.000Z | source:linkedin-guest
