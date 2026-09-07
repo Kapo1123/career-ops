@@ -6045,3 +6045,6 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 
 - [ ] https://www.linkedin.com/jobs/view/4464372693 | FetchJobs.co | Associate Software Engineer | score:3.8 | location:United States | posted:2026-09-07T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4301317457 | Crossway | Software Developer | score:3 | location:Wheaton, IL | posted:2026-09-07T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4462977484 | Jobright.ai | Python Engineer, New Grad | score:4.2 | location:United States | posted:2026-09-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4462975718 | Jobright.ai | Backend Engineer, New Grad | score:4.2 | location:United States | posted:2026-09-07T00:00:00.000Z | source:linkedin-guest
