@@ -6031,3 +6031,14 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4455446296 | State Farm | (HYBRID: Bloomington, IL) SOFTWARE ENGINEER-AWS /Javascript | score:3.4 | location:Bloomington, IL | posted:2026-09-06T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4464057375 | Unknown | Software Engineer | score:3 | location:Ohio, United States | posted:2026-09-06T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4464043316 | DataDelivers, LLC. | Full Stack Engineer | score:3.4 | location:Schaumburg, IL | posted:2026-09-06T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/sierra/79953d72-60d4-43e0-8c8c-6eccda422dce | Sierra | Software Engineer, Agent (New Grad 2027) | score:3.8 | location:Singapore | posted:2026-09-07T02:02:53.490+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4462950900 | Jobright.ai | Python Engineer, New Grad | score:4.2 | location:United States | posted:2026-09-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4399454448 | HHAeXchange | Full Stack Engineer | score:3.4 | location:Washington DC-Baltimore Area | posted:2026-09-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4462953587 | Jobright.ai | Backend Engineer, New Grad | score:4.2 | location:United States | posted:2026-09-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4462954815 | Leaf Health | Software Engineer | score:3 | location:Austin, TX | posted:2026-09-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4462936991 | Haystack | Junior Software Engineer | score:4.1 | location:Greater Seattle Area | posted:2026-09-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4452237871 | Boom Supersonic | Software Engineer (Early Career) | score:3.8 | location:Englewood, CO | posted:2026-09-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4462901406 | Haystack | Software Engineer | score:3 | location:United States | posted:2026-09-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4462959752 | Google | Software Engineer, Backend, Google Photos | score:4.9 | location:Mountain View, CA | posted:2026-09-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4462927502 | Base-2 Solutions | Junior Software Engineer | score:3.8 | location:Hanover, MD | posted:2026-09-07T00:00:00.000Z | source:linkedin-guest
