@@ -6048,3 +6048,5 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 
 - [ ] https://www.linkedin.com/jobs/view/4462977484 | Jobright.ai | Python Engineer, New Grad | score:4.2 | location:United States | posted:2026-09-07T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4462975718 | Jobright.ai | Backend Engineer, New Grad | score:4.2 | location:United States | posted:2026-09-07T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4377873963 | Baseten | Software Engineer - Infrastructure | score:3.7 | location:San Francisco, CA | posted:2026-09-07T00:00:00.000Z | source:linkedin-guest
