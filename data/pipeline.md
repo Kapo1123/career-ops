@@ -6069,3 +6069,6 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4464665011 | FetchJobs.co | Associate Software Engineer | score:3.8 | location:United States | posted:2026-09-08T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4454489584 | Veeva Systems | Associate Software Engineer - 2027 Start Dates | score:3.8 | location:Boston, MA | posted:2026-09-08T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4463528951 | State Farm | Software Engineer | score:3 | location:Atlanta, GA | posted:2026-09-08T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.okta.com/company/careers/opportunity/8139280?gh_jid=8139280 | Okta | Software Engineer II, Streaming Foundations | score:3.8 | location:Toronto, Ontario, Canada | posted:2026-09-08T16:23:57-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4463552098 | State Farm | Software Engineer | score:3 | location:Richardson, TX | posted:2026-09-08T00:00:00.000Z | source:linkedin-guest
