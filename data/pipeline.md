@@ -6050,3 +6050,15 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4462975718 | Jobright.ai | Backend Engineer, New Grad | score:4.2 | location:United States | posted:2026-09-07T00:00:00.000Z | source:linkedin-guest
 
 - [ ] https://www.linkedin.com/jobs/view/4377873963 | Baseten | Software Engineer - Infrastructure | score:3.7 | location:San Francisco, CA | posted:2026-09-07T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=8184943 | MongoDB | Software Engineer 3, Cluster-to-Cluster | score:3 | location:Dublin | posted:2026-09-08T12:30:56-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4464602822 | Hire Feed | Junior Software Engineer (Remote) | score:3.8 | location:United States | posted:2026-09-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4463288473 | Revature | Entry Level Software Developer | score:3.8 | location:Cleveland, OH | posted:2026-09-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4464600793 | Uber | Software Engineer I | score:4.1 | location:San Francisco, CA | posted:2026-09-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4464632509 | Collins Aerospace | Software Engineer I (Onsite) | score:3.8 | location:Cedar Rapids, IA | posted:2026-09-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4462535179 | Bluedot LLC | Software Developer – Entry Level | score:3.8 | location:Pennsylvania, United States | posted:2026-09-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4462254093 | TalentHop | Software Engineer I | score:3.8 | location:United States | posted:2026-09-07T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4463508840 | Brooksource | Junior Software Engineer | score:3.8 | location:Dallas, TX | posted:2026-09-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4457263567 | BeaconFire Inc. | Entry Level Java Developer | score:4.5 | location:New York, United States | posted:2026-09-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4463509453 | Prometheum | Software Engineer 1 (Full-Stack) | score:3.3 | location:New York, NY | posted:2026-09-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4464626208 | Giftogram | Junior Full Stack Developer | score:4.2 | location:Whippany, NJ | posted:2026-09-08T00:00:00.000Z | source:linkedin-guest
