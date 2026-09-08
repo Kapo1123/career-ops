@@ -6062,3 +6062,10 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4457263567 | BeaconFire Inc. | Entry Level Java Developer | score:4.5 | location:New York, United States | posted:2026-09-08T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4463509453 | Prometheum | Software Engineer 1 (Full-Stack) | score:3.3 | location:New York, NY | posted:2026-09-08T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4464626208 | Giftogram | Junior Full Stack Developer | score:4.2 | location:Whippany, NJ | posted:2026-09-08T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4463518672 | Whova | Software Engineer (San Diego Only) | score:3 | location:San Diego, CA | posted:2026-09-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4462545411 | Zebra Technologies | Software Engineer, I (Fullstack) | score:3.4 | location:Holtsville, NY | posted:2026-09-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4463275786 | Revature | Software Engineer | score:3 | location:Tampa, FL | posted:2026-09-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4464665011 | FetchJobs.co | Associate Software Engineer | score:3.8 | location:United States | posted:2026-09-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4454489584 | Veeva Systems | Associate Software Engineer - 2027 Start Dates | score:3.8 | location:Boston, MA | posted:2026-09-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4463528951 | State Farm | Software Engineer | score:3 | location:Atlanta, GA | posted:2026-09-08T00:00:00.000Z | source:linkedin-guest
