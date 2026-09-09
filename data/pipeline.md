@@ -6101,3 +6101,10 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4462560988 | NetApp | NetApp Emerging Talent - Software Engineer (Systems) | score:3 | location:San Jose, CA | posted:2026-09-09T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4463895937 | Peraton | Software Engineering (Ignite Innovator Pgm), Associate- Herndon or Blacksburg, VA | score:3.8 | location:Herndon, VA | posted:2026-09-09T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4463599428 | T-Mobile | Associate Software Engineer | score:3.8 | location:Overland Park, KS | posted:2026-09-09T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://careers.roblox.com/jobs/8171506?gh_jid=8171506 | Roblox | Software Engineer, Engine Infrastructure | score:3.4 | location:San Mateo, CA, United States | posted:2026-09-09T14:42:50-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4447682418 | TikTok | (General Hire) Backend Software Engineer Graduate (Trust &amp; Safety) - 2027 Start | score:3.4 | location:San Jose, CA | posted:2026-09-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4463584932 | interface.ai | Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-09-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4465314231 | ServiceNow | Software Engineer | score:3 | location:Santa Clara, CA | posted:2026-09-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4464108368 | ZealTech | Software Engineer | score:3 | location:Fremont, CA | posted:2026-09-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4465077402 | VestweII | Associate, Software Engineer | score:3.8 | location:Austin, TX | posted:2026-09-09T00:00:00.000Z | source:linkedin-guest
