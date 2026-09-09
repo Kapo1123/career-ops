@@ -6081,3 +6081,23 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4464918838 | Kustomer | Software Engineer, Full Stack (Early Career) | score:4.5 | location:New York, NY | posted:2026-09-09T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4464645406 | FLINT | Software Engineer | score:3 | location:Sacramento County, CA | posted:2026-09-08T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4463535817 | State Farm | Software Engineer | score:3 | location:Atlanta, GA | posted:2026-09-08T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/8187404?gh_jid=8187404 | Cloudflare | Systems Engineer, Network Protocols & Distributed Systems | score:3.4 | location:Hybrid | posted:2026-09-09T13:04:16-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5418610008 | Anthropic | Data Engineer, GTM | score:3.7 | location:San Francisco, CA | New York City, NY | posted:2026-09-08T22:31:37-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/elevenlabs/17c06970-0b47-43bc-beb7-ce34cc98f93c | ElevenLabs | Full-Stack Engineer - Creative Studio | score:3 | location:United Kingdom | posted:2026-09-09T13:44:15.957+00:00 | source:ashby-api
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4731630005 | Scale AI | Software Engineer, Platform  | score:3.4 | location:London, UK | posted:2026-09-09T06:28:01-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4448274877 | TikTok | Fullstack Software Engineer Graduate (Global E-commerce) - 2027 Start | score:3.7 | location:Seattle, WA | posted:2026-09-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4463820835 | Premier Global Links LLC | Backend Software Engineer | score:3.7 | location:New York, NY | posted:2026-09-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4463855390 | PPLIED | Software Engineer All Levels | score:3 | location:United States | posted:2026-09-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4448291147 | TikTok | Backend Software Engineer Graduate (Global E-commerce) - 2027 Start | score:3.7 | location:Seattle, WA | posted:2026-09-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4463055451 | TalentHop | Software Engineer I | score:3.8 | location:United States | posted:2026-09-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4465082167 | Helic &amp; Co | Junior Software Developer | score:3.8 | location:United States | posted:2026-09-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4463899625 | Solarity | Software Engineer I | score:3.8 | location:Sioux Falls, SD | posted:2026-09-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4465059373 | SailPoint | Associate Security Software Engineer | score:3.8 | location:Texas, United States | posted:2026-09-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4465078880 | TalentAlly | Software Engineer | score:3 | location:Greater St. Louis | posted:2026-09-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4463811994 | DeepL | Software Engineer | API | score:3.3 | location:New York, United States | posted:2026-09-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4462568962 | Hover | Security Software Engineer | score:3.3 | location:San Francisco, CA | posted:2026-09-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4464966820 | Harmonic | Software Engineer | score:3 | location:Palo Alto, CA | posted:2026-09-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4462560988 | NetApp | NetApp Emerging Talent - Software Engineer (Systems) | score:3 | location:San Jose, CA | posted:2026-09-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4463895937 | Peraton | Software Engineering (Ignite Innovator Pgm), Associate- Herndon or Blacksburg, VA | score:3.8 | location:Herndon, VA | posted:2026-09-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4463599428 | T-Mobile | Associate Software Engineer | score:3.8 | location:Overland Park, KS | posted:2026-09-09T00:00:00.000Z | source:linkedin-guest
