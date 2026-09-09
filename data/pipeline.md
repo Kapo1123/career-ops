@@ -6108,3 +6108,9 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4465314231 | ServiceNow | Software Engineer | score:3 | location:Santa Clara, CA | posted:2026-09-09T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4464108368 | ZealTech | Software Engineer | score:3 | location:Fremont, CA | posted:2026-09-09T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4465077402 | VestweII | Associate, Software Engineer | score:3.8 | location:Austin, TX | posted:2026-09-09T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4465316811 | Instabase | Software Engineer - Early Careers | score:4.1 | location:San Francisco, CA | posted:2026-09-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4465332476 | General Motors | oftware Engineer, AV Launch – Early Career | score:3.8 | location:Sunnyvale, CA | posted:2026-09-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4463035159 | Stealth Startup | Fullstack / AI Engineer (New Grads) | score:4.5 | location:San Francisco, CA | posted:2026-09-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4465094941 | FetchJobs.co | Associate Software Engineer | score:3.8 | location:United States | posted:2026-09-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4465319708 | Handshake | Software Engineer I, Quality | score:4.1 | location:San Francisco, CA | posted:2026-09-09T00:00:00.000Z | source:linkedin-guest
