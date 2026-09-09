@@ -6072,3 +6072,12 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 
 - [ ] https://www.okta.com/company/careers/opportunity/8139280?gh_jid=8139280 | Okta | Software Engineer II, Streaming Foundations | score:3.8 | location:Toronto, Ontario, Canada | posted:2026-09-08T16:23:57-04:00 | source:greenhouse-api
 - [ ] https://www.linkedin.com/jobs/view/4463552098 | State Farm | Software Engineer | score:3 | location:Richardson, TX | posted:2026-09-08T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.coinbase.com/careers/positions/8177946?gh_jid=8177946 | Coinbase | Software Engineer- Money Movement  | score:4.1 | location:Remote - Canada | posted:2026-09-08T18:17:36-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/openai/60573bf4-13ad-4933-aba7-729f428e9f69 | OpenAI | Control Systems Software Engineer, Robotics | score:3.3 | location:San Francisco | posted:2026-09-08T22:02:49.677+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/openai/56d541d3-02b5-44d8-b40b-4df72cdd0405 | OpenAI | Software Engineer, AI for Chip Design | score:3.3 | location:San Francisco | posted:2026-09-08T23:43:33.720+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4462529784 | Two Sigma | Software Engineering Full-Time Campus Hire - NYC 2027 | score:3.3 | location:New York, United States | posted:2026-09-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4462537752 | Two Sigma | Software Engineering Full-Time Campus Hire - Houston | score:3 | location:Houston, TX | posted:2026-09-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4464918838 | Kustomer | Software Engineer, Full Stack (Early Career) | score:4.5 | location:New York, NY | posted:2026-09-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4464645406 | FLINT | Software Engineer | score:3 | location:Sacramento County, CA | posted:2026-09-08T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4463535817 | State Farm | Software Engineer | score:3 | location:Atlanta, GA | posted:2026-09-08T00:00:00.000Z | source:linkedin-guest
