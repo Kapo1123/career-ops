@@ -6143,3 +6143,14 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4465601716 | Emerson | Software Engineer | score:3 | location:Shakopee, MN | posted:2026-09-10T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4464563199 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-09-10T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4465801204 | TalentAlly | Software Engineer | score:3 | location:Greater St. Louis | posted:2026-09-10T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8189317 | Reddit | Backend Engineer, IAM | score:3.7 | location:Remote - United States | posted:2026-09-10T17:18:45-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4463038490 | BeaconFire Inc. | Entry Level- Java Developer | score:4.2 | location:California, United States | posted:2026-09-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4465863273 | Innovative Refrigeration Systems, Inc. | Software Engineer- New Graduate | score:3.8 | location:Lyndhurst, VA | posted:2026-09-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4463424787 | IBM | Associate Software Engineer | score:3.8 | location:Raleigh, NC | posted:2026-09-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4464582755 | Argonne National Laboratory | Software Engineer | score:3 | location:Lemont, IL | posted:2026-09-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4463902809 | Haystack | Associate Software Engineer | score:3.8 | location:Northeast Saint Louis, MN | posted:2026-09-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4464586639 | Toyota North America | Mid Level Software Engineer (Java/Python, AWS) | score:3.4 | location:Plano, TX | posted:2026-09-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4465831223 | Drift AI | Software Engineer I, Payments | score:4.1 | location:San Francisco, CA | posted:2026-09-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4465844123 | Drift AI | Software Engineer I, Discovery | score:4.1 | location:San Francisco, CA | posted:2026-09-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4465865381 | LinkedIn | Software Engineer - Web Infrastructure | score:3.4 | location:Mountain View, CA | posted:2026-09-10T00:00:00.000Z | source:linkedin-guest
