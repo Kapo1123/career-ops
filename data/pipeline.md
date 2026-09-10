@@ -6120,3 +6120,18 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4463050689 | BeaconFire Inc. | Entry Level- Java Developer | score:4.2 | location:California, United States | posted:2026-09-09T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4463044798 | BeaconFire Inc. | Entry-Level / Junior Software Developer | score:3.8 | location:New Jersey, United States | posted:2026-09-09T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4464107888 | Toyota North America | Software Engineer | score:3 | location:Plano, TX | posted:2026-09-09T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://app.careerpuck.com/job-board/lyft/job/8790686002?gh_jid=8790686002 | Lyft | Software Engineer, Telematics | score:3.8 | location:Toronto, Canada | posted:2026-09-10T11:43:32-04:00 | source:greenhouse-api
+- [ ] https://boards.greenhouse.io/robinhood/jobs/8189005?t=gh_src=&gh_jid=8189005 | Robinhood | Software Engineer, Tokenization | score:4.1 | location:Menlo Park, CA; New York, NY | posted:2026-09-10T09:49:12-04:00 | source:greenhouse-api
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8679982002 | Databricks | Sr. IT Full Stack Developer (AI Agents) | score:4.2 | location:Bengaluru, India | posted:2026-09-10T03:33:12-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7791283003?gh_jid=7791283003 | Celonis | Software Engineer | score:3 | location:Bangalore, India | posted:2026-09-10T04:43:41-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4464163116 | Replit | Software Engineer - New Grad (2027) | score:3.8 | location:Foster City, CA | posted:2026-09-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4465613789 | Yara AI | Software Engineer (Early Career) | score:4.1 | location:New York, NY | posted:2026-09-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4465390987 | General Motors | Software Engineer, AV Frameworks – Early Career | score:3.8 | location:Sunnyvale, CA | posted:2026-09-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4455600054 | TikTok | Software Engineer Graduate (TikTok Search Data Infra) - 2027 Start | score:3.4 | location:San Jose, CA | posted:2026-09-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4465694551 | Helic &amp; Co | Junior Software Developer | score:3.8 | location:United States | posted:2026-09-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4465396389 | Rothera | Associate Software Engineer | score:3.8 | location:Chicago, IL | posted:2026-09-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4463430704 | IBM | Associate Software Engineer | score:3.8 | location:Lowell, MA | posted:2026-09-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4463907272 | TalentHop | Software Engineer I | score:3.8 | location:United States | posted:2026-09-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4465698495 | EarthCam | Junior Software Developer | score:3.8 | location:Upper Saddle River, NJ | posted:2026-09-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4404109983 | BeaconFire Inc. | Java Software Engineer | score:3.4 | location:New Jersey, United States | posted:2026-09-10T00:00:00.000Z | source:linkedin-guest
