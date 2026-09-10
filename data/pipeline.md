@@ -6135,3 +6135,11 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4463907272 | TalentHop | Software Engineer I | score:3.8 | location:United States | posted:2026-09-10T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4465698495 | EarthCam | Junior Software Developer | score:3.8 | location:Upper Saddle River, NJ | posted:2026-09-10T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4404109983 | BeaconFire Inc. | Java Software Engineer | score:3.4 | location:New Jersey, United States | posted:2026-09-10T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://boards.greenhouse.io/robinhood/jobs/8189007?t=gh_src=&gh_jid=8189007 | Robinhood | Software Engineer, Tokenization | score:3.8 | location:Toronto, Canada | posted:2026-09-10T09:49:38-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4465624036 | Northrop Grumman | 2027 Associate Software Engineer / Software Engineer - Roy UT | score:3.8 | location:Roy, UT | posted:2026-09-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4465602244 | Cursor | Software Engineer, New Grad 2027 | score:4.1 | location:San Francisco, CA | posted:2026-09-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4463423767 | IBM | Associate Software Engineer | score:3.8 | location:Boston, KY | posted:2026-09-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4465601716 | Emerson | Software Engineer | score:3 | location:Shakopee, MN | posted:2026-09-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4464563199 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-09-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4465801204 | TalentAlly | Software Engineer | score:3 | location:Greater St. Louis | posted:2026-09-10T00:00:00.000Z | source:linkedin-guest
