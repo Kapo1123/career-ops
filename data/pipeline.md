@@ -6114,3 +6114,9 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4463035159 | Stealth Startup | Fullstack / AI Engineer (New Grads) | score:4.5 | location:San Francisco, CA | posted:2026-09-09T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4465094941 | FetchJobs.co | Associate Software Engineer | score:3.8 | location:United States | posted:2026-09-09T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4465319708 | Handshake | Software Engineer I, Quality | score:4.1 | location:San Francisco, CA | posted:2026-09-09T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.coinbase.com/careers/positions/7991839?gh_jid=7991839 | Coinbase | Software Engineer, Developer Infrastructure | score:4.5 | location:Remote - USA | posted:2026-09-09T18:51:43-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4464138190 | Domino Data Lab | Software Engineer - New Grad, 2027 | score:4.1 | location:New York, NY | posted:2026-09-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4463050689 | BeaconFire Inc. | Entry Level- Java Developer | score:4.2 | location:California, United States | posted:2026-09-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4463044798 | BeaconFire Inc. | Entry-Level / Junior Software Developer | score:3.8 | location:New Jersey, United States | posted:2026-09-09T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4464107888 | Toyota North America | Software Engineer | score:3 | location:Plano, TX | posted:2026-09-09T00:00:00.000Z | source:linkedin-guest
