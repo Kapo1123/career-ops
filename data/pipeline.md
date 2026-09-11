@@ -6154,3 +6154,10 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4465831223 | Drift AI | Software Engineer I, Payments | score:4.1 | location:San Francisco, CA | posted:2026-09-10T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4465844123 | Drift AI | Software Engineer I, Discovery | score:4.1 | location:San Francisco, CA | posted:2026-09-10T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4465865381 | LinkedIn | Software Engineer - Web Infrastructure | score:3.4 | location:Mountain View, CA | posted:2026-09-10T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/openai/f7d155c9-06e8-44f0-b2eb-bfa88707f2c1 | OpenAI | Full-Stack Software Engineer, Emerging Products | score:3.3 | location:San Francisco | posted:2026-09-10T21:55:04.531+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4465620059 | Cursor | Software Engineer, New Grad 2027 | score:4.1 | location:New York, United States | posted:2026-09-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4464808407 | Kansas City National Security Campus | Software Engineer I | score:3.8 | location:Kansas City, MO | posted:2026-09-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4463919525 | Super Micro Computer Spain, S.L. | Software Engineer | score:3 | location:San Jose, CA | posted:2026-09-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4464592960 | Echo Global Logistics | Associate Software Engineer | score:3.8 | location:Chicago, IL | posted:2026-09-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4464821341 | Peraton | Software Engineering, Associate - Herndon, VA | score:3.8 | location:Herndon, VA | posted:2026-09-10T00:00:00.000Z | source:linkedin-guest
