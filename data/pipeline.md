@@ -6184,3 +6184,10 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 
 - [ ] https://www.linkedin.com/jobs/view/4464216724 | Space Capital | Software Engineer - New Grad (Summer 2027) | score:3.8 | location:Texas, United States | posted:2026-09-11T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4463943949 | Nominal | Software Engineer - New Grad (Summer 2027) | score:4.1 | location:New York, NY | posted:2026-09-11T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://stripe.com/jobs/search?gh_jid=8197891 | Stripe | Software Engineer, Online Database Infrastructure | score:4.5 | location:Seattle, WA | posted:2026-09-11T16:59:16-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4466385787 | OneImaging | Full Stack Associate Software Engineer (UF Only) | score:4.2 | location:Gainesville, FL | posted:2026-09-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4466375876 | OneImaging | Full Stack Associate Software Engineer (Georgia Tech Only) | score:4.2 | location:Atlanta, GA | posted:2026-09-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4466398095 | Chamberlain Group | Software Engineer I - AI (Hybrid in Oak Brook, IL) | score:3.8 | location:Oak Brook, IL | posted:2026-09-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4466388243 | Book of the Month | Associate Software Engineer (Frontend) | score:4.1 | location:New York, NY | posted:2026-09-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4466403132 | AssetMark | Associate Engineer | score:3.8 | location:Charlotte, NC | posted:2026-09-11T00:00:00.000Z | source:linkedin-guest
