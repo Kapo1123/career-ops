@@ -6161,3 +6161,23 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4463919525 | Super Micro Computer Spain, S.L. | Software Engineer | score:3 | location:San Jose, CA | posted:2026-09-11T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4464592960 | Echo Global Logistics | Associate Software Engineer | score:3.8 | location:Chicago, IL | posted:2026-09-10T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4464821341 | Peraton | Software Engineering, Associate - Herndon, VA | score:3.8 | location:Herndon, VA | posted:2026-09-10T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://app.careerpuck.com/job-board/lyft/job/8791488002?gh_jid=8791488002 | Lyft | Software Engineer | score:3.8 | location:Mexico City, Mexico | posted:2026-09-11T12:41:14-04:00 | source:greenhouse-api
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=7922676 | MongoDB | Software Engineer 2 | score:3 | location:Gurugram | posted:2026-09-11T07:08:08-04:00 | source:greenhouse-api
+- [ ] https://www.mongodb.com/careers/job/?gh_jid=8127772 | MongoDB | Software Engineer 3, AI Framework Integrations | score:3 | location:Gurugram | posted:2026-09-11T07:31:43-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/snowflake/d576a5a4-1409-45fa-b710-db8d52041551 | Snowflake | Software Engineer | score:3.8 | location:PL-Warsaw-Lixa C | posted:2026-09-11T08:09:04.467+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/openai/b6a86e39-8059-4ccf-8d33-1bf5bd92fa86 | OpenAI | Software Engineer, API Frontiers | score:3.3 | location:New York City | posted:2026-09-11T01:36:02.480+00:00 | source:ashby-api
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/8195746?gh_jid=8195746 | Cloudflare | Software Engineer - Egress (Go/Rust) | score:3 | location:Hybrid | posted:2026-09-11T10:37:39-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/cohere/70313283-6532-450a-8cae-18f9e05a7673 | Cohere | Software Engineer, Data Infrastructure | score:3.4 | location:United States | posted:2026-09-11T02:02:46.540+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4463471455 | BeaconFire Inc. | Java/Software Developer | score:3.4 | location:East Windsor, NJ | posted:2026-09-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4463950891 | Nominal | Software Engineer - New Grad (Summer 2027) | score:3.8 | location:Austin, TX | posted:2026-09-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4464229390 | TalentHop | Software Engineer - New Grad, 2027 | score:3.8 | location:United States | posted:2026-09-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4465872337 | Broadway.com | Software Engineer | score:3 | location:Boca Raton, FL | posted:2026-09-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4464883434 | Eccalon, LLC | Junior Software Engineer | score:3.8 | location:Detroit, MI | posted:2026-09-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4464220303 | Monetate | Associate Software Engineer | score:3.8 | location:Plano, TX | posted:2026-09-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4465845671 | SquareTrade | Associate Software Engineer | score:3.8 | location:Denver, CO | posted:2026-09-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4466338010 | REI Systems | Associate Software Engineer- Java | score:4.2 | location:Sterling, VA | posted:2026-09-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4463926337 | Kimball Midwest | Associate Software Engineer | score:3.8 | location:Columbus, OH | posted:2026-09-10T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4464879351 | VT Group (VTG) | Associate Software Engineer | score:3.8 | location:Manassas, VA | posted:2026-09-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4464856389 | Dell Technologies | Software Engineer 1 - IT | score:3 | location:Austin, TX | posted:2026-09-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4465868315 | MetLife | Junior Software Engineer | score:3.8 | location:Cary, NC | posted:2026-09-10T00:00:00.000Z | source:linkedin-guest
