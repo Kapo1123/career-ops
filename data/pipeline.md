@@ -6181,3 +6181,6 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4464879351 | VT Group (VTG) | Associate Software Engineer | score:3.8 | location:Manassas, VA | posted:2026-09-11T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4464856389 | Dell Technologies | Software Engineer 1 - IT | score:3 | location:Austin, TX | posted:2026-09-11T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4465868315 | MetLife | Junior Software Engineer | score:3.8 | location:Cary, NC | posted:2026-09-10T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4464216724 | Space Capital | Software Engineer - New Grad (Summer 2027) | score:3.8 | location:Texas, United States | posted:2026-09-11T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4463943949 | Nominal | Software Engineer - New Grad (Summer 2027) | score:4.1 | location:New York, NY | posted:2026-09-11T00:00:00.000Z | source:linkedin-guest
