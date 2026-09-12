@@ -6191,3 +6191,7 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4466398095 | Chamberlain Group | Software Engineer I - AI (Hybrid in Oak Brook, IL) | score:3.8 | location:Oak Brook, IL | posted:2026-09-11T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4466388243 | Book of the Month | Associate Software Engineer (Frontend) | score:4.1 | location:New York, NY | posted:2026-09-11T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4466403132 | AssetMark | Associate Engineer | score:3.8 | location:Charlotte, NC | posted:2026-09-11T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8198102 | Reddit | Front End Software Engineer, Media Player | score:3.3 | location:Remote - United States | posted:2026-09-11T18:27:39-04:00 | source:greenhouse-api
+- [ ] https://careers.hellofresh.com/global/en/job/8197895?gh_jid=8197895 | HelloFresh | Backend Engineer, Consumer | score:3.4 | location:Toronto, Ontario, Canada | posted:2026-09-11T16:59:17-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4461411350 | BeaconFire Inc. | Entry Level Java Developer | score:4.2 | location:New Jersey, United States | posted:2026-09-11T00:00:00.000Z | source:linkedin-guest
