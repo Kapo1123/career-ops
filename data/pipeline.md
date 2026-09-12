@@ -6195,3 +6195,11 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://job-boards.greenhouse.io/reddit/jobs/8198102 | Reddit | Front End Software Engineer, Media Player | score:3.3 | location:Remote - United States | posted:2026-09-11T18:27:39-04:00 | source:greenhouse-api
 - [ ] https://careers.hellofresh.com/global/en/job/8197895?gh_jid=8197895 | HelloFresh | Backend Engineer, Consumer | score:3.4 | location:Toronto, Ontario, Canada | posted:2026-09-11T16:59:17-04:00 | source:greenhouse-api
 - [ ] https://www.linkedin.com/jobs/view/4461411350 | BeaconFire Inc. | Entry Level Java Developer | score:4.2 | location:New Jersey, United States | posted:2026-09-11T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4445587488 | NCR Voyix | Software Engineer | score:3 | location:Atlanta, GA | posted:2026-09-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4465419600 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-09-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4466714093 | Joblet-AI | Junior Software Developer | score:3.8 | location:Phoenix, AZ | posted:2026-09-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4457571716 | iCapital | Python Engineer and Developer - Associate | score:4.2 | location:Stamford, CT | posted:2026-09-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4466487248 | L3Harris Technologies | Associate, Software Engineering | score:3.8 | location:Clifton, NJ | posted:2026-09-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4464702415 | Boeing | Associate Systems Software Engineer | score:3.8 | location:Chantilly, VA | posted:2026-09-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4466405139 | Commure | Software Engineer, Early Career 2027 | score:3.8 | location:Mountain View, CA | posted:2026-09-11T00:00:00.000Z | source:linkedin-guest
