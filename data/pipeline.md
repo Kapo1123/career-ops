@@ -6209,3 +6209,12 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4454670030 | BAE Systems, Inc. | Junior Software Engineer | score:3.8 | location:Greenlawn, NY | posted:2026-09-12T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4464298300 | Lockheed Martin | Associate Software Developer | score:3.8 | location:Cherry Hill, VA | posted:2026-09-12T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4430456092 | Microsoft | Software Engineer - CTJ - Poly | score:4.5 | location:Reston, VA | posted:2026-09-12T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4466754852 | Yara AI | Full Stack Engineer (New Grad) | score:4.2 | location:United States | posted:2026-09-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4464739496 | TalentHop | Software Engineer - New Grad, 2027 | score:3.8 | location:United States | posted:2026-09-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4460723030 | BeaconFire Inc. | Java Software Engineer | score:3.4 | location:California, United States | posted:2026-09-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4466762028 | Yara AI | Software Engineer (New Grad) | score:3.8 | location:United States | posted:2026-09-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4466789240 | T2 Systems | Full Stack Developer | score:3.4 | location:Indianapolis, IN | posted:2026-09-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4465477749 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-09-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4466778453 | Joblet-AI | Junior Software Developer | score:3.8 | location:Phoenix, AZ | posted:2026-09-13T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4464753246 | Kareer Basycs | Junior Software Engineer | score:3.8 | location:United States | posted:2026-09-13T00:00:00.000Z | source:linkedin-guest
