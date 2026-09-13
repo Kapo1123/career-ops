@@ -6203,3 +6203,9 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4466487248 | L3Harris Technologies | Associate, Software Engineering | score:3.8 | location:Clifton, NJ | posted:2026-09-12T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4464702415 | Boeing | Associate Systems Software Engineer | score:3.8 | location:Chantilly, VA | posted:2026-09-12T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4466405139 | Commure | Software Engineer, Early Career 2027 | score:3.8 | location:Mountain View, CA | posted:2026-09-11T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4460721022 | BeaconFire Inc. | Java Software Engineer | score:3.7 | location:New York City Metropolitan Area | posted:2026-09-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4464723100 | TalentHop | Software Engineer - New Grad, 2027 | score:3.8 | location:United States | posted:2026-09-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4454670030 | BAE Systems, Inc. | Junior Software Engineer | score:3.8 | location:Greenlawn, NY | posted:2026-09-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4464298300 | Lockheed Martin | Associate Software Developer | score:3.8 | location:Cherry Hill, VA | posted:2026-09-12T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4430456092 | Microsoft | Software Engineer - CTJ - Poly | score:4.5 | location:Reston, VA | posted:2026-09-12T00:00:00.000Z | source:linkedin-guest
