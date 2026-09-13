@@ -6218,3 +6218,5 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4465477749 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-09-13T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4466778453 | Joblet-AI | Junior Software Developer | score:3.8 | location:Phoenix, AZ | posted:2026-09-13T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4464753246 | Kareer Basycs | Junior Software Engineer | score:3.8 | location:United States | posted:2026-09-13T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4464744558 | Enhance IT | Jr Software Engineer | score:3 | location:Wisconsin, United States | posted:2026-09-13T00:00:00.000Z | source:linkedin-guest
