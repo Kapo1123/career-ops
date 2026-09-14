@@ -6246,3 +6246,10 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4730862005 | Scale AI | Software Engineer - New Grad | score:3.8 | location:London, UK | posted:2026-09-14T09:11:20-04:00 | source:greenhouse-api
 - [ ] https://www.linkedin.com/jobs/view/4467255918 | Miter | Software Engineer (New Grad) | score:4.1 | location:New York, NY | posted:2026-09-14T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4466133201 | Cátedra EMERSON-UPM | Junior Software Engineer | score:4.1 | location:New York, United States | posted:2026-09-14T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://stripe.com/jobs/search?gh_jid=8198280 | Stripe | Software Engineer, Backend | score:4.5 | location:Seattle, WA | posted:2026-09-14T18:11:13-04:00 | source:greenhouse-api
+- [ ] https://stripe.com/jobs/search?gh_jid=8197135 | Stripe | Software Engineer, High Availability and Disaster Recovery | score:4.1 | location:Seattle, WA | posted:2026-09-14T17:21:04-04:00 | source:greenhouse-api
+- [ ] https://stripe.com/jobs/search?gh_jid=8198207 | Stripe | Software Engineer, Payins Card Networks | score:4.1 | location:Seattle, WA | posted:2026-09-14T17:46:08-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4467265839 | Miter | Software Engineer (New Grad) | score:4.1 | location:San Francisco, CA | posted:2026-09-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4465250703 | Brivo | Software Engineer- NEW GRAD | score:3.8 | location:Bethesda, MD | posted:2026-09-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4467266218 | Prescient Edge | Junior Software Developer | score:3.8 | location:McLean, VA | posted:2026-09-14T00:00:00.000Z | source:linkedin-guest
