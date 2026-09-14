@@ -6224,3 +6224,21 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4465482277 | AutoStore™ | Entry Level Software Engineer | score:3.8 | location:Atlanta, GA | posted:2026-09-13T00:00:00.000Z | source:linkedin-guest
 
 - [ ] https://www.linkedin.com/jobs/view/4466792956 | Citizens | Software Engineer | Enterprise Technology &amp; Security Development Program | score:3 | location:Johnston, RI | posted:2026-09-14T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.okta.com/company/careers/opportunity/8191506?gh_jid=8191506 | Okta | Developer Support Associate (New Grad) | score:3.8 | location:Chicago, Illinois | posted:2026-09-14T14:05:38-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4730851005 | Scale AI | Software Engineer - New Grad | score:3.8 | location:Doha, Qatar  | posted:2026-09-14T09:09:35-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/cohere/1b909aeb-1221-476f-88fe-8300a2065975 | Cohere | Software Engineer, Security Agents | score:3 | location:United States | posted:2026-09-14T13:15:03.461+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/supabase/6c9de03c-e289-4612-9045-492985d0274b | Supabase | Platform Engineer, Edge & Networking | score:3.7 | location:Remote, Global | posted:2026-09-14T13:27:23.742+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/openai/b2250643-bfd0-4ce6-abbf-cb7e8c8123ba | OpenAI | AI Infrastructure Engineer, pAGI | score:3.7 | location:San Francisco | posted:2026-09-14T18:47:19.139+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4466111753 | Emonics LLC | Junior Software Engineer | score:3.8 | location:Manhattan, NY | posted:2026-09-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4465207929 | BeaconFire Inc. | Entry Level- Java Developer | score:4.2 | location:California, United States | posted:2026-09-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4464772768 | Brivo | Software Engineer- NEW GRAD | score:3.8 | location:Austin, TX | posted:2026-09-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4465790163 | Emonics LLC | Full Stack Developer | score:3.4 | location:Atlanta, GA | posted:2026-09-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4465226718 | C3 AI | Platform Full-Stack Engineer, New Grad 2027 | score:4.2 | location:Redwood City, CA | posted:2026-09-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4467044927 | Eagle Eye Networks | Software Engineer- NEW GRAD | score:3.8 | location:Bethesda, MD | posted:2026-09-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4464775871 | TalentHop | Software Engineer - New Grad, 2027 | score:3.8 | location:United States | posted:2026-09-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4465231675 | Mastercard | Software Engineer I | score:3.8 | location:O'Fallon, MO | posted:2026-09-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4467213594 | Joblet-AI | Junior Software Developer | score:3.8 | location:Phoenix, AZ | posted:2026-09-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4466340665 | Tokio Marine North America Services | Software Engineer I- Hybrid, Bala Cynwyd, PA | score:3.8 | location:Bala-Cynwyd, PA | posted:2026-09-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4465243141 | Emerson Lea Group, LLC | Junior Software Engineer | score:4.1 | location:New York, United States | posted:2026-09-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4465788452 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-09-14T00:00:00.000Z | source:linkedin-guest
