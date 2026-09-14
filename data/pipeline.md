@@ -6222,3 +6222,5 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4464744558 | Enhance IT | Jr Software Engineer | score:3 | location:Wisconsin, United States | posted:2026-09-13T00:00:00.000Z | source:linkedin-guest
 
 - [ ] https://www.linkedin.com/jobs/view/4465482277 | AutoStore™ | Entry Level Software Engineer | score:3.8 | location:Atlanta, GA | posted:2026-09-13T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.linkedin.com/jobs/view/4466792956 | Citizens | Software Engineer | Enterprise Technology &amp; Security Development Program | score:3 | location:Johnston, RI | posted:2026-09-14T00:00:00.000Z | source:linkedin-guest
