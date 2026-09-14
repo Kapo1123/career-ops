@@ -6242,3 +6242,7 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4466340665 | Tokio Marine North America Services | Software Engineer I- Hybrid, Bala Cynwyd, PA | score:3.8 | location:Bala-Cynwyd, PA | posted:2026-09-14T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4465243141 | Emerson Lea Group, LLC | Junior Software Engineer | score:4.1 | location:New York, United States | posted:2026-09-14T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4465788452 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-09-14T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4730862005 | Scale AI | Software Engineer - New Grad | score:3.8 | location:London, UK | posted:2026-09-14T09:11:20-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4467255918 | Miter | Software Engineer (New Grad) | score:4.1 | location:New York, NY | posted:2026-09-14T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4466133201 | Cátedra EMERSON-UPM | Junior Software Engineer | score:4.1 | location:New York, United States | posted:2026-09-14T00:00:00.000Z | source:linkedin-guest
