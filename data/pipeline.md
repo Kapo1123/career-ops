@@ -6253,3 +6253,5 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4467265839 | Miter | Software Engineer (New Grad) | score:4.1 | location:San Francisco, CA | posted:2026-09-14T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4465250703 | Brivo | Software Engineer- NEW GRAD | score:3.8 | location:Bethesda, MD | posted:2026-09-14T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4467266218 | Prescient Edge | Junior Software Developer | score:3.8 | location:McLean, VA | posted:2026-09-14T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511 | OpenAI | Software Engineer, Applied Emerging Talent (2027) | score:3.3 | location:San Francisco | posted:2026-09-14T22:37:58.189+00:00 | source:ashby-api
