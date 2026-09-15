@@ -6255,3 +6255,14 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4467266218 | Prescient Edge | Junior Software Developer | score:3.8 | location:McLean, VA | posted:2026-09-14T00:00:00.000Z | source:linkedin-guest
 
 - [ ] https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511 | OpenAI | Software Engineer, Applied Emerging Talent (2027) | score:3.3 | location:San Francisco | posted:2026-09-14T22:37:58.189+00:00 | source:ashby-api
+
+- [ ] https://app.careerpuck.com/job-board/lyft/job/8806552002?gh_jid=8806552002 | Lyft | Software Engineer, Identity | score:3.8 | location:Toronto, Canada | posted:2026-09-15T04:17:17-04:00 | source:greenhouse-api
+- [ ] https://www.okta.com/company/careers/opportunity/8003315?gh_jid=8003315 | Okta | Cloud Engineer  | score:3 | location:Bengaluru, India | posted:2026-09-15T04:41:30-04:00 | source:greenhouse-api
+- [ ] https://www.okta.com/company/careers/opportunity/8203483?gh_jid=8203483 | Okta | Software Engineer - Fullstack  | score:3.4 | location:Bengaluru, India | posted:2026-09-15T07:48:49-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5424111008 | Anthropic | Recruiting Analytics Data Engineer  | score:3.7 | location:New York City, NY; San Francisco, CA | New York City, NY | Seattle, WA; Seattle, WA | posted:2026-09-14T21:14:53-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/snowflake/d61bd4d8-d04b-46b8-b087-ca952dfe5c87 | Snowflake | Software Engineer | score:3.8 | location:IN-Pune | posted:2026-09-15T04:08:55.285+00:00 | source:ashby-api
+- [ ] https://jobs.ashbyhq.com/openai/4923fd3e-acf2-4551-91ad-5a92ca81455b | OpenAI | Software Engineer, Healthcare | score:3.3 | location:San Francisco | posted:2026-09-15T04:42:58.212+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4467495538 | Lennar | Software Engineer I | score:3.8 | location:Irving, TX | posted:2026-09-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4467442412 | PowerSchool | Associate Software Engineer | score:3.8 | location:Dallas, TX | posted:2026-09-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4466559276 | Lumion | Junior Full Stack Software Engineer | score:4.2 | location:South Jordan, UT | posted:2026-09-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4466579132 | HiredBuddy | Java Software Engineer | score:3.4 | location:Dallas, TX | posted:2026-09-15T00:00:00.000Z | source:linkedin-guest
