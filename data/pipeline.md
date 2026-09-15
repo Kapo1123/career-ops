@@ -6266,3 +6266,7 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4467442412 | PowerSchool | Associate Software Engineer | score:3.8 | location:Dallas, TX | posted:2026-09-15T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4466559276 | Lumion | Junior Full Stack Software Engineer | score:4.2 | location:South Jordan, UT | posted:2026-09-15T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4466579132 | HiredBuddy | Java Software Engineer | score:3.4 | location:Dallas, TX | posted:2026-09-15T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.lever.co/spotify/318f73b5-6a78-49c7-b625-ecb1481042b9 | Spotify | Backend Engineer, Mimir, Personalization | score:3.7 | location:New York, NY | posted:2026-09-15T16:11:21.381Z | source:lever-api
+- [ ] https://www.linkedin.com/jobs/view/4467445188 | Atlassian | Software Engineer, 2027 Graduate U.S. | score:3.3 | location:Seattle, WA | posted:2026-09-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4467476326 | Lowe's Companies, Inc. | Associate Software Engineer - Launchpad | score:3.8 | location:Charlotte, NC | posted:2026-09-15T00:00:00.000Z | source:linkedin-guest
