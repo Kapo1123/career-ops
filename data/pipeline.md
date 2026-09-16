@@ -6300,3 +6300,8 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4466204914 | TalentHop | Software Engineer - New Grad, 2027 | score:3.8 | location:United States | posted:2026-09-16T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4468268348 | Harris Computer | Software Developer | score:3 | location:Ohio, United States | posted:2026-09-16T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4467984672 | PayPal | Software Engineer | score:3 | location:San Jose, CA | posted:2026-09-16T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8172457 | Reddit | Software Engineer, Consumer Engineering | score:3.3 | location:Remote - United States | posted:2026-09-16T17:22:08-04:00 | source:greenhouse-api
+- [ ] https://www.brex.com/careers/8815438002?gh_jid=8815438002 | Brex | Software Engineer II, Backend | score:4.5 | location:San Francisco, California, United States | posted:2026-09-16T17:36:00-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4468264398 | Harris Computer | Software Developer | score:3 | location:Texas, United States | posted:2026-09-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4467109730 | Forbes Technical Consulting | Associate Software Engineer | score:3.8 | location:Chicago, IL | posted:2026-09-16T00:00:00.000Z | source:linkedin-guest
