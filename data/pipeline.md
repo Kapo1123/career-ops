@@ -6272,3 +6272,8 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4467476326 | Lowe's Companies, Inc. | Associate Software Engineer - Launchpad | score:3.8 | location:Charlotte, NC | posted:2026-09-15T00:00:00.000Z | source:linkedin-guest
 
 - [ ] https://www.linkedin.com/jobs/view/4467782684 | JPI | Associate Agentic Software Developer | score:3.8 | location:Dallas, TX | posted:2026-09-15T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://stripe.com/jobs/search?gh_jid=7988264 | Stripe | Backend Engineer, Intelligent Commerce | score:4.2 | location:N/A | posted:2026-09-15T19:32:22-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/openai/3b08148d-085e-4835-9934-1b7f60e0fdce | OpenAI | Software Engineer, Manufacturing Infrastructure | score:3.7 | location:San Francisco | posted:2026-09-16T00:30:26.055+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4467703795 | Yara AI | Full Stack Engineer (New Grad) | score:4.2 | location:United States | posted:2026-09-15T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4465936129 | BeaconFire Inc. | Entry-Level / Junior Software Developer | score:3.8 | location:New Jersey, United States | posted:2026-09-15T00:00:00.000Z | source:linkedin-guest
