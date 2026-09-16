@@ -6293,3 +6293,10 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4466820004 | Allen Control Systems | Software Engineer – Enterprise Applications | score:3 | location:Austin, TX | posted:2026-09-16T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4466886919 | ICF | Junior Software Engineer (Entry level - Remote US) | score:3.8 | location:Reston, VA | posted:2026-09-16T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4467951950 | Cox Automotive Inc. | Entry Level Software Engineer - Austin, TX | score:3.8 | location:Austin, TX | posted:2026-09-16T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/notion/ead663e3-3eb2-4e0e-97e5-86820062dd68 | Notion | Software Engineer, User Database Infrastructure | score:4.5 | location:San Francisco, California | posted:2026-09-16T18:46:07.790+00:00 | source:ashby-api
+- [ ] https://www.brex.com/careers/8815246002?gh_jid=8815246002 | Brex | Software Engineer II, Product | score:3.8 | location:São Paulo, São Paulo, Brazil | posted:2026-09-16T15:35:32-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4363407595 | Epic | Entry-Level Software Developer | score:3 | location:Kenosha, WI | posted:2026-09-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4466204914 | TalentHop | Software Engineer - New Grad, 2027 | score:3.8 | location:United States | posted:2026-09-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4468268348 | Harris Computer | Software Developer | score:3 | location:Ohio, United States | posted:2026-09-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4467984672 | PayPal | Software Engineer | score:3 | location:San Jose, CA | posted:2026-09-16T00:00:00.000Z | source:linkedin-guest
