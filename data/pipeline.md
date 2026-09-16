@@ -6277,3 +6277,19 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://jobs.ashbyhq.com/openai/3b08148d-085e-4835-9934-1b7f60e0fdce | OpenAI | Software Engineer, Manufacturing Infrastructure | score:3.7 | location:San Francisco | posted:2026-09-16T00:30:26.055+00:00 | source:ashby-api
 - [ ] https://www.linkedin.com/jobs/view/4467703795 | Yara AI | Full Stack Engineer (New Grad) | score:4.2 | location:United States | posted:2026-09-15T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4465936129 | BeaconFire Inc. | Entry-Level / Junior Software Developer | score:3.8 | location:New Jersey, United States | posted:2026-09-15T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://www.coinbase.com/careers/positions/8207374?gh_jid=8207374 | Coinbase | Software Engineer | score:4.1 | location:Remote - Canada | posted:2026-09-16T05:53:17-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5421263008 | Anthropic | Software Engineer, Tokens and Prompt Structures | score:3.3 | location:San Francisco, CA | New York City, NY | posted:2026-09-16T10:12:43-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6195280004 | Vercel | Software Engineer, Platform  | score:3.7 | location:Hybrid - San Francisco, New York City | posted:2026-09-16T13:48:47-04:00 | source:greenhouse-api
+- [ ] https://careers.roblox.com/jobs/8168383?gh_jid=8168383 | Roblox | Software Engineer, Discovery UX | score:3 | location:San Mateo, CA, United States | posted:2026-09-16T14:32:19-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4466873931 | RemoteHunter | Software Engineer I | score:3.8 | location:United States | posted:2026-09-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4467943431 | PayPal | Software Engineer | score:3 | location:San Jose, CA | posted:2026-09-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4468245155 | General Motors | Software Engineer, Data Software Engineering and Cloud Platforms, Early Careers | score:4.2 | location:Austin, TX | posted:2026-09-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4467980655 | Collins Aerospace | Software Engineer I (Onsite) | score:3.8 | location:St. Petersburg, FL | posted:2026-09-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4466864406 | GuideStone Financial Resources | Associate Software Developer | score:3.8 | location:Dallas, TX | posted:2026-09-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4465965370 | Delta Dental of Missouri | Full Stack Engineer Associate | score:4.2 | location:Fenton, MO | posted:2026-09-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4467957407 | T-Mobile | Associate Engineer, Agentic AI | score:3.8 | location:Bellevue, WA | posted:2026-09-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4468248143 | Innovative Defense Technologies (IDT) | Associate Software Engineer - JobID-0186 | score:3.8 | location:Mount Laurel, NJ | posted:2026-09-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4466820004 | Allen Control Systems | Software Engineer – Enterprise Applications | score:3 | location:Austin, TX | posted:2026-09-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4466886919 | ICF | Junior Software Engineer (Entry level - Remote US) | score:3.8 | location:Reston, VA | posted:2026-09-16T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4467951950 | Cox Automotive Inc. | Entry Level Software Engineer - Austin, TX | score:3.8 | location:Austin, TX | posted:2026-09-16T00:00:00.000Z | source:linkedin-guest
