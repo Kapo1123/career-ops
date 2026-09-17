@@ -6326,3 +6326,8 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4457997694 | Goldman Sachs | Risk-Salt Lake City-Associate, Software Engineering-10415577 | score:3.8 | location:Salt Lake City, UT | posted:2026-09-17T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4467264767 | MetLife | Software Engineer Developer | score:3 | location:Cary, NC | posted:2026-09-17T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4467136920 | LexisNexis Risk Solutions | Software Engineer 1 | score:3 | location:Alpharetta, GA | posted:2026-09-17T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://jobs.ashbyhq.com/cohere/a10a96b5-f772-466d-9297-f021f78ca9c0 | Cohere | Software Engineer, Security | score:3 | location:Toronto | posted:2026-09-17T19:46:04.566+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4467259781 | MetLife | Junior Software Engineer | score:3.8 | location:Cary, NC | posted:2026-09-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4363387582 | Epic | Entry-Level Software Developer | score:3 | location:Mankato, MN | posted:2026-09-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4467141197 | RELX | Software Engineer 1 | score:3 | location:Alpharetta, GA | posted:2026-09-17T00:00:00.000Z | source:linkedin-guest
