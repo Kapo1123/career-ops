@@ -6310,3 +6310,19 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.brex.com/careers/8815443002?gh_jid=8815443002 | Brex | Software Engineer II, Backend | score:4.5 | location:New York, New York, United States | posted:2026-09-16T17:36:01-04:00 | source:greenhouse-api
 - [ ] https://jobs.ashbyhq.com/openai/40f2f959-20f8-40ca-8b8c-154b6774193a | OpenAI | Software Engineer, Compute Foundations | score:3.3 | location:San Francisco | posted:2026-09-16T23:39:23.616+00:00 | source:ashby-api
 - [ ] https://www.linkedin.com/jobs/view/4467982673 | PayPal | Software Engineer | score:3 | location:San Jose, CA | posted:2026-09-16T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8147559 | Reddit | Front End Software Engineer, Consumer Engineering | score:3.3 | location:Remote - United States | posted:2026-09-17T13:07:34-04:00 | source:greenhouse-api
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/8188899?gh_jid=8188899 | Cloudflare | Software Engineer, CDN Configuration Group | score:3 | location:Hybrid | posted:2026-09-17T07:10:18-04:00 | source:greenhouse-api
+- [ ] https://www.brex.com/careers/8815512002?gh_jid=8815512002 | Brex | Software Engineer II, Backend | score:4.2 | location:Vancouver, British Columbia, Canada | posted:2026-09-16T18:25:31-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4468666895 | Visa | Software Engineer, New College Grad - 2027 Foster City, CA | score:3 | location:Foster City, CA | posted:2026-09-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4468616302 | Visa | Software Engineer, New College Grad, Bellevue - 2027 | score:3 | location:Bellevue, WA | posted:2026-09-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4363417551 | Epic | Entry-Level Software Developer | score:3 | location:Minneapolis–Saint Paul, WI | posted:2026-09-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4466267902 | BeaconFire Inc. | Java/Software Developer | score:3.4 | location:East Windsor, NJ | posted:2026-09-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4468363100 | Yara AI | Software Engineer (New Grad) | score:4.1 | location:New York, United States | posted:2026-09-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4467500337 | TalentHop | Software Engineer - New Grad, 2027 | score:3.8 | location:United States | posted:2026-09-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4468669344 | Noblis | Software Developer - Multiple Levels (Cleared) | score:3 | location:Reston, VA | posted:2026-09-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4467264768 | MetLife | Junior Software Engineer | score:3.8 | location:Cary, NC | posted:2026-09-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4468373575 | Speria | Entry-Level Software Engineer | score:3 | location:Atlanta, GA | posted:2026-09-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4457997694 | Goldman Sachs | Risk-Salt Lake City-Associate, Software Engineering-10415577 | score:3.8 | location:Salt Lake City, UT | posted:2026-09-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4467264767 | MetLife | Software Engineer Developer | score:3 | location:Cary, NC | posted:2026-09-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4467136920 | LexisNexis Risk Solutions | Software Engineer 1 | score:3 | location:Alpharetta, GA | posted:2026-09-17T00:00:00.000Z | source:linkedin-guest
