@@ -6331,3 +6331,5 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4467259781 | MetLife | Junior Software Engineer | score:3.8 | location:Cary, NC | posted:2026-09-17T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4363387582 | Epic | Entry-Level Software Developer | score:3 | location:Mankato, MN | posted:2026-09-17T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4467141197 | RELX | Software Engineer 1 | score:3 | location:Alpharetta, GA | posted:2026-09-17T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6199608004 | Vercel | Software Engineer, Agentic Infrastructure | score:3.7 | location:Hybrid - San Francisco, New York City | posted:2026-09-17T17:58:13-04:00 | source:greenhouse-api
