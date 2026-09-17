@@ -6305,3 +6305,8 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.brex.com/careers/8815438002?gh_jid=8815438002 | Brex | Software Engineer II, Backend | score:4.5 | location:San Francisco, California, United States | posted:2026-09-16T17:36:00-04:00 | source:greenhouse-api
 - [ ] https://www.linkedin.com/jobs/view/4468264398 | Harris Computer | Software Developer | score:3 | location:Texas, United States | posted:2026-09-16T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4467109730 | Forbes Technical Consulting | Associate Software Engineer | score:3.8 | location:Chicago, IL | posted:2026-09-16T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8815669002 | Databricks | Sr. Software Engineer - Ingestion Core team | score:4.1 | location:San Francisco, California | posted:2026-09-16T18:49:03-04:00 | source:greenhouse-api
+- [ ] https://www.brex.com/careers/8815443002?gh_jid=8815443002 | Brex | Software Engineer II, Backend | score:4.5 | location:New York, New York, United States | posted:2026-09-16T17:36:01-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/openai/40f2f959-20f8-40ca-8b8c-154b6774193a | OpenAI | Software Engineer, Compute Foundations | score:3.3 | location:San Francisco | posted:2026-09-16T23:39:23.616+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4467982673 | PayPal | Software Engineer | score:3 | location:San Jose, CA | posted:2026-09-16T00:00:00.000Z | source:linkedin-guest
