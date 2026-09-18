@@ -6337,3 +6337,14 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://stripe.com/jobs/search?gh_jid=8212517 | Stripe | Software Engineer, Early Career — Immediate Start | score:4.6 | location:Toronto | posted:2026-09-17T19:35:28-04:00 | source:greenhouse-api
 - [ ] https://www.linkedin.com/jobs/view/4468837566 | Visa | Software Engineer, New College Grad - 2027, Austin, TX | score:3 | location:Austin, TX | posted:2026-09-17T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4468850165 | Paul Mueller Company | SOFTWARE DEVELOPER I | score:3 | location:Springfield, MO | posted:2026-09-18T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/twitch/jobs/8821382002 | Twitch | Software Engineer, Data Platform | score:3.7 | location:Seattle, WA | posted:2026-09-18T13:03:18-04:00 | source:greenhouse-api
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/8212060?gh_jid=8212060 | Cloudflare | Software Engineer | score:3 | location:Hybrid | posted:2026-09-18T05:11:42-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/resend/df2fe05d-87ca-4e87-a66d-50bb2c9c4859 | Resend | Software Engineer, Backend | score:3.4 | location:Americas | posted:2026-09-18T15:02:14.912+00:00 | source:ashby-api
+- [ ] https://stripe.com/jobs/search?gh_jid=8212508 | Stripe | Software Engineer, Early Career — Immediate Start | score:4.9 | location:San Francisco, Seattle, New York | posted:2026-09-17T19:28:54-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4466618990 | Meow | Software Engineer - New graduate | score:4.1 | location:New York, NY | posted:2026-09-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4467882411 | Wolverine Trading | Entry Level C++ Software Engineer | score:3.8 | location:Chicago, IL | posted:2026-09-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4469191840 | MSP de la Concorde | Junior Software Engineer | score:4.1 | location:New York, United States | posted:2026-09-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4321375715 | Epic | Entry-Level Software Developer | score:3 | location:Sheboygan, WI | posted:2026-09-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4468896779 | L3Harris Technologies | Associate, Software Engineering | score:3.8 | location:Greenville, TX | posted:2026-09-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4469192510 | Showpad | Junior Software Engineer | score:3.8 | location:Minnesota, United States | posted:2026-09-18T00:00:00.000Z | source:linkedin-guest
