@@ -6333,3 +6333,7 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4467141197 | RELX | Software Engineer 1 | score:3 | location:Alpharetta, GA | posted:2026-09-17T00:00:00.000Z | source:linkedin-guest
 
 - [ ] https://job-boards.greenhouse.io/vercel/jobs/6199608004 | Vercel | Software Engineer, Agentic Infrastructure | score:3.7 | location:Hybrid - San Francisco, New York City | posted:2026-09-17T17:58:13-04:00 | source:greenhouse-api
+
+- [ ] https://stripe.com/jobs/search?gh_jid=8212517 | Stripe | Software Engineer, Early Career — Immediate Start | score:4.6 | location:Toronto | posted:2026-09-17T19:35:28-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4468837566 | Visa | Software Engineer, New College Grad - 2027, Austin, TX | score:3 | location:Austin, TX | posted:2026-09-17T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4468850165 | Paul Mueller Company | SOFTWARE DEVELOPER I | score:3 | location:Springfield, MO | posted:2026-09-18T00:00:00.000Z | source:linkedin-guest
