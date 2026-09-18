@@ -6348,3 +6348,8 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://www.linkedin.com/jobs/view/4321375715 | Epic | Entry-Level Software Developer | score:3 | location:Sheboygan, WI | posted:2026-09-17T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4468896779 | L3Harris Technologies | Associate, Software Engineering | score:3.8 | location:Greenville, TX | posted:2026-09-18T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4469192510 | Showpad | Junior Software Engineer | score:3.8 | location:Minnesota, United States | posted:2026-09-18T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://job-boards.greenhouse.io/twitch/jobs/8817023002 | Twitch | Software Engineer, Data Platform | score:3.7 | location:San Francisco, CA | posted:2026-09-18T13:03:17-04:00 | source:greenhouse-api
+- [ ] https://jobs.ashbyhq.com/resend/6589bee8-3ec9-4620-90b6-890b23464c4d | Resend | Software Engineer, Backend | score:3.4 | location:Europe | posted:2026-09-18T15:02:39.701+00:00 | source:ashby-api
+- [ ] https://www.linkedin.com/jobs/view/4466915502 | BeaconFire Inc. | Entry Level- Java Developer | score:4.2 | location:California, United States | posted:2026-09-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4468876013 | Stripe | Software Engineer, Early Career — Immediate Start | score:4.9 | location:Seattle, WA | posted:2026-09-18T00:00:00.000Z | source:linkedin-guest
