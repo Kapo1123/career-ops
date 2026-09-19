@@ -6361,3 +6361,14 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 - [ ] https://job-boards.greenhouse.io/reddit/jobs/8214910 | Reddit | Software Engineer, Ingestion Platform | score:3.7 | location:Remote - United States | posted:2026-09-18T19:38:05-04:00 | source:greenhouse-api
 - [ ] https://www.linkedin.com/jobs/view/4469248623 | Karmak | Associate Software Developer | score:3.8 | location:Carlinville, IL | posted:2026-09-18T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4468875017 | Stripe | Software Engineer, Early Career — Immediate Start | score:4.9 | location:San Francisco, CA | posted:2026-09-18T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://app.careerpuck.com/job-board/lyft/job/8806560002?gh_jid=8806560002 | Lyft | Backend Software Engineer, Airports | score:4.2 | location:Mexico City, Mexico | posted:2026-09-18T18:40:18-04:00 | source:greenhouse-api
+- [ ] http://block.xyz/careers/jobs/5426213008?gh_jid=5426213008 | Block (Square) | Software Engineer | score:3 | location:Bay Area, CA, United States of America | posted:2026-09-19T02:11:12-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4468027066 | Teli Labs | Software Engineer, New Grad (2027) | score:4.1 | location:San Francisco, CA | posted:2026-09-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4466972875 | TalentHop | Software Engineer - New Grad, 2027 | score:3.8 | location:United States | posted:2026-09-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4450619308 | Salesforce | Software Engineering AMTS (College Grad) | score:3 | location:Indianapolis, IN | posted:2026-09-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4468078979 | Dark Matter Technologies | Software Engineer I | score:3.8 | location:Jacksonville, FL | posted:2026-09-19T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4469268330 | MeeBoss | Software Engineer | score:3 | location:Philadelphia, PA | posted:2026-09-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4468014559 | Toyota North America | Software Engineer (Early Career Professional) | score:3.8 | location:Plano, TX | posted:2026-09-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4469245071 | Dahl Consulting | Software Engineer | Level I | score:3 | location:Minneapolis, MN | posted:2026-09-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4466986044 | Haystack | Junior Software Engineer | score:3.8 | location:Washington DC-Baltimore Area | posted:2026-09-19T00:00:00.000Z | source:linkedin-guest
