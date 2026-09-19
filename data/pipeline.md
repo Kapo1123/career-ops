@@ -6356,3 +6356,8 @@ San Francisco | score:4.1 | location:San Francisco, CA | posted:2026-06-21T00:00
 
 - [ ] https://www.linkedin.com/jobs/view/4468015156 | Together AI | Software Engineer, New Grad (2027) | score:4.1 | location:San Francisco, CA | posted:2026-09-18T00:00:00.000Z | source:linkedin-guest
 - [ ] https://www.linkedin.com/jobs/view/4468873073 | Stripe | Software Engineer, Early Career — Immediate Start | score:4.9 | location:New York, United States | posted:2026-09-18T00:00:00.000Z | source:linkedin-guest
+
+- [ ] https://app.careerpuck.com/job-board/lyft/job/8806570002?gh_jid=8806570002 | Lyft | Backend Software Engineer, Airports | score:4.5 | location:San Francisco, CA | posted:2026-09-18T18:40:33-04:00 | source:greenhouse-api
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8214910 | Reddit | Software Engineer, Ingestion Platform | score:3.7 | location:Remote - United States | posted:2026-09-18T19:38:05-04:00 | source:greenhouse-api
+- [ ] https://www.linkedin.com/jobs/view/4469248623 | Karmak | Associate Software Developer | score:3.8 | location:Carlinville, IL | posted:2026-09-18T00:00:00.000Z | source:linkedin-guest
+- [ ] https://www.linkedin.com/jobs/view/4468875017 | Stripe | Software Engineer, Early Career — Immediate Start | score:4.9 | location:San Francisco, CA | posted:2026-09-18T00:00:00.000Z | source:linkedin-guest
